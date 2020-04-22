@@ -6313,7 +6313,7 @@ Appuyer sur une touche de la manette analogique (DUALSHOCK#) ou de la manette an
 [NOCNT2]
 Reconnecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|2 pour continuer.
 
-[PNJME2]
+[NOCNT2E]
 Reconnecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|2 pour continuer.
 
 [LASTRIP]

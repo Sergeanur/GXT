@@ -6103,7 +6103,7 @@ Premi un tasto sul controller analogico (DUALSHOCK#) o sul controller analogico 
 [NOCNT2]
 Ricollega un controller analogico (DUALSHOCK#) o un controller analogico (DUALSHOCK#2) all'ingresso controller 2 per continuare.
 
-[PNJME2]
+[NOCNT2E]
 Ricollega un controller analogico (DUALSHOCK#) o un controller analogico (DUALSHOCK#2) all'ingresso controller 2 per continuare.
 
 [LG_63]

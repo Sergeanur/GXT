@@ -6673,7 +6673,7 @@ Press any button on the analog controller (DUALSHOCK#) or analog controller (DUA
 [NOCNT2]
 Please connect a DUALSHOCK# analog controller or DUALSHOCK#2 analog controller to controller port 2 to continue.
 
-[PNJME2]
+[NOCNT2E]
 Please connect an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2) to controller port 2 to continue.
 
 [DUMMY1]

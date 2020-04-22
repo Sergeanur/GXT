@@ -6565,7 +6565,7 @@ Pulsa cualquier botón del mando analógico (DUALSHOCK#) o del mando analógico 
 [NOCNT2]
 Vuelve a conectar un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2) en el puerto de mando 2 para continuar.
 
-[PNJME2]
+[NOCNT2E]
 Vuelve a conectar un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2) en el puerto de mando 2 para continuar.
 
 [WRN_2P]

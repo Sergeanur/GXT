@@ -6664,7 +6664,7 @@ Maximale Distanz zwischen den 2 Spielern erreicht. Bitte beweg dich auf den ande
 [NOCNT2]
 Bitte einen Analog Controller (DUALSHOCK#) oder einen Analog Controller (DUALSHOCK#2) in Controller-Anschluss 2 stecken, um fortzufahren.
 
-[PNJME2]
+[NOCNT2E]
 Bitte einen Analog Controller (DUALSHOCK#) oder einen Analog Controller (DUALSHOCK#2) in Controller-Anschluss 2 stecken, um fortzufahren.
 
 [FE_HLPX]
