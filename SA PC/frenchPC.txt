@@ -1,0 +1,549 @@
+[FET_MFL]
+VOLER AVEC LA SOURIS
+
+[FEH_JMP]
+CLIQUER BGS / ENTREE - ENTRER DANS LE MENU
+
+[FEH_BPO]
+CLIQUER BGS / ENTREE - RETOUR
+
+[FEH_SNC]
+CLIQUER BGS / ENTREE - SCANNER LES PISTES UTILISATEURS
+
+[FEC_SLC]
+Sauvegarde corrompue
+
+[NO_PAK]
+Echec du chargement_!~n~~n~Le Mission Pack en cours n'est pas accessible. Veuillez vérifier que le Mission Pack en cours est installé correctement.~n~~n~Appuyez sur ENTREE pour commencer une partie normale.
+
+[FEC_AST]
+Astérisque
+
+[FEC_RTS]
+Passer la chanson
+
+[FED_RDP]
+Etes-vous certain de vouloir restaurer les paramètres par défaut_?
+
+[FED_GLS]
+CONSERVER LES PHOTOS
+
+[FEL_CHE]
+Changer la langue aura aussi pour effet de restaurer la configuration par défaut des contrôles, votre configuration des contrôles actuelle sera perdue. Etes-vous certain de vouloir changer de langue_?
+
+[FED_FXV]
+TRES ELEVEE
+
+[FET_DEF]
+Rétablir par défaut
+
+[FEC_LBH]
+Regarder derrière (véhicule)
+
+[FEC_LLF]
+Regarder à gauche (véhicule)
+
+[FEC_LRG]
+Regarder à droite (véhicule)
+
+[FEC_HRN]
+Klaxonner
+
+[FEC_HBR]
+Frein à main (véhicule)
+
+[FEC_ACL]
+Accélérer (véhicule)
+
+[FEC_BRK]
+Freiner (véhicule)
+
+[FEC_TSM]
+Activer sous-missions
+
+[FEC_ENT]
+Monter/Descendre véhicule
+
+[FEC_WPN]
+Tirer
+
+[FEC_PAS]
+Mettre en pause
+
+[FEC_FPO]
+Armes 1ère personne
+
+[FEC_SMS]
+Afficher curseur souris
+
+[FEC_CMS]
+Changer le mode de caméra dans toutes les situations.
+
+[FEC_TSS]
+Capture d'écran
+
+[FEC_DBG]
+MENU DEBUG
+
+[FEC_TGD]
+Toggle Pad Game/Debug
+
+[FEC_TDO]
+Désactiver la caméra debug
+
+[FEC_IVH]
+Inverser souris horizontalement :
+
+[FEC_MSL]
+BGS
+
+[FEC_MSM]
+BMS
+
+[FEC_MSR]
+BDS
+
+[FEC_QUE]
+???
+
+[FEC_TWO]
+Deux touches de clavier uniquement
+
+[FEC_UMS]
+Une seule touche de clavier
+
+[FEC_OMS]
+Un seul bouton de souris
+
+[FEC_UJS]
+Un seul joystick
+
+[FEC_OJS]
+Une seule commande de joystick par action
+
+[FEC_PTL]
+Utilise Verrouiller cible avec Changer d'arme Gauche.
+
+[FEC_PTR]
+Utilise Verrouiller cible avec Changer d'arme Droite.
+
+[FEC_LBC]
+Utilise Regarder à gauche avec Regarder à droite.
+
+[FEC_JBO]
+JOY~1~
+
+[FEC_WAR]
+Attention
+
+[FEC_OKK]
+OK
+
+[FEC_DLF]
+Echec de la suppression
+
+[FEC_SVU]
+Echec de la sauvegarde
+
+[FEC_LUN]
+Echec du chargement. Fichier corrompu. Le supprimer.
+
+[FEC_PAD]
+Manette de jeu
+
+[FEC_JOY]
+Joystick
+
+[FET_HRD]
+PARAMETRES PAR DEFAUT RETABLIS
+
+[FET_MST]
+DIRIGER AVEC LA SOURIS
+
+[FECSTAR]
+ETOILE (NUM.)
+
+[FET_MIG]
+GAUCHE / DROITE / MOLETTE SOURIS - REGLER
+
+[FET_CIG]
+RETOUR ARRIERE - EFFACER~n~ BGS / ENTREE - MODIFIER
+
+[FET_RSO]
+PARAMETRE D'ORIGINE RETABLI
+
+[FEM_LOD]
+DISTANCE D'AFFICHAGE
+
+[FEM_FRM]
+LIMITEUR IPS
+
+[FEM_MM]
+Menu principal
+
+[FED_RES]
+RESOLUTION
+
+[FET_CTL]
+Config. contrôles
+
+[FET_OPT]
+Options
+
+[FEC_MSH]
+SENSIBILITE SOURIS
+
+[FEC_IVV]
+INVERSER SOURIS (VERTICAL)
+
+[FEC_FNC]
+F~1~
+
+[FEC_IRT]
+INSER
+
+[FEC_DLL]
+SUPPR
+
+[FEC_HME]
+ORIGINE
+
+[FEC_END]
+FIN
+
+[FEC_PGU]
+PAGE_HAUT
+
+[FEC_PGD]
+PAGE_BAS
+
+[FEC_UPA]
+HAUT
+
+[FEC_DWA]
+BAS
+
+[FEC_LFA]
+GAUCHE
+
+[FEC_RFA]
+DROITE
+
+[FEC_NUM]
+PAV._NUM.
+
+[FEC_NMN]
+~1~_(PAV._NUM.)
+
+[FEC_FWS]
+/_(PAV._NUM.)
+
+[FEC_PLS]
++_(PAV._NUM.)
+
+[FEC_MIN]
+-_(PAV._NUM.)
+
+[FEC_DOT]
+._(PAV._NUM.)
+
+[FEC_NLK]
+VERR._NUM.
+
+[FEC_ETR]
+ENTREE
+
+[FEC_SLK]
+ARRET_DEFIL.
+
+[FEC_PSB]
+PAUSE
+
+[FEC_BSP]
+RETOUR_ARR.
+
+[FEC_TAB]
+TAB
+
+[FEC_CLK]
+VERR._MAJ.
+
+[FEC_RTN]
+ENTREE
+
+[FEC_LSF]
+MAJ_G
+
+[FEC_RSF]
+MAJ_D
+
+[FEC_LCT]
+CTRL_G
+
+[FEC_RCT]
+CTRL_D
+
+[FEC_LAL]
+ALT_G
+
+[FEC_RAL]
+ALT_D
+
+[FEC_LWD]
+WIN_G
+
+[FEC_RWD]
+WIN_D
+
+[FEC_WRC]
+WIN
+
+[FEC_SPC]
+ESPACE
+
+[WIN_TTL]
+Grand Theft Auto: San Andreas
+
+[WIN_95]
+Grand Theft Auto: San Andreas ne fonctionne pas sous Windows 95.
+
+[WIN_DX]
+Grand Theft Auto: San Andreas requiert au moins DirectX 9.0.
+
+[FET_EIG]
+IMPOSSIBLE D'ASSIGNER UNE COMMANDE A CETTE ACTION
+
+[FEQ_SRE]
+Veux-tu vraiment quitter ? Toute ta progression depuis la dernière sauvegarde sera perdue. Continuer ?
+
+[FEQ_SRW]
+Veux-tu vraiment quitter ?
+
+[FET_QG]
+Quitter
+
+[FEN_STA]
+COMMENCER
+
+[FET_PAU]
+Menu Pause
+
+[REPLAY]
+REDIFF.
+
+[FEC_ANS]
+Action
+
+[CVT_MSG]
+Conversion des textures au format optimal pour ta carte graphique...
+
+[FEC_SFT]
+MAJ
+
+[FEH_VMP]
+VOIR CARTE
+
+[PCRESRT]
+Lancement d'une nouvelle partie. Un instant...
+
+[FEH_NA]
+OPTION NON DISPONIBLE
+
+[FEH_MPH]
+BGS/TOUCHES FLECHEES - DEFILER~n~PAGE HAUT/PAGE BAS/MOLETTE SOURIS - ZOOM~n~Z - APERCU GLOBAL , L - LEGENDE~n~BDS/T - CIBLER , ESPACE - MENU POINTS RADAR~n~ECHAP - RETOUR
+
+[FEA_MP3]
+PISTES UTILISATEUR
+
+[NO_PCCD]
+Insère ton CD de Grand Theft Auto: San Andreas ou appuie sur Echap pour annuler.
+
+[FEH_SSA]
+TOUCHES FLECHEES - SE DEPLACER~n~S - SAUVEGARDER
+
+[FES_CMI]
+DERNIERE MISSION REUSSIE
+
+[FET_STS]
+STATS SAUVEGARDEES DANS 'STATS.HTML'
+
+[WIN_VDM]
+Grand Theft Auto: San Andreas ne trouve pas suffisamment de mémoire graphique.
+
+[WIN_NSC]
+Grand Theft Auto: San Andreas ne trouve pas de carte son installée.
+
+[FEC_ERI]
+Erreur ! Une ou plusieurs actions ne sont pas assignées à une commande. Vérifie toutes les actions.~n~Appuie sur Echap pour continuer.
+
+[FEC_TFU]
+Haut Ctrl spécial
+
+[FEC_TFD]
+Bas Ctrl spécial
+
+[FET_RIG]
+CHOISIS UNE AUTRE COMMANDE POUR CETTE ACTION~n~ECHAP - ANNULER
+
+[CVT_ERR]
+Espace disque libre insuffisant. Libère de l'espace sur ton disque dur avant de continuer. Appuie sur Echap pour annuler.
+
+[FEC_GPF]
+Avancer Ctrl groupe
+
+[FEC_GPB]
+Reculer Ctrl groupe
+
+[FEC_COY]
+Conversation - Oui
+
+[FEC_CON]
+Conversation - Non
+
+[FED_ADV]
+OPTIONS AVANCEES
+
+[FED_FXQ]
+QUALITE EFFETS
+
+[FED_FXH]
+ELEVEE
+
+[FED_FXM]
+MOYENNE
+
+[FED_FXL]
+BASSE
+
+[FED_MIP]
+MAPPAGE DES TEXTURES
+
+[FED_AAS]
+ANTICRENELAGE
+
+[FEC_CFG]
+CONFIGURATION
+
+[FES_LCG]
+Veux-tu vraiment charger cette sauvegarde ?
+
+[FET_CCN]
+Joypad
+
+[FET_SCN]
+Souris + clavier
+
+[FET_CFT]
+Commandes à pied
+
+[FET_CCR]
+Commandes en véhicule
+
+[FEC_CMP]
+COMBO : utilise REGARDER A GAUCHE + REGARDER A DROITE simultanément.
+
+[FET_APP]
+BGS / RETOUR - APPLIQUER LE NOUVEAU PARAMETRE
+
+[FEH_MPB]
+TOUCHES FLECHEES - SE DEPLACER VERS LE HAUT/BAS~n~RETOUR - ACTIVER/DESACTIVER UNE OPTION
+
+[FEA_MPM]
+MODE DE LECTURE
+
+[FEA_PR1]
+RADIO
+
+[FEA_PR2]
+DESORDRE
+
+[FEA_PR3]
+DANS L'ORDRE
+
+[FEA_AMS]
+SCAN AUTO DES PISTES
+
+[FEA_SCN]
+SCAN DES PISTES UTILISATEUR
+
+[FEA_TID]
+~1~ PISTES DANS LA BASE DE DONNEES
+
+[FEA_TIT]
+Options chansons perso.
+
+[FEA_SMP]
+SCAN DES PISTES UTILISATEUR - UN INSTANT...~n~~n~Appuie sur Echap pour annuler.
+
+[FEC_TFL]
+Gauche Ctrl spécial
+
+[FEC_TFR]
+Droite Ctrl spécial
+
+[FEA_SUB]
+Pour écouter tes morceaux préférés dans le jeu, crée des raccourcis vers tes pistes musicales dans le dossier 'User Tracks'.
+
+[FEJ_TIT]
+Paramètres joypad
+
+[FEJ_INY]
+INVERSER STICK Y GAUCHE
+
+[FEJ_INX]
+INVERSER STICK X GAUCHE
+
+[FEJ_RNY]
+INVERSER STICK Y DROITE
+
+[FEJ_RNX]
+INVERSER STICK X DROITE
+
+[FEJ_INA]
+INVERSER AXE GAUCHE
+
+[FEJ_RNA]
+INVERSER AXE DROITE
+
+[FEJ_SNP]
+MEMORISER POSITION CAMERA
+
+[FEA_SCS]
+PISTES UTILISATEUR SCANNEES
+
+[FEA_SCF]
+ECHEC DU SCAN DES PISTES UTILISATEUR
+
+[FEC_ER2]
+Erreur ! Suite au changement de commandes sur l'écran 'A pied', une ou plusieurs actions ne sont plus assignées sur l'écran 'En véhicule'. Vérifie toutes les actions des deux écrans.~n~Appuie sur Echap pour continuer.
+
+[FEC_ER3]
+Erreur ! Suite au changement de commandes sur l'écran 'En véhicule', une ou plusieurs actions ne sont plus assignées sur l'écran 'A pied'. Vérifie toutes les actions des deux écrans.~n~Appuie sur Echap pour continuer.
+
+[FEC_FIA]
+Tir secondaire
+
+[FEC_PLU]
+Avancer/Bas
+
+[FEC_PLD]
+Reculer/Haut
+
+[FEC_TAR]
+Viser avec une arme
+
+[FEC_BRA]
+Freiner/Marche arrière
+
+[FEC_VML]
+Vue souris
+
+[FEC_PDW]
+Marcher
+
+[FESZ_QQ]
+Veux-tu vraiment commencer une nouvelle partie ?
+
+[FES_DAT]
+DATE
+

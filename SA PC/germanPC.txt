@@ -1,0 +1,549 @@
+[FET_MFL]
+FLIEGEN MIT MAUSSTEUERUNG
+
+[FEH_JMP]
+MAUSTASTE L KLICKEN / EINGABE - NÃCHSTES MENÜ
+
+[FEH_BPO]
+MAUSTASTE L KLICKEN / EINGABE - ZURÜCK
+
+[FEH_SNC]
+MAUSTASTE L KLICKEN / EINGABE - USER TRACKS DURCHSUCHEN
+
+[FEC_SLC]
+Beschãdigter Spielstand
+
+[NO_PAK]
+Laden gescheitert!~n~~n~Dieses Mission Pack ist nicht verfügbar. Bitte sicherstellen, dass dieses Mission Pack richtig installiert ist.~n~~n~EINGABE drücken, um ein neues Standardspiel zu beginnen.
+
+[FEC_AST]
+Sternchen
+
+[FED_RDP]
+Die augenblicklichen Einstellungen wirklich auf die Standard-Einstellungen zurücksetzen?
+
+[FEC_RTS]
+Song überspringen
+
+[FED_GLS]
+GALERIEFOTOS ABSPEICHERN
+
+[FEL_CHE]
+Das Umstellen der Spracheinstellungen setzt die Steuerung auf die Standard-Einstellung zurück. Die augenblickliche Steuerungskonfiguration geht verloren. Die Sprache wirklich umstellen?
+
+[FED_FXV]
+SEHR HOCH
+
+[FET_DEF]
+Standard wiederherstellen
+
+[FEC_LBH]
+In Fahrzeug nach hinten sehen
+
+[FEC_LLF]
+In Fahrzeug nach links sehen
+
+[FEC_LRG]
+In Fahrzeug nach rechts sehen
+
+[FEC_HRN]
+Hupe
+
+[FEC_HBR]
+Handbremse
+
+[FEC_ACL]
+Fahrzeug beschleunigen
+
+[FEC_BRK]
+Fahrzeug bremsen
+
+[FEC_TSM]
+Spezialmissionen an/aus
+
+[FEC_ENT]
+In Fahrzeug ein-/aussteigen
+
+[FEC_WPN]
+Waffe abfeuern
+
+[FEC_PAS]
+Pause
+
+[FEC_FPO]
+1st Person-Waffen
+
+[FEC_SMS]
+Mauszeiger anzeigen
+
+[FEC_CMS]
+Blickwinkel wechseln.
+
+[FEC_TSS]
+Screen Shot
+
+[FEC_DBG]
+DEBUG MENÜ
+
+[FEC_TGD]
+Mit Pad zwischen Spiel- u. Debug-Modus wechseln
+
+[FEC_TDO]
+Debug-Kamera aus
+
+[FEC_IVH]
+Maus horizontal invertieren:
+
+[FEC_MSL]
+MAUSTASTE_L
+
+[FEC_MSM]
+MAUSTASTE_M
+
+[FEC_MSR]
+MAUSTASTE_R
+
+[FEC_QUE]
+???
+
+[FEC_TWO]
+Nur zwei Tastaturtasten erlaubt
+
+[FEC_UMS]
+Maustasten bitte nur einfach belegen.
+
+[FEC_OMS]
+Nur eine Maustaste erlaubt
+
+[FEC_UJS]
+Joystick-Buttons bitte nur einfach belegen.
+
+[FEC_OJS]
+Nur ein Joystick-Button pro Aktion erlaubt
+
+[FEC_PTL]
+"Ziel fixieren" u. "Waffenauswahl links" gleichzeitig drücken.
+
+[FEC_PTR]
+"Ziel fixieren" u. "Waffenauswahl rechts" gleichzeitig drücken.
+
+[FEC_LBC]
+"Nach links schauen" u. "Nach rechts schauen" gleichzeitig drücken.
+
+[FEC_JBO]
+JOY ~1~
+
+[FEC_WAR]
+Warnung
+
+[FEC_OKK]
+OK
+
+[FEC_DLF]
+Löschen fehlgeschlagen.
+
+[FEC_SVU]
+Speichern fehlgeschlagen.
+
+[FEC_LUN]
+Laden fehlgeschlagen. Datei beschãdigt. Bitte löschen.
+
+[FEC_PAD]
+Gamepad
+
+[FEC_JOY]
+Joystick
+
+[FET_HRD]
+STANDARD-EINSTELLUNGEN WIEDERHERGESTELLT
+
+[FET_MST]
+MIT MAUS STEUERN
+
+[FECSTAR]
+NUM_STERN
+
+[FET_MIG]
+LINKS / RECHTS / MAUSRAD - JUSTIEREN
+
+[FET_CIG]
+RÜCKTASTE - LÖSCHEN~n~MAUSTASTE L KLICKEN / EINGABE - ÃNDERN
+
+[FET_RSO]
+ORIGINAL-EINSTELLUNG WIEDERHERGESTELLT
+
+[FEM_LOD]
+DISTANZ-DARSTELLUNG
+
+[FEM_FRM]
+FRAME LIMITER
+
+[FEM_MM]
+Hauptmenü
+
+[FED_RES]
+AUFLÖSUNG
+
+[FET_CTL]
+Steuerung
+
+[FET_OPT]
+Optionen
+
+[FEC_MSH]
+MAUSEMPFINDLICHKEIT
+
+[FEC_IVV]
+MAUS VERTIKAL INVERTIEREN
+
+[FEC_FNC]
+F~1~
+
+[FEC_IRT]
+EINFG
+
+[FEC_DLL]
+ENTF
+
+[FEC_HME]
+POS1
+
+[FEC_END]
+ENDE
+
+[FEC_PGU]
+BILD_AUF
+
+[FEC_PGD]
+BILD_AB
+
+[FEC_UPA]
+AUF
+
+[FEC_DWA]
+AB
+
+[FEC_LFA]
+LINKS
+
+[FEC_RFA]
+RECHTS
+
+[FEC_NUM]
+NUM
+
+[FEC_NMN]
+NUM~1~
+
+[FEC_FWS]
+NUM_/
+
+[FEC_PLS]
+NUM_+
+
+[FEC_MIN]
+NUM_-
+
+[FEC_DOT]
+NUM_ENTF
+
+[FEC_NLK]
+NUMLOCK
+
+[FEC_ETR]
+ENTER
+
+[FEC_SLK]
+ROLLEN
+
+[FEC_PSB]
+PAUSE
+
+[FEC_BSP]
+RÜCKTASTE
+
+[FEC_TAB]
+TAB
+
+[FEC_CLK]
+FESTSTELLT.
+
+[FEC_RTN]
+EINGABE
+
+[FEC_LSF]
+UMSCHALT_L
+
+[FEC_RSF]
+UMSCHALT_R
+
+[FEC_LCT]
+STRG_L
+
+[FEC_RCT]
+STRG_R
+
+[FEC_LAL]
+ALT_L
+
+[FEC_RAL]
+ALT_R
+
+[FEC_LWD]
+WIN_L
+
+[FEC_RWD]
+WIN_R
+
+[FEC_WRC]
+WINKLICK
+
+[FEC_SPC]
+LEERTASTE
+
+[WIN_TTL]
+Grand Theft Auto SA
+
+[WIN_95]
+Grand Theft Auto SA laeuft nicht unter Windows 95
+
+[WIN_DX]
+Grand Theft Auto SA benoetigt mindestens DirectX Version 9.0
+
+[FET_EIG]
+DIESER AKTION KANN KEINE STEUERUNG ZUGEWIESEN WERDEN
+
+[FEQ_SRE]
+Wirklich beenden? Alle Daten seit dem letzten Speichern gehen verloren. Weiter?
+
+[FEQ_SRW]
+Spiel wirklich beenden?
+
+[FET_QG]
+Spiel beenden
+
+[FEN_STA]
+SPIEL STARTEN
+
+[FET_PAU]
+Pausenmenü
+
+[REPLAY]
+REPLAY
+
+[FEC_ANS]
+Aktion
+
+[CVT_MSG]
+Texturen werden in optimales Format für diese Grafikkarte konvertiert
+
+[FEC_SFT]
+UMSCHALT
+
+[FEH_VMP]
+KARTE ANSEHEN
+
+[PCRESRT]
+Neues Spiel wird gestartet. Bitte warten...
+
+[FEH_NA]
+OPTION NICHT VERFÜGBAR
+
+[FEH_MPH]
+MAUSTASTE L/CURSOR-TASTEN - SCROLLEN~n~BILD AUF/BILD AB/MAUSRAD - ZOOM~n~Z - ÜBERSICHT , L - LEGENDE~n~MAUSTASTE R/T - MARKIEREN , LEERTASTE - KARTENSYMBOLE
+
+[FEA_MP3]
+USER TRACK PLAYER
+
+[NO_PCCD]
+Bitte die GTA San Andreas CD einlegen oder ESC drücken, um abzubrechen
+
+[FEH_SSA]
+CURSOR-TASTEN - AUSWÃHLEN~n~S - IN DATEI SPEICHERN
+
+[FES_CMI]
+LETZTE ERFÜLLTE MISSION
+
+[FET_STS]
+STATISTIKEN GESPEICHERT IN 'STATS.HTML'
+
+[WIN_VDM]
+Grand Theft Auto SA findet nicht genügend freien Grafikspeicher
+
+[WIN_NSC]
+Grand Theft Auto SA findet keine installierte Soundkarte
+
+[FEC_ERI]
+Fehler! Eine oder mehrere Steuerungs-Aktionen sind keiner Taste bzw. keinem Button zugewiesen. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
+
+[FEC_TFU]
+Spezialkontrolle Auf
+
+[FEC_TFD]
+Spezialkontrolle Ab
+
+[FET_RIG]
+EINE NEUE STEUERUNG FÜR DIESE AKTION AUSWÃHLEN~n~ESC ABBRECHEN
+
+[CVT_ERR]
+Zu wenig Speicherplatz. Bitte zuerst Platz auf der Festplatte schaffen. Zum Abbrechen ESC drücken.
+
+[FEC_GPF]
+Gang-Strg. Vor
+
+[FEC_GPB]
+Gang-Strg. Zurück
+
+[FEC_COY]
+Konversation - Ja
+
+[FEC_CON]
+Konversation - Nein
+
+[FED_ADV]
+ERWEITERTE OPTIONEN
+
+[FED_FXQ]
+QUALITÃT DER FX
+
+[FED_FXH]
+HOCH
+
+[FED_FXM]
+MITTEL
+
+[FED_FXL]
+NIEDRIG
+
+[FED_MIP]
+MIP MAPPING
+
+[FED_AAS]
+ANTI ALIASING
+
+[FEC_CFG]
+KONFIGURATION
+
+[FES_LCG]
+Diesen Spielstand wirklich laden?
+
+[FET_CCN]
+Joypad
+
+[FET_SCN]
+Maus + Tasten
+
+[FET_CFT]
+Steuerung zu Fuss
+
+[FET_CCR]
+Steuerung im Fahrzeug
+
+[FEC_CMP]
+COMBO: Benutzt "NACH LINKS SEHEN" + "NACH RECHTS SEHEN" gleichzeitig
+
+[FET_APP]
+MAUSTASTE L DRÜCKEN / EINGABE - NEUE EINSTELLUNG ÜBERNEHMEN
+
+[FEH_MPB]
+CURSOR-TASTEN - AUF/AB~n~EINGABE - OPTION AUSWÃHLEN
+
+[FEA_MPM]
+ABSPIELMODUS
+
+[FEA_PR1]
+RADIO
+
+[FEA_PR2]
+ZUFÃLLIG
+
+[FEA_PR3]
+DER REIHE NACH
+
+[FEA_AMS]
+AUTOMATISCHE TRACK-SUCHE
+
+[FEA_SCN]
+USER TRACKS DURCHSUCHEN
+
+[FEA_TID]
+~1~ TRACKS IN DATENBANK
+
+[FEA_TIT]
+Eigene Musikoptionen
+
+[FEA_SMP]
+USER TRACKS WIRD DURCHSUCHT - BITTE WARTEN~n~~n~Zum Abbrechen ESC drücken
+
+[FEC_TFL]
+Spezialkontrolle L.
+
+[FEC_TFR]
+Spezialkontrolle R.
+
+[FEA_SUB]
+Um eigene Musik im Spiel abspielen zu können, bitte Verknüpfungen eigener Musik-Tracks im Ordner 'User Tracks' erstellen.
+
+[FEJ_TIT]
+Joypad-Einstellungen
+
+[FEJ_INY]
+LINKEN STICK Y INVERTIEREN
+
+[FEJ_INX]
+LINKEN STICK X INVERTIEREN
+
+[FEJ_RNY]
+RECHTEN STICK Y INVERTIEREN
+
+[FEJ_RNX]
+RECHTEN STICK X INVERTIEREN
+
+[FEJ_INA]
+LINKE ACHSE INVERTIEREN
+
+[FEJ_RNA]
+RECHTE ACHSE INVERTIEREN
+
+[FEJ_SNP]
+KAMERAPOSITION FIXIEREN
+
+[FEA_SCS]
+USER TRACKS ERFOLGREICH DURCHSUCHT
+
+[FEA_SCF]
+SUCHE NACH USER TRACKS FEHLGESCHLAGEN
+
+[FEC_ER2]
+Fehler! Das Ãndern der Steuerung "zu Fuß" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "im Fahrzeug" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
+
+[FEC_ER3]
+Fehler! Das Ãndern der Steuerung "im Fahrzeug" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "zu Fuß" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
+
+[FEC_FIA]
+Sekundãr-Feuer
+
+[FEC_PLU]
+Vorwãrts/Sinkflug
+
+[FEC_PLD]
+Rückwãrts/Steigflug
+
+[FEC_TAR]
+Mit Waffe zielen
+
+[FEC_BRA]
+Bremse/Rückwãrts
+
+[FEC_VML]
+Mausblick
+
+[FEC_PDW]
+Gehen
+
+[FESZ_QQ]
+Wirklich ein neues Spiel beginnen?
+
+[FES_DAT]
+DATUM
+

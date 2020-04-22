@@ -1,0 +1,549 @@
+[FET_MFL]
+VUELO CON RATÓN
+
+[FET_DEF]
+Restablecer predeterminados
+
+[FEC_LBH]
+Mirar tras el vehículo
+
+[FEC_LLF]
+Mirar a la izquierda del vehículo
+
+[FEC_LRG]
+Mirar a la derecha del vehículo
+
+[FEC_HRN]
+Claxon
+
+[FEC_HBR]
+Freno de mano del vehículo
+
+[FEC_ACL]
+Acelerador del vehículo
+
+[FEC_BRK]
+Freno del vehículo
+
+[FEC_TSM]
+Alternar submisiones
+
+[FEC_ENT]
+Entrar/Salir del vehículo
+
+[FEC_WPN]
+Disparar arma
+
+[FEC_PAS]
+Pausa
+
+[FEC_FPO]
+Armas en primera persona
+
+[FEC_SMS]
+Mostrar cursor del ratón
+
+[FEC_CMS]
+Cambiar modo de cámara en todas las situaciones
+
+[FEC_TSS]
+Hacer captura de pantalla
+
+[FEC_DBG]
+MENÚ DE DEBUG
+
+[FEC_TGD]
+Alternar mando/Debug
+
+[FEC_TDO]
+Desactivar cámara de Debug
+
+[FEC_IVH]
+Invertir ratón horizontalmente:
+
+[FEC_MSL]
+BIR
+
+[FEC_MSM]
+BMR
+
+[FEC_MSR]
+BDR
+
+[FEC_QUE]
+???
+
+[FEC_TWO]
+Solo se permiten dos teclas del teclado
+
+[FEC_UMS]
+Solo botones del ratón únicos
+
+[FEC_OMS]
+Solo se permite un botón del ratón
+
+[FEC_UJS]
+Solo botones únicos del joystick
+
+[FEC_OJS]
+Solo se permite un botón del joystick por acción
+
+[FEC_PTL]
+Usa fijar blancos con cambio de arma a la izquierda.
+
+[FEC_PTR]
+Usa fijar blancos con cambio de arma a la derecha.
+
+[FEC_LBC]
+Usa mirar a la izquierda y mirar a la derecha.
+
+[FEC_JBO]
+JOY~1~
+
+[FEC_WAR]
+Aviso
+
+[FEC_OKK]
+Aceptar
+
+[FEC_DLF]
+Error al eliminar.
+
+[FEC_SVU]
+Error al guardar.
+
+[FEC_LUN]
+Error al cargar. Archivo dañado, hay que borrarlo.
+
+[FEC_PAD]
+Mando
+
+[FEC_JOY]
+Joystick
+
+[FET_HRD]
+VALORES PREDETERMINADOS RESTABLECIDOS
+
+[FET_MST]
+DIRECCIÓN CON EL RATÓN
+
+[FECSTAR]
+TEC_NUM_AST.
+
+[FET_MIG]
+IZQUIERDA/DERECHA/RUEDA DEL RATÓN: AJUSTAR
+
+[FET_CIG]
+RETROCESO: DESPEJAR~n~CLIC EN BIR/INTRO: CAMBIAR
+
+[FET_RSO]
+AJUSTE ORIGINAL RESTABLECIDO
+
+[FEM_LOD]
+DISTANCIA DE DIBUJADO
+
+[FEM_FRM]
+LIMITAR CUADROS P. SEGUNDO
+
+[FEM_MM]
+Menú principal
+
+[FED_RES]
+RESOLUCIÓN
+
+[FET_CTL]
+Configuración de controles
+
+[FET_OPT]
+Opciones
+
+[FEC_MSH]
+SENSIBILIDAD DEL RATÓN
+
+[FEC_IVV]
+INVERTIR RATÓN VERTICALMENTE
+
+[FEC_FNC]
+F~1~
+
+[FEC_IRT]
+INSERT
+
+[FEC_DLL]
+SUPR
+
+[FEC_HME]
+INICIO
+
+[FEC_END]
+FIN
+
+[FEC_PGU]
+RE_PÁG
+
+[FEC_PGD]
+AV_PÁG
+
+[FEC_UPA]
+ARRIBA
+
+[FEC_DWA]
+ABAJO
+
+[FEC_LFA]
+IZQUIERDA
+
+[FEC_RFA]
+DERECHA
+
+[FEC_NUM]
+NUM
+
+[FEC_NMN]
+NUM~1~
+
+[FEC_FWS]
+TEC_NUM_/
+
+[FEC_PLS]
+TEC_NUM_+
+
+[FEC_MIN]
+TEC_NUM_-
+
+[FEC_DOT]
+TEC_NUM.
+
+[FEC_NLK]
+BLOQ_NUM
+
+[FEC_ETR]
+INTRO
+
+[FEC_SLK]
+BLOQ_DESPL
+
+[FEC_PSB]
+PAUSA
+
+[FEC_BSP]
+RETROCESO
+
+[FEC_TAB]
+TAB
+
+[FEC_CLK]
+BLOQ_MAYÚS
+
+[FEC_RTN]
+INTRO
+
+[FEC_LSF]
+MAYÚS_IZQ.
+
+[FEC_RSF]
+MAYÚS_DER.
+
+[FEC_LCT]
+CTRL_IZQ.
+
+[FEC_RCT]
+CTRL_DER.
+
+[FEC_LAL]
+ALT_IZQ.
+
+[FEC_RAL]
+ALT_DER.
+
+[FEC_LWD]
+WIN_IZQ.
+
+[FEC_RWD]
+WIN_DER.
+
+[FEC_WRC]
+CLIC_WIN
+
+[FEC_SPC]
+ESPACIO
+
+[WIN_TTL]
+Grand Theft Auto SA
+
+[WIN_95]
+Grand Theft Auto SA no puede ejecutarse en Windows 95.
+
+[WIN_DX]
+Grand Theft Auto SA requiere al menos DirectX version 9.0.
+
+[FET_EIG]
+NO SE PUEDE ESTABLECER UN CONTROL PARA ESTA ACCIÓN
+
+[FEQ_SRE]
+¿Seguro que quieres salir? Todo el progreso desde que guardaste la partida por última vez se perderá. ¿Continuar?
+
+[FEQ_SRW]
+¿Seguro que quieres salir del juego?
+
+[FET_QG]
+Salir del juego
+
+[FEN_STA]
+INICIAR JUEGO
+
+[FET_PAU]
+Menú de pausa
+
+[REPLAY]
+REPETICIÓN
+
+[FEC_ANS]
+Acción
+
+[CVT_MSG]
+Convertir texturas al formato óptimo para tu tarjeta gráfica.
+
+[FEC_SFT]
+MAYÚS
+
+[FEH_VMP]
+VER_MAPA
+
+[PCRESRT]
+Iniciando una nueva partida. Espera...
+
+[FEH_NA]
+OPCIÓN NO DISPONIBLE
+
+[FEH_MPH]
+LMB/CURSORES: DESPLAZAMIENTO~n~RE PÁG/AV PÁG/RUEDA DEL RATÓN: ZOOM~n~Z: VISTA GENERAL, L: LEYENDA~n~BDR/T: APUNTAR, ESPACIO: MENÚ DE ICONOS~n~ESC: VOLVER
+
+[FEA_MP3]
+CANCIONES DEL USUARIO
+
+[NO_PCCD]
+Inserta tu CD de GTA San Andreas, o pulsa ESC para cancelar.
+
+[FEH_SSA]
+CURSORES: MOVER~n~S: GUARDAR A ARCHIVO
+
+[FES_CMI]
+ÚLTIMA MISIÓN SUPERADA
+
+[FET_STS]
+ESTADÍSTICAS GUARDADAS EN 'STATS.HTML'
+
+[WIN_VDM]
+Falta memoria de vídeo para Grand Theft Auto SA
+
+[WIN_NSC]
+Grand Theft Auto SA no detecta la tarjeta de sonido
+
+[FEC_ERI]
+¡Error! Una o más acciones de control no están vinculadas a una tecla o botón. Comprueba que todas las acciones de control están establecidas.~n~Pulsa ESC para continuar.
+
+[FEC_TFU]
+Ctrl especial arriba
+
+[FEC_TFD]
+Ctrl especial abajo
+
+[FET_RIG]
+SELECCIONA UN NUEVO CONTROL PARA ESTA ACCIÓN~n~ESC: CANCELAR
+
+[CVT_ERR]
+Te has quedado sin espacio en el disco duro. Libera algo de espacio antes de continuar. Pulsa ESC para cancelar.
+
+[FEC_GPF]
+Grupo Ctrl adelante
+
+[FEC_GPB]
+Grupo Ctrl atrás
+
+[FEC_COY]
+Conversación: sí
+
+[FEC_CON]
+Conversación: no
+
+[FED_ADV]
+AVANZADAS
+
+[FED_FXQ]
+EFECTOS VISUALES
+
+[FED_FXH]
+ALTO
+
+[FED_FXM]
+MEDIO
+
+[FED_FXL]
+BAJO
+
+[FED_MIP]
+MIP MAPPING
+
+[FED_AAS]
+ANTI ALIASING
+
+[FEC_CFG]
+CONFIGURACIÓN
+
+[FES_LCG]
+¿Estás seguro de que quieres cargar esta partida guardada?
+
+[FET_CCN]
+Mando
+
+[FET_SCN]
+Ratón + teclas
+
+[FET_CFT]
+Controles a pie
+
+[FET_CCR]
+Controles del vehículo
+
+[FEC_CMP]
+COMBO: Usa MIRAR A LA IZQUIERDA + MIRAR A LA DERECHA a la vez.
+
+[FET_APP]
+CLIC EN BIR/INTRO - APLICAR NUEVO AJUSTE
+
+[FEH_MPB]
+CURSORES: MOVER ARRIBA/ABAJO~n~INTRO: ALTERNAR OPCIÓN
+
+[FEA_MPM]
+MODO REPRODUCCIÓN
+
+[FEA_PR1]
+RADIO
+
+[FEA_PR2]
+ALEATORIO
+
+[FEA_PR3]
+SECUENCIAL
+
+[FEA_AMS]
+AUTOESCANEAR MEDIOS
+
+[FEA_SCN]
+ESCANEAR CANCIONES DEL USUARIO
+
+[FEA_TID]
+~1~ CANCIONES EN LA BASE DE DATOS
+
+[FEA_TIT]
+Opciones canciones del usuario
+
+[FEA_SMP]
+ESCANEANDO CANCIONES DEL USUARIO. POR FAVOR, ESPERA.~n~~n~Pulsa ESC para cancelar.
+
+[FEC_TFL]
+Ctrl especial izquierda
+
+[FEC_TFR]
+Ctrl especial derecha
+
+[FEA_SUB]
+Para oír tu propia música durante el juego, crea un acceso directo a tus canciones en la carpeta de "User Tracks"
+
+[FEJ_TIT]
+Ajustes de mando
+
+[FEJ_INY]
+INVERTIR EJE Y DEL STICK IZQ.
+
+[FEJ_INX]
+INVERTIR EJE X DEL STICK IZQ.
+
+[FEJ_RNY]
+INVERTIR EJE Y DEL STICK DER.
+
+[FEJ_RNX]
+INVERTIR EJE X DEL STICK DER.
+
+[FEJ_INA]
+INVERTIR EJE IZQUIERDO
+
+[FEJ_RNA]
+INVERTIR EJE DERECHO
+
+[FEJ_SNP]
+CAMBIAR POSICIÓN DE CÁMARA
+
+[FEA_SCS]
+CANCIONES DE USUARIO ESCANEADAS CON ÉXITO
+
+[FEA_SCF]
+ERROR AL ESCANEAR CANCIONES DEL USUARIO
+
+[FEC_ER2]
+¡Error! Cambiar los controles en la pantalla de "A pie" ha hecho que una o más acciones de control queden desvinculadas en la pantalla de "En vehículo". Comprueba que todas las acciones de control están asignadas.~n~Pulsa ESC para continuar.
+
+[FEC_ER3]
+¡Error! Cambiar los controles en la pantalla de "En vehículo" ha hecho que una o más acciones de control queden desvinculadas en la pantalla de "A pie". Comprueba que todas las acciones de control están asignadas.~n~Pulsa ESC para continuar.
+
+[FEC_FIA]
+Disparo secundario
+
+[FEC_PLU]
+Direcc. adelante/abajo
+
+[FEC_PLD]
+Dirección atrás/arriba
+
+[FEC_TAR]
+Apuntar con arma
+
+[FEC_BRA]
+Freno/Marcha atrás
+
+[FEC_VML]
+Mirar con el ratón
+
+[FEC_PDW]
+Andar
+
+[FESZ_QQ]
+¿Seguro que quieres comenzar una nueva partida?
+
+[FES_DAT]
+FECHA
+
+[FEL_CHE]
+Cambiar la configuración de idioma restablecerá la configuración por defecto a tus controles y tu configuración de control actual se perderá. ¿Seguro que deseas cambiar de idioma?
+
+[FED_FXV]
+MUY ALTO
+
+[FED_GLS]
+GUARDAR FOTOS DE GALERÍA
+
+[FED_RDP]
+¿Seguro que quieres restablecer la configuración por defecto?
+
+[FEC_RTS]
+Saltarte canción
+
+[FEC_AST]
+Ast.
+
+[NO_PAK]
+¡Error al guardar!~n~~n~La Mission Pack actual no está disponible. Comprueba que la Mission Pack actual está instalada correctamente.~n~~n~Pulsa INTRO para empezar una nueva partida estándar.
+
+[FEC_SLC]
+Partida guardada dañada
+
+[FEH_JMP]
+PULSA BIR / INTRO - ENTRAR EN EL MENÚ
+
+[FEH_BPO]
+PULSA BIR / INTRO - ATRÁS
+
+[FEH_SNC]
+PULSA BIR / INTRO - ESCANEAR CANCIONES DEL USUARIO
+

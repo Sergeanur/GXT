@@ -1,0 +1,549 @@
+[FET_MFL]
+VOLO VIA MOUSE
+
+[FEH_JMP]
+Mouse_sx / Invio - ACCEDI MENU
+
+[FEH_BPO]
+Mouse_sx / Invio - INDIETRO
+
+[FEH_SNC]
+Mouse_sx / Invio - SCANSIONE TRACCE UTENTE
+
+[FEC_SLC]
+Salvataggio corrotto
+
+[NO_PAK]
+Caricamento fallito!~n~~n~Il Mission Pack non è disponibile. Controllare che il Mission Pack sia correttamente installato..~n~~n~Premi INVIO per iniziare una nuova partita.
+
+[FEC_AST]
+Asterisco
+
+[FED_RDP]
+Vuoi davvero ripristinare le impostazioni iniziali?
+
+[FEC_RTS]
+Brano seguente
+
+[FED_GLS]
+ARCHIVIA FOTO DELL'ALBUM
+
+[FEL_CHE]
+Cambiare le impostazioni della lingua comporta il ripristino della configurazione iniziale dei comandi e la perdita della configurazione corrente. Cambiare la lingua?
+
+[FED_FXV]
+MOLTO ALTA
+
+[FET_DEF]
+Ripristina predefinite
+
+[FEC_LBH]
+Guarda dietro il veicolo
+
+[FEC_LLF]
+Guarda a sinistra del veicolo
+
+[FEC_LRG]
+Guarda a destra del veicolo
+
+[FEC_HRN]
+Clacson
+
+[FEC_HBR]
+Freno a mano
+
+[FEC_ACL]
+Acceleratore
+
+[FEC_BRK]
+Freno
+
+[FEC_TSM]
+Sotto-missioni sì/no
+
+[FEC_ENT]
+Entra/Esci dal veicolo
+
+[FEC_WPN]
+Spara con l'arma
+
+[FEC_PAS]
+Pausa
+
+[FEC_FPO]
+Armi in prima persona
+
+[FEC_SMS]
+Mostra il puntatore
+
+[FEC_CMS]
+Cambia modalità della visuale in ogni situazione.
+
+[FEC_TSS]
+Cattura schermo
+
+[FEC_DBG]
+MENU DI DEBUG
+
+[FEC_TGD]
+Seleziona comandi gioco/debug
+
+[FEC_TDO]
+Disattiva la visuale di debug
+
+[FEC_IVH]
+Inverti asse orizzontale mouse:
+
+[FEC_MSL]
+Mouse_sx
+
+[FEC_MSM]
+Mouse_cen
+
+[FEC_MSR]
+Mouse_dx
+
+[FEC_QUE]
+???
+
+[FEC_TWO]
+Sono ammessi solo due tasti per comando.
+
+[FEC_UMS]
+Sono ammessi solo pulsanti unici del mouse.
+
+[FEC_OMS]
+È permesso un solo comando per ogni pulsante del mouse.
+
+[FEC_UJS]
+Sono ammessi solo pulsanti unici del joystick.
+
+[FEC_OJS]
+È permesso un solo comando per ogni pulsante del joystick.
+
+[FEC_PTL]
+Usa Aggancia Bersaglio con Arma a sinistra.
+
+[FEC_PTR]
+Usa Aggancia Bersaglio con Arma a destra.
+
+[FEC_LBC]
+Usa Guarda a destra con Guarda a sinistra.
+
+[FEC_JBO]
+JOY~1~
+
+[FEC_WAR]
+Attenzione
+
+[FEC_OKK]
+OK
+
+[FEC_DLF]
+Eliminazione fallita.
+
+[FEC_SVU]
+Salvataggio fallito.
+
+[FEC_LUN]
+Caricamento fallito. Il file è danneggiato: eliminalo.
+
+[FEC_PAD]
+Gamepad
+
+[FEC_JOY]
+Joystick
+
+[FET_HRD]
+IMPOSTAZIONI PREDEFINITE RIPRISTINATE
+
+[FET_MST]
+STERZA COL MOUSE
+
+[FECSTAR]
+ASTERISCO_TN
+
+[FET_MIG]
+SINISTRA/DESTRA/ROTELLINA - REGOLA
+
+[FET_CIG]
+BACKSPACE - AZZERA~n~PULSANTE SX/INVIO - CAMBIA
+
+[FET_RSO]
+IMPOSTAZIONI ORIGINALI RIPRISTINATE
+
+[FEM_LOD]
+LIMITE VISIVO
+
+[FEM_FRM]
+LIMITATORE FRAME
+
+[FEM_MM]
+Menu principale
+
+[FED_RES]
+RISOLUZIONE
+
+[FET_CTL]
+Imposta controller
+
+[FET_OPT]
+Opzioni
+
+[FEC_MSH]
+SENSIBILITÀ MOUSE
+
+[FEC_IVV]
+INVERTI ASSE VERTICALE MOUSE
+
+[FEC_FNC]
+F~1~
+
+[FEC_IRT]
+INS
+
+[FEC_DLL]
+CANC
+
+[FEC_HME]
+HOME
+
+[FEC_END]
+FINE
+
+[FEC_PGU]
+PAG_SU
+
+[FEC_PGD]
+PAG_GIÙ
+
+[FEC_UPA]
+SU
+
+[FEC_DWA]
+GIÙ
+
+[FEC_LFA]
+SINISTRA
+
+[FEC_RFA]
+DESTRA
+
+[FEC_NUM]
+TASTNUM
+
+[FEC_NMN]
+~1~_TASTNUM
+
+[FEC_FWS]
+/_TASTNUM
+
+[FEC_PLS]
++_TASTNUM
+
+[FEC_MIN]
+-_TASTNUM
+
+[FEC_DOT]
+._TASTNUM
+
+[FEC_NLK]
+BLOC_NUM
+
+[FEC_ETR]
+INVIO_TN
+
+[FEC_SLK]
+BLOC_SCORR
+
+[FEC_PSB]
+INTERR
+
+[FEC_BSP]
+BACKSPACE
+
+[FEC_TAB]
+TAB
+
+[FEC_CLK]
+BLOC_MAIUSC
+
+[FEC_RTN]
+INVIO
+
+[FEC_LSF]
+MAIUSC_SX
+
+[FEC_RSF]
+MAIUSC_DX
+
+[FEC_LCT]
+CTRL_SX
+
+[FEC_RCT]
+CTRL_DX
+
+[FEC_LAL]
+ALT_SX
+
+[FEC_RAL]
+ALT_DX
+
+[FEC_LWD]
+WIN_SX
+
+[FEC_RWD]
+WIN_DX
+
+[FEC_WRC]
+WINCLICK
+
+[FEC_SPC]
+SPAZIO
+
+[WIN_TTL]
+Grand Theft Auto SA
+
+[WIN_95]
+Grand Theft Auto SA non è compatibile con Windows 95.
+
+[WIN_DX]
+Grand Theft Auto SA richiede almeno la versione 9.0 di DirectX.
+
+[FET_EIG]
+IMPOSSIBILE IMPOSTARE UN COMANDO PER QUESTA AZIONE
+
+[FEQ_SRE]
+Vuoi davvero uscire? Tutti i progressi ottenuti dopo l'ultimo salvataggio andranno persi. Vuoi procedere?
+
+[FEQ_SRW]
+Vuoi davvero uscire dal gioco?
+
+[FET_QG]
+Esci dal gioco
+
+[FEN_STA]
+INIZIA PARTITA
+
+[FET_PAU]
+Menu di pausa
+
+[REPLAY]
+REPLAY
+
+[FEC_ANS]
+Azione
+
+[CVT_MSG]
+Conversione delle texture al formato ottimale per la tua scheda video.
+
+[FEC_SFT]
+MAIUSC
+
+[FEH_VMP]
+MOSTRA LA MAPPA
+
+[PCRESRT]
+Inizio di una nuova partita. Attendi...
+
+[FEH_NA]
+OPZIONE NON DISPONIBILE
+
+[FEH_MPH]
+MOUSE SX/FRECCE - SCORRI~n~PAG SU/PAG GIÙ/ROTELLINA - ZOOM~n~Z - PANORAMICA, L - LEGENDA~n~MOUSE DX/T - BERSAGLIO, SPAZIO - MENU ICONE~n~ESC - INDIETRO
+
+[FEA_MP3]
+LETTORE BRANI UTENTE
+
+[NO_PCCD]
+Inserisci il CD di GTA San Andreas o premi ESC per annullare.
+
+[FEH_SSA]
+FRECCE - MUOVI~n~S - SALVA SU FILE
+
+[FES_CMI]
+ULTIMA MISSIONE SUPERATA
+
+[FET_STS]
+STATISTICHE SALVATE IN 'STATS.HTML'
+
+[WIN_VDM]
+Grand Theft Auto SA non rileva memoria video sufficiente.
+
+[WIN_NSC]
+Grand Theft Auto SA non rileva una scheda audio.
+
+[FEC_ERI]
+Errore! Una o più azioni non sono associate ad alcun tasto o pulsante. Controlla che tutte le azioni siano assegnate.~n~Premi ESC per continuare.
+
+[FEC_TFU]
+Speciale su
+
+[FEC_TFD]
+Speciale giù
+
+[FET_RIG]
+SCEGLI UN NUOVO COMANDO PER QUESTA AZIONE~n~ESC - ANNULLA
+
+[CVT_ERR]
+Hai esaurito lo spazio su disco. Libera spazio su disco prima di continuare. Premi ESC per annullare.
+
+[FEC_GPF]
+Gruppo avanti
+
+[FEC_GPB]
+Gruppo indietro
+
+[FEC_COY]
+Conversazione - Sì
+
+[FEC_CON]
+Conversazione - No
+
+[FED_ADV]
+AVANZATE
+
+[FED_FXQ]
+QUALITÀ EFFETTI
+
+[FED_FXH]
+ALTA
+
+[FED_FXM]
+MEDIA
+
+[FED_FXL]
+BASSA
+
+[FED_MIP]
+MIP-MAPPING
+
+[FED_AAS]
+ANTI-ALIASING
+
+[FEC_CFG]
+CONFIGURAZIONE
+
+[FES_LCG]
+Vuoi davvero caricare questo salvataggio?
+
+[FET_CCN]
+Joypad
+
+[FET_SCN]
+Mouse + tasti
+
+[FET_CFT]
+Comandi a piedi
+
+[FET_CCR]
+Comandi su veicolo
+
+[FEC_CMP]
+COMBO: usa insieme GUARDA A SINISTRA + GUARDA A DESTRA
+
+[FET_APP]
+PULSANTE SX/INVIO - APPLICA NUOVA IMPOSTAZIONE
+
+[FEH_MPB]
+FRECCE - MUOVI IN SU/GIÙ~n~INVIO - CAMBIA OPZIONE
+
+[FEA_MPM]
+RIPRODUZIONE
+
+[FEA_PR1]
+RADIO
+
+[FEA_PR2]
+CASUALE
+
+[FEA_PR3]
+SEQUENZIALE
+
+[FEA_AMS]
+SCANSIONE AUTOMATICA MEDIA
+
+[FEA_SCN]
+SCANSIONE TRACCE UTENTE
+
+[FEA_TID]
+~1~ TRACCE NEL DATABASE
+
+[FEA_TIT]
+Opzioni tracce utente
+
+[FEA_SMP]
+SCANSIONE TRACCE UTENTE - ATTENDI~n~~n~Premi ESC per annullare
+
+[FEC_TFL]
+Speciale sinistra
+
+[FEC_TFR]
+Speciale destra
+
+[FEA_SUB]
+Per ascoltare la tua musica durante il gioco, crea dei collegamenti alle tracce audio nella cartella "User Tracks".
+
+[FEJ_TIT]
+Impostazioni joypad
+
+[FEJ_INY]
+INVERTI ASSE Y LEVETTA SX
+
+[FEJ_INX]
+INVERTI ASSE X LEVETTA SX
+
+[FEJ_RNY]
+INVERTI ASSE Y LEVETTA DX
+
+[FEJ_RNX]
+INVERTI ASSE X LEVETTA DX
+
+[FEJ_INA]
+INVERTI ASSE SX
+
+[FEJ_RNA]
+INVERTI ASSE DX
+
+[FEJ_SNP]
+SPOSTA VISUALE A INCREMENTI
+
+[FEA_SCS]
+SCANSIONE TRACCE UTENTE COMPLETATA
+
+[FEA_SCF]
+SCANSIONE TRACCE UTENTE FALLITA
+
+[FEC_ER2]
+Errore! Le modifiche apportate nella schermata dei comandi a piedi hanno annullato l'associazione di uno o più comandi su veicolo. Controlla che tutti i comandi siano assegnati.~n~Premi ESC per continuare.
+
+[FEC_ER3]
+Errore! Le modifiche apportate nella schermata dei comandi su veicolo hanno annullato l'associazione di uno o più comandi a piedi. Controlla che tutti i comandi siano assegnati.~n~Premi ESC per continuare.
+
+[FEC_FIA]
+Fuoco secondario
+
+[FEC_PLU]
+Manovra in avanti/giù
+
+[FEC_PLD]
+Manovra indietro/su
+
+[FEC_TAR]
+Mira con l'arma
+
+[FEC_BRA]
+Freno/Retromarcia
+
+[FEC_VML]
+Guarda col mouse
+
+[FEC_PDW]
+Cammina
+
+[FESZ_QQ]
+Vuoi davvero iniziare una nuova partita?
+
+[FES_DAT]
+DATA
+

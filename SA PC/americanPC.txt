@@ -1,0 +1,549 @@
+[FET_MFL]
+FLY WITH MOUSE
+
+[FEH_JMP]
+CLICK LMB / RETURN - ENTER MENU
+
+[FEH_BPO]
+CLICK LMB / RETURN - BACK
+
+[FEH_SNC]
+CLICK LMB / RETURN - SCAN USER TRACKS
+
+[FEC_SLC]
+Save game corrupted
+
+[NO_PAK]
+Load failed!~n~~n~The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly.~n~~n~Press RETURN to start a new standard game.
+
+[FEC_AST]
+Asterisk
+
+[FED_RDP]
+Are you sure you want to reset your current settings to default?
+
+[FEC_RTS]
+User track skip
+
+[FED_GLS]
+STORE GALLERY PHOTOS
+
+[FEL_CHE]
+Changing your language settings will reset your controls to their default configuration and your current control configuration will be lost. Are you sure you want to change language?
+
+[FED_FXV]
+VERY HIGH
+
+[FET_DEF]
+Restore Defaults
+
+[FEC_LBH]
+Look Behind Vehicle
+
+[FEC_LLF]
+Look Left of Vehicle
+
+[FEC_LRG]
+Look Right of Vehicle
+
+[FEC_HRN]
+Horn
+
+[FEC_HBR]
+Vehicle Handbrake
+
+[FEC_ACL]
+Vehicle Accelerate
+
+[FEC_BRK]
+Vehicle Brake
+
+[FEC_TSM]
+Toggle SubMissions
+
+[FEC_ENT]
+Enter/Exit Vehicle
+
+[FEC_WPN]
+Fire Weapon
+
+[FEC_PAS]
+Pause
+
+[FEC_FPO]
+1st Person Weapons
+
+[FEC_SMS]
+Show mouse pointer
+
+[FEC_CMS]
+Change camera mode all situations.
+
+[FEC_TSS]
+Take Screen Shot
+
+[FEC_DBG]
+DEBUG MENU
+
+[FEC_TGD]
+Toggle Pad Game/Debug
+
+[FEC_TDO]
+Turn Debug Camera Off
+
+[FEC_IVH]
+Invert Mouse Horizontally:
+
+[FEC_MSL]
+LMB
+
+[FEC_MSM]
+MMB
+
+[FEC_MSR]
+RMB
+
+[FEC_QUE]
+???
+
+[FEC_TWO]
+Only Two Keyboard Keys Allowed
+
+[FEC_UMS]
+Unique Mouse Key only please.
+
+[FEC_OMS]
+Only One Mouse Key Allowed
+
+[FEC_UJS]
+Unique Joystick button only please.
+
+[FEC_OJS]
+Only One Joystick Buttons per action allowed
+
+[FEC_PTL]
+Use LockTarget with Weapon Switch Left.
+
+[FEC_PTR]
+Use LockTarget with Weapon Switch Right.
+
+[FEC_LBC]
+Use Look Left With Look Right.
+
+[FEC_JBO]
+JOY~1~
+
+[FEC_WAR]
+Warning
+
+[FEC_OKK]
+O.K.
+
+[FEC_DLF]
+Delete Failed.
+
+[FEC_SVU]
+Save Unsuccessful.
+
+[FEC_LUN]
+Load Unsuccessful. File Corrupted, Please delete.
+
+[FEC_PAD]
+Gamepad
+
+[FEC_JOY]
+Joystick
+
+[FET_HRD]
+DEFAULT SETTINGS RESTORED
+
+[FET_MST]
+STEER WITH MOUSE
+
+[FECSTAR]
+NUM STAR
+
+[FET_MIG]
+LEFT / RIGHT / MOUSEWHEEL - ADJUST
+
+[FET_CIG]
+BACKSPACE - CLEAR~n~CLICK LMB / RETURN - CHANGE
+
+[FET_RSO]
+ORIGINAL SETTING RESTORED
+
+[FEM_LOD]
+DRAW DISTANCE
+
+[FEM_FRM]
+FRAME LIMITER
+
+[FEM_MM]
+Main Menu
+
+[FED_RES]
+RESOLUTION
+
+[FET_CTL]
+Controller Setup
+
+[FET_OPT]
+Options
+
+[FEC_MSH]
+MOUSE SENSITIVITY
+
+[FEC_IVV]
+INVERT MOUSE VERTICALLY
+
+[FEC_FNC]
+F~1~
+
+[FEC_IRT]
+INS
+
+[FEC_DLL]
+DEL
+
+[FEC_HME]
+HOME
+
+[FEC_END]
+END
+
+[FEC_PGU]
+PGUP
+
+[FEC_PGD]
+PGDN
+
+[FEC_UPA]
+UP
+
+[FEC_DWA]
+DOWN
+
+[FEC_LFA]
+LEFT
+
+[FEC_RFA]
+RIGHT
+
+[FEC_NUM]
+NUM
+
+[FEC_NMN]
+NUM~1~
+
+[FEC_FWS]
+NUM /
+
+[FEC_PLS]
+NUM +
+
+[FEC_MIN]
+NUM -
+
+[FEC_DOT]
+NUM .
+
+[FEC_NLK]
+NUMLOCK
+
+[FEC_ETR]
+ENT
+
+[FEC_SLK]
+SCROLL LOCK
+
+[FEC_PSB]
+BREAK
+
+[FEC_BSP]
+BSPACE
+
+[FEC_TAB]
+TAB
+
+[FEC_CLK]
+CAPSLOCK
+
+[FEC_RTN]
+RETURN
+
+[FEC_LSF]
+LSHIFT
+
+[FEC_RSF]
+RSHIFT
+
+[FEC_LCT]
+LCTRL
+
+[FEC_RCT]
+RCTRL
+
+[FEC_LAL]
+LALT
+
+[FEC_RAL]
+RALT
+
+[FEC_LWD]
+LWIN
+
+[FEC_RWD]
+RWIN
+
+[FEC_WRC]
+WINCLICK
+
+[FEC_SPC]
+SPACE
+
+[WIN_TTL]
+Grand Theft Auto SA
+
+[WIN_95]
+Grand Theft Auto SA cannot run on Windows 95
+
+[WIN_DX]
+Grand Theft Auto SA requires at least DirectX version 9.0
+
+[FET_EIG]
+CANNOT SET A CONTROL FOR THIS ACTION
+
+[FEQ_SRE]
+Are you sure you want to quit? All progress since the last save game will be lost. Proceed?
+
+[FEQ_SRW]
+Are you sure you want to quit the game?
+
+[FET_QG]
+Quit Game
+
+[FEN_STA]
+START GAME
+
+[FET_PAU]
+Pause Menu
+
+[REPLAY]
+REPLAY
+
+[FEC_ANS]
+Action
+
+[CVT_MSG]
+Converting textures to optimal format for your video card
+
+[FEC_SFT]
+SHIFT
+
+[FEH_VMP]
+VIEW MAP
+
+[PCRESRT]
+Starting new game. Please wait...
+
+[FEH_NA]
+OPTION NOT AVAILABLE
+
+[FEH_MPH]
+LMB/CURSORS - SCROLL~n~PGUP/PGDN/MSWHEEL - ZOOM~n~Z - OVERVIEW , L - LEGEND~n~RMB/T - TARGET , SPACEBAR - BLIPS MENU~n~ESC - BACK
+
+[FEA_MP3]
+USER TRACK PLAYER
+
+[NO_PCCD]
+Please insert your GTA San Andreas CD, or press ESC to cancel
+
+[FEH_SSA]
+CURSORS - MOVE~n~S - SAVE TO FILE
+
+[FES_CMI]
+LAST MISSION PASSED
+
+[FET_STS]
+STATS SAVED TO 'STATS.HTML'
+
+[WIN_VDM]
+Grand Theft Auto SA cannot find enough available video memory
+
+[WIN_NSC]
+Grand Theft Auto SA cannot find Audio card installed
+
+[FEC_ERI]
+Error! One or more control actions are not bound to a key or button. Please check all control actions are set~n~Press ESC to continue
+
+[FEC_TFU]
+Special Ctrl Up
+
+[FEC_TFD]
+Special Ctrl Down
+
+[FET_RIG]
+SELECT A NEW CONTROL FOR THIS ACTION~n~ESC - CANCEL
+
+[CVT_ERR]
+You have run out of disk space. Please make some space on your harddisk before continuing. Press ESC to cancel.
+
+[FEC_GPF]
+Group Ctrl Forward
+
+[FEC_GPB]
+Group Ctrl Back
+
+[FEC_COY]
+Conversation - Yes
+
+[FEC_CON]
+Conversation - No
+
+[FED_ADV]
+ADVANCED
+
+[FED_FXQ]
+VISUAL FX QUALITY
+
+[FED_FXH]
+HIGH
+
+[FED_FXM]
+MEDIUM
+
+[FED_FXL]
+LOW
+
+[FED_MIP]
+MIP MAPPING
+
+[FED_AAS]
+ANTI ALIASING
+
+[FEC_CFG]
+CONFIGURATION
+
+[FES_LCG]
+Are you sure you want to load this save game?
+
+[FET_CCN]
+Joypad
+
+[FET_SCN]
+Mouse + Keys
+
+[FET_CFT]
+Foot Controls
+
+[FET_CCR]
+Vehicle Controls
+
+[FEC_CMP]
+COMBO: Uses LOOK LEFT + LOOK RIGHT together
+
+[FET_APP]
+CLICK LMB / RETURN - APPLY NEW SETTING
+
+[FEH_MPB]
+CURSORS - MOVE UP/DOWN~n~RETURN - TOGGLE OPTION
+
+[FEA_MPM]
+PLAY MODE
+
+[FEA_PR1]
+RADIO
+
+[FEA_PR2]
+RANDOM
+
+[FEA_PR3]
+SEQUENTIAL
+
+[FEA_AMS]
+AUTOMATIC MEDIA SCAN
+
+[FEA_SCN]
+SCAN USER TRACKS
+
+[FEA_TID]
+~1~ TRACKS IN DATABASE
+
+[FEA_TIT]
+User Track Options
+
+[FEA_SMP]
+SCANNING USER TRACKS - PLEASE WAIT~n~~n~Press ESC to cancel
+
+[FEC_TFL]
+Special Ctrl Left
+
+[FEC_TFR]
+Special Ctrl Right
+
+[FEA_SUB]
+To play your own music in-game, create Short-Cuts to your music tracks in the 'User Tracks' folder.
+
+[FEJ_TIT]
+Joypad Settings
+
+[FEJ_INY]
+INVERT LEFT STICK Y
+
+[FEJ_INX]
+INVERT LEFT STICK X
+
+[FEJ_RNY]
+INVERT RIGHT STICK Y
+
+[FEJ_RNX]
+INVERT RIGHT STICK X
+
+[FEJ_INA]
+INVERT LEFT AXIS
+
+[FEJ_RNA]
+INVERT RIGHT AXIS
+
+[FEJ_SNP]
+SNAP CAMERA POSITION
+
+[FEA_SCS]
+USER TRACKS SCANNED SUCCESSFULLY
+
+[FEA_SCF]
+FAILED TO SCAN USER TRACKS
+
+[FEC_ER2]
+Error! Changing controls on the 'On Foot' screen has caused one or more control actions to be unbound on the 'In Vehicle' screen. Please check all control actions are set~n~Press ESC to continue
+
+[FEC_ER3]
+Error! Changing controls on the 'In Vehicle' screen has caused one or more control actions to be unbound on the 'On Foot' screen. Please check all control actions are set~n~Press ESC to continue
+
+[FEC_FIA]
+Secondary Fire
+
+[FEC_PLU]
+Steer Forward/Down
+
+[FEC_PLD]
+Steer Back/Up
+
+[FEC_TAR]
+Aim Weapon
+
+[FEC_BRA]
+Brake/Reverse
+
+[FEC_VML]
+Mouse Look
+
+[FEC_PDW]
+Walk
+
+[FESZ_QQ]
+Are you sure you want to start a new game?
+
+[FES_DAT]
+DATE
+
