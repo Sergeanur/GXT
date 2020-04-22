@@ -1,0 +1,6681 @@
+[CRED000]
+ROCKSTAR NORTH
+
+[CRED001]
+Producer
+
+[CRED002]
+Leslie Benzies
+
+[CRED003]
+Art Director
+
+[CRED004]
+Aaron Garbut
+
+[CRED005]
+Technical Directors
+
+[CRED006]
+Adam Fowler
+
+[CRED007]
+Obbe Vermeij
+
+[CRED008]
+Senior Programmer
+
+[CRED009]
+Alexander Roger
+
+[CRD009A]
+Written by
+
+[CRD009B]
+Dan Houser
+
+[CRD009C]
+James Worrall
+
+[CRD009D]
+DJ Pooh
+
+[CRED010]
+Lead Character Art
+
+[CRED011]
+Ian McQue
+
+[CRED012]
+Character Art
+
+[CRED013]
+Alan Davidson
+
+[CRED014]
+Alisdair Wood
+
+[CRD014A]
+Rick Stirling
+
+[CRED015]
+Toks Solarin
+
+[CRED016]
+Countryside Art
+
+[CRD016A]
+Michael Pirso
+
+[CRED017]
+Scott Wilson
+
+[CRED018]
+Stuart Macdonald
+
+[CRED019]
+Creative Writer
+
+[CRED020]
+James Worrall
+
+[CRED021]
+Lead Interior Art
+
+[CRED022]
+Andy Hay
+
+[CRED023]
+Interior Environment Art
+
+[CRED024]
+Alan Burns
+
+[CRED025]
+C-J Dick
+
+[CRED026]
+Lee Montgomery
+
+[CRED027]
+Michael Pirso
+
+[CRED028]
+Lead Animator
+
+[CRED029]
+Duncan Shields
+
+[CRED030]
+Lead Cut Scene Animator
+
+[CRED031]
+Mondo Ghulam
+
+[CRED032]
+Animation
+
+[CRED033]
+Gus Braid
+
+[CRED034]
+Iwan Scheer
+
+[CRED035]
+Mark Tennant
+
+[CRED036]
+Terry Kenny
+
+[CRED037]
+Lead Audio Designer
+
+[CRED038]
+Allan Walker
+
+[CRED039]
+Lead Music Producer
+
+[CRED040]
+Craig Conner
+
+[CRED041]
+Audio Designer
+
+[CRED042]
+Jonathan McCavish
+
+[CRED043]
+Will Morton
+
+[CRED044]
+Audio Programming
+
+[CRED045]
+Colin Entwistle
+
+[CRED046]
+Matthew Smith
+
+[CRED047]
+Lead Los Santos Artist
+
+[CRED048]
+Nik Taylor
+
+[CRED049]
+Los Santos Artist
+
+[CRED050]
+James Allan
+
+[CRED051]
+Steven Mulholland
+
+[CRED052]
+Simon Little
+
+[CRED053]
+Lead San Fierro Artist
+
+[CRED054]
+Gary McAdam
+
+[CRED055]
+San Fierro Artist
+
+[CRED056]
+Christopher Marshall
+
+[CRED057]
+Wayland Standing
+
+[CRED058]
+Lead Las Venturas Artist
+
+[CRED059]
+Adam Cochrane
+
+[CRED060]
+Las Venturas Artist
+
+[CRED061]
+Andrew Soosay
+
+[CRED062]
+David Cooper
+
+[CRED063]
+Gillian Bertram
+
+[CRED064]
+Lead Vehicle Art
+
+[CRED065]
+Paul Kurowski
+
+[CRED066]
+Vehicle Art
+
+[CRED067]
+Alan Duncan
+
+[CRED068]
+Jolyon Orme
+
+[CRED069]
+Lead Level Design
+
+[CRED070]
+Craig Filshie
+
+[CRED071]
+Senior Level Design
+
+[CRED072]
+Andrew Duthie
+
+[CRED073]
+Chris Rothwell
+
+[CRED074]
+Imran Sarwar
+
+[CRED075]
+William Mills
+
+[CRED076]
+Level Design
+
+[CRED077]
+Chris McMahon
+
+[CRED078]
+Christian Cantamessa
+
+[CRED079]
+David Beddoes
+
+[CRED080]
+John Haime
+
+[CRED081]
+Judith George
+
+[CRED082]
+Kevin Bolt
+
+[CRED083]
+Kevin Wong
+
+[CRED084]
+Neil Ferguson
+
+[CRED085]
+Paul Davis
+
+[CRED086]
+Simon Lashley
+
+[CRED087]
+Steven Taylor
+
+[CRED088]
+Programming
+
+[CRED089]
+Alexander Illes
+
+[CRED090]
+Andrzej Madajczyk
+
+[CRED091]
+Barane Chan
+
+[CRED092]
+Derek Payne
+
+[CRED093]
+Derek Ward
+
+[CRED094]
+Gordon Yeoman
+
+[CRED095]
+Graeme Williamson
+
+[CRED096]
+Greg Smith
+
+[CRED097]
+James Broad
+
+[CRED098]
+John Gurney
+
+[CRED099]
+John Whyte
+
+[CRED100]
+Keith McLeman
+
+[CRED101]
+Mark Nicholson
+
+[CRED102]
+Shaun McKillop
+
+[CRED103]
+QA Tools
+
+[CRED104]
+Alex Carter
+
+[CRED105]
+Front-end Design
+
+[CRED106]
+Stuart Petri
+
+[CRED107]
+QA Manager
+
+[CRED108]
+Craig Arbuthnott
+
+[CRED109]
+Senior Test Analyst
+
+[CRED110]
+Neil Corbett
+
+[CRED111]
+Lead Mission Analyst / Build Coordinator
+
+[CRED112]
+David Watson
+
+[CRED113]
+Lead Test Analyst
+
+[CRED114]
+David Murdoch
+
+[CRED115]
+Neil Meikle
+
+[CRED116]
+Standards Testing
+
+[CRED117]
+Brenda Carey
+
+[CRED118]
+Test
+
+[CRD118A]
+Alex Paterson
+
+[CRED119]
+Alistair Gorman
+
+[CRED120]
+Barry Clark
+
+[CRD120A]
+Ben Barclay
+
+[CRED121]
+Ben Greenall
+
+[CRD121A]
+Ben McCluskey
+
+[CRED122]
+Brian Kelly
+
+[CRED123]
+Chris Wood
+
+[CRED124]
+David Murdoch
+
+[CRED125]
+David Watson
+
+[CRED126]
+Eugene Kuczerepa
+
+[CRD126A]
+Finlay Duff
+
+[CRD126B]
+Garry Reynolds
+
+[CRED127]
+Ivor Williams
+
+[CRED128]
+Jim McMahon
+
+[CRED129]
+Lindsay Robertson
+
+[CRD129A]
+Louis Dinan
+
+[CRED130]
+Mark McMichael
+
+[CRED131]
+Matthew Clark
+
+[CRED132]
+Michael Chan
+
+[CRED133]
+Neil Meikle
+
+[CRED134]
+Neil Walker
+
+[CRD134A]
+Oliver Elliot
+
+[CRED135]
+Paul Green
+
+[CRED136]
+Pedro Correia
+
+[CRD136A]
+Philip Holden
+
+[CRED137]
+Robyn Milne
+
+[CRED138]
+Ross Wallace
+
+[CRD138A]
+Simon King
+
+[CRED139]
+Stephen Anderson
+
+[CRED140]
+Steev Douglas
+
+[CRED141]
+Sundram Soosay
+
+[CRED142]
+Thomas Phillips
+
+[CRED143]
+Tony Stewart
+
+[CRED144]
+Test & Test Tool Support
+
+[CRED145]
+James Whitcroft
+
+[CRED146]
+Audio Testing
+
+[CRED147]
+George Williamson
+
+[CRED148]
+Studio Director
+
+[CRED149]
+Andrew Semple
+
+[CRED150]
+Office Administrator
+
+[CRED151]
+Kim Gurney
+
+[CRED152]
+Administration Support
+
+[CRED153]
+Charlene Maguire
+
+[CRD153A]
+Milly Cottam
+
+[CRED154]
+Sonya Willmann
+
+[CRD154A]
+Una Cruickshank
+
+[CRED155]
+IT Manager
+
+[CRED156]
+Lorraine Roy
+
+[CRED157]
+IT Support
+
+[CRED158]
+Christine Chalmers
+
+[CRED159]
+Dave Bruce
+
+[CRED199]
+ROCKSTAR NEW YORK
+
+[CRED200]
+Executive Producer
+
+[CRED201]
+Sam Houser
+
+[CRED202]
+Producer
+
+[CRED203]
+Dan Houser
+
+[CRED204]
+VP of Development
+
+[CRED205]
+Jamie King
+
+[CRED206]
+Art Director
+
+[CRED207]
+Alex Horton
+
+[CRED208]
+Chief Technology Officer
+
+[CRED209]
+Gary J. Foreman
+
+[CRED210]
+Director of Quality Assurance
+
+[CRED211]
+Jeff Rosa
+
+[CRED212]
+Associate Producer
+
+[CRED213]
+Lee Cummings
+
+[CRED214]
+Lead Analysts
+
+[CRED215]
+Elizabeth Satterwhite
+
+[CRED216]
+Lance Williams
+
+[CRED217]
+Richard Huie
+
+[CRED218]
+Rockstar Test Team
+
+[CRED219]
+Brian Alcazar
+
+[CRED220]
+Brian Planer
+
+[CRED221]
+Chris Choi
+
+[CRED222]
+Christopher Plummer
+
+[CRED223]
+Crystal Bahmaie
+
+[CRED224]
+Devin Smither
+
+[CRED225]
+Ethan Abeles
+
+[CRED226]
+Gene Overton
+
+[CRED227]
+Jameel Vega
+
+[CRED228]
+Jay Capozello
+
+[CRED229]
+Mike Hong
+
+[CRED230]
+Mike Nathan
+
+[CRED231]
+Scott Peterman
+
+[CRED232]
+Sean Flaherty
+
+[CRED233]
+Thomas O'Donnell
+
+[CRED234]
+William Rompf
+
+[CRED235]
+Business Development Manager
+
+[CRED236]
+Sean Macaluso
+
+[CRED237]
+Soundtrack supervisors
+
+[CRED238]
+Tim Sweeney
+
+[CRED239]
+Heinz Henn
+
+[CRED240]
+Research and Analysis
+
+[CRED241]
+Joe Howell
+
+[CRED242]
+Gregory Johnson
+
+[CRED243]
+Sanford Santacroce
+
+[CRED244]
+Nicole Whelan
+
+[CRED245]
+Ayana Osada
+
+[CRED246]
+Executive Consultant
+
+[CRED247]
+DJ Pooh
+
+[CRED248]
+Consultants
+
+[CRED249]
+Estevan Oriol
+
+[CRED250]
+Mister Cartoon (SA Studios)
+
+[CRED251]
+Audio directed by
+
+[CRED252]
+Dan Houser
+
+[CRED253]
+Navid Khonsari
+
+[CRED254]
+Cutscene Mocap directed by
+
+[CRED255]
+Navid Khonsari
+
+[CRED256]
+Alex Horton
+
+[CRED257]
+Voice Over Production by
+
+[CRED258]
+Noelle Sadler
+
+[CRED259]
+Script Supervision by
+
+[CRED260]
+Kerry Shaw
+
+[CRED261]
+Cutscene Supervising Sound Editor
+
+[CRED262]
+Nicholas Montgomery
+
+[CRED263]
+Cutscene Sound Designer
+
+[CRED264]
+Brian Scibinico
+
+[CRED265]
+Dialogue Edited by
+
+[CRED266]
+Marilyn Teorey
+
+[CRED267]
+Anthony Litton
+
+[CRED268]
+Production Department
+
+[CRED269]
+Eli Weissman
+
+[CRED270]
+Franceska Clemens
+
+[CRED271]
+John Zurhellen
+
+[CRED272]
+Lyonel Tollemache
+
+[CRED273]
+Phil Poli
+
+[CRED274]
+Motion Graphics
+
+[CRED275]
+Jon Dorfman
+
+[CRED276]
+Maryam Parwana
+
+[CRED277]
+THE CAST
+
+[CRED278]
+Voice Over Actors
+
+[CRED279]
+Carl "CJ" Johnson - Chris Bellard aka Young Maylay
+
+[CRED280]
+Sean "Sweet" Johnson - Faizon Love
+
+[CRED281]
+Kendl Johnson - Yo Yo
+
+[CRED282]
+Melvin "Big Smoke" Harris - Clifton Powell
+
+[CRED283]
+Lance "Ryder" Wilson - MC Eiht
+
+[CRED284]
+OG Loc - Jas Anderson
+
+[CRED285]
+Mark "B Dup" Wayne - The Game
+
+[CRED286]
+Barry "Big Bear" Thorne - Big Boy
+
+[CRED287]
+Emmet - Eugene Jeter Jr
+
+[CRED288]
+Madd Dogg - Ice T
+
+[CRED289]
+Cesar Vialpando - Clifton Collins, Jr.
+
+[CRED290]
+Officer Tenpenny - Samuel L. Jackson
+
+[CRED291]
+Officer Pulaski - Chris Penn
+
+[CRED292]
+Officer Hernandez - Armando Riesco
+
+[CRED293]
+Catalina - Cynthia Farrell
+
+[CRED294]
+The Truth - Peter Fonda
+
+[CRED295]
+Jizzy B - Charlie Murphy
+
+[CRED296]
+T-Bone - Kid Frost
+
+[CRED297]
+Mike Toreno - James Woods
+
+[CRED298]
+Woozie - James Yaegashi
+
+[CRED299]
+Su Xi Mu (Suzie) - Richard Chang
+
+[CRED300]
+Ran Fa Li (Farlie) - Hunter Platin
+
+[CRED301]
+Zero - David Cross
+
+[CRED302]
+Kent Paul - Danny Dyer
+
+[CRED303]
+Maccer - Shaun Ryder
+
+[CRED304]
+Ken Rosenberg - Bill Fichtner
+
+[CRED305]
+Salvatore Leone - Frank Vincent
+
+[CRED306]
+Maria - Debi Mazar
+
+[CRED307]
+Johnny Sindacco - Casey Siemaszko
+
+[CRED308]
+Jimmy Silverman - Gary Yudman
+
+[CRD308A]
+Bettina - Noelle Sadler
+
+[CRD308B]
+Jethro - John Zurhellen
+
+[CRD308C]
+Dwaine - Navid Khonsari
+
+[CRD308D]
+Millie Perkins - Orfeh
+
+[CRD308E]
+Barbara Schternvart - Danielle Lee Greaves
+
+[CRD308F]
+Denise Robinson - Heather Alicia Simms
+
+[CRD308G]
+Michelle Cannes - Vanessa Aspillaga
+
+[CRD308H]
+Helena Wankstein - Bijou Phillips
+
+[CRD308I]
+Katie Zhan - China Chow
+
+[CRD308J]
+KDST DJ - Axl Rose
+
+[CRD308K]
+Modern Hip Hop DJ - Julio G
+
+[CRD308L]
+Classic Hip Hop DJ - Chuck D
+
+[CRD308M]
+Grove Street Families Gang - Solo, A da Business, Vincent Lomax, Gregory Johnson, Ricky Harris
+
+[CRD308N]
+Ballas Gang - Donnie Anderson, Michael Ralph, Ricky Harris, Darreck Burns, Derrick Edmond
+
+[CRED309]
+Recorded at
+
+[CRED310]
+Rockstar NYC; Juice West, LA
+
+[CRED311]
+Directed by
+
+[CRED312]
+Dan Houser
+
+[CRED313]
+Navid Khonsari
+
+[CRED314]
+Pedestrian VO Talent
+
+[CRED315]
+Adam G, Adam Sietz,
+
+[CRED316]
+Adrian Guzman (aka Transcend)
+
+[CRED317]
+Aldis Hodge, Alexandra Ortiz,
+
+[CRED318]
+Alexis Camins, Alice Liu,
+
+[CRED319]
+Alonzo Williams, Andrea Kessler
+
+[CRED320]
+Angelo Perez, Anna Curtis,
+
+[CRED321]
+Anouchka Benson, Antonio Charity,
+
+[CRED322]
+Armando Riesco, Asa Sommers,
+
+[CRED323]
+Ben Wang, Benjamin Davis, Bigg Giant,
+
+[CRED324]
+Bill Buell, Billy Griffith, Brad Abrell,
+
+[CRED325]
+Cara Cooper, Carlos Carrasco,
+
+[CRED326]
+Carolyn Lawson, Casey Siemaszko,
+
+[CRED327]
+Catherine Kung, Chad Doreck,
+
+[CRED328]
+Charlene Carabeo, Chris Lucas,
+
+[CRED329]
+Chris Tardio, Columbus Short,
+
+[CRED330]
+CS Lee, Daniel Larlham, Daniel Lee,
+
+[CRED331]
+Daniel Venegas, Daniel Whitner,
+
+[CRED332]
+David Lopez, David Shatraw, David Shih,
+
+[CRED333]
+Dawn Jamieson, Dennis Ostermaier,
+
+[CRED334]
+Derek Basco, Don Nahaku, Donna Cross,
+
+[CRED335]
+Duane Shepard, Ed Seamon, Edwin Hodge,
+
+[CRED336]
+Evelyn Page, Frank Nitty, Frank Sims,
+
+[CRED337]
+Fred Berman, Gary Yudman,
+
+[CRED338]
+Geoffrey Arend, Gil Silverbird,
+
+[CRED339]
+Gisele Richardson, Gordana Rashovich,
+
+[CRED340]
+Gustavo Rex, Hanson Tse, Hanson Tse,
+
+[CRED341]
+Holly Lewis, Hoon Lee, Horacio Romero,
+
+[CRED342]
+Isabella Donato, Ivelka Reyes,
+
+[CRED343]
+Jack Luceno, Jackson Loo, Jameel Vega,
+
+[CRED344]
+James Kennedy, Jamil Smith,
+
+[CRED345]
+Janora McDuffie, Jason Alan Smith,
+
+[CRED346]
+Jayson Gladstone, Jeff Gurner,
+
+[CRED347]
+Jerry Diner, Jesse Perez, Jessica Lugo,
+
+[CRED348]
+Jesus Flores (aka Oppose Da Silence),
+
+[CRED349]
+Jinn S. Kim, Joe Abbate, Joe Holt,
+
+[CRED350]
+John Zurhellen, Jordi Caballero,
+
+[CRED351]
+Jordin Ruderman, Jose Martinez,
+
+[CRED352]
+Julie J. Hafner, Kathy Rossetter,
+
+[CRED353]
+Ken Foree, Kenn Michael, Kenneth Choi,
+
+[CRED354]
+Kevin Mambo, Kinley Doucette,
+
+[CRED355]
+Lance Williams, Lee Rosen, Lee Wong,
+
+[CRED356]
+Lenny Grossi, Leonardo Tejeda,
+
+[CRED357]
+Lloyd Floyd, Lou Martini, Jr.,
+
+[CRED358]
+Mamie-Louise Anderson,
+
+[CRED359]
+Marchand Odette, Marcus Ho,
+
+[CRED360]
+Marina Pincus, Mark Casella,
+
+[CRED361]
+Matt Eyde, Matthew Ballard,
+
+[CRED362]
+Melania Hall, Mella Fazzoli,
+
+[CRED363]
+Messeret Stroman, Michael Cullen,
+
+[CRED364]
+Michael Goz, Michael Winslow,
+
+[CRED365]
+Mike Smith, Mikka Orenstein,
+
+[CRED366]
+Millicent Cho, Monique Lea, Mr. Ko-Bra,
+
+[CRED367]
+Natalie Belcon, Nick Bosco,
+
+[CRED368]
+Nika Futterman, Nina Siemaszko,
+
+[CRED369]
+Noelle Sadler, Oliver Wyman,
+
+[CRED370]
+Omar Scroggins, Pat Nesbitt,
+
+[CRED371]
+Paul Cicero, Paul McCarthy Boyington,
+
+[CRED372]
+Paymon Bahadoran, Philip Cruise,
+
+[CRED373]
+Phillip Jeanmarie, Raynor Scheine,
+
+[CRED374]
+Rick Negron, Rocco Sisto,
+
+[CRED375]
+Rodd Houston, Roderick Covington,
+
+[CRED376]
+Ron Foster, Ron Nakahara,
+
+[CRED377]
+Russell Koplin, Ruth Livier,
+
+[CRED378]
+Ruth Zhang, Sam Reich, Sami Sargent,
+
+[CRED379]
+Sanford Santacroce, Sara Tanaka,
+
+[CRED380]
+Sarah Sido, Shawn Curran, Sonya Walger,
+
+[CRED381]
+Stacey Newman, Stanton Sarjeant,
+
+[CRED382]
+Steve Cirbus, Stevie Ray Dallimore,
+
+[CRED383]
+Sue Jean Kim, Susan Spano, Ted Koch,
+
+[CRED384]
+Tom Sminkey, Tony Romero, Toru Ohno,
+
+[CRED385]
+Toy Connor, Tyler Bunch, Ursula Abbott,
+
+[CRED386]
+Valyn Hall, Vanese Smith,
+
+[CRED387]
+Vernee Watson Johnson, Victor Lirio,
+
+[CRED388]
+Victor Verhaeghe, Vincenetta Gunn,
+
+[CRED389]
+Wai Ching Ho, Wass Stevens,
+
+[CRED390]
+Wilhelm Lewis, Xavier Cadeau
+
+[CRED391]
+Daniel Einzig, Chris Carro,
+
+[CRED392]
+Ryan Rayhill, Anthony Carvalho,
+
+[CRED393]
+Phil Poli, Carmelo Gaeta,
+
+[CRED394]
+Gregg Sanderson, Elizabeth Satterwhite,
+
+[CRED395]
+Francescka Clemens, Oswald Greene,
+
+[CRED396]
+Rich Rosado, Kerry Shaw, Ethan Abeles,
+
+[CRED397]
+Richard Huie
+
+[CRED398]
+Casting by
+
+[CRED399]
+Judy Henderson & Associates
+
+[CRED400]
+Recorded at
+
+[CRED401]
+Digital Arts (NYC)
+
+[CRED402]
+Audio Banks (LA)
+
+[CRED403]
+Pedestrian V.O.s Written by
+
+[CRED404]
+Dan Houser
+
+[CRED405]
+James Worrall
+
+[CRED406]
+DJ Pooh
+
+[CRED407]
+Gregory Johnson
+
+[CRED408]
+Nicole Whelan
+
+[CRED409]
+Sanford Santacroce
+
+[CRED410]
+With help from
+
+[CRED411]
+Noelle Sadler
+
+[CRED412]
+Navid Khonsari
+
+[CRED413]
+Ayana Osada
+
+[CRED414]
+John Zurhellen
+
+[CRED415]
+Kerry Shaw
+
+[CRED416]
+Will Morton
+
+[CRED417]
+Motion Capture Actors
+
+[CRED418]
+Eddie Goines, Billy Griffith,
+
+[CRED419]
+Mustafa Shakir, Ephraim Benton,
+
+[CRED420]
+Jonathan Anderson, Sophina Brown,
+
+[CRED421]
+Kiki Goins, David Anzuelo, Wilhelm Lewis,
+
+[CRED422]
+Darren Lenz, Omar Soriano,
+
+[CRED423]
+Danny Johnson, Mtume Gant,
+
+[CRED424]
+Jose Hernandez, Jr., William McCall,
+
+[CRED425]
+Chandler Parker, David Zayas,
+
+[CRED426]
+Frederick Owens, Charles Loflin,
+
+[CRED427]
+Flora Diaz, Kurt Rhoads, James Yaegashi,
+
+[CRED428]
+Gilbert Cruz, Loose Cannon,
+
+[CRED429]
+Daniel Larlham, Elliot Joseph,
+
+[CRED430]
+Nicole Alifante, Jeffrey C. Hawkins,
+
+[CRED431]
+Chris Tardio, Reza Garakani,
+
+[CRED432]
+Violeta Galagarza, Andrew Dowdey,
+
+[CRED433]
+Av Berkovitz, Blake Remer, Calvin Wilds,
+
+[CRED434]
+Daniel Chanis, Daniel Larlham,
+
+[CRED435]
+Danny Chanis, Elena Goode, Ford Harris,
+
+[CRED436]
+Gable Frazier, Heather Catania,
+
+[CRED437]
+Jay Zaretsky, Jaymie Wisneski,
+
+[CRED438]
+Jayson Gladstone, Jeremy Schaller,
+
+[CRED439]
+Jesse Denes, Jonathan Kurt,
+
+[CRED440]
+Julia Tcharfas, Kareem L. Bunton,
+
+[CRED441]
+Lindsay King Wisneski,
+
+[CRED442]
+M. Russell Foreman,
+
+[CRED443]
+Mary Zielinski, Molly Byrnes,
+
+[CRED444]
+Quindell Willis, Ryan Minnaugh,
+
+[CRED445]
+Tara K. Spencer, Taron Benson,
+
+[CRED446]
+Tiombe Lockhart, Wyatt Knaster,
+
+[CRED447]
+KR3T'S Dance Company www.kr3ts.com,
+
+[CRED448]
+Yoshito Mizutani, Maria Ramos,
+
+[CRED449]
+Julio Samuel Heredia, Jocelyn Rivera
+
+[CRED450]
+Choreographer
+
+[CRED451]
+Violeta Galagarza
+
+[CRED452]
+Casting by
+
+[CRED453]
+Bernard Telsey Casting
+
+[CRED454]
+Recorded at
+
+[CRED455]
+Perspective Studios
+
+[CRD455A]
+Facial Tracking & Animation
+
+[CRD455B]
+Image Metrics PLC
+
+[CRD455C]
+Motion Capture Coordinator
+
+[CRD455D]
+Manny Siviero
+
+[CRED456]
+Models
+
+[CRED457]
+Bart Larson, Carrie Simmons,
+
+[CRED458]
+Casey Adler, Da Vinci, David Parry,
+
+[CRED459]
+DJ Rabiola, Eliot Lee Hazel, Erl,
+
+[CRED460]
+Gabby Tary, Gina Diaz, I Wei Lai,
+
+[CRED461]
+Jeffrey Damnit, Joel Huggins,
+
+[CRED462]
+Leona Babette, Lester Roque, Liz Ard,
+
+[CRED463]
+Vanessa Christel, Vylette Fagerholm,
+
+[CRED464]
+Wayne Rambharose, Armando Cantina,
+
+[CRED465]
+Armando "Wolf" Garcia, Danny Martinez,
+
+[CRED466]
+Eduardo Meza, Frank Alvarez,
+
+[CRED467]
+Kattia M. Ortiz Escobar, Luis Moncada,
+
+[CRED468]
+Michael "Shagg" Washington,
+
+[CRED469]
+Nikki Shandasani aka "DJ Tribe",
+
+[CRED470]
+Roy Garcia, Jr., Trina Vela,
+
+[CRED471]
+Anthony Washington, Briggette Brooks,
+
+[CRED472]
+Chris "Maylay" Bellard,
+
+[CRED473]
+Darius Henderson aka "Black",
+
+[CRED474]
+Darreck Burns, Derrick Edmond,
+
+[CRED475]
+Derrick Ford, Donnie Anderson,
+
+[CRED476]
+George "Tone" Henderson, Jody Terrell,
+
+[CRED477]
+Kenneth Morris, Lashelle Danee Sanders,
+
+[CRED478]
+Marvin C. Watkins, Jr.,
+
+[CRED479]
+Marvin C. Watkins, Sr.,
+
+[CRED480]
+Michael "Mykestro" Gilliam,
+
+[CRED481]
+Rodney Williams, Shamika Shirley,
+
+[CRED482]
+Silvia Mayo, Tony Rushing,
+
+[CRED483]
+Walter "Oowee" Tucker, Billy Griffith,
+
+[CRED484]
+Brad Kagawa, Brian Yang, Bruce Ho,
+
+[CRED485]
+Cheng-Nan Chen, Chris Choi,
+
+[CRED486]
+Chris Plummer, Christina P. Chen,
+
+[CRED487]
+Clint Chin, Daniel Lee, Dave Kim,
+
+[CRED488]
+Diego P. Chen, Ephraim Benton,
+
+[CRED489]
+Futaba Hayashi, Gerri Igrashi,
+
+[CRED490]
+Harvey Fung, Jackson Ning,
+
+[CRED491]
+Jaz Anderson, Jo Yang, Joe LaRue,
+
+[CRED492]
+Kathy Chan, Lance Williams,
+
+[CRED493]
+Liliana Chen, Mark Azarcon,
+
+[CRED494]
+Mayumi Kobayashi, Michael Lew,
+
+[CRED495]
+Mike Hong, Rain Noe, Renaud Sebbane,
+
+[CRED496]
+Rich Huie, Roberto Melendez,
+
+[CRED497]
+Scott Peterman, Steve Knezevich,
+
+[CRED498]
+Sueane Mun, Tim Sweeney
+
+[CRED499]
+Photographers
+
+[CRED500]
+Will Blochinger
+
+[CRED501]
+Dedjora Jutaz / Quad Photo
+
+[CRED502]
+Stylists
+
+[CRED503]
+Daria Hines
+
+[CRED504]
+Evan Ross
+
+[CRED505]
+Publishing team
+
+[CRED506]
+Terry Donovan
+
+[CRED507]
+Jenefer Gross
+
+[CRED508]
+Jennifer Kolbe
+
+[CRED509]
+Jeff Castaneda
+
+[CRED510]
+Adam Tedman
+
+[CRED511]
+Laura Paterson
+
+[CRED512]
+Devin Winterbottom
+
+[CRED513]
+Lucien King
+
+[CRED514]
+Nijiko Walker
+
+[CRED515]
+Andrea Borsuku
+
+[CRED516]
+Jordan Chew
+
+[CRED517]
+Hosi Simon
+
+[CRED518]
+Paul Yeates
+
+[CRED519]
+Gauri Khindaria
+
+[CRED520]
+Bill Woods
+
+[CRED521]
+Dave Kim
+
+[CRED522]
+Daniel Einzig
+
+[CRED523]
+Chris Carro
+
+[CRED524]
+Devin Bennett
+
+[CRED525]
+Ryan Rayhill
+
+[CRED526]
+Harry Allen
+
+[CRED527]
+Michael Carnevale
+
+[CRED528]
+Stu Petri
+
+[CRED529]
+Robert Botsford
+
+[CRED530]
+Jerry Luna
+
+[CRED531]
+Alice Chuang
+
+[CRED532]
+Futaba Hayashi
+
+[CRED533]
+Jake King
+
+[CRED534]
+Richard Kruger
+
+[CRED535]
+John Schuhmann
+
+[CRED536]
+Mike Torok
+
+[CRED537]
+Anthony Carvalho
+
+[CRED538]
+Nick Giovanetti
+
+[CRED539]
+Stanton Sargeant
+
+[CRED540]
+Marlene Yamaguchi
+
+[CRED541]
+Mike Cala
+
+[CRD541A]
+Susan Lewis
+
+[CRD541B]
+Larry Conti
+
+[CRD541C]
+Brian Noto
+
+[CRED542]
+Cover art
+
+[CRED543]
+Steven Olds
+
+[CRED544]
+Stephen Bliss
+
+[CRED545]
+Anthony McBain
+
+[CRED600]
+ROCKSTAR LINCOLN
+
+[CRED601]
+QA Manager
+
+[CRED602]
+Mark Lloyd
+
+[CRED603]
+Deputy QA Manager
+
+[CRED604]
+Tim Bates
+
+[CRED605]
+QA Supervisors
+
+[CRED606]
+Kevin Hobson
+
+[CRED607]
+Kit Brown
+
+[CRED608]
+Charlie Kinloch
+
+[CRED609]
+Test Team
+
+[CRED610]
+Matt Hewitt
+
+[CRED611]
+Phil Alexander
+
+[CRED612]
+Jonathan Stones
+
+[CRED613]
+Steve Bell
+
+[CRED614]
+Eddie Gibson
+
+[CRED615]
+Andy Webster
+
+[CRED616]
+Will Riggott
+
+[CRED617]
+Jon Gittus
+
+[CRED618]
+Dave Lawrence
+
+[CRED619]
+Mike Bennett
+
+[CRED620]
+Localization Test Team
+
+[CRED621]
+Antoine Cabrol
+
+[CRED622]
+Chris Welsh
+
+[CRED623]
+Alain Dellepiane
+
+[CRED624]
+Dominic Garcia
+
+[CRED625]
+François-Xavier Fouchet
+
+[CRED626]
+Stefano Moretti
+
+[CRED627]
+Carsten Arnold
+
+[CRED628]
+Salvador Tintoré
+
+[CRED629]
+I.T Supervisor
+
+[CRED630]
+Nick McVey
+
+[CRED700]
+Thanks To
+
+[CRED701]
+Chris McCallum
+
+[CRED702]
+Chris Morton
+
+[CRED703]
+Deep Sea
+
+[CRED704]
+Jennifer Arthur
+
+[CRED705]
+Jumbos Clownroom
+
+[CRED706]
+Kay Payne
+
+[CRED707]
+Lorna "H-D"
+
+[CRED708]
+Martin & Claire Logan
+
+[CRED709]
+Mike Patton
+
+[CRED710]
+Officer Gregory hue SFPD
+
+[CRED711]
+Pivo
+
+[CRED712]
+Sandy Hutton
+
+[CRED713]
+Sarah Oram
+
+[CRED714]
+Smoke Stack
+
+[CRED715]
+Trattoria Siciliana
+
+[CRED716]
+Black Bull
+
+[CRED999]
+DJ Banter and Commercials Produced by
+
+[CRED998]
+Lazlow
+
+[RATNG53]
+Playa-hater
+
+[RATNG54]
+Scandalous
+
+[RATNG55]
+Off-Brand
+
+[RATNG56]
+Bitch-made
+
+[RATNG57]
+Crackhead
+
+[RATNG1]
+Vic
+
+[RATNG2]
+Square
+
+[RATNG3]
+Civilian
+
+[RATNG4]
+Rat
+
+[RATNG5]
+Snitch
+
+[RATNG6]
+Dry Snitch
+
+[RATNG7]
+Transformer
+
+[RATNG8]
+Punk-ass Bitch
+
+[RATNG9]
+Sucka
+
+[RATNG10]
+Poot Butt
+
+[RATNG11]
+Buster
+
+[RATNG12]
+Mark
+
+[RATNG13]
+Chump
+
+[RATNG14]
+Trick
+
+[RATNG15]
+Red-headed Stepchild
+
+[RATNG16]
+Peon
+
+[RATNG17]
+Pee-Wee
+
+[RATNG18]
+Prankster
+
+[RATNG19]
+Fool
+
+[RATNG20]
+Street Cat
+
+[RATNG21]
+Thug
+
+[RATNG22]
+Hustler
+
+[RATNG23]
+Playa
+
+[RATNG24]
+Playa Partner
+
+[RATNG25]
+Mack
+
+[RATNG26]
+Pimp
+
+[RATNG27]
+Crime Partner
+
+[RATNG28]
+Homeboy
+
+[RATNG29]
+Homie
+
+[RATNG30]
+Road Dawg
+
+[RATNG31]
+Hoodsta
+
+[RATNG32]
+Hard-ass
+
+[RATNG33]
+'Banger
+
+[RATNG34]
+Lil' G
+
+[RATNG35]
+Loc
+
+[RATNG36]
+Jacker
+
+[RATNG37]
+Shooter
+
+[RATNG38]
+Foot-soldier
+
+[RATNG39]
+Hoo-rider
+
+[RATNG40]
+Soldier
+
+[RATNG41]
+Hawg
+
+[RATNG42]
+Gangsta
+
+[RATNG43]
+Ghetto Star
+
+[RATNG44]
+Monster
+
+[RATNG45]
+Big Homie
+
+[RATNG46]
+Boss Hawg
+
+[RATNG47]
+Shot Caller
+
+[RATNG48]
+OG
+
+[RATNG49]
+High Roller
+
+[RATNG50]
+Four-Star General
+
+[RATNG51]
+Godfather
+
+[RATNG52]
+King of San Andreas
+
+[DRIVES2]
+Ecole de conduite
+
+[TAG_ONE]
+Tags recouverts_:~n~~1~ sur ~1~
+
+[TAG_ALL]
+Tous les tags sont recouverts_!
+
+[FEG_HOW]
+Pour prendre une photo avec un appareil, appuie sur ~o~. Tu peux aussi appuyer sur ~K~ et la photo viendra se placer dans ton album.
+
+[FES_CCE]
+Echec de la copie_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.
+
+[STAT129]
+Pneus crevés par balle
+
+[STAT033]
+Budget putes
+
+[STAT008]
+Distance parcourue en hélico
+
+[STAT029]
+Distance parcourue sur vélo d'appartement
+
+[STAT045]
+Plus longue durée sur vélo d'appartement
+
+[SLONDP]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 281_KB d'espace libre pour sauvegarder une première photo et 80_KB d'espace libre pour sauvegarder chaque photo supplémentaire.
+
+[STAT224]
+Respect Mission
+
+[STAT228]
+Respect Mission Total
+
+[STAT161]
+Missions Camionnage réussies
+
+[STAT162]
+Gains en Camionnage
+
+[FE_HLPL]
+~t~ = Reprendre la partie
+
+[FE_HLPN]
+touche START : Reprendre la partie
+
+[STAT334]
+Argent perdu aux jeux
+
+[KILLPA]
+MISSION RODEO REUSSIE_!
+
+[WESTP]
+Queens
+
+[FE_HLPB]
+~M~/~V~ Zoom avant/arrière
+
+[FE_HLPC]
+~o~ Placer marqueur
+
+[FE_HLPP]
+~K~ 1ère Photo
+
+[FE_HLPQ]
+~J~ Dernière Photo
+
+[FE_HLPD]
+~<~~>~ Ajuster
+
+[FE_HLPF]
+~<~~>~ Faire défiler
+
+[FE_HLPO]
+~u~~d~~<~~>~ Faire défiler
+
+[FE_HLPG]
+~u~~d~~<~~>~ Se déplacer
+
+[FE_HLPI]
+~u~~d~ Se déplacer
+
+[FE_HLPR]
+~u~~d~~<~~>~ Ajuster
+
+[FE_HLPS]
+~o~ COPIER PHOTO
+
+[FES_NOF]
+La memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 n'est pas formatée.
+
+[FEC_RSC]
+Station de radio suivante
+
+[FEC_RSP]
+Station de radio précédente
+
+[FEC_TSK]
+Trajet rapide
+
+[FEC_ANP]
+Répondre au téléphone
+
+[FEC_BRA]
+Freiner
+
+[FEC_REV]
+Faire marche arrière
+
+[FEC_TUC]
+Contrôle de la tourelle
+
+[FEC_MCA]
+Caméra manuelle
+
+[FEC_MSC]
+Déplacer lunette
+
+[FEC_LOF]
+Regarder devant
+
+[FEC_VST]
+Voir stats
+
+[FEC_FWT]
+Tirer lors de la visée
+
+[FEC_GAM]
+Mode gang actif
+
+[FEC_GPM]
+Mode gang passif
+
+[FEC_TKP]
+Discussion positive
+
+[FEC_TKN]
+Discussion négative
+
+[FEC_JUM]
+Sauter
+
+[FEC_CLB]
+Escalader
+
+[FEC_ENV]
+Monter dans un véhicule
+
+[FEC_PKU]
+Ramasser un objet
+
+[FEC_USE]
+Utiliser un objet
+
+[FEC_ATT]
+Attaquer
+
+[FEC_FWE]
+Tirer (arme)
+
+[FEC_RUN]
+Sprinter
+
+[FEC_RN2]
+Tapoter- sprinter plus vite
+
+[FEC_CWL]
+Parcourir armes (gauche)
+
+[FEC_ZSI]
+Zoom avant (lunette)
+
+[FEC_CWR]
+Parcourir armes (droite)
+
+[FEC_ZSO]
+Zoom arrière (lunette)
+
+[FEC_TAR]
+Viser en maintenant
+
+[FEC_CR3]
+S'accroupir ~A~
+
+[FEC_DK3]
+Se baisser ~A~
+
+[FEC_STR]
+Pas de côté (vue subjective)
+
+[PROP_3]
+Appuie sur ~K~ pour acheter cette propriété.
+
+[PROP_4]
+Tu peux pas te payer cette propriété.
+
+[FES_SGL]
+Tu veux sauvegarder la photo_?
+
+[FES_PM1]
+Tu veux vraiment copier cette photo_?
+
+[FES_PMM]
+Photo prête pour la copie...~n~~n~Insérer une memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 pour sauvegarder cette photo.
+
+[WRCNT2]
+La manette connectée au port de manette N|2 n'est pas reconnue. Grand Theft Auto: San Andreas requiert une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2).
+
+[WRCNT2E]
+La manette connectée au port de manette N|2 n'est pas reconnue. Grand Theft Auto: San Andreas requiert une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2).
+
+[MCDNSP]
+Pas de memory card (8MB) (pour PlayStation#2) insérée. Insérer une memory card (8MB) (pour PlayStation#2) avec au moins 401_KB d'espace libre dans la fente pour MEMORY CARD N|1 pour pouvoir sauvegarder des données du jeu. Continuer_?
+
+[FEG_DL1]
+Tu veux vraiment effacer toutes les photos de ton album_?
+
+[FEG_PSU]
+Espace photo utilisé_:
+
+[FEM_PWT]
+Un instant...
+
+[FE_HLPM]
+~x~ Effacer
+
+[LG_45]
+Rencard boîte
+
+[LG_46]
+Rencard boire un pot
+
+[LG_47]
+Rencard bouffe
+
+[LG_48]
+Camionnage
+
+[LG_49]
+Destination
+
+[LG_50]
+Objet
+
+[LG_54]
+Ami
+
+[LG_55]
+Menace
+
+[LG_56]
+Intérêt du joueur
+
+[LG_57]
+Fourrière
+
+[LG_51]
+Vol
+
+[STAT326]
+Station de radio préférée
+
+[STAT327]
+Station de radio la moins écoutée
+
+[STAT328]
+Habileté avec l'arme actuelle
+
+[STAT329]
+Niveaux d'habileté avec les armes
+
+[STAT330]
+Classement pilote
+
+[STAT331]
+Gang le plus fort
+
+[STAT332]
+2e gang le plus fort
+
+[STAT333]
+3e gang le plus fort
+
+[STAT246]
+Meilleur temps rodéo 2 joueurs
+
+[STAT247]
+Meilleur temps rodéo en caisse 2 joueurs
+
+[STAT248]
+Meilleur temps rodéo à pied 2 joueurs
+
+[STAT249]
+Meilleur temps rodéo en hélico 2 joueurs
+
+[STAT250]
+Meilleur temps rodéo en moto 2 joueurs
+
+[STAT251]
+Meilleur temps au Jonglage
+
+[MCGNSP]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Insérer une memory card (8MB) (pour PlayStation#2) avec au moins 199_KB d'espace libre dans la fente pour MEMORY CARD N|1, ou libérer des fichiers à l'aide du navigateur interne de la console. Commencer maintenant_?
+
+[NOTEAT]
+Tu commences à avoir une vieille dalle... Tu perds de l'énergie... Faut que tu trouves un truc à bouffer.
+
+[LG_52]
+La course infernale
+
+[LG_53]
+Gym
+
+[STAT154]
+Paquets livrés
+
+[STAT190]
+Putes "essayées"
+
+[SLONDR]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 400_KB d'espace libre pour effectuer une première sauvegarde et 199_KB d'espace libre pour chaque fichier de sauvegarde supplémentaire.
+
+[MCGNDP]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Insérer une memory card (8MB) (pour PlayStation#2) avec au moins 401_KB d'espace libre dans la fente pour MEMORY CARD N|1, ou libérer des fichiers à l'aide du navigateur interne de la console. Commencer maintenant_?
+
+[STAT322]
+Tags recouverts
+
+[INSMCP]
+Echec du chargement_!~n~~n~Aucune memory card (8MB) (pour PlayStation#2) contenant le Mission Pack en cours n'est insérée dans la fente pour MEMORY CARD N|1. Insérer la memory card (8MB) (pour PlayStation#2) contenant le Mission Pack en cours dans la fente pour MEMORY CARD N|1 à nouveau ou commencer une nouvelle partie.
+
+[STAT252]
+Progrès avec Denise
+
+[STAT253]
+Progrès avec Michelle
+
+[STAT254]
+Progrès avec Helena
+
+[STAT255]
+Progrès avec Barbara
+
+[STAT256]
+Progrès avec Katie
+
+[STAT257]
+Progrès avec Millie
+
+[FE_HLPT]
+~J~ Menu Points
+
+[FES_NIM]
+Echec de la sauvegarde_! La memory card (8MB) (pour PlayStation#2) contenant le Mission Pack en cours n'est pas insérée dans la fente pour MEMORY CARD N|1. Réessayer.
+
+[FESZ_MR]
+Commencer une nouvelle partie standard_? La progression actuelle de ce Mission Pack sera perdue. Continuer_?
+
+[FEN_NGX]
+San Andreas (partie standard)
+
+[FEC_ONF]
+A PIED
+
+[FEC_INC]
+EN VEHICULE
+
+[STAT185]
+Rencards foirés
+
+[STAT188]
+Rencards réussis
+
+[LG_14]
+Crash
+
+[LG_26]
+Well Stacked Pizza Co
+
+[LG_11]
+Cluckin' Bell
+
+[LG_09]
+Catalina
+
+[LG_15]
+Emmet
+
+[SLNSP]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 199_KB d'espace libre pour sauvegarder un fichier de sauvegarde supplémentaire sur cette memory card (8MB) (pour PlayStation#2).
+
+[LG_25]
+OG Loc
+
+[STAT048]
+Meilleur temps 8-Track
+
+[STAT049]
+Meilleur temps BMX
+
+[STAT036]
+Argent gagné au Mac-à-dames
+
+[STAT170]
+Noyades
+
+[STAT171]
+Nombre de gagneuses fournies
+
+[STAT210]
+Niveau Mac-à-dames
+
+[STAT211]
+Meilleur score Epreuves
+
+[FE_HLPU]
+~x~ Ecraser photo
+
+[FE_HLPV]
+~t~ Annuler sauvegarde
+
+[GAL_SES]
+Espace libre dans l'album~n~~n~Tu peux sauvegarder ta photo ici sans perdre aucune de tes photos actuelles.
+
+[FEG_DL2]
+Tu veux vraiment effacer cette photo_?
+
+[FEG_DL3]
+Tu veux effacer juste une photo ou toutes les photos de ton album_?
+
+[FEG_DL4]
+Une photo
+
+[FEG_DL5]
+Toutes les photos
+
+[FEG_OVR]
+Tu veux vraiment écraser cette photo_?
+
+[CDERROR]
+Erreur de lecture du disque~n~Grand Theft Auto: San Andreas.
+
+[FEH_CON]
+Manette
+
+[FEC_EXV]
+Sortir d'un véhicule
+
+[FEC_NA]
+ND
+
+[GAL_EGS]
+Espace libre dans l'album~n~~n~Aucune photo à afficher.
+
+[FE_HLPW]
+~x~ Sauvegarder photo
+
+[GA_13]
+Une livraison de pro.~n~Termine la liste et t'auras une prime_!
+
+[GA_14]
+Toutes les caisses. BIEN JOUE_!~n~V'là une petite prime...
+
+[GA_15]
+J'espère que t'aimes la nouvelle couleur.
+
+[GA_16]
+La peinture est offerte_!
+
+[GA_19]
+~r~Ce modèle nous intéresse pas.
+
+[GA_20]
+~r~On en a déjà trop des comme ça.~n~Désolé, mec, mais j'prends pas.
+
+[PU_MONY]
+T'as pas assez de cash.
+
+[GA_3]
+Les cadeaux, c'est fini.~n~100$ pour une nouvelle peinture_!
+
+[GA_1A]
+~r~Reviens quand tu seras moins occupé...
+
+[GA_2]
+On t'a changé le moteur et la peinture_: 100$.~n~Les flics te reconnaîtront jamais_!
+
+[GA_21]
+~w~Tu ne peux pas garder plus de véhicules dans ce garage_!
+
+[GA_5]
+~r~Y a déjà une bombe planquée dans ta caisse.
+
+[GA_7]
+Amorce la bombe avec ~o~. Elle explosera quand le moteur démarrera.
+
+[GA_7B]
+Amorce la bombe avec ~J~. Elle explosera quand le moteur démarrera.
+
+[LANDSTK]
+Landstalker
+
+[BRAVURA]
+Bravura
+
+[BUFFALO]
+Buffalo
+
+[LINERUN]
+Linerunner
+
+[PEREN]
+Perennial
+
+[SENTINL]
+Sentinel
+
+[INFERNU]
+Infernus
+
+[DUMPER]
+Dumper
+
+[FIRETRK]
+Fire Truck
+
+[TRASHM]
+Trashmaster
+
+[STRETCH]
+Stretch
+
+[MANANA]
+Manana
+
+[VOODOO]
+Voodoo
+
+[PONY]
+Pony
+
+[MULE]
+Mule
+
+[CHEETAH]
+Cheetah
+
+[AMBULAN]
+Ambulance
+
+[LEVIATH]
+Leviathan
+
+[HUNTER]
+Hunter
+
+[MOONBM]
+Moonbeam
+
+[ESPERAN]
+Esperanto
+
+[TAXI]
+Taxi
+
+[WASHING]
+Washington
+
+[BOBCAT]
+Bobcat
+
+[WHOOPEE]
+Mr Whoopee
+
+[BFINJC]
+BF Injection
+
+[POLICAR]
+Police
+
+[ENFORCR]
+Enforcer
+
+[SECURI]
+Securicar
+
+[BANSHEE]
+Banshee
+
+[PREDATR]
+Predator
+
+[BUS]
+Bus
+
+[RHINO]
+Rhino
+
+[BARRCKS]
+Barracks
+
+[HOTKNIF]
+Hotknife
+
+[HELI]
+Chopper
+
+[PREVION]
+Previon
+
+[COACH]
+Coach
+
+[CABBIE]
+Cabbie
+
+[STALION]
+Stallion
+
+[RUMPO]
+Rumpo
+
+[RCBANDT]
+RC Bandit
+
+[ROMERO]
+Romero
+
+[PACKER]
+Packer
+
+[MONSTER]
+Monster
+
+[ADMIRAL]
+Admiral
+
+[SQUALO]
+Squalo
+
+[SEASPAR]
+Seasparrow
+
+[PIZZABO]
+Pizzaboy
+
+[TRAM]
+Tram
+
+[AEROPL]
+Air Train
+
+[DODO]
+Dodo
+
+[SPEEDER]
+Speeder
+
+[REEFER]
+Reefer
+
+[TROPIC]
+Tropic
+
+[FLATBED]
+Flatbed
+
+[YANKEE]
+Yankee
+
+[CADDY]
+Caddy
+
+[SOLAIR]
+Solair
+
+[TOPFUN]
+Topfun Van
+
+[SKIMMER]
+Skimmer
+
+[PCJ600]
+PCJ-600
+
+[FAGGIO]
+Faggio
+
+[FREEWAY]
+Freeway
+
+[RCBARON]
+RC Baron
+
+[RCRAIDE]
+RC Raider
+
+[GLENDAL]
+Glendale
+
+[OCEANIC]
+Oceanic
+
+[SANCHEZ]
+Sanchez
+
+[SPARROW]
+Sparrow
+
+[PATRIOT]
+Patriot
+
+[QUAD]
+Quadbike
+
+[COASTG]
+Coastguard
+
+[DINGHY]
+Dinghy
+
+[HERMES]
+Hermes
+
+[SABRE]
+Sabre
+
+[MUSTANG]
+Mustang
+
+[ZR350]
+ZR-350
+
+[WALTON]
+Walton
+
+[REGINA]
+Regina
+
+[COMET]
+Comet
+
+[BMX]
+BMX
+
+[BURRITO]
+Burrito
+
+[CAMPER]
+Camper
+
+[MARQUIS]
+Marquis
+
+[BAGGAGE]
+Baggage
+
+[DOZER]
+Dozer
+
+[MAVERIC]
+Maverick
+
+[SANMAV]
+San Maverick
+
+[RANCHER]
+Rancher
+
+[FBIRANC]
+FBI Rancher
+
+[VIRGO]
+Virgo
+
+[GREENWO]
+Greenwood
+
+[JETMAX]
+Jetmax
+
+[HOTRING]
+Hotring Racer
+
+[SANDKIN]
+Sandking
+
+[BLISTAC]
+Blista Compact
+
+[POLMAV]
+Police Maverick
+
+[BOXBURG]
+Boxville
+
+[BOXVILL]
+Boxville
+
+[BENSON]
+Benson
+
+[MESAA]
+Mesa
+
+[RCGOBLI]
+RC Goblin
+
+[HOTRINA]
+Hotring Racer
+
+[HOTRINB]
+Hotring Racer
+
+[BLOODRA]
+Bloodring Banger
+
+[BLOODRB]
+Bloodring Banger
+
+[SUPERGT]
+Super GT
+
+[ELEGANT]
+Elegant
+
+[JOURNEY]
+Journey
+
+[BIKE]
+Bike
+
+[MTBIKE]
+VTT
+
+[BEAGLE]
+Beagle
+
+[CROPDST]
+Cropduster
+
+[STUNT]
+Stuntplane
+
+[PETROL]
+Tanker
+
+[RDTRAIN]
+Roadtrain
+
+[NEBULA]
+Nebula
+
+[MAJESTC]
+Majestic
+
+[BUCCANE]
+Buccaneer
+
+[LEARJET]
+Learjet
+
+[HARRIER]
+Harrier
+
+[HYDRA]
+Hydra
+
+[FCR900]
+FCR-900
+
+[NRG500]
+NRG-500
+
+[HPV1000]
+HPV1000
+
+[CEMENT]
+Cement Truck
+
+[TOWTRUK]
+Towtruck
+
+[FORTUNE]
+Fortune
+
+[CADRONA]
+Cadrona
+
+[FBITRUK]
+FBI Truck
+
+[WILLARD]
+Willard
+
+[FORKLFT]
+Forklift
+
+[TRACTOR]
+Tractor
+
+[COMBINE]
+Combine Harvester
+
+[FELTZER]
+Feltzer
+
+[REMING]
+Remington
+
+[SLAMVAN]
+Slamvan
+
+[BLADE]
+Blade
+
+[FREIGHT]
+Freight
+
+[STREAK]
+Brown Streak
+
+[VORTEX]
+Vortex
+
+[VINCENT]
+Vincent
+
+[BULLET]
+Bullet
+
+[CLOVER]
+Clover
+
+[SADLER]
+Sadler
+
+[RANGER]
+Ranger
+
+[HUSTLER]
+Hustler
+
+[INTRUDR]
+Intruder
+
+[PRIMO]
+Primo
+
+[CARGOBB]
+Cargobob
+
+[TAMPA]
+Tampa
+
+[SUNRISE]
+Sunrise
+
+[MERIT]
+Merit
+
+[UTILITY]
+Utility Van
+
+[NEVADA]
+Nevada
+
+[YOSEMIT]
+Yosemite
+
+[WINDSOR]
+Windsor
+
+[MONSTA]
+Monster
+
+[MONSTB]
+Monster
+
+[URANUS]
+Uranus
+
+[JESTER]
+Jester
+
+[SULTAN]
+Sultan
+
+[FLAME]
+Flame
+
+[STRATUM]
+Stratum
+
+[ELEGY]
+Elegy
+
+[RAINDNC]
+Raindance
+
+[RCTIGER]
+RC Tiger
+
+[FLASH]
+Flash
+
+[TAHOMA]
+Tahoma
+
+[SAVANNA]
+Savanna
+
+[BANDITO]
+Bandito
+
+[FRFLAT]
+Freight
+
+[STREAKC]
+Brown Streak
+
+[KART]
+Kart
+
+[MOWER]
+Mower
+
+[DUNE]
+Dune
+
+[SWEEPER]
+Sweeper
+
+[BROADWY]
+Broadway
+
+[TORNADO]
+Tornado
+
+[AT400]
+AT-400
+
+[DFT30]
+DFT-30
+
+[HUNTLEY]
+Huntley
+
+[STAFFRD]
+Stafford
+
+[BF400]
+BF-400
+
+[NEWSVAN]
+Newsvan
+
+[TUG]
+Tug
+
+[PETROTR]
+Petrol Truck
+
+[EMPEROR]
+Emperor
+
+[WAYFARE]
+Wayfarer
+
+[FLOAT1]
+Float
+
+[HOTDOG]
+Hotdog
+
+[CLUB]
+Club
+
+[FREIBOX]
+Freight Box
+
+[ROLLER]
+Roller
+
+[ANDROM]
+Andromada
+
+[RCCAM]
+RC Cam
+
+[LAUNCH]
+Launch
+
+[TURISMO]
+Turismo
+
+[PICADOR]
+Picador
+
+[SWATVAN]
+S.W.A.T.
+
+[ALPHA]
+Alpha
+
+[PHOENIX]
+Phoenix
+
+[GLENSHI]
+Glendale
+
+[EUROS]
+Euros
+
+[PREMIER]
+Premier
+
+[SAN_AND]
+San Andreas
+
+[LA]
+Los Santos
+
+[SF]
+San Fierro
+
+[VE]
+Las Venturas
+
+[RED]
+Red County
+
+[FLINTC]
+Flint County
+
+[FLINTR]
+Flint Range
+
+[WHET]
+Whetstone
+
+[ROBAD]
+Tierra Robada
+
+[BONE]
+Bone County
+
+[CHC]
+Las Colinas
+
+[JEF]
+Jefferson
+
+[GLN]
+Glen Park
+
+[LFL]
+Los Flores
+
+[EBE]
+East Beach
+
+[ELS]
+East Los Santos
+
+[PLS]
+Playa del Seville
+
+[ELCO]
+El Corona
+
+[IWD]
+Idlewood
+
+[MUL]
+Mulholland
+
+[LMEX]
+Little Mexico
+
+[CONF]
+Conference Centre
+
+[PER1]
+Pershing Square
+
+[COM]
+Commerce
+
+[MKT]
+Market
+
+[LIND]
+Willowfield
+
+[LDOC]
+Ocean Docks
+
+[LAIR]
+Los Santos International
+
+[BLUF]
+Verdant Bluffs
+
+[VERO]
+Verona Beach
+
+[SMB]
+Santa Maria Beach
+
+[ROD]
+Rodeo
+
+[RIH]
+Richman
+
+[MAR]
+Marina
+
+[VIN]
+Vinewood
+
+[SUN]
+Temple
+
+[GAN]
+Ganton
+
+[LDT]
+Downtown Los Santos
+
+[INT45]
+Mulholland Intersection
+
+[BFC]
+Blackfield Chapel
+
+[RIE]
+Randolph Industrial Estate
+
+[LDM]
+Last Dime Motel
+
+[RSW]
+Rockshore West
+
+[RSE]
+Rockshore East
+
+[LDS]
+Linden Side
+
+[SRY]
+Sobell Rail Yards
+
+[JTS]
+Julius Thruway South
+
+[LVA]
+LVA Freight depot
+
+[VAIR]
+Las Venturas Airport
+
+[GGC]
+Greenglass College
+
+[BFLD]
+Blackfield
+
+[WWE]
+Whitewood Estates
+
+[PINT]
+Pilson Intersection
+
+[YBELL]
+Yellow Bell Golf Course
+
+[JTW]
+Julius Thruway West
+
+[KACC]
+K.A.C.C. Military Fuels
+
+[JTN]
+Julius Thruway North
+
+[JTE]
+Julius Thruway East
+
+[HGP]
+Harry Gold Parkway
+
+[SPIN]
+Spinybed
+
+[LST]
+Linden Station
+
+[BINT]
+Blackfield Intersection
+
+[PRP]
+Prickle Pine
+
+[REDE]
+Redsands East
+
+[REDW]
+Redsands West
+
+[ROCE]
+Roca Escalante
+
+[OVS]
+Old Venturas Strip
+
+[STRIP]
+The Strip
+
+[RING]
+The Clown's Pocket
+
+[ISLE]
+The Emerald Isle
+
+[STAR]
+Starfish Casino
+
+[ROY]
+Royale Casino
+
+[CAM]
+The Camel's Toe
+
+[LOT]
+Come-A-Lot
+
+[PIRA]
+The Pirates in Men's Pants
+
+[VISA]
+The Visage
+
+[CALI]
+Caligula Casino
+
+[DRAG]
+The Four Dragons Casino
+
+[PINK]
+The Pink Swan
+
+[HIGH]
+The High Roller
+
+[CREE]
+Creek
+
+[PILL]
+Pilgrim
+
+[CALT]
+Calton Heights
+
+[SUNMA]
+Bayside Marina
+
+[SUNNN]
+Bayside
+
+[GANTB]
+Gant Bridge
+
+[BATTP]
+Battery Point
+
+[ESPN]
+Esplanade North
+
+[BAYV]
+Palisades
+
+[PARA]
+Paradiso
+
+[JUNIHO]
+Juniper Hollow
+
+[JUNIHI]
+Juniper Hill
+
+[CIVI]
+Santa Flora
+
+[CHINA]
+Chinatown
+
+[SFDWT]
+Downtown
+
+[FINA]
+Financial
+
+[CITYS]
+City Hall
+
+[THEA]
+King's
+
+[GARC]
+Garcia
+
+[HASH]
+Hashbury
+
+[OCEAF]
+Ocean Flats
+
+[DOH]
+Doherty
+
+[CUNTC]
+Avispa Country Club
+
+[HILLP]
+Missionary Hill
+
+[SILLY]
+Foster Valley
+
+[SFAIR]
+Easter Bay Airport
+
+[EASB]
+Easter Basin
+
+[ESPE]
+Esplanade East
+
+[KINC]
+Kincaid Bridge
+
+[KINC1]
+Kincaid Bridge
+
+[KINC2]
+Kincaid Bridge
+
+[GARV]
+Garver Bridge
+
+[GARV1]
+Garver Bridge
+
+[GARV2]
+Garver Bridge
+
+[ELQUE]
+El Quebrados
+
+[ALDEA]
+Aldea Malvada
+
+[PAYAS]
+Las Payasadas
+
+[BRUJA]
+Las Brujas
+
+[BARRA]
+Las Barrancas
+
+[CARSO]
+Fort Carson
+
+[PALMS]
+Green Palms
+
+[OCTAN]
+Octane Springs
+
+[QUARY]
+Hunter Quarry
+
+[BLUEB]
+Blueberry
+
+[DILLI]
+Dillimore
+
+[MONT]
+Montgomery
+
+[MONT1]
+Montgomery
+
+[PALO]
+Palomino Creek
+
+[ANGPI]
+Angel Pine
+
+[MTCHI]
+Mount Chiliad
+
+[PANOP]
+The Panopticon
+
+[BLUAC]
+Blueberry Acres
+
+[HBARNS]
+Hampton Barns
+
+[FERN]
+Fern Ridge
+
+[NROCK]
+North Rock
+
+[HANKY]
+Hankypanky Point
+
+[DAM]
+Barrage Sherman
+
+[TOM]
+Regular Tom
+
+[TOPFA]
+Hilltop Farm
+
+[BACKO]
+Back o Beyond
+
+[CREEK]
+Shady Creeks
+
+[SHACA]
+Shady Cabin
+
+[FARM]
+The Farm
+
+[LEAFY]
+Leafy Hollow
+
+[HAUL]
+Fallen Tree
+
+[EBAY]
+Easter Bay Chemicals
+
+[MEAD]
+Verdant Meadows
+
+[FLINT]
+Flint Range
+
+[BEACO]
+Beacon Hill
+
+[ARCO]
+Arco del Oeste
+
+[ELCA]
+El Castillo del Diablo
+
+[FLINTI]
+Flint Intersection
+
+[MONINT]
+Montgomery Intersection
+
+[ROBINT]
+Robada Intersection
+
+[BYTUN]
+Bayside Tunnel
+
+[ETUNN]
+Easter Tunnel
+
+[MULINT]
+Mulholland Intersection
+
+[REST]
+Restricted Area
+
+[PROBE]
+Lil' Probe Inn
+
+[BIGE]
+'The Big Ear' Radio Telescope
+
+[VALLE]
+Valle Ocultado
+
+[MAKO]
+The Mako Span
+
+[FALLO]
+Fallow Bridge
+
+[MART]
+Martin Bridge
+
+[FRED]
+Frederick Bridge
+
+[FLINW]
+Flint Water
+
+[FISH]
+Fisher's Lagoon
+
+[SANB]
+San Fierro Bay
+
+[SANB2]
+San Fierro Bay
+
+[SHERR]
+Sherman Reservoir
+
+[SASO]
+San Andreas Sound
+
+[LSINL]
+Los Santos Inlet
+
+[OPEN]
+'OPEN OCEAN'
+
+[UNITY]
+Unity Station
+
+[MARKST]
+Market Station
+
+[CRANB]
+Cranberry Station
+
+[LINDEN]
+Linden Station
+
+[YELLOW]
+Yellow Bell Station
+
+[AMMUN1]
+Ammu-Nation
+
+[AMMUN2]
+Ammu-Nation
+
+[AMMUN3]
+Ammu-Nation
+
+[AMMUN4]
+Ammu-Nation
+
+[AMMUN5]
+Ammu-Nation
+
+[LACS1]
+Sub Urban
+
+[CSCHP]
+Binco
+
+[CSSPRT]
+Pro-Laps
+
+[CSDESGN]
+Victim
+
+[CSEXL]
+Didier Sachs
+
+[CLOTHGP]
+Zip
+
+[FDCHICK]
+Cluckin' Bell
+
+[FDBURG]
+Burger Shot
+
+[FDPIZA]
+Pizza Stack
+
+[FDDONUT]
+Rusty Brown's
+
+[FDREST1]
+World of Coq
+
+[REST2]
+Secret Valley
+
+[DINER1]
+Resto
+
+[DINER2]
+Resto
+
+[TATTOO]
+Tatoueur
+
+[BARBERS]
+Coiffeur
+
+[BARBER2]
+Coiffeur
+
+[BARBER3]
+Coiffeur
+
+[JEWEL1]
+De Koch
+
+[JEWEL2]
+De Koch
+
+[X7_11S]
+24-7
+
+[X7_11B]
+24-7
+
+[X7_11C]
+24-7
+
+[X7_11D]
+24-7
+
+[X711S2]
+24-7
+
+[X711S3]
+24-7
+
+[CDS]
+CD Shop
+
+[SEX2]
+Sex Shop
+
+[SEXSHOP]
+Sex Shop
+
+[ELECTRC]
+Schnidt & Priss
+
+[ELEC1]
+Arcox Electrical
+
+[ELEC2]
+Cheap Electrical
+
+[FURNCHP]
+Cheap Furn
+
+[FURNMRF]
+Homebuys
+
+[FURNIKA]
+Nice Idea
+
+[FURNDES]
+Tableau
+
+[FURNEXP]
+Helmut
+
+[GYM1]
+Ganton Gym
+
+[GYM2]
+Cobra Marital Arts
+
+[GYM3]
+Below the Belt Gym
+
+[POLICE1]
+Central police LS
+
+[POLICE2]
+Central police SF
+
+[POLICE3]
+Central police LV
+
+[HOSP1]
+Hôpital 1
+
+[HOSP2]
+Hôpital 2
+
+[HOSP3]
+Hôpital 3
+
+[MOTEL2]
+Motel
+
+[CARMOD1]
+TransFender
+
+[CARMOD2]
+Loco Low Co.
+
+[CARMOD3]
+Wheel Arch Angels
+
+[SFHSM1]
+Maison
+
+[SFHSM2]
+Maison
+
+[SFHSB1]
+Maison
+
+[SFHSB2]
+Maison
+
+[SFHSB3]
+Maison
+
+[VGHSS1]
+Maison
+
+[VGHSM2]
+Maison
+
+[VGHSM3]
+Maison
+
+[VGHSB1]
+Maison
+
+[VGHSB3]
+Maison
+
+[BAR1]
+Club
+
+[BAR2]
+Bar
+
+[STRIP2]
+Club de striptease
+
+[CASINO2]
+Etage du casino
+
+[BROTHEL]
+Maison close
+
+[BROTHL2]
+Bordel
+
+[BROTHL3]
+Bordel
+
+[GENWRHS]
+Entrepôt
+
+[GENOTB]
+Bureau de paris
+
+[CHECK]
+Guichet
+
+[CARLS]
+La Maison des Johnson
+
+[MADDOGS]
+Baraque de Madd Dogg
+
+[BURHOUS]
+Chez le colonel Fuhrberger
+
+[GANG]
+Maison du Gang des Vagos
+
+[OGLOCS]
+Chez OG Loc
+
+[SWEETS]
+Maison de Sweet
+
+[RYDERS]
+Chez Ryder
+
+[MOTEL1]
+Jefferson Motel
+
+[CARTER]
+Palais du crack de Smoke
+
+[PDOMES]
+The Pleasure Domes
+
+[DRIVES]
+Ecole de conduite
+
+[RCPLAY]
+Boutique de Zero
+
+[WUZIBET]
+Chez Woozie
+
+[ABATOIR]
+Abattoir Sindacco
+
+[PLANDEP]
+Service de l'urbanisme
+
+[MAFCAS]
+Caligula Casino
+
+[MAFCAS2]
+Appartements de luxe
+
+[ST_PR01]
+Pilote
+
+[ST_PR02]
+Aviateur
+
+[ST_PR03]
+Officier
+
+[ST_PR04]
+Caporal
+
+[ST_PR05]
+Lieutenant
+
+[ST_PR06]
+Sergent
+
+[ST_PR07]
+Capitaine
+
+[ST_PR08]
+Biggs
+
+[ST_PR09]
+Wedge
+
+[ST_PR10]
+Baron rouge
+
+[ST_PR11]
+Goose
+
+[ST_PR12]
+Viper
+
+[ST_PR13]
+Jester
+
+[ST_PR14]
+Chappy
+
+[ST_PR15]
+Iceman
+
+[ST_PR16]
+Maverick
+
+[ST_PR17]
+Noops
+
+[ST_PR18]
+Maréchal de l'air
+
+[ST_PR19]
+As
+
+[FET_LG]
+Charger partie
+
+[STHC_01]
+Meilleur score à Shooter
+
+[STHC_02]
+Meilleur pourcentage à Shooter
+
+[STHC_03]
+Deals effectués
+
+[NEW_REC]
+~g~Nouveau record établi_! ~w~~1~ minutes ~g~et ~w~~1~ secondes.
+
+[STHC_04]
+Record de jonglage avec le ballon de plage
+
+[STHC_05]
+Meilleur résultat au Hotring
+
+[STFT_21]
+Meilleur temps au Hotring
+
+[STFT_22]
+Meilleur temps au tour au Hotring
+
+[FEST_BB]
+Bling-bling Scramble:
+
+[FEST_H0]
+Nombre max. de points de passage
+
+[FEST_GC]
+Caisses de gang bousillées_:
+
+[FEST_H1]
+Diablo destruction
+
+[FEST_H2]
+Mafia Massacre
+
+[FEST_H3]
+Casino Calamity
+
+[FEST_H4]
+Rumpo Wrecker
+
+[SN_ONE]
+Photo ~1~ sur ~1~
+
+[SN_ALL]
+T'as pris toutes les photos_!
+
+[HO_ONE]
+Fers à cheval_: ~1~ sur ~1~
+
+[HO_ALL]
+T'as trouvé tous les fers à cheval_!
+
+[OY_ONE]
+Huîtres_: ~1~ sur ~1~
+
+[OY_ALL]
+T'as trouvé toutes les huîtres_!
+
+[DEAD]
+T'es mort_!
+
+[BUSTED]
+Chopé_!
+
+[USJ]
+BONUS POUR CASCADE UNIQUE_!
+
+[USJ_ALL]
+T'AS REUSSI TOUTES LES CASCADES UNIQUES_!
+
+[PU_CF1]
+Appuie sur ~K~ pour prendre cette arme. Elle remplacera toute arme du même type, si t'en as.
+
+[PU_CF3]
+Appuie sur ~t~ pour remplacer l'arme actuellement à cet emplacement.
+
+[PU_CF4]
+Appuie sur ~o~ pour remplacer l'arme actuellement à cet emplacement.
+
+[STOCK]
+~r~en rupture de stock
+
+[PROP_1]
+T'as pas assez de cash pour acheter cette propriété.
+
+[PROP_2]
+Tu peux pas acheter une propriété pendant une mission.
+
+[ANSWER]
+Appuie sur ~K~ pour répondre à ton portable.
+
+[ANSWER0]
+C'est un appel de Denise. Appuie sur ~K~ pour répondre au téléphone.
+
+[ANSWER1]
+C'est un appel de Michelle. Appuie sur ~K~ pour répondre au téléphone.
+
+[ANSWER2]
+C'est un appel de Helena. Appuie sur ~K~ pour répondre au téléphone.
+
+[ANSWER3]
+C'est un appel de Barbara. Appuie sur ~K~ pour répondre au téléphone.
+
+[ANSWER4]
+C'est un appel de Katie. Appuie sur ~K~ pour répondre au téléphone.
+
+[ANSWER5]
+C'est un appel de Millie. Appuie sur ~K~ pour répondre au téléphone.
+
+[GA_8]
+Utilise le détonateur pour amorcer la bombe.
+
+[GA_12]
+Bombe amorcée
+
+[GA_1]
+~r~Hé_! J'touche pas à ça, moi, c'est trop risqué_!
+
+[GA_22]
+Ta copine a réparé ton véhicule.
+
+[GA_4]
+Chaque bombe pour voiture coûte 500$ pièce.
+
+[GA_6]
+Gare-la, amorce la bombe avec ~o~ ou ~K~ et CASSE-TOI_!
+
+[GA_6B]
+Gare-la, amorce la bombe avec ~J~ et CASSE-TOI_!
+
+[SKIP]
+Plus tard, ce jour-là...
+
+[FEN_NET]
+JEU EN RESEAU
+
+[FEN_SCO]
+CHOISIR CONFIGURATION
+
+[FEN_HOS]
+HEBERGER PARTIE
+
+[FEN_JON]
+REJOINDRE PARTIE
+
+[FEN_PRO]
+PROTOCOLE_:
+
+[FEN_HAR]
+MATERIEL_:
+
+[FEN_ISP]
+NOM ISP_:
+
+[FET_SG]
+Sauvegarder partie
+
+[FEH_BRI]
+Briefing
+
+[FEH_DIS]
+Video
+
+[FEH_MAP]
+Carte
+
+[FEM_OK]
+OK
+
+[FEC_CRO]
+S'accroupir
+
+[FEC_LB4]
+Regarder derrière ~C~
+
+[FEC_SMT]
+Sous-mission
+
+[FEC_SM3]
+Sous-mission ~C~
+
+[LOADCOL]
+Chargement...
+
+[FEM_SL1]
+Pas de fichier de sauvegarde 1
+
+[FEM_SL2]
+Pas de fichier de sauvegarde 2
+
+[FEM_SL3]
+Pas de fichier de sauvegarde 3
+
+[FEM_SL4]
+Pas de fichier de sauvegarde 4
+
+[FEM_SL5]
+Pas de fichier de sauvegarde 5
+
+[FEM_SL6]
+Pas de fichier de sauvegarde 6
+
+[FEM_SL7]
+Pas de fichier de sauvegarde 7
+
+[FEM_SL8]
+Pas de fichier de sauvegarde 8
+
+[FEA_CHA]
+Changement de la sortie audio en STEREO. Un instant...
+
+[FEI_SEL]
+~x~ sélection
+
+[FEI_BAC]
+~t~ retour
+
+[FEI_STO]
+Stop
+
+[MAP_LEG]
+Légende
+
+[FEI_HOL]
+Maintenir
+
+[FEI_ZOO]
+Zoom
+
+[FEI_BTR]
+> < -
+
+[FEI_NA]
+N\D
+
+[MESA]
+Mesa Grande
+
+[LG_01]
+Position joueur
+
+[LG_02]
+Cimetière d'avions
+
+[LG_03]
+Ammu-Nation
+
+[LG_04]
+Coiffeur
+
+[LG_05]
+Big Smoke
+
+[LG_06]
+Parc à bateaux
+
+[LG_07]
+Burger Shot
+
+[LG_08]
+Catalina
+
+[LG_10]
+Cesar
+
+[LG_12]
+CJ
+
+[LG_13]
+Crash
+
+[LG_16]
+Attaque ennemie
+
+[LG_17]
+Tirer
+
+[LG_18]
+Copine
+
+[LG_19]
+Hôpital
+
+[LG_20]
+Loco
+
+[LG_21]
+Maddog
+
+[LG_22]
+Mafia
+
+[LG_23]
+MC Strap
+
+[LG_24]
+Mod Garage
+
+[LG_27]
+Police
+
+[LG_28]
+Propriété à vendre
+
+[LG_29]
+Propriété hors du marché
+
+[LG_30]
+Course
+
+[LG_31]
+Ryder
+
+[LG_32]
+Point de sauvegarde
+
+[LG_33]
+Ecole
+
+[LG_34]
+Pay 'n' Spray
+
+[LG_35]
+Sweet
+
+[LG_36]
+Tatouages
+
+[LG_37]
+Truth
+
+[LG_38]
+Toreno
+
+[LG_39]
+Ranch de Toreno
+
+[LG_40]
+Triades
+
+[LG_41]
+Casino des triades
+
+[LG_42]
+Boutique de fringues
+
+[LG_43]
+Woozie
+
+[LG_44]
+Zero
+
+[MAP_YAH]
+T'ES ICI
+
+[FE_MLG]
+Légende de la carte
+
+[FED_RDR]
+MODE RADAR
+
+[FED_HUD]
+MODE INTERFACE
+
+[FED_BLP]
+Points radar
+
+[FED_BL1]
+Emplacements
+
+[FED_BL2]
+Contacts
+
+[FED_BL3]
+Mission
+
+[FED_BL4]
+Autre
+
+[FED_RDB]
+POINTS
+
+[FEC_ABR]
+Accélérer, freiner ou reculer
+
+[FEI_SCR]
+Faire défiler
+
+[FED_RDM]
+CARTE & POINTS
+
+[FEC_ILU]
+Inverser vue
+
+[FEM_STE]
+UTILISER STEREO
+
+[GREET]
+Greetings from...
+
+[FEM_ON]
+AVEC
+
+[FEM_OFF]
+SANS
+
+[FEM_YES]
+Oui
+
+[FEM_NO]
+Non
+
+[FEC_MOV]
+Se déplacer
+
+[FEC_GAN]
+Contrôler le gang
+
+[FEC_CAM]
+Modes caméra
+
+[FEC_PAU]
+Mettre en pause
+
+[FEC_FPC]
+Caméra vue subjective
+
+[FEC_LL]
+Regarder à gauche
+
+[FEC_LB]
+Regarder derrière
+
+[FEC_LR]
+Regarder à droite
+
+[FEC_HOR]
+Klaxonner
+
+[FEC_VES]
+Commandes du véhicule
+
+[FEC_HAB]
+Actionner le frein à main
+
+[FEC_CAW]
+Arme du véhicule
+
+[FEC_ACC]
+Accélérer
+
+[FEC_CCF]
+Configuration
+
+[FEC_CF1]
+Config. 1
+
+[FEC_CF2]
+Config. 2
+
+[FEC_CF3]
+Config. 3
+
+[FEC_CF4]
+Config. 4
+
+[FEC_CDP]
+Type de manette
+
+[FEC_VIB]
+Vibration
+
+[FEL_ENG]
+Anglais
+
+[FEL_FRE]
+Français
+
+[FEL_GER]
+Allemand
+
+[FEL_ITA]
+Italien
+
+[FEL_SPA]
+Espagnol
+
+[FED_DBG]
+Menu Debug
+
+[FED_RID]
+Reload IDE
+
+[FED_RIP]
+Reload IPL
+
+[FED_PAH]
+Parse Heap
+
+[FED_DFL]
+CTheScripts::DbgFlag
+
+[FED_DLS]
+Big White Debug Light Switched
+
+[FED_SPR]
+Show Ped Road Groups
+
+[FED_SCR]
+Show Car Road Grups
+
+[FED_SCZ]
+Show Cull Zones
+
+[FED_DSR]
+Debug Streaming Requests
+
+[FED_SCP]
+gbShowCollisionPolys
+
+[FEM_MCM]
+MemCard Menu
+
+[FEM_RMC]
+Register MemCard One
+
+[FEM_TFM]
+Test Format MemCard One
+
+[FEM_TUM]
+Test UnFormat MemCard One
+
+[FEM_CRD]
+Create Root Dir
+
+[FEM_CLI]
+Create And Load Icons
+
+[FEM_FFF]
+Fill First File with Guff
+
+[FEM_SOG]
+Save Only The Game
+
+[FEM_STG]
+Save The Game
+
+[FEM_STS]
+Save The Game under GTA3 name
+
+[FEM_CPD]
+Create copy protected mag directory
+
+[FEM_MC2]
+MemCard Menu 2
+
+[FEM_TS]
+Test Save:
+
+[FEM_TL]
+Test Load:
+
+[FEM_TD]
+Test Delete:
+
+[PL_STAT]
+Player stats
+
+[PER_COM]
+Pourcentage terminé
+
+[ACCURA]
+Précision
+
+[TOP_SHO]
+Meilleur score au stand de tir
+
+[SHO_RAN]
+Classement au stand de tir
+
+[GAMBSPN]
+Argent dépensé aux jeux
+
+[GAMBWON]
+Argent gagné aux jeux
+
+[LARGWIN]
+Plus gros gain aux jeux
+
+[ST_RAN0]
+Apprenti
+
+[ST_RAN1]
+Navigateur
+
+[ST_RAN2]
+Copilote
+
+[ST_RAN3]
+Junior
+
+[ST_RAN4]
+Compétent
+
+[ST_RAN5]
+Senior
+
+[ST_RAN6]
+As
+
+[ST_RAN7]
+Baron rouge
+
+[INSTUN]
+Cascade de taré
+
+[PRINST]
+Cascade de taré parfaite
+
+[DBINST]
+Double cascade de taré
+
+[DBPINS]
+Double cascade de taré parfaite
+
+[TRINST]
+Triple cascade de taré
+
+[PRTRST]
+Triple cascade de taré parfaite
+
+[QUINST]
+Quadruple cascade de taré
+
+[PQUINS]
+Quadruple cascade de taré parfaite
+
+[NOSTUC]
+Aucune cascade de taré réalisée
+
+[CRIMRA]
+Taux de criminalité_:
+
+[SET1EN]
+Config. 1 activée
+
+[GMSAVE]
+Sauvegarder partie
+
+[FEDS_TB]
+Retour
+
+[FEST_OO]
+sur
+
+[FEC_RS3]
+Faire défiler les stations de radio ~A~
+
+[FEC_HO3]
+Klaxonner ~A~
+
+[NOCONT]
+Connecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|1 pour continuer.
+
+[NOCONTE]
+Reconnecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|1 pour continuer.
+
+[WRCONT]
+La manette connectée au port de manette N|1 n'est pas reconnue. Grand Theft Auto: San Andreas requiert une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2).
+
+[WRCONTE]
+La manette connectée au port de manette N|1 n'est pas reconnue. Grand Theft Auto: San Andreas requiert une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2).
+
+[WRONGCD]
+Disque non valide. Insérer le bon disque.
+
+[NOCD]
+Le compartiment à disque est vide. Insérer le disque.
+
+[OPENCD]
+Le compartiment à disque est ouvert. Refermer le compartiment à disque.
+
+[RESTART]
+Lancement d'une nouvelle partie. Un instant...
+
+[FESZ_CA]
+Annuler
+
+[FES_NGA]
+Nouvelle partie
+
+[FES_CAN]
+Annuler
+
+[PAGE_00]
+.
+
+[WELCOME]
+WELCOME TO
+
+[CHEAT1]
+Code activé
+
+[CHEAT2]
+Code arme
+
+[CHEAT3]
+Code santé
+
+[CHEAT4]
+Code protection
+
+[CHEAT5]
+Code indice de recherche
+
+[CHEAT6]
+Code argent
+
+[CHEAT7]
+Code météo
+
+[FEM_RET]
+Réessayer
+
+[WARNING]
+Attention
+
+[FEC_FIR]
+Tirer
+
+[FEC_NWE]
+Arme suivante
+
+[FEC_PWE]
+Arme précédente
+
+[FEC_FOR]
+Avancer
+
+[FEC_BAC]
+Reculer
+
+[FEC_LEF]
+Aller à gauche
+
+[FEC_RIG]
+Aller à droite
+
+[FEC_ZIN]
+Zoom avant
+
+[FEC_ZOT]
+Zoom arrière
+
+[FEC_EEX]
+Monter+descendre
+
+[FEC_RAD]
+Radio
+
+[FEC_SUB]
+Sous-mission
+
+[FEC_CMR]
+Changer de caméra
+
+[FEC_JMP]
+Sauter
+
+[FEC_SPN]
+Sprinter
+
+[FEC_HND]
+Frein à main
+
+[FEC_LOL]
+Regarder à gauche
+
+[FEC_LOR]
+Regarder à droite
+
+[FEC_NTR]
+Cible suivante
+
+[FEC_PTT]
+Cible précédente
+
+[FEC_LBA]
+Regarder derrière
+
+[FEC_CEN]
+Centrer la caméra
+
+[FET_CCN]
+Classique
+
+[FET_SCN]
+Standard
+
+[FET_CFT]
+A PIED
+
+[FET_CCR]
+EN CAISSE
+
+[FET_CAC]
+ACTION
+
+[FEC_IBT]
+-
+
+[FEC_MXO]
+MXB1
+
+[FEC_MXT]
+MXB2
+
+[FEC_UNB]
+UNBOUND
+
+[FEC_TFL]
+Regarder G+Tourelle G
+
+[FEC_TFR]
+Regarder D+Tourelle D
+
+[FEC_MWF]
+MS WHEEL UP
+
+[FEC_MWB]
+MS WHEEL DN
+
+[FEC_ORR]
+ou
+
+[FEC_NUS]
+NON UTILISE
+
+[FEC_LUD]
+Regarder en haut
+
+[FEC_LDU]
+Regarder en bas
+
+[FEC_CMP]
+COMBO_: REGARDER G+D
+
+[FEH_STA]
+Stats
+
+[FEH_LOA]
+Jeu
+
+[FEH_GAL]
+Album
+
+[FEH_AUD]
+Audio
+
+[FEH_LAN]
+Langue
+
+[FEH_SGA]
+COMMENCER NOUVELLE PARTIE
+
+[FEO_CON]
+Configuration manette
+
+[FEO_AUD]
+Configuration audio
+
+[FEO_DIS]
+Configuration affichage
+
+[FEO_LAN]
+Configuration langue
+
+[FEO_PLA]
+Player Setup
+
+[FEA_MUS]
+Radio
+
+[FEA_SFX]
+Effets sonores
+
+[FEA_BAS]
+Correcteur fréq. radio
+
+[FEA_OUT]
+Sortie
+
+[FEA_MON]
+Mono
+
+[FEA_ST]
+Stéréo
+
+[FEA_DPL]
+Pro Logic II
+
+[FEA_RSS]
+Station de radio
+
+[FEA_NON]
+RADIO COUPEE
+
+[FEA_FM0]
+CLASSIC ROCK
+
+[FEA_FM1]
+DISCO FUNK
+
+[FEA_FM2]
+RARE GROOVE
+
+[FEA_FM3]
+HOUSE CLASSICS
+
+[FEA_FM4]
+EARLY RAVE
+
+[FEA_FM5]
+NEW JACK SWING
+
+[FEA_FM6]
+CLASSIC HIP HOP
+
+[FEA_FM7]
+MODERN ROCK
+
+[FEA_FM8]
+REGGAE
+
+[FEA_FM9]
+MODERN HIP HOP
+
+[FEA_R0]
+Playback FM
+
+[FEA_R1]
+K Rose
+
+[FEA_R2]
+K-DST
+
+[FEA_R3]
+Bounce FM
+
+[FEA_R4]
+SF-UR
+
+[FEA_R5]
+Radio Los Santos
+
+[FEA_R6]
+Radio X
+
+[FEA_R7]
+CSR 103.2
+
+[FEA_R8]
+K-Jah West
+
+[FEA_R9]
+Master Sounds 98.3
+
+[FEA_R10]
+WCTR
+
+[FEA_ART]
+REGLAGE RADIO AUTO
+
+[FED_BRI]
+Luminosité
+
+[FED_TRA]
+Trails
+
+[FED_SUB]
+Sous-titres
+
+[FED_WIS]
+Ecran Large
+
+[FED_POS]
+Position écran
+
+[FEP_RES]
+Reprendre
+
+[FEP_STG]
+Commencer partie
+
+[FEP_STA]
+Stats
+
+[FEP_BRI]
+Briefings
+
+[FEP_OPT]
+Options
+
+[FEP_QUI]
+Quitter partie
+
+[FES_LOA]
+Charger partie
+
+[FES_DEL]
+Effacer partie
+
+[FEC_CSU]
+Configuration manette
+
+[FEC_RED]
+Réassigner commandes
+
+[FEC_MOU]
+Paramètres souris
+
+[FET_STI]
+Configuration commandes standard
+
+[FET_CTI]
+Configuration commandes classique
+
+[ST_FAVR]
+Station de radio préférée
+
+[ST_WSTR]
+Station de radio la moins écoutée
+
+[ST_FAVV]
+Véhicule préféré
+
+[ST_GNG0]
+Ballas
+
+[ST_GNG1]
+Familles de Grove Street
+
+[ST_GNG2]
+Vagos de Los Santos
+
+[ST_GNG3]
+Rifas de San Fierro
+
+[ST_GNG4]
+Da Nang Boys
+
+[ST_GNG5]
+Mafia
+
+[ST_GNG6]
+Mountain Cloud Boys
+
+[ST_GNG7]
+Varrios Los Aztecas
+
+[ST_GNG8]
+Gang 9
+
+[ST_GNG9]
+Gang 10
+
+[ST_LAB0]
+Le plus gros gang
+
+[ST_LAB1]
+2e plus gros gang
+
+[ST_LAB2]
+3e plus gros gang
+
+[DAY_1]
+DIM
+
+[DAY_2]
+LUN
+
+[DAY_3]
+MAR
+
+[DAY_4]
+MER
+
+[DAY_5]
+JEU
+
+[DAY_6]
+VEN
+
+[DAY_7]
+SAM
+
+[ST_INC]
+~a~_: augmentation de ~1~,~1~ Nouvelle valeur_: ~1~,~1~
+
+[ST_DEC]
+~a~_: diminution de ~1~,~1~ Nouvelle valeur_: ~1~,~1~
+
+[ST_REG]
+~a~_: ~1~,~1~ enregistré(s) Nouvelle valeur_: ~1~,~1~
+
+[ST_SET]
+~a~_: réglage sur ~1~,~1~ Nouvelle valeur_: ~1~,~1~
+
+[ST_MILE]
+miles
+
+[ST_SECS]
+secondes
+
+[TOT_DIS]
+Distance totale parcourue
+
+[STWE001]
+Pistolet
+
+[STWE002]
+Pistolet avec silencieux
+
+[STWE003]
+Desert Eagle
+
+[STWE004]
+Fusil à pompe
+
+[STWE005]
+Fusil à canon scié
+
+[STWE006]
+Fusil de combat
+
+[STWE007]
+Pistolet mitrailleur
+
+[STWE008]
+Mitraillette
+
+[STWE009]
+AK-47
+
+[STWE010]
+M4
+
+[STWE011]
+Tec9
+
+[WS_POOR]
+Faible
+
+[WS_STD]
+Gangster
+
+[WS_PRO]
+Tueur
+
+[STAT000]
+Progrès réalisés
+
+[STAT001]
+Progrès total
+
+[STAT002]
+Panier le plus éloigné
+
+[STAT003]
+Distance parcourue à pied
+
+[STAT004]
+Distance parcourue en caisse
+
+[STAT005]
+Distance parcourue en moto
+
+[STAT006]
+Distance parcourue en bateau
+
+[STAT007]
+Distance parcourue en voiturette
+
+[STAT009]
+Distance parcourue en avion
+
+[STAT010]
+Distance max. sur roue arrière
+
+[STAT011]
+Distance max. sur roue avant
+
+[STAT012]
+Distance max. sur 2 roues
+
+[STAT013]
+Budget armement
+
+[STAT014]
+Budget fringues
+
+[STAT015]
+Budget immobilier
+
+[STAT016]
+Budget réparation et peinture véhicules
+
+[STAT017]
+Temps max. sur roue arrière
+
+[STAT018]
+Temps max. sur roue avant
+
+[STAT019]
+Temps max. sur 2 roues
+
+[STAT020]
+Budget bouffe
+
+[STAT021]
+Graisse
+
+[STAT022]
+Endurance
+
+[STAT023]
+Muscle
+
+[STAT024]
+Santé max.
+
+[STAT025]
+Sex-appeal
+
+[STAT026]
+Distance parcourue à la nage
+
+[STAT027]
+Distance parcourue en vélo
+
+[STAT028]
+Distance parcourue sur tapis de jogging
+
+[STAT030]
+Budget tatouages
+
+[STAT031]
+Budget coiffeur
+
+[STAT032]
+Budget copines
+
+[STAT034]
+Budget meubles
+
+[STAT035]
+Argent dépensé aux jeux
+
+[STAT037]
+Argent gagné aux jeux
+
+[STAT038]
+Plus gros gain aux jeux
+
+[STAT039]
+Plus grosse perte aux jeux
+
+[STAT040]
+Plus gros butin de cambriolage
+
+[STAT041]
+Argent des cambriolages
+
+[STAT042]
+Argent dépensé dans l'immobilier
+
+[STAT043]
+Argent dépensé en décoration
+
+[STAT044]
+Temps max. sur tapis de jogging
+
+[STAT046]
+Poids soulevé le plus lourd
+
+[STAT047]
+Haltères soulevés les plus lourds
+
+[STAT050]
+Poids min.
+
+[STAT051]
+Temps max. de poursuite 5 étoiles
+
+[STAT052]
+Temps dernière poursuite 5 étoiles
+
+[STAT053]
+Masse salariale
+
+[STAT054]
+Budget club de striptease
+
+[STAT055]
+Budget modification caisse
+
+[STAT056]
+Temps passé en shopping
+
+[STAT057]
+Temps passé à jouer de l'argent
+
+[STAT058]
+Temps passé sur la plus longue mission
+
+[STAT059]
+Temps passé sur la plus courte mission
+
+[STAT060]
+Temps de mission moyen
+
+[STAT061]
+Budget drogue
+
+[STAT062]
+Budget shopping total
+
+[STAT063]
+Temps passé sous l'eau
+
+[STAT064]
+Respect total
+
+[STAT065]
+Respect copines
+
+[STAT066]
+Respect fringues
+
+[STAT067]
+Respect forme physique
+
+[STAT068]
+Respect
+
+[STAT069]
+Habileté pistolet
+
+[STAT070]
+Habileté pistolet à silencieux
+
+[STAT071]
+Habileté Desert Eagle
+
+[STAT072]
+Habileté fusil à pompe
+
+[STAT073]
+Habileté fusil à canon scié
+
+[STAT074]
+Habileté fusil de combat
+
+[STAT075]
+Habileté pistolet mitrailleur
+
+[STAT076]
+Habileté mitraillette
+
+[STAT077]
+Habileté AK-47
+
+[STAT078]
+Habileté M4
+
+[STAT079]
+Habileté fusil de précision
+
+[STAT080]
+Apparence
+
+[STAT081]
+Jeux
+
+[STAT120]
+Personnes butées par d'autres
+
+[STAT121]
+Personnes butées par toi
+
+[STAT122]
+Véhicules routiers détruits
+
+[STAT123]
+Bateaux détruits
+
+[STAT124]
+Avions et hélicos détruits
+
+[STAT125]
+Coût des Propriétés détruites
+
+[STAT126]
+Balles tirées
+
+[STAT127]
+Kilos d'explosifs utilisés
+
+[STAT128]
+Tirs réussis
+
+[STAT130]
+Tirs en pleine tête
+
+[STAT131]
+Total d'étoiles de recherche obtenues
+
+[STAT132]
+Total d'étoiles de recherche évitées
+
+[STAT133]
+Nombre de fois arrêté
+
+[STAT134]
+Jours passés dans le jeu
+
+[STAT135]
+Visites à l'hôpital
+
+[STAT136]
+Visites planque
+
+[STAT137]
+Codes utilisés
+
+[STAT138]
+Véhicules repeints
+
+[STAT139]
+Distance max. de saut de taré
+
+[STAT140]
+Hauteur max. de saut de taré
+
+[STAT141]
+Saltos max. en saut de taré
+
+[STAT142]
+Rotations max. en saut de taré
+
+[STAT143]
+Meilleure cascade de taré récompensée
+
+[STAT144]
+Sauts uniques trouvés
+
+[STAT145]
+Sauts uniques effectués
+
+[STAT146]
+Missions tentées
+
+[STAT147]
+Missions réussies
+
+[STAT148]
+Nombre total de missions dans le jeu
+
+[STAT149]
+Cash gagné en taxi
+
+[STAT150]
+Passagers déposés
+
+[STAT151]
+Personnes sauvées en mission Ambulance
+
+[STAT152]
+Criminels tués en mission Autodéfense
+
+[STAT153]
+Nombre total d'incendies éteints
+
+[STAT155]
+Assassinats
+
+[STAT156]
+Dernier score à la danse
+
+[STAT157]
+Mission Autodéfense, niveau maximum
+
+[STAT158]
+Mission Ambulance, niveau maximum
+
+[STAT159]
+Mission Pompiers, niveau maximum
+
+[STAT160]
+Habileté volant
+
+[STAT163]
+Nombre de gangstas recrutés tués
+
+[STAT164]
+Protection
+
+[STAT165]
+Energie
+
+[STAT166]
+Photos prises
+
+[STAT167]
+Rodéos tentés
+
+[STAT168]
+Rodéos réussis
+
+[STAT169]
+Temps de vol
+
+[STAT172]
+Meilleure position - 8-Track
+
+[STAT173]
+Temps de vol en jetpack
+
+[STAT174]
+Niveaux accomplis au stand de tir
+
+[STAT175]
+Score record aux missions Voiturier
+
+[STAT176]
+Victimes depuis le dernier point de passage
+
+[STAT177]
+Nombre de victimes légitimes
+
+[STAT178]
+Victimes dans le Bloodring
+
+[STAT179]
+Temps total dans le Bloodring
+
+[STAT180]
+No more hurricanes Flag
+
+[STAT181]
+Ville débloquée
+
+[STAT182]
+Pots-de-vin aux flics
+
+[STAT183]
+Caisses volées
+
+[STAT184]
+Nombre actuel de copines
+
+[STAT186]
+Meufs draguées
+
+[STAT187]
+Meufs levées
+
+[STAT189]
+Meufs plaquées
+
+[STAT191]
+Maisons cambriolées
+
+[STAT192]
+Coffres ouverts
+
+[STAT193]
+Statut de cambrioleur
+
+[STAT194]
+Objets volés revendus
+
+[STAT195]
+Boules 8 empochées
+
+[STAT196]
+Total de victoires au billard
+
+[STAT197]
+Total de défaites au billard
+
+[STAT198]
+Visites au gymnase
+
+[STAT199]
+Corpulence
+
+[STAT200]
+Repas consommés
+
+[STAT201]
+Argent gagné aux missions carrière
+
+[STAT202]
+Temps mis pour réussir les missions carrière
+
+[STAT203]
+Nombre de meubles achetés
+
+[STAT204]
+Jeu vidéo préféré
+
+[STAT205]
+Max. de piétons civils tués pendant un rodéo
+
+[STAT206]
+Max. de flics à pied tués pendant un rodéo
+
+[STAT207]
+Max. de véhicules civils détruits pendant un rodéo
+
+[STAT208]
+Max. de véhicules de flics détruits pendant un rodéo
+
+[STAT209]
+Max. de chars détruits pendant un rodéo
+
+[STAT212]
+Meilleur temps au tour - 8-Track
+
+[STAT215]
+Score maximum au basket
+
+[STAT216]
+Incendies déclenchés
+
+[STAT217]
+Quantité de drogue vendue
+
+[STAT218]
+Quantité de drogue achetée
+
+[STAT219]
+Meilleur temps au tour - Dirt track
+
+[STAT220]
+Meilleur temps - Dirt track
+
+[STAT221]
+Meilleure position - Dirt track
+
+[STAT222]
+Meilleur temps - NRG-500
+
+[STAT223]
+Habileté au pilotage
+
+[STAT225]
+Apnée
+
+[STAT226]
+Game gore rating
+
+[STAT227]
+Game sex rating
+
+[STAT230]
+Habileté à vélo
+
+[STAT231]
+Photos prises
+
+[STAT232]
+Total de photos
+
+[STAT233]
+Chance
+
+[STAT234]
+Territoires conquis
+
+[STAT235]
+Territoires perdus
+
+[STAT236]
+Territoires contrôlés
+
+[STAT237]
+Max. de territoires contrôlés
+
+[STAT238]
+Gangstas recrutés
+
+[STAT239]
+Gangstas ennemis butés
+
+[STAT240]
+Gangstas alliés butés
+
+[STAT241]
+Fers à cheval récupérés
+
+[STAT242]
+Total de fers à cheval
+
+[STAT243]
+Huîtres récupérées
+
+[STAT244]
+Total d'huîtres
+
+[STAT245]
+Calories
+
+[STAT258]
+Meilleure position - Lowrider Race
+
+[STAT259]
+Meilleur temps - Lowrider Race
+
+[STAT260]
+Meilleure position - Little Loop
+
+[STAT261]
+Meilleur temps - Little Loop
+
+[STAT262]
+Meilleure position - Backroad Wanderer
+
+[STAT263]
+Meilleur temps - Backroad Wanderer
+
+[STAT264]
+Meilleure position - City Circuit
+
+[STAT265]
+Meilleur temps - City Circuit
+
+[STAT266]
+Meilleure position - Vinewood
+
+[STAT267]
+Meilleur temps - Vinewood
+
+[STAT268]
+Meilleure position - Freeway
+
+[STAT269]
+Meilleur temps - Freeway
+
+[STAT270]
+Meilleure position - Into the Country
+
+[STAT271]
+Meilleur temps - Into the Country
+
+[STAT272]
+Meilleure position - Badlands A
+
+[STAT273]
+Meilleur temps - Badlands A
+
+[STAT274]
+Meilleure position - Badlands B
+
+[STAT275]
+Meilleur temps - Badlands B
+
+[STAT276]
+Meilleure position - Dirtbike Danger
+
+[STAT277]
+Meilleur temps - Dirtbike Danger
+
+[STAT278]
+Meilleure position - Bandito County
+
+[STAT279]
+Meilleur temps - Bandito County
+
+[STAT280]
+Meilleure position - Go-Go Karting
+
+[STAT281]
+Meilleur temps - Go-Go Karting
+
+[STAT282]
+Meilleure position - San Fierro Fastlane
+
+[STAT283]
+Meilleur temps - San Fierro Fastlane
+
+[STAT284]
+Meilleure position - San Fierro Hills
+
+[STAT285]
+Meilleur temps - San Fierro Hills
+
+[STAT286]
+Meilleure position - Country Endurance
+
+[STAT287]
+Meilleur temps - Country Endurance
+
+[STAT288]
+Meilleure position - SF to LV
+
+[STAT289]
+Meilleur temps - SF to LV
+
+[STAT290]
+Meilleure position - Dam Rider
+
+[STAT291]
+Meilleur temps - Dam Rider
+
+[STAT292]
+Meilleure position - Desert Tricks
+
+[STAT293]
+Meilleur temps - Desert Tricks
+
+[STAT294]
+Meilleure position - LV Ringroad
+
+[STAT295]
+Meilleur temps - LV Ringroad
+
+[STAT296]
+Meilleur temps - World War Aces
+
+[STAT297]
+Meilleur temps - Barnstorming
+
+[STAT298]
+Meilleur temps - Military Service
+
+[STAT299]
+Meilleur temps - Chopper Checkpoint
+
+[STAT300]
+Meilleur temps - Whirly Bird Waypoint
+
+[STAT301]
+Meilleur temps - Heli Hell
+
+[STAT320]
+Temps de jeu
+
+[STAT321]
+Paquets cachés trouvés
+
+[STAT323]
+Gang le moins apprécié
+
+[STAT324]
+Gangstas butés
+
+[STAT325]
+Criminels tués
+
+[CURWSKL]
+Habileté arme
+
+[FE_HLPA]
+~x~ légende
+
+[FE_HLPE]
+~t~ retour
+
+[FE_HLPH]
+~x~ sélection
+
+[FE_HLPJ]
+~u~
+
+[FE_HLPK]
+~d~
+
+[FES_PLA]
+JOUEUR
+
+[FES_MON]
+ARGENT
+
+[FES_WEA]
+ARMES
+
+[FES_CRI]
+CRIMES
+
+[FES_ACH]
+EXPLOITS
+
+[FES_MIS]
+MISSION
+
+[FES_MSC]
+DIVERS
+
+[FES_GAN]
+GANGS
+
+[FES_ONL]
+EN LIGNE_!
+
+[DEBW0]
+EXTRA SUNNY LA
+
+[DEBW1]
+SUNNY LA
+
+[DEBW2]
+EXTRA SUNNY SMOG LA
+
+[DEBW3]
+SUNNY SMOG LA
+
+[DEBW4]
+CLOUDY LA
+
+[DEBW5]
+SUNNY SF
+
+[DEBW6]
+EXTRA SUNNY SF
+
+[DEBW7]
+CLOUDY SF
+
+[DEBW8]
+RAINY SF
+
+[DEBW9]
+FOGGY SF
+
+[DEBW10]
+SUNNY VEGAS
+
+[DEBW11]
+EXTRA SUNNY VEGAS
+
+[DEBW12]
+CLOUDY VEGAS
+
+[DEBW13]
+EXTRA SUNNY COUNTRYSIDE
+
+[DEBW14]
+SUNNY COUNTRYSIDE
+
+[DEBW15]
+CLOUDY COUNTRYSIDE
+
+[DEBW16]
+RAINY COUNTRYSIDE
+
+[DEBW17]
+EXTRA SUNNY DESERT
+
+[DEBW18]
+SANDSTORN DESERT
+
+[DEBW19]
+EXTRA COLOURS 1
+
+[DEBW20]
+EXTRA COLOURS 2
+
+[GW_PROV]
+~w~T'as déclenché une guerre des gangs.
+
+[GW_CLR1]
+~w~T'as survécu à la première vague_!
+
+[GW_CLR2]
+~w~T'as survécu à la deuxième vague_!
+
+[GW_YRS]
+~w~Ce territoire est à toi_!
+
+[GW_FLEE]
+~w~T'as fui le combat. Tu parles d'un looser_!
+
+[GW_WARN]
+~w~Repars te battre là où ça chauffe_!
+
+[GW_ATK]
+~w~Notre territoire est attaqué_!
+
+[GW_WON]
+~w~Ils ont compris la leçon. Le secteur est toujours à toi_!
+
+[GW_NOSH]
+~w~T'as rien fait pour contrer l'attaque_! T'as perdu de l'influence.
+
+[GW_SLOW]
+~w~Ca a mis trop de temps_! T'as perdu de l'influence.
+
+[SSTSPT0]
+~h~Endurance~w~_: améliorée. Tu peux sprinter, nager et faire du vélo pendant plus longtemps.
+
+[SSTSPT1]
+~h~Endurance~w~_: améliorée. Maximum atteint.
+
+[SBOFAT0]
+~h~Masse graisseuse~w~_: augmentée. T'as grossi. Continue comme ça et tu pourras plus sprinter, sauter ou escalader les murs.
+
+[SBOFAT1]
+~h~Masse graisseuse~w~_: augmentée. Tu deviens potelé. Va au gymnase ou fais du jogging.
+
+[SBOFAT2]
+~h~Masse graisseuse~w~_: augmentée. T'es gros et flasque.
+
+[SBOFAT3]
+~h~Masse graisseuse~w~_: augmentée. T'es obèse.
+
+[SBOFAT4]
+~h~Masse graisseuse~w~_: augmentée. Tu frises la crise cardiaque. Faut que tu maigrisses.
+
+[SSTUND0]
+~h~Résistance en apnée~w~_: améliorée. Tu peux retenir ta respiration plus longtemps.
+
+[SSTUND1]
+~h~Résistance en apnée~w~_: améliorée. Tu peux retenir ta respiration plus longtemps.
+
+[SSTUND2]
+~h~Résistance en apnée~w~_: améliorée. Tu peux retenir ta respiration plus longtemps.
+
+[SSTUND3]
+~h~Résistance en apnée~w~_: améliorée. Tu peux retenir ta respiration plus longtemps.
+
+[SSTUND4]
+~h~Résistance en apnée~w~_: améliorée. Maximum atteint.
+
+[SBOMUS0]
+~h~Masse musculaire~w~_: améliorée. T'es en forme. Continue comme ça et tes attaques feront plus de dégâts.
+
+[SBOMUS1]
+~h~Masse musculaire~w~_: améliorée. T'as pris du muscle.
+
+[SBOMUS2]
+~h~Masse musculaire~w~_: améliorée. T'es de plus en plus baraqué.
+
+[SBOMUS3]
+~h~Masse musculaire~w~_: améliorée. T'as un corps d'athlète.
+
+[SBOMUS4]
+~h~Masse musculaire~w~_: améliorée. T'es un vrai Monsieur Muscle.
+
+[SBOMUS5]
+~h~Masse musculaire~w~_: améliorée. Maximum atteint.
+
+[SBOMUS6]
+~h~Masse musculaire~w~_: améliorée. Tu peux maintenant apprendre de nouveaux mouvements au gymnase.
+
+[SSKBIK0]
+~h~Habileté à moto_:~w~ améliorée. T'as moins de risques de tomber de ta bécane.
+
+[SSKBIK1]
+~h~Habileté à moto_:~w~ améliorée. T'as moins de risques de tomber de ta bécane.
+
+[SSKBIK2]
+~h~Habileté à moto_:~w~ améliorée. T'as moins de risques de tomber de ta bécane.
+
+[SSKBIK3]
+~h~Habileté à moto_:~w~ améliorée. T'as moins de risques de tomber de ta bécane.
+
+[SSKBIK4]
+~h~Habileté à moto_:~w~ améliorée. Maximum atteint.
+
+[SRES_]
+~h~Respect~w~_: gagné. En gagnant du respect, tu pourras avoir plus de gangstas sous tes ordres.
+
+[SRES0]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 2 membres_!
+
+[SRES1]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 3 membres_!
+
+[SRES2]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 4 membres_!
+
+[SRES3]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 5 membres_!
+
+[SRES4]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 6 membres_!
+
+[SRES5]
+~h~Respect~w~_: gagné. Tu peux maintenant diriger un gang de 7 membres_!
+
+[SRESN0]
+~h~Respect~w~_: perdu. Personne te suivra maintenant_!
+
+[SRESN1]
+~h~Respect~w~_: perdu. Tu peux plus diriger qu'un gang de 2 membres maximum_!
+
+[SRESN2]
+~h~Respect~w~_: perdu. Tu peux plus diriger qu'un gang de 3 membres maximum_!
+
+[SRESN3]
+~h~Respect~w~_: perdu. Tu peux plus diriger qu'un gang de 4 membres maximum_!
+
+[SRESN4]
+~h~Respect~w~_: perdu. Tu peux plus diriger qu'un gang de 5 membres maximum_!
+
+[SRESN5]
+~h~Respect~w~_: perdu. Tu peux plus diriger qu'un gang de 6 membres maximum_!
+
+[SSKCYC0]
+~h~Habileté à vélo_:~w~ améliorée. Tu peux sauter plus haut et reculer plus vite sans tomber.
+
+[SSKCYC1]
+~h~Habileté à vélo_:~w~ améliorée. Tu peux maintenant sauter plus haut et reculer plus vite sans tomber.
+
+[SSKCYC2]
+~h~Habileté à vélo_:~w~ améliorée. Tu peux sauter plus haut et reculer plus vite sans tomber.
+
+[SSKCYC3]
+~h~Habileté à vélo_:~w~ améliorée. Tu peux sauter plus haut et reculer plus vite sans tomber.
+
+[SSKCYC4]
+~h~Habileté à vélo_:~w~ améliorée. Maximum atteint.
+
+[SSTFLY0]
+~h~Habileté en pilotage_:~w~ améliorée. Continue à t'entraîner pour obtenir ton brevet de pilote.
+
+[SSTFLY1]
+~h~Habileté en pilotage_:~w~ améliorée. T'as eu ton brevet de pilote. Il te donne accès à tous les aéroports.
+
+[SWPIST]
+~h~Habileté pistolet_:~w~ niveau Gangster atteint. La portée de ta visée automatique, ta précision et ta cadence de tir ont augmenté.
+
+[SWPIPR]
+~h~Habileté pistolet_:~w~ niveau Tueur atteint. Tu peux maintenant utiliser 2 pistolets en même temps. La portée de ta visée automatique a augmenté.
+
+[SWSPST]
+~h~Habileté pistolet à silencieux_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSPPR]
+~h~Habileté pistolet à silencieux_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWDEST]
+~h~Habileté Desert Eagle_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWDEPR]
+~h~Habileté Desert Eagle_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSGST]
+~h~Habileté fusil à pompe_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSGPR]
+~h~Habileté fusil à pompe_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSSST]
+~h~Habileté fusil à canon scié_:~w~ niveau Gangster atteint. La portée de ta visée automatique, ta précision et ta cadence de tir ont augmenté.
+
+[SWSSPR]
+~h~Habileté fusil à canon scié_:~w~ niveau Tueur atteint. Tu peux utiliser deux fusils à canon scié en même temps. La portée de ta visée automatique a augmenté.
+
+[SWSZST]
+~h~Habileté fusil de combat_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta cadence de tir et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSZPR]
+~h~Habileté fusil de combat_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWMUST]
+~h~Habileté pistolet mitrailleur_:~w~ niveau Gangster atteint. La portée de ta visée automatique et ta précision ont augmenté.
+
+[SWMUPR]
+~h~Habileté pistolet mitrailleur_:~w~ niveau Tueur atteint. Tu peux utiliser deux pistolets mitrailleurs en même temps. La portée de ta visée automatique a augmenté.
+
+[SWM5ST]
+~h~Habileté mitraillette_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWM5PR]
+~h~Habileté mitraillette_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWM4ST]
+~h~Habileté M4_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWM4PR]
+~h~Habileté M4_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWAKST]
+~h~Habileté AK-47_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWAKPR]
+~h~Habileté AK-47_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La portée de ta visée automatique, ta précision et la vitesse de tes déplacements latéraux ont augmenté.
+
+[SWSRST]
+~h~Habileté fusil de précision_:~w~ niveau Gangster atteint. Tu peux te déplacer quand tu vises. La vitesse de tes déplacements latéraux a augmenté.
+
+[SWSRPR]
+~h~Habileté fusil de précision_:~w~ niveau Tueur atteint. Tu peux tirer en mouvement. La vitesse de tes déplacements latéraux a augmenté.
+
+[SGPUNT]
+~h~Habileté aux jeux_:~w~ niveau Parieur atteint. Ton pari maximum passe à 1.000$. Tu peux maintenant emprunter jusqu'à 1.000$ au casino.
+
+[SGGAMB]
+~h~Habileté aux jeux_:~w~ niveau Joueur atteint. Ton pari maximum passe à 10.000$. Tu peux maintenant emprunter jusqu'à 10.000$ au casino.
+
+[SGPROF]
+~h~Habileté aux jeux_:~w~ niveau Gros joueur atteint. Ton pari maximum passe à 100.000$. Tu peux maintenant emprunter jusqu'à 100.000$ au casino.
+
+[SGHIRO]
+~h~Habileté aux jeux~w~ niveau Flambeur atteint. Ton pari maximum passe à 1.000.000$. Tu peux maintenant emprunter jusqu'à 1.000.000$ au casino.
+
+[ITBEG]
+In the beginning
+
+[MONTH1]
+Jan
+
+[MONTH2]
+Fev
+
+[MONTH3]
+Mar
+
+[MONTH4]
+Avr
+
+[MONTH5]
+Mai
+
+[MONTH6]
+Jun
+
+[MONTH7]
+Jul
+
+[MONTH8]
+Aou
+
+[MONTH9]
+Sep
+
+[MONTH10]
+Oct
+
+[MONTH11]
+Nov
+
+[MONTH12]
+Dec
+
+[FES_SES]
+Sélectionner le fichier sur lequel sauvegarder_:
+
+[FES_SEL]
+Sélectionner le fichier de sauvegarde à charger_:
+
+[FES_SED]
+Sélectionner le fichier de sauvegarde à effacer_:
+
+[FESZ_QR]
+Commencer une nouvelle partie_? Toutes les données en cours seront perdues. Continuer_?
+
+[FESZ_QM]
+Charger un Mission Pack San Andreas_? Toutes les données en cours seront perdues. Continuer_?
+
+[FESZ_LS]
+Chargement réussi.
+
+[FESZ_CS]
+Sauvegarde corrompue
+
+[FES_SCG]
+Sauvegarder la partie en cours_?
+
+[FES_FMS]
+Formatage réussi. Sélectionner OK pour continuer.
+
+[FES_SSC]
+Sauvegarde réussie. Sélectionner OK pour continuer.
+
+[FES_DSC]
+Effacement réussi. Sélectionner OK pour continuer.
+
+[FESZ_QC]
+Procéder à l'écrasement de cette sauvegarde corrompue_?
+
+[FESZ_QZ]
+Confirmer la sauvegarde_?
+
+[FESZ_QL]
+Toute progression non sauvegardée de la partie en cours sera perdue. Procéder au chargement_?
+
+[FESZ_QD]
+Confirmer l'effacement de ce fichier de sauvegarde_?
+
+[FESZ_QO]
+Confirmer l'écrasement de ce fichier de sauvegarde_?
+
+[SLONNF]
+La memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 n'est pas formatée. Formater la memory card (8MB) (pour PlayStation#2)_?
+
+[FES_CHE]
+Attention_! Un ou plusieurs codes ont été activés. Ceci risque d'affecter la partie sauvegardée. Nous recommandons de ne pas sauvegarder cette partie.
+
+[FES_NOC]
+Aucune memory card (8MB) (pour PlayStation#2) n'est insérée dans la fente pour MEMORY CARD N|1.
+
+[FES_CMP]
+Echec de la sauvegarde_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.
+
+[FES_LOE]
+Echec du chargement_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.~n~~n~La partie est en train d'être relancée.
+
+[FES_LCE]
+Echec du chargement_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.
+
+[FES_DEE]
+Echec de l'effacement_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.
+
+[FESZ_FF]
+Echec du formatage_! Vérifier la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1 et réessayer.
+
+[MCDNCK]
+Vérification de la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FES_CFM]
+Formatage de la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FESZ_WR]
+Sauvegarde en cours. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FELD_WR]
+Chargement en cours. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FEDL_WR]
+Effacement en cours. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FES_AFO]
+La memory card (8MB) (pour PlayStation#2) est déjà formatée.
+
+[FES_LMI]
+Charger mission
+
+[FEN_NGS]
+Sélectionner la nouvelle partie à commencer_:
+
+[FEN_MPX]
+Mission Pack
+
+[FEM_SNG]
+Commencer nouvelle partie
+
+[FELM_WR]
+Chargement du Mission Pack en cours. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[PU_2PL]
+Appuyer sur une touche de la manette analogique (DUALSHOCK#) ou de la manette analogique (DUALSHOCK#2) connectée au port de manette N|2 pour activer le jeu à 2 joueurs.
+
+[PU_2PLN]
+Appuyer sur une touche de la manette analogique (DUALSHOCK#) ou de la manette analogique (DUALSHOCK#2) connectée au port de manette N|2 pour activer le jeu à 2 joueurs.
+
+[NOCNT2]
+Reconnecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|2 pour continuer.
+
+[PNJME2]
+Reconnecter une manette analogique (DUALSHOCK#) ou une manette analogique (DUALSHOCK#2) au port de manette N|2 pour continuer.
+
+[LASTRIP]
+Club de Strip-tease
+
+[LG_63]
+Mystère
+
+[STAT229]
+Habileté à moto
+
+[CINCAM]
+Caméra cinématique~n~ (Utilise le ~h~joystick analogique droit~w~ pour changer le type de caméra cinématique.)
+
+[LG_58]
+Varrios Los Aztecas
+
+[LG_59]
+Ballas
+
+[LG_60]
+Vagos de Los Santos
+
+[LG_61]
+Rifas de San Fierro
+
+[LG_62]
+Familles
+
+[RUSTLER]
+Rustler
+
+[GA_XX]
+Nouveau moteur et peinture fraîche_: 100$
+
+[FEG_RPG]
+Suppression de la photo de l'album en cours. Ne pas retirer la memory card (8MB) (pour PlayStation#2) ou la manette, ni redémarrer ou éteindre la console.
+
+[FEG_PRS]
+Photo supprimée. L'espace album libre restant sur la memory card (8MB) (pour PlayStation#2) sera utilisé pour de nouvelles photos. Sélectionne OK pour continuer.
+
+[STAT213]
+Véhicules exportés
+
+[STAT214]
+Véhicules importés
+
+[WRN_2P]
+Un pas de plus et ça mettre un terme au jeu à 2 joueurs.
+
+[SLONDM]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 199_KB d'espace libre sur une memory card (8MB) (pour PlayStation#2) contenant le Mission Pack San Andreas en cours pour sauvegarder un fichier de sauvegarde.
+
+[FED_BL5]
+Zone de gang
+
+[8TRACK]
+Stade 8-Track
+
+[ATRIUME]
+Atrium
+
+[ATRIUMX]
+Atrium
+
+[BDUPS]
+Appart de B Dup
+
+[BDUPS1]
+Palais du crack de B Dup
+
+[BIKESCH]
+Ecole de pilotage moto
+
+[CARTERX]
+Palais du crack de Smoke
+
+[DESHOUS]
+Tour de contrôle désaffectée
+
+[CHANGER]
+Penderie
+
+[DAMIN]
+Salle des générateurs
+
+[DIRBIKE]
+Stade Dirt
+
+[JUMP1]
+Toit du Caligula
+
+[JUMP2]
+Toit du Caligula
+
+[KICKSTA]
+Stade Trials
+
+[LACRAK]
+Planque de crack
+
+[LAHS1A]
+Maison
+
+[LAHS1B]
+Maison
+
+[LAHS2A]
+Maison
+
+[LAHS2B]
+Maison
+
+[LAHSB1]
+Maison
+
+[LAHSB2]
+Maison
+
+[LAHSB3]
+Maison
+
+[LAHSB4]
+Maison
+
+[LAHSS6]
+Maison
+
+[MDDOGS]
+Baraque de Madd Dogg
+
+[PAPER]
+Service de l'urbanisme
+
+[PDOMES2]
+The Pleasure Domes
+
+[POLICE4]
+Central police LV
+
+[SVCUNT]
+Planque
+
+[SVGNMT1]
+Chambre de motel
+
+[SVGNMT2]
+Chambre de motel
+
+[SVHOT1]
+Suite.
+
+[SVLABIG]
+Planque
+
+[SUSFBG]
+Planque
+
+[SVSFBG]
+Planque
+
+[SVLAMD]
+Planque
+
+[SVLASM]
+Planque
+
+[SVSFBIG]
+Planque
+
+[SVSFMD]
+Planque
+
+[SVSFSM]
+Planque
+
+[SVVGHO1]
+Suite
+
+[SVVGHO2]
+Suite
+
+[SVVGMD]
+Planque
+
+[TATT02]
+Tatoueur
+
+[TATTO3]
+Tatoueur
+
+[TATTOO3]
+Tatoueur
+
+[TRICAS]
+The Four Dragons
+
+[TSDINER]
+Resto des camionneurs
+
+[UFOBAR]
+Li'l Probe Inn
+
+[VGSHM2]
+Maison
+
+[VGSHM3]
+Maison
+
+[VGSHS2]
+Maison
+
+[7_11S]
+24-7
+
+[7_11B]
+24-7
+
+[7_11C]
+24-7
+
+[711_D]
+24-7
+
+[711S2]
+24-7
+
+[711S3]
+24-7
+
+[SHAMAL]
+Shamal
+
+[GA_1B]
+~r~Je fais pas les jouets, moi !
+
+[LG_64]
+Repère joueur
+
+[LG_66]
+Carrière
+
+[LG_67]
+Resto
+
+[STAT336]
+Force du gang
+
+[FIRELA]
+Pompiers
+
+[SWPI_R]
+~h~Habileté pistolet_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur qui te permettra d'utiliser deux pistolets.
+
+[SWSP_T]
+~h~Habileté pistolet à silencieux_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Gangster.
+
+[SWSP_R]
+~h~Habileté pistolet à silencieux_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWDE_R]
+~h~Habileté Desert Eagle_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWSG_R]
+~h~Habileté fusil à pompe_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWSS_R]
+~h~Habileté fusil à canon scié_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur qui te permettra d'utiliser deux fusils à canon scié en même temps.
+
+[SWSZ_R]
+~h~Habileté fusil de combat_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWMU_R]
+~h~Habileté pistolet mitrailleur_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur qui te permettra d'utiliser deux pistolets mitrailleurs en même temps.
+
+[SWM5_R]
+~h~Habileté mitraillette_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWAK_R]
+~h~Habileté AK-47_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWM4_R]
+~h~Habileté M4_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SWSR_T]
+~h~Habileté fusil de précision_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Gangster.
+
+[SWSR_R]
+~h~Habileté fusil de précision_:~w~ améliorée. Continue à t'entraîner et tu atteindras le niveau Tueur.
+
+[SHESPT0]
+~h~Santé~w~ : améliorée. Tu peux encaisser plus de dégâts avant de mourir.
+
+[SHESPT1]
+~h~Santé~w~ : améliorée. Maximum atteint.
+
+[WRN1_2P]
+2 joueurs : limite de distance atteinte, rapproche-toi de l'autre joueur.
+
+[WRN2_2P]
+2 joueurs : appuie sur la touche ~h~SELECT~w~ pour centrer la vue sur un joueur.
+
+[STAT337]
+Territoire sous contrôle
+
+[CHEAT8]
+Code désactivé
+
+[FEC_DUW]
+Plonger
+
+[FEC_SWF]
+Avancer en nageant
+
+[FEC_HCD]
+Perdre en altitude (hélico)
+
+[FEC_HCA]
+Gagner en altitude (hélico)
+
+[FEC_RL]
+Rotation à gauche (en vol)
+
+[FEC_RR]
+Rotation à droite (en vol)
+
+[FEC_HOV]
+Faire du sur-place (hélico) ~A~
+
+[FEC_ALW]
+Changer d'arme (avion)
+
+[FEC_GER]
+Train d'atterrissage (avion) ~C~
+
+[FEC_THR]
+Gaz (avion)
+
+[SADLSHI]
+Sadler
+
+[SLNSPP]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 80_KB d'espace libre pour sauvegarder une photo supplémentaire sur cette memory card (8MB) (pour PlayStation#2).
+
+[SLNSPA]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 80_KB d'espace libre pour sauvegarder une première photo ainsi que chaque photo supplémentaire sur cette memory card (8MB) (pour PlayStation#2).
+
+[FE_HLPX]
+~X~ Oui
+
+[FE_HLPY]
+~T~ Non
+
+[FES_LOC]
+Echec du chargement_! La sauvegarde n'est pas compatible avec cette version de Grand Theft Auto: San Andreas.~n~~n~Redémarrage du jeu en cours.
+
+[MARKS]
+Saint Mark's
+
+[SLONPH]
+Espace insuffisant sur la memory card (8MB) (pour PlayStation#2) dans la fente pour MEMORY CARD N|1. Grand Theft Auto: San Andreas nécessite 199_KB d'espace libre pour sauvegarder un premier fichier de sauvegarde ainsi que pour chaque fichier de sauvegarde supplémentaire sur cette memory card (8MB) (pour PlayStation#2).
+
+[DUMMY1]
+THIS LABEL NEEDS TO BE HERE_!!!
+
