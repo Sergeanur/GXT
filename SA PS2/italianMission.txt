@@ -16308,3 +16308,5 @@ Premi ~q~ per diminuire la velocità del rotore dell'elicottero e perdere quota.
 [Z4_H22:ZERO4]
 Usa la levetta analogica destra per muovere la telecamera attorno all'elicottero.
 
+[DUMMY3]
+THIS LABEL NEEDS TO BE HERE !!!

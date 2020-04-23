@@ -15592,3 +15592,5 @@ Press ~o~ to pick up object.
 [Z4_H14:ZERO4]
 Press ~o~ to drop object.
 
+[DUMMY3]
+THIS LABEL NEEDS TO BE HERE !!!

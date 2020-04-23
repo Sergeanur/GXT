@@ -14206,3 +14206,6 @@ L'heure est venue pour l'ange gardien des taxis Kaufman de froisser de la tôle!
 [TAX3_5:TAXIWA3]
 Hé mec, j'vais te bousiller ta caisse!
 
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED

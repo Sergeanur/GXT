@@ -16308,3 +16308,5 @@ Appuie sur ~q~ pour réduire la vitesse du rotor de l'hélico, ça le fera se ra
 [Z4_H22:ZERO4]
 Utilise le ~h~joystick analogique droit~w~ pour orienter la caméra autour de l'hélico.
 
+[DUMMY3]
+THIS LABEL NEEDS TO BE HERE !!!

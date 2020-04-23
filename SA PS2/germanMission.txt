@@ -16326,3 +16326,5 @@ Drücke ~q~, um die Rotor-Drehzahl des Helikopters zu verringern. Dies bewirkt, 
 [Z4_H22:ZERO4]
 Benutze den ~h~rechten Analog-Stick~w~, um die Kamera um den Helikopter rotieren zu lassen.
 
+[DUMMY3]
+THIS LABEL NEEDS TO BE HERE !!!

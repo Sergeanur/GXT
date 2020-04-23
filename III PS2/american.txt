@@ -6946,3 +6946,6 @@ This one cost me fifty dollars...
 [PAPER3]
 *
 
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED
