@@ -1,4 +1,4 @@
-[SLNCCAA]
+﻿[SLNCCAA]
 ~w~Hey, Vic. What're you doing here man? You should be out there building our empire.
 
 [SLNCCAB]

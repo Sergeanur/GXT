@@ -1,4 +1,4 @@
-[SLNCCAA]
+﻿[SLNCCAA]
 ~w~Salut, Vic ! Qu'est-ce que tu fais là ? Tu devrais être dehors à bâtir notre empire.
 
 [SLNCCAB]

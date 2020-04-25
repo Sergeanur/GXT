@@ -1,4 +1,4 @@
-[CUT_D1]
+﻿[CUT_D1]
 DATE 1A PIZZA
 
 [CUT_D2]

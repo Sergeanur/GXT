@@ -1,4 +1,4 @@
-[WRN2_2P]
+﻿[WRN2_2P]
 2 giocatori - Premi il ~h~tasto SELECT~w~ per centrare la visuale su un giocatore.
 
 [PU_2PLN]

@@ -1,4 +1,4 @@
-[WRN2_2P]
+﻿[WRN2_2P]
 2 Spieler - ~h~SELECT~w~-Taste drücken, um den Blick auf einen individuellen Spieler zu zentrieren.
 
 [PU_2PLN]

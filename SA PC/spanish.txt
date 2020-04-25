@@ -1,4 +1,4 @@
-[WRN2_2P]
+﻿[WRN2_2P]
 2 jugadores: pulsa el botón ~h~SELECT~w~ para alternar la atención entre un jugador individual o el otro.
 
 [PU_2PLN]

@@ -1,4 +1,4 @@
-[SLNCCAA]
+﻿[SLNCCAA]
 ~w~Hey, Vic. Was machst du hier? Solltest du nicht unser Imperium aufbauen?
 
 [SLNCCAB]

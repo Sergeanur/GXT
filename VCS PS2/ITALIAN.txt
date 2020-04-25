@@ -1,4 +1,4 @@
-[SLNCCAA]
+﻿[SLNCCAA]
 ~w~Ehi, Vic. Che ci fai qui, fratello? Dovresti essere là fuori a costruire il nostro impero.
 
 [SLNCCAB]

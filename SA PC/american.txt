@@ -1,4 +1,4 @@
-[WRN2_2P]
+﻿[WRN2_2P]
 2 player - Press the ~h~SELECT button~w~ to toggle focus on an individual player.
 
 [PU_2PLN]

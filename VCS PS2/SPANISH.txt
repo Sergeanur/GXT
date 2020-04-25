@@ -1,4 +1,4 @@
-[SLNCCAA]
+﻿[SLNCCAA]
 ~w~Eh, Vic. ¿Qué haces aquí, tío? Deberías estar ahí fuera construyendo nuestro imperio.
 
 [SLNCCAB]

@@ -1,4 +1,4 @@
-[IN_VEH]
+﻿[IN_VEH]
 ~g~¡Hey! ¡Vuelve al vehículo!
 
 [HEY]

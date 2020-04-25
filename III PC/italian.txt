@@ -1,4 +1,4 @@
-[LETTER1]
+﻿[LETTER1]
 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"$,.'-?!!SDBFàèéìòùÀÈÉÌÒÙ
 
 [DEFNAM]

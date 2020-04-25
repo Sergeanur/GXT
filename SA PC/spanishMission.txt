@@ -1,4 +1,4 @@
-[L3_HELI]
+﻿[L3_HELI]
 Para nivelar automáticamente un helicóptero, pulsa ~k~~VEHICLE_HORN~.
 
 [IE01]
