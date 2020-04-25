@@ -1,0 +1,5 @@
+gxt -g VCS -i "VCS PSP/english.txt" -o "VCS PSP/english.gxt"
+gxt -g VCS -i "VCS PSP/german.txt" -o "VCS PSP/german.gxt"
+gxt -g VCS -i "VCS PSP/french.txt" -o "VCS PSP/french.gxt"
+gxt -g VCS -i "VCS PSP/italian.txt" -o "VCS PSP/italian.gxt"
+gxt -g VCS -i "VCS PSP/spanish.txt" -o "VCS PSP/spanish.gxt"

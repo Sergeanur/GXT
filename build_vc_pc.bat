@@ -1,0 +1,5 @@
+gxt -g VC -i "VC PC/american.txt" -o "VC PC/american.gxt"
+gxt -g VC -i "VC PC/french.txt" -o "VC PC/french.gxt"
+gxt -g VC -i "VC PC/german.txt" -o "VC PC/german.gxt"
+gxt -g VC -i "VC PC/italian.txt" -o "VC PC/italian.gxt"
+gxt -g VC -i "VC PC/spanish.txt" -o "VC PC/spanish.gxt"

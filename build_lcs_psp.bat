@@ -1,0 +1,5 @@
+gxt -g LCS -i "LCS PSP/english.txt" -o "LCS PSP/english.gxt"
+gxt -g LCS -i "LCS PSP/german.txt" -o "LCS PSP/german.gxt"
+gxt -g LCS -i "LCS PSP/french.txt" -o "LCS PSP/french.gxt"
+gxt -g LCS -i "LCS PSP/italian.txt" -o "LCS PSP/italian.gxt"
+gxt -g LCS -i "LCS PSP/spanish.txt" -o "LCS PSP/spanish.gxt"
