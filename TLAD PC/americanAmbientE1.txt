@@ -1,0 +1,1332 @@
+﻿start
+
+HILOCRD
+ARMWRES
+AIRHOCK
+GUNCAR
+GUNCARL
+
+end
+
+
+{-------------- clay bike delivery ----------------}
+[CBD_EXP]
+Clay is on his way to deliver a bike to you. It is indicated by the ~BLIP_126~ on the radar. 
+
+{-------------- Jim's weapon pickup ----------------}
+
+[JWP_01]
+Jim has left a 9mm Pistol with ~1~ rounds of ammunition for you at The Lost clubhouse.
+	
+[JWP_03]
+Jim has left a Micro SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+[JWP_06]
+Jim has left a SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+[JWP_12]
+Jim has left an Automatic 9mm with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+[JWP_13]
+Jim has left a Sawn-Off Shotgun with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+[JWP_15]
+Jim has left a Pipe Bomb for you at The Lost clubhouse.
+
+[JWP_EXP]
+Go to the ~BLIP_127~ to collect the weapon Jim has left. 
+
+{--------------- Arm Wrestling Game ---------------}
+
+[ARM_G01]
+Press ~INPUT_PICKUP~ to arm wrestle.
+
+[ARM_G02]
+Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~PAD_X~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G02_PC]
+Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G03]
+Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G03_PC]
+Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G04]
+Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G04_PC]
+Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G05]
+Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Terry.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G05_PC]
+Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[ARM_G07]
+Press ~INPUT_PICKUP~ to challenge Jim to an arm wrestle.~n~$20 wager.
+
+[ARM_G08]
+Press ~INPUT_PICKUP~ to challenge Terry to an arm wrestle.~n~$20 wager.
+
+[ARM_G09]
+Press ~INPUT_PICKUP~ to challenge Clay to an arm wrestle.~n~$20 wager.
+
+[ARM_G10]
+Press ~INPUT_PICKUP~ to arm wrestle.~n~$100 wager.
+
+[ARM_G11]
+Press ~INPUT_PICKUP~ to arm wrestle.~n~$200 wager.
+
+[ARM_G12]
+Press ~INPUT_PICKUP~ to arm wrestle.~n~$300 wager. 
+
+[ARM_G13]
+You do not have enough cash for an arm wrestle challenge.~n~$100 wager. 
+
+[ARM_G14]
+You do not have enough cash for an arm wrestle challenge.~n~$200 wager. 
+
+[ARM_G15]
+You do not have enough cash for an arm wrestle challenge.~n~$300 wager. 
+
+[ARM_G16]
+You do not have enough cash for an arm wrestle challenge.~n~$20 wager. 
+
+[ARM_G16J]
+You do not have enough cash to challenge Jim at an arm wrestle.~n~$20 wager. 
+
+[ARM_G16T]
+You do not have enough cash to challenge Terry at an arm wrestle.~n~$20 wager. 
+
+[ARM_G16C]
+You do not have enough cash to challenge Clay at an arm wrestle.~n~$20 wager. 
+
+
+[ARM_H01:ARMWRES]
+Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.
+
+[ARM_H01_PC:ARMWRES]
+Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.
+
+[ARM_H02:ARMWRES]
+Rapidly move ~PAD_RSTICK_LEFTRIGHT~ to arm wrestle. 
+
+[ARM_H03:ARMWRES]
+Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to return to the contest.
+
+[ARM_H03_PC:ARMWRES]
+Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_MOUSE_LMB~ to return to the contest.
+
+[ARM_H04:ARMWRES]
+Press ~INPUT_FRONTEND_ACCEPT~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.
+
+[ARM_H04_PC:ARMWRES]
+Press ~INPUT_MOUSE_LMB~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.
+
+[ARM_H05:ARMWRES]
+Press key 2 on the debug keyboard to play 2 player with the 2nd control pad. 
+
+[ARM_H06:ARMWRES]
+Opponent is now using the 2nd control pad.
+ 
+[ARM_H07:ARMWRES]
+Opponent is AI controlled.  
+
+[ARM_H08:ARMWRES]
+Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!
+
+[ARM_H08_PC:ARMWRES]
+Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!
+
+[ARM_H09:ARMWRES]
+Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!
+
+[ARM_H09_PC:ARMWRES]
+Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!
+
+[ARM_H10:ARMWRES]
+Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round! 
+
+[ARM_H10_PC:ARMWRES]
+Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round! 
+
+
+[ARM_D01:ARMWRES]
+Start in 3...
+
+[ARM_D02:ARMWRES]
+2...
+
+[ARM_D03:ARMWRES]
+1...
+
+[ARM_D04:ARMWRES]
+Go!
+
+
+
+[ARM_WIN:ARMWRES]
+You win.
+
+[ARM_LOSE:ARMWRES]
+You lose.
+
+
+
+[ARM_STAT1:ARMWRES]
+Player speed
+
+[ARM_STAT2:ARMWRES]
+Player stamina
+
+
+[ARM_STAT3:ARMWRES]
+Opponent speed
+
+[ARM_STAT4:ARMWRES]
+Opponent stamina
+
+{--------------- Bowling update ------------------}
+
+[TEN_PIN_05_E1]
+John
+
+
+{--------------- Hi Lo Card Game ------------------}
+
+[HILO_G01]
+Press ~INPUT_PICKUP~ to play hi-lo cards.
+~n~$10 per hand.
+
+[HILO_G02]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Jim.
+~n~$10 per hand.
+
+[HILO_G03]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Terry.
+~n~$10 per hand.
+
+[HILO_G04]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Clay.
+~n~$10 per hand.
+
+[HILO_G05]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Terry.
+~n~$10 per hand.
+
+[HILO_G06]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Clay.
+~n~$10 per hand.
+
+[HILO_G07]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Terry and Clay.
+~n~$10 per hand.
+
+[HILO_G08]
+Press ~INPUT_PICKUP~ to play hi-lo cards with Jim, Terry and Clay.
+~n~$10 per hand.
+
+[HILO_G09]
+You do not have enough cash to play cards. 
+~n~$10 per hand.
+
+
+[HILO_H01:HILOCRD]
+Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+[HILO_H01_PC:HILOCRD]
+Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+[HILO_H02:HILOCRD]
+Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+[HILO_H02_PC:HILOCRD]
+Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+[HILO_H03:HILOCRD]
+~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game. 
+
+[HILO_H03_PC:HILOCRD]
+~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game. 
+
+[HILO_H04:HILOCRD]
+~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game. 
+
+[HILO_H04_PC:HILOCRD]
+~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game. 
+
+[HILO_H05:HILOCRD]
+~a~~n~Press ~INPUT_PICKUP~ to leave the game. 
+
+[HILO_H06:HILOCRD]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+
+[HILO_H06_PC:HILOCRD]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+
+[HILO_H07:HILOCRD]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+
+[HILO_H07_PC:HILOCRD]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+
+[HILO_D01:HILOCRD]
+Higher!
+
+[HILO_D02:HILOCRD]
+Lower!
+
+
+[CLUB_A:HILOCRD]
+Ace of Clubs~n~(Ace is low)
+[CLUB_2:HILOCRD]
+2 of Clubs~n~
+[CLUB_3:HILOCRD]
+3 of Clubs~n~
+[CLUB_4:HILOCRD]
+4 of Clubs~n~
+[CLUB_5:HILOCRD]
+5 of Clubs~n~
+[CLUB_6:HILOCRD]
+6 of Clubs~n~
+[CLUB_07:HILOCRD]
+7 of Clubs~n~
+[CLUB_08:HILOCRD]
+8 of Clubs~n~
+[CLUB_09:HILOCRD]
+9 of Clubs~n~
+[CLUB_10:HILOCRD]
+10 of Clubs~n~
+[CLUB_J:HILOCRD]
+Jack of Clubs~n~
+[CLUB_Q:HILOCRD]
+Queen of Clubs~n~
+[CLUB_K:HILOCRD]
+King of Clubs~n~
+[DIAMOND_A:HILOCRD]
+Ace of Diamonds~n~(Ace is low)
+[DIAMOND_2:HILOCRD]
+2 of Diamonds~n~
+[DIAMOND_3:HILOCRD]
+3 of Diamonds~n~
+[DIAMOND_4:HILOCRD]
+4 of Diamonds~n~
+[DIAMOND_5:HILOCRD]
+5 of Diamonds~n~
+[DIAMOND_6:HILOCRD]
+6 of Diamonds~n~
+[DIAMOND_7:HILOCRD]
+7 of Diamonds~n~
+[DIAMOND_8:HILOCRD]
+8 of Diamonds~n~
+[DIAMOND_9:HILOCRD]
+9 of Diamonds~n~
+[DIAMOND_10:HILOCRD]
+10 of Diamonds~n~
+[DIAMOND_J:HILOCRD]
+Jack of Diamonds~n~
+[DIAMOND_Q:HILOCRD]
+Queen of Diamonds~n~
+[DIAMOND_K:HILOCRD]
+King of Diamonds~n~
+[SPADE_A:HILOCRD]
+Ace of Spades~n~(Ace is low)
+[SPADE_2:HILOCRD]
+2 of Spades~n~
+[SPADE_3:HILOCRD]
+3 of Spades~n~
+[SPADE_4:HILOCRD]
+4 of Spades~n~
+[SPADE_5:HILOCRD]
+5 of Spades~n~
+[SPADE_6:HILOCRD]
+6 of Spades~n~
+[SPADE_7:HILOCRD]
+7 of Spades~n~
+[SPADE_8:HILOCRD]
+8 of Spades~n~
+[SPADE_9:HILOCRD]
+9 of Spades~n~
+[SPADE_10:HILOCRD]
+10 of Spades~n~
+[SPADE_J:HILOCRD]
+Jack of Spades~n~
+[SPADE_Q:HILOCRD]
+Queen of Spades~n~
+[SPADE_K:HILOCRD]
+King of Spades~n~
+[HEARTS_A:HILOCRD]
+Ace of Hearts~n~(Ace is low)
+[HEARTS_2:HILOCRD]
+2 of Hearts~n~
+[HEARTS_3:HILOCRD]
+3 of Hearts~n~
+[HEARTS_4:HILOCRD]
+4 of Hearts~n~
+[HEARTS_5:HILOCRD]
+5 of Hearts~n~
+[HEARTS_6:HILOCRD]
+6 of Hearts~n~
+[HEARTS_7:HILOCRD]
+7 of Hearts~n~
+[HEARTS_8:HILOCRD]
+8 of Hearts~n~
+[HEARTS_9:HILOCRD]
+9 of Hearts~n~
+[HEARTS_10:HILOCRD]
+10 of Hearts~n~
+[HEARTS_J:HILOCRD]
+Jack of Hearts~n~
+[HEARTS_Q:HILOCRD]
+Queen of Hearts~n~
+[HEARTS_K:HILOCRD]
+King of Hearts~n~
+
+
+{--------------------------------------------------------}
+{                                                        }
+{         				POOL			                 }
+{                                                        }
+{--------------------------------------------------------}
+
+
+[PLH_01K]
+Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01K_PC]
+Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01L]
+Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01L_PC]
+Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01M]
+Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01M_PC]
+Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01N]
+Who do you want to play pool with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01N_PC]
+Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[PLH_01O]
+Press ~INPUT_PICKUP~ to play pool with Jim.
+
+[PLH_01P]
+Press ~INPUT_PICKUP~ to play pool with Terry.
+
+[PLH_01Q]
+Press ~INPUT_PICKUP~ to play pool with Clay.
+
+
+
+[DRT_01K]
+Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01K_PC]
+Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01L]
+Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01L_PC]
+Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01M]
+Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01M_PC]
+Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01N]
+Who do you want to play darts with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01N_PC]
+Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[DRT_01O]
+Press ~INPUT_PICKUP~ to play darts with Jim.
+
+[DRT_01P]
+Press ~INPUT_PICKUP~ to play darts with Terry.
+
+[DRT_01Q]
+Press ~INPUT_PICKUP~ to play darts with Clay.
+
+
+
+{---- JAMES : Air Hockey ----}
+[AH_START_01]
+Press ~INPUT_PICKUP~ to play air hockey.
+
+[AH_START_02]
+Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_02_PC]
+Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_03]
+Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_03_PC]
+Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_04]
+Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_04_PC]
+Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_05]
+Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_05_PC]
+Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+[AH_START_07]
+Press ~INPUT_PICKUP~ to play air hockey with Jim.
+
+[AH_START_08]
+Press ~INPUT_PICKUP~ to play air hockey with Terry.
+
+[AH_START_09]
+Press ~INPUT_PICKUP~ to play air hockey with Clay.
+
+[AH_START_PLAY:AIRHOCK]
+Press ~INPUT_PICKUP~ to play air hockey.
+
+[AH_RULES_1:AIRHOCK]
+Use ~PAD_LSTICK_ALL~ to move the mallet. ~n~Push ~PAD_RSTICK_ALL~ in any direction to perform a power shot. 
+~n~Press ~PAD_BACK~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+
+[AH_RULES_1_PC:AIRHOCK]
+Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+
+[AH_RULES_2:AIRHOCK]
+The first player to score 7 goals wins the game.
+
+[AH_P_SCORE:AIRHOCK]
+Player ~1~ scored!
+
+[AH_SCORE:AIRHOCK]
+~1~ : ~1~
+
+[AH_S_JIM:AIRHOCK]
+Jim scored!
+
+[AH_S_TERRY:AIRHOCK]
+Terry scored!
+
+[AH_S_CLAY:AIRHOCK]
+Clay scored!
+
+[AH_S_YOU:AIRHOCK]
+You scored!
+
+[AH_P_WIN:AIRHOCK]
+You win.
+
+[AH_P_LOSE:AIRHOCK]
+You lose.
+
+[AH_REMATCH]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+
+[AH_REMATCH_PC]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+
+[AH_QUIT]
+Are you sure you want to quit?
+
+[AH_QUIT_HELP]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+
+[AH_QUIT_HELP_PC]
+Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+
+{---- NEIL : Biker Backup ----}
+[BB_TITLE_01]
+Biker Backup Stats
+
+[BB_TITLE_02]
+Terry
+
+[BB_TITLE_03]
+Clay
+
+[BB_MAX_HEALTH]
+Max Health
+
+[BB_ACCURACY]
+Accuracy
+
+[BB_SHOOTRATE]
+Shoot Rate 
+
+[BB_WEAPONLEVEL]
+Weapon Upgrade
+
+[BB_DAMAGEMULT]
+Damage Multiplier
+
+[BB_CURRWEAP]
+Current Weapon
+
+[BB_NEXTWEAP]
+Next Weapon
+
+[BB_HARDNESS]
+Backup Hardness
+ 
+[BB_GOTTOPWEAP]
+Got best weapon.
+
+[BB_WEAP1]
+9mm
+
+[BB_WEAP2]
+Automatic 9mm
+
+[BB_WEAP3]
+Micro SMG
+
+[BB_WEAP4]
+Assault Rifle
+
+[BB_WEAP5]
+Carbine Rifle
+
+[BB_WEAP6]
+Shotgun
+
+[BB_WEAP7]
+Sawn-Off Shotgun
+
+[BB_WEAP8]
+Combat Shotgun
+
+[BB_WEAP9]
+Assault Shotgun
+	  
+[BB_STRING]
+~a~
+
+[BB_FLOAT]
+~1~
+
+[BB_INT]
+~1~
+
+[BB_INC_FLOAT]
++~1~
+
+[BB_INC_INT]
++~1~
+
+[BB_WAYP_H1]
+Press ~INPUT_PICKUP~ button to send Terry and Clay to the waypoint.
+
+[BB_WAYP_H2]
+Press ~INPUT_PICKUP~ button to recall Terry and Clay from the waypoint.
+
+[BB_STAT_H1]
+Each time you successfully complete a job with Terry and Clay they will become more fight hardened. 
+
+[BB_STAT_H1B]
+As Terry and Clay get more fight hardened, their abilities and choices of weapons will improve.  
+
+[BB_STAT_H2]
+Losing the cops with Terry and Clay will make them more fight hardened. 
+
+[BB_STAT_H3]
+Riding in formation with Terry and Clay will make them more fight hardened. 
+
+[BB_REACH]
+Terry and Clay can't reach your current location. 			
+							   
+[T_REACH]
+Terry can't reach your current location. 			
+
+[C_REACH]
+Clay can't reach your current location. 			
+
+[TC_EXP]
+Terry and Clay are on their way to join you. They are indicated by ~b~~BLIP_95~~s~ and ~b~~BLIP_96~~s~ on the radar. 
+
+
+{------------ NEIL : ABILITY GUN VAN ---------------------}
+[E1GV_H01]
+Press ~INPUT_PICKUP~ to purchase weapons from Terry.
+
+[E1GV_GONE]
+Terry got bored and left. 
+
+
+{--- GUN CAR - display already weapon in this slot ---}
+
+[E1GV_T70:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm $420
+
+[E1GV_T71:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun $840
+
+[E1GV_T71B:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun $1500
+
+[E1GV_T72:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG $840
+
+[E1GV_T73:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle $5000
+
+[E1GV_T74:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife $100
+
+[E1GV_T75:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade $700
+
+[E1GV_T76:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle $2450
+
+[E1GV_T77:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG $1750
+
+[E1GV_T78:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle $3500
+
+[E1GV_T79:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov $350
+
+[E1GV_H05:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
+
+[E1GV_T106:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher $10000
+
+[E1GV_T107:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher $7000
+		  
+[E1GV_T108:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun $3500
+
+[E1GV_T109:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm $500
+
+[E1GV_T110:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb $700
+
+[E1GV_T111:GUNCAR]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun $600
+
+
+{--- GUN CAR - purchased weapon text --}
+
+[GC_EXP]
+Terry will sell you weapons at discounted prices. Meet Terry at the ~BLIP_118~ icon to purchase weapons.  
+
+[E1GV_T30:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm purchased.
+
+[E1GV_T32:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun purchased.
+
+[E1GV_T34:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG purchased.
+
+[E1GV_T36:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle purchased.
+
+[E1GV_T38:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife purchased.
+
+[E1GV_T39:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade purchased.
+
+[E1GV_T40:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle purchased.
+
+[E1GV_T42:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG purchased.
+
+[E1GV_T44:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle purchased.
+
+[E1GV_T46:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov purchased.
+
+[E1GV_T67:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor purchased.
+
+[E1GV_T92:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun purchased.
+
+[E1GV_T94:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher purchased.
+
+[E1GV_T96:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher purchased.
+
+[E1GV_T98:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun purchased.
+
+[E1GV_T100:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm purchased.
+
+[E1GV_T102:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb purchased.
+
+[E1GV_T104:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun purchased.
+
+
+{--- GUN CAR - purchased weapon ammo text ---}
+
+[E1GV_T31:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of 9mm ammo.
+
+[E1GV_T33:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of shotgun ammo.
+
+[E1GV_T35:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Micro SMG ammo.
+
+[E1GV_T37:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Sniper Rifle ammo.
+
+[E1GV_T41:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Assault Rifle ammo.
+
+[E1GV_T43:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of SMG ammo.
+
+[E1GV_T45:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Carbine Rifle ammo.
+
+[E1GV_T48:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Molotovs purchased.
+
+[E1GV_T49:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Grenades purchased.
+
+[E1GV_T93:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Combat Shotgun ammo.
+
+[E1GV_T95:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Rockets purchased.
+	 
+[E1GV_T97:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ x Launching Grenades.
+
+[E1GV_T99:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Assault Shotgun ammo.
+
+[E1GV_T101:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Automatic 9mm ammo.
+
+[E1GV_T103:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Pipe Bombs purchased.
+
+[E1GV_T105:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Sawn-Off Shotgun ammo.
+
+
+{--- GUN CAR - already got this weapon, can't get any more ---}
+
+[E1GV_T47:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.
+
+[E1GV_T69:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.
+
+
+
+{--- GUN CAR - display weapon price ---}
+
+[E1GV_T01:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm $420
+
+[E1GV_T02:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun $840
+
+[E1GV_T02B:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun $1500
+
+[E1GV_T03:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG $840
+
+[E1GV_T04:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle $5000
+
+[E1GV_T05:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife $100
+
+[E1GV_T06:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade $700
+
+[E1GV_T11:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle $2450
+
+[E1GV_T12:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG $1750
+
+[E1GV_T13:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle $3500
+
+[E1GV_T14:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov $350
+
+[E1GV_T68:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor $300
+
+[E1GV_T82:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher $10000
+
+[E1GV_T84:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher $7000
+
+[E1GV_T86:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun $3500
+
+[E1GV_T88:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm $500
+
+[E1GV_T89:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb $700
+
+[E1GV_T91:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun $600
+
+
+{--- GUN CAR - display weapon ammo price ---}
+
+[E1GV_T60:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds $25
+
+[E1GV_T61:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds $70
+
+[E1GV_T61B:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds $100
+
+[E1GV_T62:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds $20
+
+[E1GV_T63:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds $500
+
+[E1GV_T64:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds $55
+
+[E1GV_T65:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds $20
+
+[E1GV_T66:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds $70
+
+[E1GV_T81:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher $3500
+
+
+[E1GV_T80:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.
+
+[E1GV_T83:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher $700
+
+[E1GV_T85:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds $25
+
+[E1GV_T87:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds $15
+
+[E1GV_T90:GUNCAR]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds $5
+
+
+
+{--- GUN CAR - display already weapon in this slot ---}
+
+[E1GV_T70_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm
+
+[E1GV_T71_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun
+
+[E1GV_T71B_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun
+
+[E1GV_T72_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG
+
+[E1GV_T73_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle
+
+[E1GV_T74_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife
+
+[E1GV_T75_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade
+
+[E1GV_T76_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle
+
+[E1GV_T77_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG
+
+[E1GV_T78_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle
+
+[E1GV_T79_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov
+
+[E1GV_H05_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
+
+[E1GV_T106_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher
+
+[E1GV_T107_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher
+
+[E1GV_T108_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun
+
+[E1GV_T109_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm
+
+[E1GV_T110_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb
+
+[E1GV_T111_L:GUNCARL]
+You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun
+
+
+{--- GUN CAR - purchased weapon text --}
+
+[E1GV_T30_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a 9mm.
+
+[E1GV_T32_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Shotgun.
+
+[E1GV_T34_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Micro SMG.
+
+[E1GV_T36_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sniper Rifle.
+
+[E1GV_T38_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Knife.
+
+[E1GV_T39_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade.
+
+[E1GV_T40_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Rifle.
+
+[E1GV_T42_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a SMG.
+
+[E1GV_T44_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Carbine Rifle.
+
+[E1GV_T46_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Molotov.
+
+[E1GV_T67_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken Body Armor.
+
+[E1GV_T92_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Combat Shotgun.
+
+[E1GV_T94_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Rocket Launcher.
+
+[E1GV_T96_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade Launcher.
+
+[E1GV_T98_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Shotgun.
+
+[E1GV_T100_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Automatic 9mm.
+
+[E1GV_T102_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Pipe Bomb.
+
+[E1GV_T104_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sawn-Off Shotgun.
+
+
+{--- GUN CAR - purchased weapon ammo text ---}
+
+[E1GV_T31_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of 9mm ammo.
+
+[E1GV_T33_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of shotgun ammo.
+
+[E1GV_T35_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of Micro SMG ammo.
+
+[E1GV_T37_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of Sniper Rifle ammo.
+
+[E1GV_T41_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of Assault Rifle ammo.
+
+[E1GV_T43_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of SMG ammo.
+
+[E1GV_T45_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken  ~1~ rounds of Carbine Rifle ammo.
+
+[E1GV_T48_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Molotovs.
+
+[E1GV_T49_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Grenades.
+
+[E1GV_T93_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Combat Shotgun ammo.
+
+[E1GV_T95_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Rockets.
+	 
+[E1GV_T97_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Launching Grenades.
+
+[E1GV_T99_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Shotgun ammo.
+
+[E1GV_T101_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Automatic 9mm ammo.
+
+[E1GV_T103_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Pipe Bombs.
+
+[E1GV_T105_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sawn-Off Shotgun ammo.
+
+
+{--- GUN CAR - already got this weapon, can't get any more ---}
+
+[E1GV_T47_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.
+
+[E1GV_T69_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.
+
+
+
+{--- GUN CAR - display weapon price ---}
+
+[E1GV_T01_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm
+
+[E1GV_T02_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun
+
+[E1GV_T02B_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun 
+
+[E1GV_T03_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG 
+
+[E1GV_T04_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle 
+
+[E1GV_T05_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife 
+
+[E1GV_T06_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade 
+
+[E1GV_T11_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle 
+
+[E1GV_T12_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG 
+
+[E1GV_T13_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle 
+
+[E1GV_T14_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov 
+
+[E1GV_T68_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor 
+
+[E1GV_T82_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher 
+
+[E1GV_T84_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher 
+
+[E1GV_T86_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun 
+
+[E1GV_T88_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm 
+
+[E1GV_T89_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb 
+
+[E1GV_T91_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun 
+
+
+{--- GUN CAR - display weapon ammo price ---}
+
+[E1GV_T60_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds
+
+[E1GV_T61_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds 
+
+[E1GV_T61B_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds 
+
+[E1GV_T62_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds 
+
+[E1GV_T63_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds 
+
+[E1GV_T64_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds 
+
+[E1GV_T65_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds 
+
+[E1GV_T66_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds 
+
+[E1GV_T81_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher 
+
+
+[E1GV_T80_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.
+
+[E1GV_T83_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher 
+
+[E1GV_T85_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds 
+
+[E1GV_T87_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds
+
+[E1GV_T90_L:GUNCARL]
+Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds
+
+
+
+
+
+
+
+{--- ROB - Biker cam help ---}
+[BKR_CAM_HLP1]
+~s~When in this camera mode, use ~PAD_RSTICK_LEFT~ and ~PAD_RSTICK_RIGHT~ to see from another biker's point of view.
+
+[BKR_CAM_HLP1_PC]
+~s~When in this camera mode, use ~MOUSE~ left and right to see from another biker's point of view.
+
+{---------------- Bowling --------------}
+[BOWLING_07]
+Bowling costs $10.  
+
+[BOWLING_18]
+Find an empty lane to play a game in.
+
+[BOWLING_45]
+Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.
+
+[BOWLING_46]
+Press ~INPUT_PICKUP~ if you want to bowl.
+
+[BOWLING_48]
+You don't have enough cash to play.
+
+[BOWLING_49]
+Walk up to the desk to start bowling.
+
+[BOWLING_50]
+This 5 frame game with Michelle is free.
+
+[BOWLING_52]
+You can't bowl with the cops after you.
+
+
+
+
+{---------Brenda: Addiction Level Stat----------------}
+
+{-------------------------STATS Addictions-------------------}
+
+[E1Addict_0]
+Cage Ridin' Citizen
+
+[E1Addict_1]
+Insta-Biker
+
+[E1Addict_2]
+Weekend Warrior
+
+[E1Addict_3]
+Lone Wolf Biker
+
+[E1Addict_4]
+MC Prospect
+
+[E1Addict_5]
+Got Your Colors
+
+[E1Addict_6]
+Screaming Night Hog
+
+[E1Addict_7]
+Ride Captain
+
+[E1Addict_8]
+Getting Monkey Butt
+
+[E1Addict_9]
+Big Dog Rider
+
+[E1Addict_10]
+War Horse
+
+[E1Addict_11]
+Forever Two Wheels
+
+{------------------------- RACES -------------------}
+[RACEOUTBIK]
+You have ~1~ second to return to a bike.
+
+[RACEOUTBIKBLIP]
+You have ~1~ second to return to your ~b~bike.
+
+[RACEOUTBIKS]
+You have ~1~ seconds to return to a bike.
+
+[RACEOUTBIKBLIPS]
+You have ~1~ seconds to return to your ~b~bike.
+
+
+
+
+
+{------------------------- END -------------------}
+[E1DUMMYAA]
+THIS LABEL NEEDS TO BE HERE !!!

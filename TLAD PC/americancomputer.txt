@@ -1,0 +1,720 @@
+﻿start
+EMAILE1
+LBTR17
+LBTR110
+LBTR115
+LBTR116
+LBTR124
+LBTR130
+WEZL17
+WEZL110
+WEZL115
+WEZL116
+PBLB17
+PBLB115
+end
+
+{************************************************************************************}
+{** NEWS BLOCK 15 **}
+{************************************************************************************}
+
+
+{New Liberty Tree Story for E1}
+[LCT1_LINK_15]
+Crooked Cops
+
+[LCT1_HEAD_15:LBTR115]
+Karma Killings?
+
+[LCT1_SECH_15:LBTR115]
+Crooked Cops Get Comeuppance
+
+[LCT1_SUM_15:LBTR115]
+Two detectives under investigation found murdered.
+
+[LCT1_REP_15:LBTR115]
+Tony J Smith
+
+[LCT1_PAR_15_1:LBTR115]
+After several incidents of wrongful shooting by the Liberty City Police Departments this year, it seems that the shoe is finally on the other foot. The bodies of several police offices were found in Acter Industrial Park earlier. Amongst them, Detectives Jimmy Matthews and Ed McCornish.
+
+[LCT1_PAR_15_2:LBTR115]
+Sources within the District Attorney's Office have revealed that there were multiple Internal Affairs investigations against these officers who were suspected of involvement in several corruption scandals. At the time of their death, the two were thought to be investigating the Angels of Death Motorcycle Club. An AODMC spokesman denied any club involvement in illegal activities. "This is typical of the LCPD, a bent cop gets what's coming to him and they blame it on decent hardworking American bikers."
+
+
+{ Side Story 1 }
+[LCT1_S1LINK_15]
+Toilets
+
+[LCT1_S1HEAD_15:LBTR115]
+Air Sol now charging for use of the toilets on board 
+
+[LCT1_S1SECH_15:LBTR115]
+Are airlines pissing your money away?
+
+[LCT1_S1REP_15:LBTR115]
+Richie Score
+
+[LCT1_S1PAR_15_1:LBTR115]
+Every human needs water to survive and must expel that water - both of which have airline execs seeing green.  The announcement that beleaguered airline, Air Sol, has started charging passengers to use the restrooms on all domestic and international flights could have passengers hiding their daily dump in the front seat pocket. 
+
+[LCT1_S1PAR_15_2:LBTR115]
+It's time to wake up and smell the lukewarm, germ-infested airplane coffee. This recession is barely out of the starting block.  Buy gold, stay at home and pray that your pension and healthcare policy are worth more than the paper they're written on by the time you reach retirement.  The time to panic has arrived.
+
+{************************************************************************************}
+{** NEWS BLOCK 24 **}
+{************************************************************************************}
+
+{ Main Story }
+[LCT1_LINK_24]
+Scandal
+
+[LCT1_HEAD_24:LBTR124]
+Scandal rocks the Exchange, Again.
+
+[LCT1_SECH_24:LBTR124]
+Insider Trading Sting in Alderney
+
+[LCT1_SUM_24:LBTR124]
+Insider Trading Sting in Alderney
+
+[LCT1_REP_24:LBTR124]
+By Richie Score
+
+[LCT1_PAR_24_1:LBTR124]
+Brokerage firms were rocked yesterday by the news that some of the people who work there are not corrupt, greedy rule breakers. After a wide spread investigation into insider trading and corporate greed, the FIB only arrested 20 brokers at three brokerage firms in northern Alderney yesterday, which represented only 35 per cent of the work force. Human resource professionals at all the firms were humiliated to discover they had employed as up to 65 per cent of their work force people who are not morally destitute and greedy as can be. One CEO commented to us "How are we supposed to make our growth targets and raise our share price if we are not taking undue risks with other people's money, driven on by the desperate greed of our brokers? I'm appalled at what is happening in this town." Federal investigators promised to search out more corruption on the exchange and make sure those found guilty are properly punished with book deals and talk show appearances. 
+
+
+{ Side Story 1 }
+[LCT1_S1LINK_24]
+Stubbs Shot
+
+[LCT1_S1HEAD_24:LBTR124]
+Wasp Patriarch Terror Death Shocker
+
+[LCT1_S1SECH_24:LBTR124]
+Violence at airport
+
+[LCT1_S1REP_24:LBTR124]
+TJ Barry
+
+[LCT1_S1PAR_24_1:LBTR124]
+Arthur Stubbs, elder statesman of the legendary Stubbs political clan was gunned down by terrorists yesterday shortly after arriving at Francis International Airport. Mr. Stubbs, 83, was arriving in the city for a family meeting and to help to discuss bailing out a lot of rich people upset by the recent problems on the exchange. A passionate democrat when it suited him and also an elitist who hated poor people, Mr. Stubbs embodied an America that has mercifully disappeared. He was brutally killed standing up for freedom by a splinter cell now on the loose in Liberty City. Police are searching for the terror cell and advise people to be very afraid and report any activity by brown people. 
+
+[LCT1_S1PAR_24_2:LBTR124]
+In an ironic twist of fate, this patriot's children were also killed by rogue acts of terrorism. The family is now headed by Congressman Thomas Stubbs, Arthur Stubb's nephew. Mr Stubbs told reporters at a conference he hastily convened "This is a tragedy. My family has given so much to this country and to freedom. Arthur Stubbs was a great. Great man. I will carry on his work fighting justice and honor wherever I find it. His death had made me a very rich man and I will use that money for good, and for insuring my re-election."
+
+
+{ Side Story 2}
+[LCT1_S2LINK_24]
+Love child
+
+[LCT1_S2HEAD_24:LBTR124]
+Graves in love child scandal
+
+[LCT1_S2SECH_24:LBTR124]
+Rumors abound
+
+[LCT1_S2REP_24:LBTR124]
+Michael Wayne
+
+[LCT1_S2PAR_24_1:LBTR124]
+Michael Graves's campaign is fighting allegations that his campaign manager bore him a love child after discussions over strategy became a little too intimate.  Three years ago, Mona Arthurs, 40, gave birth to a child she claimed was fathered by her openly gay husband, Jay. However, as baby Mike grew and developed, observant friends noticed a problem - Jay Arthurs is black. Baby Mikey is apparently, not. Ms. Arthurs and Mikey, who live in Los Santos, have gone into hiding while politicans try to score points off each other over the story. Mr. Graves released the following statement "I did not sleep with Ms Arthurs, nor with any woman, at any time, under any circumstances. My political opponents are ruining this poor woman's reputation, which is odd, given that the wives are notorious sluts." 
+
+{************************************************************************************}
+{** NEWS BLOCK 30 **}
+{************************************************************************************}
+
+{ Main Story }
+[LCT1_LINK_30]
+Serial Killer
+
+[LCT1_HEAD_30:LBTR130]
+Dine and Dash on the Loose
+
+[LCT1_SECH_30:LBTR130]
+What's for dessert?
+
+[LCT1_SUM_30:LBTR130]
+Serial killer free to strike again
+
+[LCT1_REP_30:LBTR130]
+Tony J Smith
+
+[LCT1_PAR_30_1:LBTR130]
+The Dine and Dash killer, Curtis Stocker, could be back to his old cannibalistic tricks after his prison bus was hijacked from Leftwood Police Station.  If you're not interested in having your internal organs feasted upon, we recommend you stay at home this evening.  That said, Double D has a history of breaking into people's houses, so you may not be safe there either.
+
+[LCT1_PAR_30_2:LBTR130]
+The transport bus was taking him to Alderney State Correctional Facility along with several men recently convicted of insider trading.    The police advise you to look after your families and share portfolios until they are able to track down this bus full of miscreants.
+
+
+
+{ Side Story 1 }
+[LCT1_S1LINK_30]
+Uptown Riders 
+
+[LCT1_S1HEAD_30:LBTR130]
+Uptown Riders Retail
+
+[LCT1_S1SECH_30:LBTR130]
+So much for denim and leather
+
+[LCT1_S1REP_30:LBTR130]
+Biker gang starts clothing label
+
+[LCT1_S1PAR_30_1:LBTR130]
+Despite allegations of involvement in drug dealing, the cagey Uptown Riders motorcycle gang is launching a clothing line.  Known for their turbo-tuned sports bikes, blaring rap music, and reckless stunt riding; the group hopes their street wear will be a hit with suburban white kids looking to impress their friends.  "We going for the urban scene, but most the shit that gets bought in North Holland and Bohan ain't exactly street legal.  We looking to sell to the white boys whose mommas are gonna pay for the genuine article."  
+
+When not beating up anyone who thinks they look 'kind of gay' and blowing their own faces off with over cooked batches of meth, the Angels of Death Motorcycle Club spend their time monopolizing the biker merchandise market.  Their website sells everything from branded meth pipes to baby diapers.    We'll see if the Uptown Riders can carve out a niche of their own. 
+
+
+{ Side Story 2}
+[LCT1_S2LINK_30]
+Twins
+
+[LCT1_S2HEAD_30:LBTR130]
+Twins are 2 much for area man
+
+[LCT1_S2SECH_30:LBTR130]
+Two taboo?
+
+[LCT1_S2REP_30:LBTR130]
+Mary Williamson
+
+[LCT1_S2PAR_30_1:LBTR130]
+It's part of every adult magazine:  a several page spread with two nasty hot twins going at it with a guy who we'll call The Luckiest Man in the World.  But is he really so lucky?  Why is sex with twins ok, but inter-family sex considered foul and taboo?  Reports are now coming in that sex with twins isn't all that great.  One area man who declined to be named said, "It was a dream, right up until the point where two family members started 69ing.  I'm sorry, I'm as red blooded as any man but that's difficult to deal with.  I mean, why do you even need me?  Why not call your dad over and bang him?"  The twins' father refused to comment, only stating that they have a very close family.
+
+
+{************************************************************************************}
+{** NEWS BLOCK 16 **}
+{************************************************************************************}
+
+{ Main Story }
+[LCT1_LINK_16]
+Customs
+
+[LCT1_HEAD_16:LBTR116]
+Carnage at the airport.
+
+[LCT1_SECH_16:LBTR116]
+Problem at customs
+
+[LCT1_SUM_16:LBTR116]
+Arrest for smuggling goes wrong.
+
+[LCT1_REP_16:LBTR116]
+TJ Barry
+
+[LCT1_PAR_16_1:LBTR116]
+A routine arrest for drugs trafficking on the flight into Francis International from Bogota ended in chaos and carnage. A suspected drug smuggler was freed by an accomplice amid a hail of bullets in scenes not seen at the airport since the last major security breach. The smuggler was freed and rescued by an accomplice as a bloody fire storm ensued, and security and innocent by standers were killed. The suspect is described as being "probably foreign" with "a foreign, creepy vibe, like a rapist." Or "one of those white guys who becomes a terrorist."
+
+[LCT1_PAR_16_2:LBTR116]
+While thousands of security guards were busy giving cavity searches to old ladies they did not like the look of, carnage erupted in immigration, and for once it was not because a Mexican was trying to sneak in.   
+
+[LCT1_PAR_16_3:LBTR116]
+Security officials were unavailable for comment, but did ask for more funding, especially desiring a better gym, and more breaks, blaming work stress on the recent problems at the Airport. One airport security guard told us "It is tiring annoying people all day long, and sometimes we have to work for an hour straight. No wonder all these drugs get through and people keep getting shot."
+
+
+{ Side Story 1 }
+[LCT1_S1LINK_16]
+Air travel
+
+[LCT1_S1HEAD_16:LBTR116]
+Air Travel officially stinks.  
+
+[LCT1_S1SECH_16:LBTR116]
+Passengers feel the loaf pinch of the economic crisis.  
+
+[LCT1_S1REP_16:LBTR116]
+Michael Wayne
+
+[LCT1_S1PAR_16_1:LBTR116]
+Remember the good old days of air travel?  Getting served endless miniature bottles of cheap vodka by statuesque blondes in low-cut tops and short skirts?  Flying used to be considered the height of luxury.  Now you have to print off your own ticket, check in your own bags and submit yourself to humiliating security checks before being herded like cattle onto a filthy plane to sit for 2 hours on the runway because an undertrained stoner in air traffic control hit ESC by mistake. 
+
+[LCT1_S1PAR_16_2:LBTR116]
+Now they're charging for everything.  Tiny, germ-infested pillow?  $10.  Glass of warm water?  $5.  In-flight magazine full of old toenails and dried vomit?  $4.  Stale bag of party mix?  $6. The final insult is the $3 to take a dump in a restroom the size of a coffin Air Sol began charging. A new range of adult protective underwear called Flypers has been selling out in airports across the country.  We used to have the most envied airline industry in the world.  Now we sit in our filth for five hours. Like foreigners.
+
+
+{ Side Story 2}
+[LCT1_S2LINK_16]
+Hermaphrodite Island
+
+[LCT1_S2HEAD_16:LBTR116]
+Hermaphrodite Island cancelled
+
+[LCT1_S2SECH_16:LBTR116]
+No treasures on this island
+
+[LCT1_S2REP_16:LBTR116]
+Mary Williamson
+
+[LCT1_S2PAR_16_1:LBTR116]
+It appears that it takes more than a boatload of booze and a smorgasbord of tiny reproductive organs to have a hit series these days.  It was billed as: 'One island full of genetic disasters'  but CNT's primetime show, Hermaphrodite Island, has been cancelled after just one season following disastrous viewing figures.  The producers tried everything from Bikini Tuesdays to Absinthe Thursdays to Jockstrap Fridays but, apart from a confusing fumble between Dave and Ken in the mud pit, passion failed to ignite between the contestants and angry reality TV fans began switching off in their droves. Phoebe, the star of the show, says her calendar will be out in time for Christmas and will excite both men and women.  
+
+
+{************************************************************************************}
+{** NEWS BLOCK 7 **}
+{************************************************************************************}
+
+{ Main Story }
+[LCT1_LINK_7]
+Club Kid Death
+
+[LCT1_HEAD_7:LBTR17]
+Club Kid Death
+
+[LCT1_SECH_7:LBTR17]
+Closing time for one clubber
+
+[LCT1_SUM_7:LBTR17]
+Mysterious murder of good-time guy
+
+[LCT1_REP_7:LBTR17]
+Staff Writer
+
+[LCT1_PAR_7_1:LBTR17]
+Evan Moss, 24, was found murdered in Broker.  When, at the age of sixteen, he won the Teen Iron Weightlifting Competition in Arizona, no one could have predicted this violent end.  Tragically, his life took a turn for the worse.  After positive drug tests, the loss of his weight supplement sponsorship deal, and alleged involvement in a male escort business he hit rock bottom.  
+
+[LCT1_PAR_7_2:LBTR17]
+Moss had recently gained public attention as a star of the Liberty City nightclub scene.  He was often sited with minor celebrities too drunk to know better at Algonquin hotspot Masionette 9.  It was even rumored that Moss had hooked the biggest whale in the Liberty City Scene - nightclub baron Tony Prince.  Mr. Prince would not comment on his friend's untimely death.  The LCPD are looking for a group of men wearing tight black leather in connection to the slaying.  
+
+{ Side Story 1 }
+[LCT1_S1LINK_7]
+Exploitation
+
+[LCT1_S1HEAD_7:LBTR17]
+Sweatshops in LC?
+
+[LCT1_S1SECH_7:LBTR17]
+Workers disgruntled
+ 
+[LCT1_S1REP_7:LBTR17]
+Michael Wayne
+
+[LCT1_S1PAR_7_1:LBTR17]
+These are just some of the words that our editors thought would lead you into reading this story.  But they are also words that could be used to describe how local recently graduated workers feel about Liberty City companies who are taking advantage of them.  Sandra McColland has filed a lawsuit that sets a new standard for workers. After collapsing on the job in what she describes as a work/life balance, McColland is fighting for all Liberty City businesses to allow 2 months paid vacation a year, flexible hours, yoga a flotation/isolation chamber spa on site.  Local businesses complain about a generation that wasn't required to work in high school, received an allowance, had college and a condo paid for, and then expect the same from the workforce.   
+
+[LCT1_S1PAR_7_2:LBTR17]
+
+{ Side Story 2}
+[LCT1_S2LINK_7]
+Marijuana
+
+[LCT1_S2HEAD_7:LBTR17]
+Mary Jane made me fat!
+
+[LCT1_S2SECH_7:LBTR17]
+Munchies in court
+
+[LCT1_S2REP_7:LBTR17]
+Tony J Smith
+
+[LCT1_S2PAR_7_1:LBTR17]
+A Los Santos man, who was prescribed medical marijuana for his glaucoma, has filed a lawsuit against his doctor and Cluckin Bell after ballooning from 180 to 350 pounds in less than six months.  Phil Rosenburg, who can now back-roll a perfect blunt with just one hand, claims that he was not adequately informed of the side effects of his new medication.  Rosenburg's attorney told Weazel News that his client now regularly devours a stuffed Pollo Toto Frito, a jar of mayonnaise, three pizzas and a plate of chocolate brownies covered in ranch sauce.  He's lost his wallet seventeen times in the last month, developed an obsession with iconic bands of the 1970s and has started expressing increasingly left-wing political views.  This is a landmark case and, if Rosenburg is awarded damages, predatory law firms are gearing up to get a class action suit against God, who created weed in the first place.
+
+{************************************************************************************}
+{** NEWS BLOCK 10 **}
+{************************************************************************************}
+
+{ Main Story }
+[LCT1_LINK_10]
+Prison incident
+
+[LCT1_HEAD_10:LBTR110]
+What Went Wrong at Alderney State?
+
+[LCT1_SECH_10:LBTR110]
+Could prison be a dangerous place?
+
+[LCT1_SUM_10:LBTR110]
+Will they all kill each other, and save us the bother?
+
+[LCT1_REP_10:LBTR110]
+Tony J. Smith
+
+[LCT1_PAR_10_1:LBTR110]
+After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for.  Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us.  We want to put them to work in order to make the US economy the powerhouse it once was.  The private medical sector has worked so well for this country, why can't we privatize everything?"
+
+[LCT1_PAR_10_2:LBTR110]
+Certain liberal groups have blamed the incident on strict prison rules.  They call for regular meditation sessions and Reiki training for all guards.  Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras.  We need to treat the cause of the problem.  Not the symptom." Whatever the reason for what happened, something has to change at Alderney State.  Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.  
+
+
+
+
+{ Side Story 1 }
+[LCT1_S1LINK_10]
+Gay
+
+[LCT1_S1HEAD_10:LBTR110]
+"My husband is straight," says Interior's Designer's wife.
+
+[LCT1_S1SECH_10:LBTR110]
+We thinks she doth protest too much
+
+[LCT1_S1REP_10:LBTR110]
+Staff Writer
+
+[LCT1_S1PAR_10_1:LBTR110]
+Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham.  Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations.  In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't.  I'd never dream of going shopping for clothes without him.  Nobody understands layering like Dalton.  Can't a man wear fuchsia and depilate these days without being called gay?"  Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time.  The jury might still be out on this one.  
+
+
+{************************************************************************************}
+{** WEAZEL NEWS BLOCK 15 **}
+{************************************************************************************}
+
+{ Main Story }
+[WZL1_S1LINK_15]
+Drugs and Terror
+
+[WZL1_S1HEAD_15:WEZL115]
+Drugs and Terror 
+
+[WZL1_S1SECH_15:WEZL115]
+The link the liberals deny
+
+[WZL1_S1SUM_15:WEZL115]
+Liberal drug lovers deny link
+
+[WZL1_S1REP_15:WEZL115]
+Leslie Mitchell
+
+[WZL1_S1PAR_15_1:WEZL115]
+We all know that liberals love drugs. From Vinewood cocaine parties to ecstasy-fueled swinging suburban romps, to pre-schoolers having their drinks laced with acid and college kids shooting up heroin, nothing says 'liberal drop out' like a family ruined by the ravages of drugs. Now, police are saying there is an incontrovertible link between drugs coming into our city and our nation and the terror threat we all face. It's the thing liberals love most - the fact that their licentious behavior is putting the lives of all of us at deadly risk. 
+
+[WZL1_S1PAR_15_2:WEZL115]
+Why? Because terrorists sell drugs to liberals to buy bombs to kill us all. It's really that simple. The police department said so yesterday and I for one believe them. Now that we finally have the truth, it isn't the military industrial complex that's the problem, so isn't it time that we punish drug addicts properly like the criminals they really are? 
+
+
+{************************************************************************************}
+{** WEAZEL NEWS BLOCK 16 **}
+{************************************************************************************}
+
+{ Main Story }
+[WZL1_LINK_16]
+Hermaphrodite Island 
+
+[WZL1_HEAD_16:WEZL116]
+Hermaphrodite Island cancelled
+
+[WZL1_SECH_16:WEZL116]
+Weirdos skulk back under rocks
+
+[WZL1_SUM_16:WEZL116]
+Freaks find no home on television
+
+[WZL1_REP_16:WEZL116]
+Leslie Mitchell
+
+[WZL1_PAR_16_1:WEZL116]
+Ten drunken genetic aberrations left on an island in the Indian Ocean to survive without food, clothes or a moral code.  Confused?  You should be.  And so were all the children who watched this gender-bending freak fest.  Thankfully, CNT confirmed today that Hermaphrodite Island will not be returning for a second season.  This circus side show was a prime example of the depths to which television has sunk.  In the old days, babies with manginas were taken quietly outside and thrown down the well.  Well, times have changed.  We know that these 'people' can't help the fact that they were born to sin.  But what kind of message does it send out when we parade them in front of our kids at 7pm on a Saturday night?  Is it any wonder that degenerate behavior continues to thrive among the youth of today?  Shemales and ladyboys cavorting around in their underwear.  This isn't Thailand.  The producers should be ashamed of themselves.
+
+
+
+{************************************************************************************}
+{** WEAZEL NEWS BLOCK 7 **}
+{************************************************************************************}
+
+{ Main Story }
+[WZL1_LINK_7]
+Homosexual Homicide
+
+[WZL1_HEAD_7:WEZL17]
+Homosexual Homicide
+
+[WZL1_SECH_7:WEZL17]
+Gays and Crime, the full story
+
+[WZL1_SUM_7:WEZL17]
+Another sodomite on his way to hell
+
+[WZL1_REP_7:WEZL17]
+Eugene White
+
+[WZL1_PAR_7_1:WEZL17]
+Just when the homosexual community had gained a smatter of respectability by parodying themselves in reality TV shows and sitcoms, they go and ruin it for themselves.  The death of Evan Moss, amateur body builder, drug addict and cum receptacle for "Gay" Tony Prince, got himself killed in the most brutal of fashions.  This just goes to show that a deviant lifestyle will lead to an unfashionably early arrival at the sodomites' party in Hell.  
+
+Deputy Mayor, Bryce Dawkins, weighed in on the issue "If America is to remain the moral Christian country I know it is, we need to take the vote away from these people.   They can concentrate on picking out wallpaper and leave the choosing of our President to real men."  
+
+
+{ Side Story 1 }
+[WZL1_S1LINK_7]
+Lazy
+
+[WZL1_S1HEAD_7:WEZL17]
+Lazy days for lackadaisical generation
+
+[WZL1_S1SECH_7:WEZL17]
+The children are our future, they should remember that.
+
+[WZL1_S1REP_7:WEZL17]
+Leslie Mitchell
+
+[WZL1_S1PAR_7_1:WEZL17]
+We've had it up to hear with these lazy workers and their lazy lawsuits. Been fired for not showing up to work and taking too many days off? Sue. Boss used strong language about your lack of passion on a project but unlimited time and creativity for your personal blog? Sue. The mainstream media is to blame, which we are not by any means the mainstream media, despite the fact that we have a TV station in every city with at least one stoplight and are on every cable box in America.  We're outsiders, we're angry, and these lazy twenty-somethings want to live on the dole of mommy or America and we're not having it. We prefer to be on the dole of corporate tax breaks and subsidies. Sandra McColland , you can sue all you want. If you don't love America and you are too tired from reading your communist pamphlets, die. Please. 
+
+{************************************************************************************}
+{** WEAZEL NEWS BLOCK 10 **}
+{************************************************************************************}
+
+{ Main Story }
+[WZL1_LINK_10]
+Prisons
+
+
+[WZL1_HEAD_10:WEZL110]
+Prison cleanup
+
+[WZL1_SECH_10:WEZL110]
+And about time!
+
+[WZL1_SUM_10:WEZL110]
+A bloody but silver lining
+
+
+[WZL1_REP_10:WEZL110]
+Eugene White
+
+[WZL1_PAR_10_1:WEZL110]
+As horrible as recent events in the Alderney State Correctional Facility have been, there are reasons to be grateful for it.  The secular morons will now stop their whining and we'll be able to bring in the two things that might help our prisons - corporal punishment and prayer.  These men don't deserve human rights.  They lost their rights when they ran that red light or sold that dime bad of weed to a teenager.  We need to beat 'em and make 'em atone for their evils.  There's nothing in this world that can't be corrected by a little prayer and a beating or two (a day) - my son is the prefect example.  A strict course of flagellation and prayer sessions cured him of his homosexuality.  Now he lives a happy and totally straight life in Westminster with his hairdresser roommate.   
+
+{ Side Story 1 }
+[WZL1_S1LINK_10]
+Election
+
+[WZL1_S1HEAD_10:WEZL110]
+Gubernatorial Race
+
+[WZL1_S1SECH_10:WEZL110]
+Race a disgrace
+
+
+[WZL1_S1REP_10:WEZL110]
+John Chesapeake
+
+[WZL1_S1PAR_10_1:WEZL110]
+The Governor's election is heating up and so are the blow-hard liberals who want to take an innocent incident and blow it out of proportion.  John Hunter has stood up for all races, not just white people.  If elected Governor he has promised to reach out to minorities by increasing welfare payments.  And this is the thanks he gets?  What John Hunter says in the privacy of his home, or in this case, out the window of his car at a gentleman of color holding up traffic, is just that - private.  Let's stick to the issues in this election like keeping gays from marrying.  Your filthy sex makes God angry.  
+
+
+
+
+{************************************************************************************}
+{** PUBLIC LIBERTY NEWS BLOCK 15 **}
+{************************************************************************************}
+
+{ Main Story }
+[PBL1_LINK_15]
+Air toilets
+
+[PBL1_HEAD_15:PBLB115]
+Mile high madness.  
+
+[PBL1_SECH_15:PBLB115]
+Air travelers need to be more flush than ever.
+
+[PBL1_REP_15:PBLB115]
+S. Fiona Scott
+
+[PBL1_PAR_15_1:PBLB115]
+Are you incontinent, diabetic or menstruating?  Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance).  In a last-ditch attempt to sustain their record levels of profit, Air Sol has announced that pay toilets have been installed on all its aircraft.  Passengers will now be charged $2 for a number one and $3 for a number two.  Where will this lunacy end?  $20 for a life jacket?  And, yes, before all the CEOs start whining from the top of their ivory towers, we know what's at the root of all this nickel-and-diming: Oil. 
+
+[PBL1_PAR_15_2:PBLB115]
+The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses.  People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes.  But when Big Business thinks it can start taxing our bodily functions, it's time to make a stand.  Boycott the airlines.  Take the bus.  March on the White House.  Wear sloganned t-shirts.  Eat more sprouts.  Your consumer choices CAN make a difference.  The people still have the power.   Honestly.
+
+{ Side Story 1 }
+[PBL1_S1LINK_15]
+Soul Crushing
+
+[PBL1_S1HEAD_15:PBLB115]
+Corporations crushing the soul of workers
+
+
+[PBL1_S1SECH_15:PBLB115]
+A legacy of torment
+
+
+[PBL1_S1REP_15:PBLB115]
+Joshua Crane
+
+[PBL1_S1PAR_15_1:PBLB115]
+Just as workers were getting their work-life balance back, corporations are crushing resistance, forcing employees to stay at their constraining cubicles, not surf the internet for seventy five percent of the day, and show up on time.   Another casualty this week as Sandra McColland collapsed while at work.  Many therapists and holistic specialists believe an open attendance policy, lack of management hierarchy, and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.   
+
+
+{************************************************************************************}
+{** PUBLIC LIBERTY NEWS BLOCK 7 **}
+{************************************************************************************}
+
+{ Main Story }
+[PBL1_LINK_7]
+Graduates
+
+[PBL1_HEAD_7:PBLB17]
+Exploitation that needs to be explained
+
+[PBL1_SECH_7:PBLB17]
+Who will stand up for the privileged?
+
+[PBL1_REP_7:PBLB17]
+Joshua Crane
+
+[PBL1_PAR_7_1:PBLB17]
+Sweatshops. That's what the ragged, broken American college student finds when they hit the workforce.  Fresh out of college, a place of learning, they want time to balance life by taking long hikes, getting colon cleansing, writing in a journal!  How do we expect people to be part of a democracy when they are bogged down by oppressive work 8-9 hours a day?  We feel sad for Sandra McColland, she's standing up for herself and fighting corporate America.  Good for you. You go girl. These conservatives will take every ounce of your being. Sue them till they get a clue that work is about more than working.   
+
+
+
+{************************************************************************************}
+{** WEB ADVERTS **}
+{************************************************************************************}
+
+[WEBADDRESS_15]
+www.trainyourselftolerant.com
+[WEBADDRESS_16]
+www.ecoelitevacations.com
+[WEBADDRESS_17]
+www.genderroledoll.com
+[WEBADDRESS_18]
+www.globeoil.net 
+[WEBADDRESS_19]
+www.banditmagazine.net
+[WEBADDRESS_20]
+www.killdebtdead.com
+[WEBADDRESS_21]
+www.morningwoodspa.com
+[WEBADDRESS_22]
+www.highmenspacetours.com
+
+{************************************************************************************}
+{** EYEFIND SEARCH PAGE **}
+{************************************************************************************}
+
+[EYE_SEARCH1_81]
+ECO ELITE VACATIONS
+[EYE_SEARCH2_81]
+Because you can afford to care.
+[EYE_SEARCH3_81]
+www.ecoelitevacations.com
+
+[EYE_SEARCH1_82]
+GENDER ROLE DOLL
+[EYE_SEARCH2_82]
+Reinforce positive playtime, family values and gender roles with the Gender Role Doll.
+[EYE_SEARCH3_82]
+www.genderroledoll.com
+
+[EYE_SEARCH1_83]
+GLOBE OIL
+[EYE_SEARCH2_83]
+Changing the climate. Powering the future.
+[EYE_SEARCH3_83]
+www.globeoil.net
+
+[EYE_SEARCH1_84]
+HIGHMEN SPACE TOURS
+[EYE_SEARCH2_84]
+Breaking the barrier. Visiting the void. If only for a fleeting moment.
+[EYE_SEARCH3_84]
+www.highmenspacetours.com
+
+[EYE_SEARCH1_85]
+KILL DEBT DEAD
+[EYE_SEARCH2_85]
+Debt Settlement. Debtor Elimination. Available for all.
+[EYE_SEARCH3_85]
+www.killdebtdead.com
+
+[EYE_SEARCH1_86]
+MANAGING MILLENNIALS
+[EYE_SEARCH2_86]
+It's the baby boomers vs Gen X vs Gen Y.
+[EYE_SEARCH3_86]
+www.managingmillennials.org
+
+[EYE_SEARCH1_87]
+MORNING WOOD SPA
+[EYE_SEARCH2_87]
+Spa & Wellness Center.
+[EYE_SEARCH3_87]
+www.morningwoodspa.com
+
+[EYE_SEARCH1_88]
+TRAIN YOURSELF TOLERANT
+[EYE_SEARCH2_88]
+Sensitivity training for the office.
+[EYE_SEARCH3_88]
+www.trainyourselftolerant.com
+
+[EYE_SEARCH1_89]
+CONGRESSMAN THOMAS STUBBS
+[EYE_SEARCH2_89]
+Vote for me. Vote for me. Vote for me.
+[EYE_SEARCH3_89]
+www.congressmanthomasstubbs.com 
+
+[EYE_SEARCH1_90]
+BANDIT!
+[EYE_SEARCH2_90]
+America's best-selling men's lifestyle magazine!
+It's the 21st century - worship yourself. Bandit!
+[EYE_SEARCH3_90]
+www.banditmagazine.net
+
+
+{**************************************************}
+{ mail.eyefind.info }
+{**************************************************}
+[E1EMAIL_DAY_0:EMAILE1]
+Monday
+[E1EMAIL_DAY_1:EMAILE1]
+Tuesday
+[E1EMAIL_DAY_2:EMAILE1]
+Wednesday
+[E1EMAIL_DAY_3:EMAILE1]
+Thursday
+[E1EMAIL_DAY_4:EMAILE1]
+Friday
+[E1EMAIL_DAY_5:EMAILE1]
+Saturday
+[E1EMAIL_DAY_6:EMAILE1]
+Sunday
+[INBOXE1_FULL:EMAILE1]
+INBOX FULL
+[INBOXE1_EMAILS:EMAILE1]
+EMAILS
+[INBOXE1_UNREAD:EMAILE1]
+UNREAD
+
+
+
+
+
+
+{**************************************************}
+{NEW TEXT ADDED - 14/01/09}
+
+[EYE_SEARCH1_91]
+LOST MC
+[EYE_SEARCH2_91]
+Brothers For Life, Lost Forever.
+[EYE_SEARCH3_91]
+www.lostmc.com
+
+{**************************************************}
+{NEW TEXT ADDED - 21/01/09}
+[EYE_SEARCH1_92]
+UPTOWN RIDERS MC
+[EYE_SEARCH2_92]
+The Uptown Riders are a group of urban riding enthusiasts based out of Northwood in Liberty City.
+[EYE_SEARCH3_92]
+www.uptownriders.net
+
+[EYE_SEARCH1_93]
+ANGELS OF DEATH MC
+[EYE_SEARCH2_93]
+Men wanted to treat women like objects, ride motorcycles, and say fuck off to anyone who looked different - they joined the AODMC
+[EYE_SEARCH3_93]
+www.angelsofdeathonline.com
+
+
+{**************************************************}
+[DUMMY_6_E1]
+THIS LABEL NEEDS TO BE HERE !!!
+

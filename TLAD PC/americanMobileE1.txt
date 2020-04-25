@@ -1,0 +1,218 @@
+﻿
+{-- Main characters --}
+
+[CONT_E1C1]
+Billy
+
+[CONT_E1F2]
+Jim
+
+[CONT_E1C3]
+Stubbs
+
+[CONT_E1C4]
+Ashley
+
+[CONT_E1C5]
+Elizabeta
+
+[CONT_E1C6]
+Ray
+
+[CONT_E1F7]
+Terry
+
+[CONT_E1F8]
+Clay
+
+[CONT_E1C9]
+Angus
+
+
+{-- RI characters --}
+
+[CONT_E1ML]
+Malc
+
+[CONT_E1BJ]
+Brian
+
+
+{-- Other Characters --}
+
+[CONT_E1BC]
+Bryce Bug
+
+
+{-- CONTACT CALL OPTIONS --}
+
+[E1CALL_0]
+Job
+
+[E1CALL_1]
+Air Hockey
+
+[E1CALL_2]
+Arm Wrestling
+
+[E1CALL_3]
+Boating
+
+[E1CALL_4]
+Bowling
+
+[E1CALL_5]
+Darts
+
+[E1CALL_6]
+Drinking
+
+[E1CALL_7]
+Eating
+
+[E1CALL_8]
+Gang War
+
+[E1CALL_9]
+Hang Out
+
+[E1CALL_10]
+Heli Ride
+
+[E1CALL_11]
+HiLo Cards
+
+[E1CALL_12]
+Lift
+
+[E1CALL_13]
+Pool
+
+[E1CALL_14]
+Race
+
+[E1CALL_15]
+Show
+
+[E1CALL_16]
+Strip Club
+
+
+{-- HELP STRINGS --}
+[HF_WAR]
+Do Gang War?
+
+[HF_RACE]
+Do Race?
+
+[HF_HANG]
+Hang Out?
+
+[HF_AIRH]
+Air Hockey?
+
+
+{-- FRIEND SPECIAL PHONE SLOTS --}
+[SP_E1F2_2]
+Cancel Plans
+
+[SP_E1F2_4]
+Weapons
+
+[SP_E1F7_0]
+Backup
+
+[SP_E1F7_2]
+Cancel Plans
+
+[SP_E1F7_3]
+Gun Van
+
+[SP_E1F8_0]
+Backup
+
+[SP_E1F8_2]
+Cancel Plans
+
+[SP_E1F8_4]
+Bikes
+
+{-- E1 NETWORK PHONE --}
+[CP_NET_CONT_1]
+Billy
+
+{-- JIM WEAPONS --}
+[CP_JIMSM_0]
+Pistol
+[CP_JIMSM_1]
+Pump Shotgun
+[CP_JIMSM_2]
+Micro-SMG
+[CP_JIMSM_3]
+Sniper Rifle
+[CP_JIMSM_4]
+Assault Rifle
+[CP_JIMSM_5]
+SMG
+[CP_JIMSM_6]
+Carbine Rifle
+[CP_JIMSM_7]
+Combat Shotgun
+[CP_JIMSM_8]
+RPG
+[CP_JIMSM_9]
+Grenade Launcher
+[CP_JIMSM_10] 
+Assault Shotgun
+[CP_JIMSM_11]
+9mm Automatic Pistol
+[CP_JIMSM_12]
+Sawn-Off Shotgun
+[CP_JIMSM_13]
+Grenade
+[CP_JIMSM_14]
+Pipe Bombs
+[CP_JIMSM_15]
+Molotov
+[CP_JIMSM_16]
+Combat Sniper
+
+
+
+
+
+{***************************************************************************************}
+{**** NEW CHEAT TEXT *********}
+[CP_CHEATS_17]
+BIK - INNOVATION
+[CP_CHEATS_18]
+BIK - HEXER
+[CP_CHEATS_19]
+BIK - HAKUCHOU
+[CP_CHEATS_20]
+BIK - DOUBLET
+[CP_CHEATS_21]
+VAN - GANG BURRITO
+[CP_CHEATS_22]
+VAN - SLAMVAN
+
+[CP_CHEATED_17]
+enabled cheat - "INNOVATION"
+[CP_CHEATED_18]
+enabled cheat - "HEXER"
+[CP_CHEATED_19]
+enabled cheat - "HAKUCHOU"
+[CP_CHEATED_20]
+enabled cheat - "DOUBLET"
+[CP_CHEATED_21]
+enabled cheat - "GANG BURRITO"
+[CP_CHEATED_22]
+enabled cheat - "SLAMVAN"
+
+
+[CP_ANIMTM_13]
+THE LOST MC
+
+{------------------------- END -------------------}
+[E1DUMMYMOB]
+THIS LABEL NEEDS TO BE HERE !!!

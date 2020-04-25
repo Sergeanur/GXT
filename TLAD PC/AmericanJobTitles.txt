@@ -1,0 +1,184 @@
+﻿
+
+
+
+
+{------------------------Rockstar North--------------}
+
+
+{----------------Job titles, could be translated------------------------}
+
+
+{------------------------Jobs--------------}
+
+[AudioTest:CREDIT1]
+Audio Tester
+[ToolTest:CREDIT1]
+Test Tool Support
+[SDAssProd:CREDIT1]
+Associate Producer
+[AdminSupp:CREDIT1]
+Admin Support
+[SpecThanks:CREDIT1]
+Special Thanks
+[Seance:CREDIT1]
+The Séance
+[TechAna:CREDIT1]
+Technical Analyst
+[SnrLocalSup:CREDIT1]
+Senior Localization Supervisor
+[AnimDirector:CREDIT1]
+Animation Director
+[JuniorArt:CREDIT1]
+Junior Artist
+[StudioHead:CREDIT1]
+Studio Head
+[LocalSups:CREDIT1]
+Localization Supervisors
+[GameTesters:CREDIT1]
+Game Testers
+[TORtechdes:CREDIT1]
+Technical Designers
+
+{------------------------cast---------------------}
+[Officer:CREDIT1]
+Officer
+[CrackHo:CREDIT1]
+Crack Ho
+[RusDrugDeal:CREDIT1]
+Russian drug dealer
+[Prisoner:CREDIT1]
+Prisoner
+[ImmigAgent:CREDIT1]
+Immigration Agent
+[Dealer:CREDIT1]
+Dealer
+[PrisGuar:CREDIT1]
+Prison Guard
+[RandBiker:CREDIT1]
+Random Biker
+[Barman:CREDIT1]
+Barman
+[Cook:CREDIT1]
+Cook
+
+{---------------------MOTION CAPTURE PERFORMERS------------}
+[CutMixedBy:CREDIT1]
+Cutscenes Mixed By
+[MoCapCharPer:CREDIT1]
+Motion Capture Characters performed by
+[FaceAnim:CREDIT1]
+Facial Animation
+[RehStud:CREDIT1]
+Rehearsal Studio
+[LocSound:CREDIT1]
+Location Sound
+[Weaponry:CREDIT1]
+Weaponry
+[Casting:CREDIT1]
+Casting
+
+
+{------------------------------PEOPLE OF LIBERTY CITY-----------}
+[LCPeeps1:CREDIT1]
+The People of Liberty City
+[Peddial:CREDIT1]
+Pedestrian dialogue by
+[NewCrowd:CREDIT1]
+The New Crowd Of Liberty City
+[PedProdBy1:CREDIT1]
+Pedestrian production by
+[RecordAt:CREDIT1]
+Recorded at
+
+
+{------------------------------LIBERTY CITY MEDIA--------------------------------}
+[MEDTVGra11:CREDIT1]
+TV Graphics by Stephen Ellis
+[MEDTVCam11:CREDIT1]
+TV camera work by Charles Burrell, 
+[MEDTVCam12:CREDIT1]
+Clark Harris, Shawn Allen, Caleb Oglesby
+[MEDIntWrit11:CREDIT1]
+Internet written by Michael Unsworth, Lazlow, 
+[MEDIntWrit12:CREDIT1]
+Rupert Humphries, Dan Houser
+[MEDIntBuilt11:CREDIT1]
+Internet built by Stuart Petri, Adam Tedman, 
+[MEDIntBuilt12:CREDIT1]
+Simon Lashley, Euan Duncan, Jill Menzies, Ray Smiling, 
+[MEDIntBuilt13:CREDIT1]
+Greg Lau, Mike Torok, Mike Carnevale, Alice Chuang
+[MEDSinging11:CREDIT1]
+Radio and TV Singing by Anthony Cumia, Allison Ford, 
+[MEDSinging12:CREDIT1]
+Michael Baker, Victoria Edwards
+
+{--------------------------RADIO STATION Names----------------------------------}
+
+[TLADTheme:CREDIT1]
+THE LOST AND THE DAMNED THEME
+[THEMEWriten:CREDIT1]
+Written by Stuart Hart
+[THEMEProd:CREDIT1]
+Produced by Stuart Hart and Tony Eicher for SelecTracks
+[NewRadio:CREDIT1]
+New Liberty City Radio
+
+{---------LCHC-------}
+[LCHCWhowName:CREDIT1]
+Blood Fire War Hate Death Metal Show    
+
+{---------WKTT-------}
+
+[MartSerSHOW:CREDIT1]
+The Martin Serious Show
+[MartSerSHOW5:CREDIT1]
+Smithy the Stunt Boy
+[MartSerSHOW7:CREDIT1]
+Stacey the Porn Star
+[MartSerSHOW9:CREDIT1]
+Mark the General Manager
+[MartSerSHOW13:CREDIT1]
+Ritchie the Fan
+
+
+{---Republican_Space_Rangers_Episode_456---}
+[RepSpaceEp:CREDIT1]
+Republican Space Rangers Episode 456
+[HispAlien:CREDIT1]
+Hispanic Alien
+[IntAlien:CREDIT1]
+Intellectual alien
+
+{---A_History_of_Liberty_City_part_2-------}
+[HistOfLibTit:CREDIT1]
+A History of Liberty City part 2
+
+{------Split_sides--------}
+[SplitRecBy:CREDIT1]
+Frankie Boyle motion capture recorded by 
+[SplitRecB1:CREDIT1]
+Audiomotion Studios Ltd (London)
+[SplitRecLoc:CREDIT1]
+Location: Mediahouse (London)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

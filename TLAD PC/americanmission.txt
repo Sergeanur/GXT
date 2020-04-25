@@ -1,0 +1,3127 @@
+﻿start
+
+OPENING
+BILLY1
+BILLY2
+BILLY3
+BILLY4
+BILLY5
+BILLY6
+STUBBS1
+STUBBS4
+ASH1
+ASH2
+LEILA2
+LEILA3
+JIM1
+JIM2
+JIM3P
+JIM4
+JIM5
+JIM6
+JIMRACE
+JIMGANG
+E1RAY1
+ASHLEY2
+CORRP2
+ELIZA_1
+ELIZA_2
+ELIZA_3
+E1RAY3
+E1RC3
+DAV1
+MALC1
+STUB3M1
+STUB3M2
+STUB3M3
+STUB3M4
+STUB3M5
+STUB3M7
+FIGHTC
+SKATE
+RCLnch
+
+end
+
+
+
+
+[E1CONCEPT]
+GTA episodic content proof of concept demo
+
+
+{--------------------------------------------------------}
+{                                                        }
+{                RECURRING LOST NAMES                    }
+{                                                        }
+{--------------------------------------------------------}
+
+[RECLOST_0]
+Buck
+
+[RECLOST_1]
+Earl
+
+[RECLOST_2]
+Hank
+
+[RECLOST_3]
+Hal
+
+[RECLOST_4]
+Pat
+
+[RECLOST_5]
+Frank
+
+[RECLOST_6]
+Willy
+
+[RECLOST_7]
+Tug
+
+[RECLOST_8]
+Bruce
+
+[RECLOST_9]
+Glenn
+
+[RECLOST_10]
+Horse
+
+[RECLOST_11]
+Shawn
+
+[RECLOST_12]
+Leon
+
+[RECLOST_13]
+Chuck
+
+[RECLOST_14]
+Dick
+
+[RECLOST_15]
+Brett
+
+[RECLOST_16]
+Hamm
+
+[RECLOST_17]
+Monty
+
+[RECLOST_18]
+Spike
+
+[RECLOST_19]
+Conan
+
+[RECLOST_20]
+Petey
+
+[RECLOST_21]
+Nick
+
+[RECLOST_22]
+Wayne
+
+[RECLOST_23]
+Dogg
+
+[RECLOST_DEC]
+DECEASED
+
+[RECLOST_BUST]
+ARRESTED
+
+{--- MAIN Lost names for stats display purposes ---}
+[RECLOST_24]
+Billy
+
+[RECLOST_25]
+Jim
+
+[RECLOST_26]
+Terry
+
+[RECLOST_27]
+Clay
+
+[RECLOST_28]
+Brian
+
+[RECLOST_29]
+Jason
+
+
+
+{--------------------------------------------------------}
+{                                                        }
+{           OPENING SEQUENCE                             }
+{                                                        }
+{--------------------------------------------------------}
+
+[BILLY_FL_NAME:OPENING]
+Billy Grey
+
+[JASON_FL_NAME:OPENING]
+Jason Michaels
+
+[JOHNNY_FL_NAME:OPENING]
+Johnny Klebitz
+
+[BRIAN_FL_NAME:OPENING]
+Brian Jeremy
+
+[CLAY_FL_NAME:OPENING]
+Clay Simons
+
+[TERRY_FL_NAME:OPENING]
+Terry Thorpe
+
+[JIM_FL_NAME:OPENING]
+Jim Fitzgerald
+
+[BILLY_F_NAME:OPENING]
+Billy
+
+[JASON_F_NAME:OPENING]
+Jason
+
+[JOHNNY_F_NAME:OPENING]
+Johnny
+
+[BRIAN_F_NAME:OPENING]
+Brian
+
+[CLAY_F_NAME:OPENING]
+Clay
+
+[TERRY_F_NAME:OPENING]
+Terry
+
+[JIM_F_NAME:OPENING]
+Jim
+
+[BILLY_L_NAME:OPENING]
+Grey
+
+[JASON_L_NAME:OPENING]
+Michaels
+
+[JOHNNY_L_NAME:OPENING]
+Klebitz
+
+[BRIAN_L_NAME:OPENING]
+Jeremy
+
+[CLAY_L_NAME:OPENING]
+Simons
+
+[TERRY_L_NAME:OPENING]
+Thorpe
+
+[JIM_L_NAME:OPENING]
+Fitzgerald
+
+[PRESIDENT:OPENING]
+President
+
+[VICE_PRESIDENT:OPENING]
+Vice President
+
+[TREASURER:OPENING]
+Treasurer
+
+[SECRETARY:OPENING]
+Club Secretary
+
+[ENFORCER:OPENING]
+Enforcer
+
+[SARGENT:OPENING]
+Sargent At Arms
+
+[ROAD_CAPTAIN:OPENING]
+Road Captain
+
+[FRAME_NO:OPENING]
+Frame number ~1~
+
+
+{--------------------------------------------------------}
+{                                                        }
+{                      BILLY                             }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- MEIKLE: (BILLY) BILL1.SC OPENING MISSION ---}
+
+[B1_GOGARAGE:BILLY1]
+Ride to the ~y~chop shop.
+
+[B1_GOANGELS:BILLY1]
+Ride to the Angels of Death ~y~hangout.
+
+[B1_OFFBIKE:BILLY1]
+Get off your bike.
+
+[B1_KILLANGELS:BILLY1]
+Take out the ~r~Angels of Death.
+
+[B1_GOCLUBHOUSE:BILLY1]
+Ride to The Lost ~y~clubhouse.
+
+[B1_GOCLUBHOUSEB:BILLY1]
+Follow ~b~Billy~s~ back to The Lost clubhouse.
+
+[B1_GETONBIKE:BILLY1]
+Get back on your ~b~bike.
+
+[B1_ONBIKEFOL:BILLY1]
+Get back on your ~b~bike~s~ and follow Billy.
+
+[B1_FOLLOW:BILLY1]
+Follow ~b~Billy.
+
+[B1_GETBILLY:BILLY1]
+You have left ~b~Billy~s~ behind, go and get him.
+
+[B1_WAITBILLY:BILLY1]
+Wait for ~b~Billy.
+
+[B1_RIDECLOSE:BILLY1]
+You are too far away from ~b~Billy.~s~ Ride closer to your group.
+
+[B1_BILLYDEAD:BILLY1]
+~r~Billy is dead.
+
+[B1_JIMDEAD:BILLY1]
+~r~Jim is dead.
+
+[B1_BRIANDEAD:BILLY1]
+~r~Brian is dead.
+
+[B1_JASONDEAD:BILLY1]
+~r~Jason is dead.
+
+[B1_TERRYDEAD:BILLY1]
+~r~Terry is dead.
+
+[B1_CLAYDEAD:BILLY1]
+~r~Clay is dead.
+
+[B1_PBIKEDEST:BILLY1]
+~r~Your bike was wrecked.
+
+[B1_BBIKEDEST:BILLY1]
+~r~Billy's bike was wrecked.
+
+[B1_LBIKEDEST:BILLY1]
+~r~A Lost bike was wrecked.
+
+[B1_PBIKEABAN:BILLY1]
+~r~You abandoned your bike.
+
+[B1_CAMHELP:BILLY1]
+When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
+
+[B1_CAMHELP2:BILLY1]
+When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+
+[B1_BANHELP1:BILLY1]
+A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
+
+[B1_BANHELP2:BILLY1]
+Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
+
+[B1_SCHELP:BILLY1]
+When leading a group of bikers, stay close to them to hear them talk.
+
+[ACCEL:BILLY1]
+~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
+
+[HBRAKE:BILLY1]
+~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
+
+[HBRAKE_PC:BILLY1]
+~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
+
+[CRADIO:BILLY1]
+~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+
+[CRADIO_PC:BILLY1]
+~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+
+[ENTERC:BILLY1]
+Press ~INPUT_ENTER~ to enter or exit a vehicle.
+
+[E2PANS]
+Press ~INPUT_PHONE_ACCEPT~ to answer a call.
+
+[E2GETPH]
+Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+
+[E2MENUPH]
+Press ~INPUT_PHONE_ACCEPT~ to access the menu.
+
+[E2NAVPH]
+~s~Use ~INPUT_PHONE_TAKE_OUT~ and ~INPUT_PHONE_PUT_AWAY~ to navigate the phone menu.
+
+[E2NAVPH_PC]
+~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to navigate the phone menu.
+
+[E2SELPH]
+Press ~INPUT_PHONE_ACCEPT~ to select a menu item.
+
+[E2ENDPH]
+Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.
+
+[E1REPLAY]
+~s~The special icon above the radar is a mission replay text message. Press ~INPUT_PHONE_TAKE_OUT~ to read this message and select the ~h~replay~s~ option to replay the last mission you failed.
+
+
+[BP_BIKERDEAD:BILLY1]
+~r~A member of The Lost is dead.
+
+[BP_PBIKEDEST:BILLY1]
+~r~Your bike was wrecked.
+
+[BP_GETONBIKEa:BILLY1]
+Get on your ~b~bike.
+
+[BP_GETONBIKEb:BILLY1]
+Get back on your ~b~bike.
+
+[BP_GORIVALS:BILLY1]
+Ride to where the machines are being ~y~unloaded.
+
+[BP_GOCLUBHOUSE:BILLY1]
+Ride back to the ~y~clubhouse.
+
+[BP_DESTMAC:BILLY1]
+Destroy all of the ~r~machines.
+
+
+[LOCKON]
+Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
+[LOCKON_PC]
+Use ~INPUT_FREE_AIM~ to enter aim mode.
+[SWITCH]
+When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
+[SWITCH_PC]
+Use ~PAD_RSTICK_ALL~ to aim at enemies.
+[FREEAIM]
+Half hold ~PAD_LT~ to free aim. Use ~PAD_RSTICK_ALL~ to aim (Standard controls).
+[FREEAIM_PC]
+~s~Press ~INPUT_ATTACK~ to fire your weapon.
+
+
+
+{Billy 1 activity Cutscene text}
+	  
+[ACT_01:BILLY1]			  
+This is the Lost clubhouse.
+
+[ACT_02:BILLY1]			  	   
+You can hang out and take part in activities with fellow members of The Lost.
+
+[ACT_03:BILLY1]			  
+You can arm wrestle with your brothers.
+
+[ACT_04:BILLY1]			  
+Try your luck in a hi-lo card game.
+
+[ACT_05:BILLY1]			  
+And pay your respects to fallen comrades.
+
+[ACT_06:BILLY1]	
+Sleeping on the bed will save the game and advance time by six hours.
+
+[ACT_06B:BILLY1]	
+Watch the latest shows on TV.
+
+[ACT_06E:BILLY1]	
+You can use the Lost Clubhouse computer to access the Internet.
+
+[ACT_06C:BILLY1]	
+This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive. 
+
+[ACT_06D:BILLY1]	
+Johnny will need the bike to ride in convoy with the other Lost bikers.
+
+[ACT_07:BILLY1]	
+You can save any vehicle in the parking place outside your safehouse.
+ 
+[ACT_08:BILLY1]	
+If you lose your ride, a phone call to Clay will get you an alternative bike.
+
+[ACT_09:BILLY1]	
+Terry will deliver guns to your location.
+
+
+
+
+
+{----- BILLY 2 - RW --->}
+
+[B2_GO:BILLY2]
+~s~Get on the ~b~bike.
+
+[B2_KILL:BILLY2]
+~s~Chase the ~r~Angels of Death~s~ and take them out.
+
+[B2_FAIL:BILLY2]
+~r~You lost the Angels of Death.
+ 
+[B2_ESC:BILLY2]
+~s~Leave the Angels of Death's turf and meet ~y~Billy.
+
+[B2_ESC_A:BILLY2]
+~s~Meet ~y~Billy.
+
+[B2_BIKEDESTROY:BILLY2]
+~r~Your bike was wrecked.
+
+[B2_BIKEABAND:BILLY2]
+~r~You abandoned your bike.
+
+[B2_YEAH0:BILLY2]
+~s~Burn in hell Angels!
+
+[B2_YEAH1:BILLY2]
+~s~Take that you pricks!
+
+[B3_YEAH2:BILLY2]
+~s~Die motherfuckers!
+
+[B2_GUN:BILLY2]
+~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.
+
+[B2_JASD:BILLY2]
+~r~Jason is dead.
+
+[B2_BILD:BILLY2]
+~r~Billy is dead.
+
+[B2_WARN:BILLY2]
+~s~The ~r~A.O.D.~s~ are getting away.
+
+[B2_STAM]
+~s~You can play online with your friends via the multiplayer option on the phone. This allows you to play with other Games for Windows - LIVE users.
+
+[B2_INIM]					
+~s~For a quick online game select the Instant Play option in the phone menu.
+
+{---- BILLY 3 - DW ----}
+
+
+[B3_FBIL1:BILLY3]
+Go with ~b~Billy.
+
+[B3_MBIL1:BILLY3]
+Go and meet ~b~Billy.
+
+[B3_FIGHT1:BILLY3]
+Get to the ~y~fight.
+
+[B3_KANGELS:BILLY3]
+Take out the ~r~Angels of Death.
+
+[B3_CHOUSE:BILLY3]
+Get back to the ~y~clubhouse.
+
+[B3_FDJB:BILLY3]
+~r~Your bike was wrecked.
+
+[B3_FDBB:BILLY3]
+~r~Billy's bike was wrecked.
+
+[B3_FDBRB:BILLY3]
+~r~Brian's bike was wrecked.
+
+[B3_ONBK:BILLY3]
+Get on your ~b~bike.
+
+[B3_FBLD:BILLY3]
+~r~Billy is dead.
+
+[B3_FBRD:BILLY3]
+~r~Brian is dead.
+
+[B3_FABB:BILLY3]
+~r~You abandoned your bike.
+
+[B3_HSTA:BILLY3]
+~s~At any time during a job press ~PAD_DPAD_DOWN~ to view how battle hardened the Lost gang members with you are.
+
+[B3_HSTA_PC:BILLY3]
+~s~At any time during a job press ~INPUT_FRONTEND_SHOWSCORE~ to view how battle hardened the Lost gang members with you are.
+
+[B3_COVER]
+~s~Press ~INPUT_COVER~ to enter and exit cover.
+
+[B3_SPRINT]
+Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
+[B3_SPRINT_PC]
+Use ~INPUT_SPRINT~ to sprint.
+
+[B3_DUCK]
+Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
+
+
+
+{---- BILLY 4 - BRAWL - JA ----}
+
+[B4_GETONBIKE:BILLY4]
+Get on your ~b~bike.
+
+[B4_GETONBIKEb:BILLY4]
+Get back on your ~b~bike.
+
+[B4_GOCLUBHOUSE:BILLY4]
+Ride with your brothers.
+
+[B4_GOCLUBHOUSEb:BILLY4]
+Follow ~b~Billy.
+
+[B4_BOMBARD:BILLY4]
+Fire a grenade through the ~y~upstairs window.
+
+[B4_NOTINHOUSE:BILLY4]
+Don't fire a grenade while in the clubhouse.
+
+[B4_KILLDEF:BILLY4]
+Take out the Angels of Death.
+
+[B4_FOLLOW:BILLY4]
+Go with ~b~Billy~s~.
+
+[B4_ESCAPE:BILLY4]
+Leave the clubhouse.
+
+[B4_LEAVEAREA:BILLY4]
+Get clear of the A.O.D. clubhouse.
+
+[B4_BILLYDEAD:BILLY4]
+~r~Billy is dead.
+
+[B4_JIMDEAD:BILLY4]
+~r~Jim is dead.
+
+[B4_BRIANDEAD:BILLY4]
+~r~Brian is dead.
+
+[B4_TERRYDEAD:BILLY4]
+~r~Terry is dead.
+
+[B4_CLAYDEAD:BILLY4]
+~r~Clay is dead.
+					   
+[B4_PBIKEDEST:BILLY4]
+~r~Your bike was wrecked.
+
+[B4_PBIKEAB:BILLY4]
+~r~You abandoned your bike.
+
+[B4_BBIKEDEST:BILLY4]
+~r~Billy's bike was wrecked.
+
+[B4_NOAMMO:BILLY4]
+~r~You have no grenades left.
+
+[B4_GHELP:BILLY4]
+When using the grenade launcher, aim slightly above your target to compensate for gravity.
+
+[B4_ENDONBIKE:BILLY4]
+~s~Get on your ~b~bike~s~ and leave the area.
+
+[B4_RACEG:BILLY4]
+~s~Race the Lost crew to the ~y~A.O.D. clubhouse.
+
+
+
+[B4_KILLD:BILLY4]
+~s~Take down the ~r~Angels of Death~s~ defending their clubhouse.
+
+[B4_WATCB:BILLY4]
+~s~The Angels of Death will defend their territory.
+
+[B4_ABAB:BILLY4]
+~r~You abandoned Billy.
+
+[B4_GBOB:BILLY4]
+~s~Get on your ~b~bike~s~.
+
+[B4_RACE:BILLY4]
+Race against Billy to the ~y~A.O.D. clubhouse~s~.
+
+
+
+
+{--- MEIKLE/BARRY: (BILLY) BILL5.SC UNDERCOVER COP TIE IN ---}
+
+[B5_01:BILLY5]
+Get on your ~b~bike.
+
+[B5_01b:BILLY5]
+Get back on your ~b~bike.
+
+[B5_02:BILLY5]
+Collect the package from ~b~Brian.
+
+[B5_03:BILLY5]
+The ~y~apartment~s~ is on the third floor.
+
+[B5_04:BILLY5]
+Go downstairs and get out of the building.
+
+[B5_05:BILLY5]
+Lose the cops.
+
+[B5_06:BILLY5]
+Go to the ~y~building~s~ where the deal is taking place. 
+
+[B5_07:BILLY5]
+Wait here for ~b~Niko~s~ and ~b~Playboy X.
+
+[B5_GOBACK:BILLY5]
+Go back to the apartment to meet ~b~Niko~s~ and ~b~Playboy X.
+
+[B5_BDEST:BILLY5]
+~r~Your bike was wrecked.
+
+[B5_BRIANDEAD:BILLY5]
+~r~Brian is dead.
+
+[B5_VANDEAD:BILLY5]
+~r~Brian's van has been wrecked.
+
+[B5_NIKODEAD:BILLY5]
+~r~Niko is dead.
+
+[B5_PLAYBOYDEAD:BILLY5]
+~r~Playboy X is dead.
+
+[B5_ATTACKED:BILLY5]
+~r~You attacked Niko and Playboy X.
+																												 
+
+{---- BILLY 6 - JA ----}
+
+[B6_MEETING:BILLY6]
+~s~Go to the meet with ~b~Billy.~s~
+
+[B6_OFF_ROOF:BILLY6]
+~s~Follow ~b~Jim.~s~
+
+[B6_SCAFFOLD:BILLY6]
+~s~Jump to the ~y~scaffold~s~ below.
+
+[B6_TRIADS_0:BILLY6]
+~s~Take out the ~r~Triads.~s~
+
+[B6_TRIADS_1:BILLY6]
+~s~Take care of the remaining ~r~Triads.~s~
+
+[B6_EXIT:BILLY6]
+~s~Go to ~b~Jim.~s~
+
+[B6_RACE:BILLY6]
+~s~Race the Lost crew to the ~y~meet.~s~
+
+[B6_RACE22:BILLY6]
+~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~
+
+[B6_CHASE:BILLY6]
+~s~Follow ~b~Jim.~s~
+
+[B6_JUMP:BILLY6]
+~s~Go to ~b~Billy.~s~
+
+[B6_WANTED:BILLY6]
+~s~Lose the cops.
+
+[B6_POLICE:BILLY6]
+~s~Get through the ~s~cops.~s~
+
+[b6_cover:BILLY6]
+~s~Go to the front of the ~y~building.~s~
+
+[B6_GET_FELD:BILLY6]
+~s~Go to ~y~Feldspar Street.~s~
+
+[B6_GET_BIKE:BILLY6]
+~s~Go to your ~b~bike.~s~
+
+[B6_LEAVE_VEH:BILLY6]
+~s~Leave the vehicle and get to your ~b~bike.~s~
+
+[b6_Leader_hang:BILLY6]
+~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~
+
+[B6_HANGOUT:BILLY6]
+~s~Go to your ~y~turf.~s~
+
+[B6_WARN:BILLY6]
+~s~Get to ~b~Billy~s~ before you lose him.
+
+[B6_F_BCHAR:BILLY6]
+~r~Billy is dead.
+
+[B6_F_BBIKE:BILLY6]
+~r~Billy's bike was wrecked.
+
+[B6_F_BRCHAR:BILLY6]
+~r~Brian is dead.
+
+[B6_F_BRBIKE:BILLY6]
+~r~Brian's bike was wrecked.
+
+[B6_F_JCHAR:BILLY6]
+~r~Jim is dead.
+
+[B6_F_JBIKE:BILLY6]
+~r~Jim's bike was wrecked.
+
+[B6_F_J_A:BILLY6]
+~r~You abandoned Jim.~s~
+
+[JBIK_FAIL:BILLY6]
+~r~Your bike was wrecked.~s~
+
+[J_B_FAIL2:BILLY6]
+~r~You have abandoned your bike.~s~
+
+[B6_BLOST:BILLY6]
+~r~You lost Billy.
+
+[B6_GETJIM:BILLY6]
+Go back and get ~b~Jim.~s~
+
+
+[B6_FOLLOW:BILLY6]
+Follow ~b~Billy~s~ to the meet.
+
+[B6_PROTECT:BILLY6]
+Protect ~b~Billy~s~.
+
+[B6_ESCAPE2:BILLY6]
+Lose the cops.
+
+[B6_BKILL:BILLY6]
+Billy is dead.
+
+[B6_BDISM:BILLY6]
+Billy's bike was lost.
+
+[B6_H1:BILLY6]
+When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+
+[B6_H2:BILLY6]
+While holding ~INPUT_VEH_CIN_CAM~ use ~PAD_RSTICK_LEFTRIGHT~ to switch the camera between the different bikers in your group.
+
+[B6_PLACE:BILLY6]
+~s~Place holder: Billy becomes leader.~s~
+
+[B6_H3:BILLY6]
+Race against Billy to the ~y~target.~s~
+
+
+
+
+
+
+
+{--------------------------------------------------------}
+{                                                        }
+{                          Stubbs                        }
+{                                                        }				
+{--------------------------------------------------------}
+{--- Green - Stubbs1.SC - Assassination}
+
+
+[S1_GOAL1:STUBBS1]
+Get to the ~y~airport runway~s~ by ~1~:~1~. 
+
+[S1_GOAL2:STUBBS1]
+Get the uniform in the ~b~car~s~ to pass by security. 
+
+[S1_GOAL3:STUBBS1]
+The chopper is landing. Find a way to take out the ~r~target.~s~ 
+
+[S1_GOAL4:STUBBS1]
+The convoy is on the move. Take out the ~r~target.~s~ 
+
+[S1_GOAL5:STUBBS1]
+You have the uniform to pass by security. Go to the ~y~runway.~s~ 
+
+[S1_GOAL6:STUBBS1]
+The target is dead and you are locked inside the airport. Get to the ~y~opened gate.~s~ 
+
+[S1_wanted:STUBBS1]
+Lose the cops.
+
+[S1_wantd2:STUBBS1]
+The target is dead. Lose the cops.  
+
+[S1_Spooked:STUBBS1]
+The ~r~target~s~ is fleeing. Don't let him get away.
+
+[S1_clothes:STUBBS1]
+You now have the luggage porter clothes and can obtain access into the airport. Take out the ~r~target.~s~
+
+[S1_FAIL1:STUBBS1]
+~r~The target got away. ~s~
+
+[S1_HELP1:STUBBS1]
+~s~ You can phone Stubbs for assistance at a price. 
+
+[S1_GUNSH:STUBBS1]
+You can buy weapons, armor and ammo at the gun shops.
+
+
+
+
+
+
+{--- Lawrence Kerr: (Stubbs) Stubbs4.SC Kill Billy ---}
+
+[S4_KB1:STUBBS4]
+Go to the ~y~prison.~s~	
+
+[S4_HELP_0:STUBBS4]
+Press ~INPUT_PICKUP~ to obtain free weapons from Terry.
+
+[S4_GUNS_0:STUBBS4]
+~s~Speak to Terry to get free weapons.~s~ 
+
+[S4_GUNS_1:STUBBS4]
+~s~You need heavy artillery weapons to blow up the prison doors.~s~
+
+[S4_GATE:STUBBS4]
+Blow up the ~r~prison doors.~s~
+
+[S4_ATTACK_1:STUBBS4]
+~s~Fight your way through the ~r~guards.~s~
+
+[S4_ATTACK_2:STUBBS4]
+~s~Clear the area of ~r~guards.~s~
+
+[S4_RUN:STUBBS4]
+~s~Make your way to the ~y~prison yard.~s~
+
+[S4_BILLY_0:STUBBS4]
+~s~Execute ~r~Billy.~s~
+
+[S4_BIKE:STUBBS4]
+~s~Get back on your ~b~Bike.~s~
+
+[S4_FOLLOW:STUBBS4]	   
+~s~Follow~b~ Terry and Clay~s~ out of the prison. 
+
+[S4_BIKE2:STUBBS4]	 
+Get back to Terry and Clay and get on your ~b~bike.~s~ 
+
+[S4_DIST:STUBBS4]	
+Get back to ~b~Terry and Clay.~s~
+				  
+[S4_KB2:STUBBS4]
+Lose the cops.	
+
+[S4_FAIL0:STUBBS4]
+~r~The Slam Van was wrecked.~s~
+
+[S4_FAIL1:STUBBS4]
+~r~Terry is dead.~s~
+
+[S4_FAIL2:STUBBS4]
+~r~Clay is dead.~s~
+
+[S4_FAIL3:STUBBS4]
+~r~The Lost biker is dead.~s~
+
+[S4_FAIL4:STUBBS4]
+~r~Clay's bike was wrecked.~s~
+
+[S4_FAIL5:STUBBS4]
+~r~Your brother's bike was wrecked.~s~
+
+[S4_FAIL6:STUBBS4]
+~r~You abandoned Terry and Clay.~s~
+
+[S4_FAIL7:STUBBS4]
+~r~You have alerted the guards and blown your cover.~s~
+
+[S4_FAIL8:STUBBS4]
+~r~You attacked the Lost bikers.~s~
+
+[S4_FAIL9:STUBBS4]
+~r~Your bike was wrecked.~r~
+
+[S4_FAIL10:STUBBS4]
+~r~You have damaged the Lost vehicles.~s~
+
+[S4_FAIL11:STUBBS4]
+~r~Billy has been securely locked down.~s~
+
+[S4_help0:STUBBS4]
+~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.~s~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[S4_KB10:STUBBS4]
+Lead The Lost back to the ~y~clubhouse.~s~
+
+[S4_KB16:STUBBS4]
+Get out of the prison and lose the cops.
+
+[S4_KB17:STUBBS4]
+~r~Billy has been put on lockdown.~s~
+
+
+[S4_KB35:STUBBS4]
+~s~Please step away from the gates.~s~
+
+[S4_KB36:STUBBS4]
+~s~Step away from the gates. You're not on the visitors list, you're not coming in. ~s~
+
+[S4_KB37:STUBBS4]
+~s~Authorised personnel only. Leave the area now.~s~
+
+
+
+
+
+
+{--------------------------------------------------------}
+{                                                        }
+{                          Ashley                         }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- CHRISM: (Ashley) Ash1.SC Drug Run ---}
+
+[A1_F01:ASH1]
+~r~Ashley is dead.
+
+[A1_P01:ASH1]
+Go to ~y~Ashley.
+
+[A1_P02:ASH1]
+Go to ~b~Ashley.
+
+[A1_P03:ASH1]
+You left ~b~Ashley ~s~behind.
+
+[A1_P04:ASH1]
+Take Ashley ~y~home.
+
+[A1_P05:ASH1]
+Go back for ~b~Ashley.
+
+[A1_P06:ASH1]
+Get on the ~b~bike.
+
+[A1_C01:ASH1]
+Press ~INPUT_PICKUP~ to hurry Ashley.
+
+[A1_P07:ASH1]
+Go ~y~upstairs ~s~and find Ashley.
+
+[A1_P08:ASH1]
+Find Ashley.
+
+[A1_P09:ASH1]
+Take out the ~r~drug addicts.
+
+
+{--- JAMES: (Ashley) Ashley2.sc Roman's Holiday ---}
+
+
+[A2_DR_MALC:ASH2]
+Go to ~b~Malc.
+
+[A2_PU_MALC:ASH2]
+Pick up ~b~Malc.
+
+[A2_GTINCAR:ASH2]
+Get in the ~b~car.
+
+[A2_MALC_DD:ASH2]
+~r~Malc is dead.
+
+[A2_MALC_CD:ASH2]
+~r~Malc's car was wrecked.
+
+[A2_MALC_BD:ASH2]
+~r~Malc's bike was wrecked.
+
+[A2_MALC_CI:ASH2]
+~r~Malc's car was damaged.
+
+[A2_MALC_BI:ASH2]
+~r~Malc's bike was damaged.
+
+[A2_MALCFLEE:ASH2]
+~r~You attacked Malc.
+
+[A2_ROM_TXI:ASH2]
+Get in ~b~Roman Bellic's cab.
+
+[A2_ROM_TXI2:ASH2]
+Wait for Roman Bellic to arrive.
+
+[A2_ROM_TXI3:ASH2]
+Go to ~b~Malc~s~ and wait for Roman Bellic to arrive.
+
+[A2_DRV_DEN:ASH2]
+Go to the ~y~gambling den.
+
+[A2_ROMDEN:ASH2]
+Collect Roman Bellic from the ~y~gambling den.
+
+[A2_ROMDEN2:ASH2]
+Keep an eye out for Roman Bellic.
+
+[A2_ROM_DD:ASH2]
+~r~Roman Bellic is dead.
+
+[A2_ROM_SPK:ASH2]
+~r~Roman Bellic was spooked.
+
+[A2_DR_WARE:ASH2]
+Go to the ~y~warehouse.
+
+[A2_ROM_ESC:ASH2]
+~r~Roman Bellic got away.
+
+[A2_ROM_ES2:ASH2]
+Threaten ~b~Roman Bellic~s~ but do not kill him.
+
+[A2_ROM_ES3:ASH2]
+Go and get ~b~Roman Bellic.
+
+[A2_ROM_ES4:ASH2]
+Wait for ~b~Roman Bellic.
+
+[A2_ROM_WT1:ASH2]
+Wait for Roman Bellic to leave the gambling den.
+
+[A2_ROM_WT2:ASH2]
+Kidnap ~b~Roman Bellic.
+
+
+[A2_ROM_2CR:ASH2]
+Take Roman Bellic to the ~b~car.
+
+[A2_WNTD_LS:ASH2]
+Lose the cops.
+
+
+[A2_CAR_CD:ASH2]
+~r~Roman Bellic's cab was wrecked.
+
+
+
+
+
+{--- JAMES: (Leila) Leila3.SC Drug Courier ---}
+
+[L3_INSTR1:LEILA3]
+Hijack the ~r~police van~s~.
+
+[L3_INSTR2:LEILA3]
+The ~r~police van~s~ is leaving for the security compound. Hurry. 
+
+[L3_INSTR3:LEILA3]
+Go to the ~y~car park~s~.
+
+[L3_INSTR5:LEILA3]
+Leave the van for the Angels of Death to deal with.
+
+[L3_INSTR6:LEILA3]
+Take the courier to the ~y~safehouse~s~.
+
+[L3_GET_IN:LEILA3]
+Get in the ~b~police van~s~.
+
+[L3_ESCAPE:LEILA3]
+Escape the airport.
+
+[L3_LOSE_P:LEILA3]
+Lose the cops.
+
+[L3_GETBUD:LEILA3]
+Don't leave the ~b~courier~s~ behind.
+
+[L3_FAIL_K:LEILA3]
+The drug courier is dead.
+
+[L3_FAIL_C:LEILA3]
+You let the van get to the security compound.
+
+
+{--- MEIKLE: (Leila) Leila2.SC Convoy test script ---}
+
+[L2_01:LEILA2] 
+Do you want to lead the convoy? Press 1 for Yes or 2 to set a biker as leader.
+
+[L2_02:LEILA2]
+How many bikes in the convoy? Press a number from 2 to 6.
+
+[L2_03:LEILA2]
+Get on the empty ~b~bike.~s~
+
+[L2_04:LEILA2]
+The Convoy will follow you.
+
+[L2_05:LEILA2]
+Get back to the lead ~b~vehicle.~s~
+
+[L2_06:LEILA2]
+Follow the convoy ~b~leader.~s~
+
+[L2_07:LEILA2]
+Get back on your ~b~bike.~s~
+
+
+						 
+{--------------------------------------------------------}
+{                                                        }
+{                          Jim                           }
+{                                                        }
+{--------------------------------------------------------}
+
+	  
+{--- MEIKLE: (Jim) Jim1.SC  ---}
+[J1_01:JIM1]
+Get your ~b~bike.~s~
+
+[J1_02:JIM1]
+Go to the ~b~truck.~s~
+
+[J1_03:JIM1]
+Get in the ~b~truck.~s~
+
+[J1_04:JIM1]
+Go to ~b~Jim.~s~
+
+[J1_05:JIM1]
+Leave the bikes, I'll have them looked after.
+
+[J1_06:JIM1]
+Go to the ~y~diner.~s~
+
+[J1_07:JIM1]
+Get in the ~b~truck~s~ with Jim.	
+
+[J1_08:JIM1]
+Take a ~b~bike.~s~
+
+[J1_10:JIM1]
+Park the bike on the back of the ~y~truck.~s~
+
+[J1_12:JIM1]
+Get in the ~b~truck.~s~
+
+[J1_13:JIM1]
+Wait for ~b~Jim.~s~
+
+[J1_14:JIM1]
+Get back to the ~y~yard.~s~
+
+[J1_15:JIM1]
+Get back in the ~b~truck.~s~
+
+[J1_16:JIM1]
+Take out the ~r~Angels of Death.~s~
+
+[J1_20:JIM1]
+Go to ~b~Jim.~s~
+
+[J1_22:JIM1]
+Follow ~b~Jim~s~ back to the clubhouse.
+
+[J1_23:JIM1]
+Get back on your ~b~bike.~s~
+
+[J1_24:JIM1]
+~s~Let's do this.~s~
+
+[J1_25:JIM1]
+~s~Fuck yeah.~s~
+
+[J1_26:JIM1]
+Get in the truck with ~b~Jim.~s~
+
+[J1_27:JIM1]
+Phone Terry or Clay for backup.
+
+[J1_28:JIM1]
+Go to the ~y~clubhouse.~s~
+
+[J1_29:JIM1] 
+Get on the ~b~bike.~s~
+
+[J1_F1:JIM1]
+~r~Jim is dead.~s~
+
+[J1_F2:JIM1]
+~r~Jim's bike was wrecked.~s~
+
+[J1_F3:JIM1]
+~r~Your bike was wrecked.~s~
+
+[J1_F4:JIM1]
+~r~The truck was wrecked.~s~
+
+[J1_F5:JIM1]
+~r~There aren't enough bikes for the shipment.~s~
+
+[J1_F6:JIM1]
+~r~A stolen bike was wrecked.~s~
+
+[J1_H1:JIM1]
+You can phone Terry or Clay for help at any time during a job.
+
+[J1_H2:JIM1]
+Your backup has arrived.
+
+{--- BEDDOES/BRENDA: (Jim) Jim2.SC SURVEILENCE ---}
+
+[J2_01:JIM2]
+Race Jim to the ~y~cops.
+
+[J2_02:JIM2]
+Lure the bent cops to the ~y~ambush.
+
+[J2_03:JIM2]
+You are too far from the ~r~bent cops, ~s~they need to follow you.
+
+[J2_04:JIM2]
+You are too far from ~b~Jim, ~s~catch up to him.
+
+[J2_04b:JIM2]
+Wait for ~b~Jim~s~ to catch up.
+
+[J2_05:JIM2]
+Take out the ~r~bent cops.
+
+[J2_06:JIM2]
+Take Jim back to the ~y~clubhouse.
+
+[J2_07:JIM2]
+Get back on your ~b~bike.
+
+[J2_anybike:JIM2]
+~s~Get back on the ~b~bike.
+
+[J2_08:JIM2]
+Follow ~b~Jim~s~ to the cops' location.
+
+[J2_09:JIM2]
+One of the cops is trying to call for help.
+
+[J2_10:JIM2]
+They called for ~r~reinforcements.
+
+[J2_11:JIM2]
+Lose the cops.
+
+[J2_12:JIM2]
+You have left ~b~Jim~s~ behind, go back for him.
+
+[J2_12b:JIM2]
+Wait for ~b~Jim~s~ to catch up.
+
+[J2_14:JIM2]
+~s~Go and speak to ~b~Jim.
+
+[J2_15:JIM2]
+~s~Leave the area.
+
+[J2_F1:JIM2]
+~r~You failed to lure the cops to the ambush.
+
+[J2_F2:JIM2]
+~r~The cops are on to you.
+
+[J2_F3:JIM2]
+~r~The cops weren't taken out at the ambush.
+
+[J2_F4:JIM2]
+~r~Jim has been injured. 
+
+[J2_F5:JIM2]
+~r~Your bike was wrecked. 
+
+[J2_F6:JIM2]
+~r~You've lost the cops.
+
+[J2_F7:JIM2]
+~r~You've lost Jim.
+
+[J2_F8:JIM2]
+~r~Jim's bike was wrecked.
+
+[J2_F9:JIM2]
+~r~The cops are unable to follow you.  You couldn't take them out in the open.
+
+[J2_F10:JIM2]
+~r~You abandoned your buddies.
+
+[J2_F11:JIM2]
+~r~You wrecked your bike.
+
+[J2_F12:JIM2]
+~r~You abandoned your bike.
+
+[J2_F13:JIM2]
+~r~You abandoned Jim.
+
+[J2_13:JIM2]
+~s~Wait for ~b~Jim.
+
+[J2_D4:JIM2]
+~r~Matthews~s~ is calling for backup.
+
+[J2_D5:JIM2]
+~r~McCornish~s~ is calling for backup.
+
+[J2_H1:JIM2]
+Use ~INPUT_VEH_CIN_CAM~ to stay in the bent cops sight.  
+
+[J2_D3:JIM2]
+Johnny has to go with Jim to lure some undercover cops who have been hassling ~n~the Lost clubhouse into an area where they can take them out.
+
+[J2_Arrive:JIM2]
+~s~This is the ambush point and your brothers are here to help.
+
+[ZOOM:JIM2]
+~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+
+[ZOOM_PC:JIM2]
+~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom. 
+
+
+{---WONG: Jim3p.sc 'I Want One Of Those' ---}
+
+[J3_01:JIM3P]
+Steal the ~b~bike.~s~
+
+[J3_01a:JIM3P]
+Steal the ~b~Sanchez.~s~
+
+[J3_01b:JIM3P]
+Steal the ~b~Hellfury.~s~
+
+[J3_01c:JIM3P]
+Steal the ~b~Bati 800.~s~
+
+[J3_01d:JIM3P]
+Steal the ~b~NRG 900.~s~
+
+[J3_01e:JIM3P]
+Steal the ~b~PCJ.~s~
+
+[J3_01f:JIM3P]
+Steal the ~b~Hakuchou.~s~
+
+[J3_01g:JIM3P]
+Steal the ~b~Nightblade.~s~
+
+[J3_01h:JIM3P]
+Steal the ~b~Wolfbane.~s~
+
+[J3_01i:JIM3P]
+Steal the ~b~Angel.~s~
+
+[J3_01j:JIM3P]
+Steal the ~b~Daemon.~s~
+
+
+[J3_02:JIM3P]
+Take the bike back to the ~y~clubhouse.~s~
+
+[J3_03:JIM3P]
+Get back on the ~b~bike.~s~
+
+[J3_04:JIM3P]
+~r~The bike was wrecked.~s~
+
+[J3_05:JIM3P]
+~r~You abandoned the bike.~s~
+
+[J3_06:JIM3P]
+Lose the cops.
+
+[J3_07:JIM3P]
+~r~You have cancelled the job.~s~
+
+[title0:JIM3P]
+Tattoo Parlor Lament
+
+[title1:JIM3P]
+Stripclub Hog
+
+[title2:JIM3P]
+Take Out Liquor
+
+[title3:JIM3P]
+Short Stay Parking
+
+[title4:JIM3P]
+Delivery Boy's Hardship
+
+[title5:JIM3P]
+Zorst Fumes
+
+[title6:JIM3P]
+Ex-Display
+
+[title7:JIM3P]
+Beachcomber
+
+[title8:JIM3P]
+A Ride in the Park
+
+[title9:JIM3P]
+Get Off Your High Horse
+
+
+
+
+
+
+
+
+{--- MEIKLE: (Jim) Jim4.SC  ---}
+
+[J5_01:JIM4]
+Use the pipe bombs to blow up the Angel of Death ~r~vans.~s~
+
+[J5_02:JIM4]
+Get on your ~b~bike.~s~
+
+[J5_03:JIM4]
+One of the ~r~A.O.D. vans~s~ is nearby.
+
+[J5_04:JIM4]
+The ~r~Angels of Death~s~ have spotted you, don't let them escape.
+
+[J5_05:JIM4]
+Use the pipe bombs to destroy another ~r~van.~s~
+
+[J5_06:JIM4]
+That van won't cause anymore trouble, get back on your ~b~bike.~s~
+[J5_HELP:JIM4]
+Vans set to attack.
+
+[J5_HELP1:JIM4]
+~s~You can throw pipe bombs from vehicles by pressing ~INPUT_VEH_ATTACK~.
+                                                                           
+[J5_HELP2:JIM4]
+~s~The longer you hold down ~INPUT_VEH_ATTACK~ the shorter the fuse will become.
+
+[J5_HELP3:JIM4]
+~s~Press ~INPUT_VEH_HEADLIGHT~ to change your drive-by weapon.
+
+[J5_HELP3_PC:JIM4]
+~s~Press ~INPUT_VEH_NEXT_WEAPON~ to change your drive-by weapon.
+
+[J5_F1:JIM4]
+~r~Your bike was wrecked.~s~
+
+{--- FERGUSON: Jim5.sc 'Dock Meet' ---}
+
+[J4_02:JIM5]
+Take out ~r~Brian's faction.~s~
+
+[J4_04:JIM5]
+Chase ~r~Brian's faction~s~ and take them down.
+
+[J4_05:JIM5]
+Get on your ~b~bike~s~ and follow Jim to the meet.
+
+[J4_05B:JIM5]
+Get back on your ~b~bike.~s~
+
+
+[J4_06:JIM5]
+Follow ~b~Jim~s~ to the meet at the docks.
+
+[J4_07:JIM5]
+Job Complete.
+
+[J4_08:JIM5]
+Go to ~b~Jim.~s~
+
+[J4_09:JIM5]
+Get on your ~b~bike~s~ and drive to the meet.
+
+[J4_10:JIM5]
+Meet Brian at the ~y~docks.~s~
+
+[J4_11:JIM5]
+Wait for ~b~Jim.~s~
+
+[J4_12:JIM5]
+Lose the cops.
+
+[J4_13:JIM5]
+~r~Brian's faction~s~ are getting away.
+
+[J4_F01:JIM5]
+~r~Jim is dead.
+
+[J4_F02:JIM5]
+~r~Your bike was wrecked.
+
+[J4_F04:JIM5]
+~r~Jim's bike was wrecked.
+
+[J4_F03:JIM5]
+~r~Brian's faction got away.
+
+[J4_F05:JIM5]
+~r~Terry is dead.
+
+[J4_F06:JIM5]
+~r~Clay is dead.
+
+[J4_F07:JIM5]
+~r~You abandoned your bike.
+
+
+{-------- EUGENE: Jim6.sc ----------------------}
+[JM6_I1:JIM6]
+Go to Brian's ~y~safehouse.
+
+[JM6_I2:JIM6]
+Find a way into the house.
+
+[JM6_KILLS:JIM6]
+Take out ~r~Brian.
+
+[JM6_I3:JIM6]
+~r~Brian~s~ is trying to escape out the back entrance.
+
+[J6_F1]
+~r~Brian has escaped to the Police station.
+
+[J6_F2]
+~r~You have lost Brian.
+
+[JM6_PMISP:JIM6]
+Brian is dead.
+
+[JM6_CUT1:JIM6]
+Brian is protected in his safehouse.
+
+[JM6_ONBK:JIM6]
+Get on your ~b~bike.
+
+[JM6_BESC:JIM6]
+~r~Brian got away.
+
+[JM6_DESB:JIM6]
+~r~Your bike was wrecked.
+
+[JM6_BBHP:JIM6]
+Terry and Clay will cover the rear exit of the house.
+
+[JM6_BHP2:JIM6]
+~s~If you launch a grenade through a window into the house, the occupants will flee.
+
+[JM6_CLR:JIM6]
+Get clear of the house.
+
+[JM6_ABAN:JIM6]
+~r~You abandoned your bike.
+
+[JM6_LOSW:JIM6]
+~s~Lose the cops.
+
+[JM6_EXEH:JIM6]
+~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.
+
+{---- JimMcmahon: (JimRaces) Jim Races ----}
+
+[1stBR:JIMRACE]
+1st
+
+[2ndBR:JIMRACE]
+2nd
+
+[3rdBR:JIMRACE]
+3rd
+
+[4thBR:JIMRACE]
+4th
+
+[5thBR:JIMRACE]
+5th
+
+[6thBR:JIMRACE]
+6th
+
+[7thBR:JIMRACE]
+7th
+
+
+[8thBR:JIMRACE]
+8th
+
+
+[9thBR:JIMRACE]
+9th
+
+
+[10thBR:JIMRACE]
+10th
+
+[11thBR:JIMRACE]
+11th
+
+[12thBR:JIMRACE]
+12th
+
+
+[CNT1:JIMRACE]
+1
+
+[CNT2:JIMRACE]
+2
+
+[CNT3:JIMRACE]
+3
+
+[GOBR:JIMRACE]
+Go
+
+[WINBR:JIMRACE]
+You win.
+
+[LOSEBR:JIMRACE]
+~r~You lose.
+
+[INCARBR:JIMRACE]
+Get back on the bike.
+
+[RaceStart:JIMRACE]
+Go to the start line.
+
+[RaceCar:JIMRACE]
+Get a bike and go to the start line.
+
+[RaceStartB:JIMRACE]
+Go to the ~y~start line.
+
+[RaceCarB:JIMRACE]
+Get a bike and go to the ~y~start line.
+   
+[RNEECar:JIMRACE]
+Get a suitable bike.
+
+[LineUp:JIMRACE]
+Line up your bike.
+
+[raband:JIMRACE]
+~r~Race abandoned.
+
+[racops:JIMRACE]
+~r~The cops scared off the other racers.
+
+[rawant:JIMRACE]
+Lose the cops, or the race may be abandoned.
+
+[HELPRCAREA:JIMRACE]
+Press a key to choose a race area.~n~
+0: Alderney				~n~
+1: Algonquin			~n~
+2: East (Bohan & Broker)
+
+[HELPRCCOJE:JIMRACE]
+Press a key to choose an Alderney race course.~n~
+0: ALDERNEY_BEACH		~n~
+1: ALDERNEY_INDUSTRIAL	~n~
+2: TUDOR_DOCKS			~n~
+3: ALDERNEY_CITY		~n~
+4: ALDERNEY_CASINO		~n~
+5: ALDERNEY_NW	
+
+
+[HELPRCCOAL:JIMRACE]	
+Press a key to choose an Algonquin race course.~n~
+0: HOLLAND				~n~
+2: PARK_CIRCUIT					
+
+[HELPRCCOEA:JIMRACE]
+Press a key to choose an East race course.~n~
+0: BOHAN_STRIP			~n~
+1: BOHAN_BEACH			~n~
+2: BOHAN_STEPS			~n~
+5: SCHOTTLER_STATION
+
+[MalStart:JIMRACE]
+Follow ~b~Malc ~s~to the race start.
+
+[MalBike:JIMRACE]
+Get a bike and follow ~b~Malc.
+
+[bkCombatHlp1:JIMRACE]
+You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack. 
+
+[bkCombatHlp1_PC:JIMRACE]
+You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack. 
+
+[bkCombatHlp2:JIMRACE]
+Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
+
+[bkCombatHlp2_PC:JIMRACE]
+Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+
+[bkCombatHlp3:JIMRACE]
+You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack. 
+
+[bkCombatHlp3_PC:JIMRACE]
+You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack. 
+
+[bkCombatHlp4:JIMRACE]
+Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
+
+[bkCombatHlp4_PC:JIMRACE]
+Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+
+[RR_PASS_01:JIMRACE]
+~1~/12
+[RR_PASS_02:JIMRACE]
+RACES
+[RR_PASS_03:JIMRACE]
+~1~
+[RR_FAIL_01:JIMRACE]
+RACE
+[RR_FAIL_02:JIMRACE]
+LOST...
+
+[RR_RC_AB]
+RACE ALDERNEY BEACH	   
+
+[RR_RC_AI]
+RACE ALDERNEY INDUSTRIAL 
+
+[RR_RC_TD]
+RACE TUDOR DOCKS
+
+[RR_RC_CT]		   
+RACE ALDERNEY_CITY	
+
+[RR_RC_AC]   
+RACE ALDERNEY CASINO	
+
+[RR_RC_NW]   
+RACE NORTH WEST	ALDERNEY 
+
+[RR_RC_HL]
+RACE HOLLAND		
+
+[RR_RC_PC]		
+RACE PARK CIRCUIT	
+
+[RR_RC_BS]				
+RACE BOHAN STRIP
+
+[RR_RC_BB]		   
+RACE BOHAN BEACH	
+
+[RR_RC_ST]	   
+RACE BOHAN STEPS	
+
+[RR_RC_SS]	   
+RACE SCHOTTLER STATION
+
+
+
+
+
+{-------- Ryan: GangWar1.sc ----------------------}
+
+[GW_HELP_01]
+The ~BLIP_114~ icon represents the meeting point for a gang war. Go to that location to meet with other Lost members. In gang wars you will battle with other gangs. There will be various gang wars around the city.
+[GW_HELP_02]
+There will always be various gang wars around the city. These will be represented by the ~BLIP_114~ icon. Gang wars are a good way to increase how battle hardened Lost gang members become.
+[GW_HELP_03]
+You need to be on a bike to start a gang war.
+
+[GW_REWARD_01]
+10 Gang Wars completed: Sawn-off shotgun delivered to safehouse.
+[GW_REWARD_02]
+20 Gang Wars completed: Semi-automatic pistol delivered to safehouse.
+[GW_REWARD_03]
+30 Gang Wars completed: Carbine rifle delivered to safehouse.
+[GW_REWARD_04]
+40 Gang Wars completed: Assault shotgun delivered to safehouse.
+[GW_REWARD_05]
+50 Gang Wars completed: Grenade launcher delivered to safehouse.
+
+[GW_COMMAND_01:JIMGANG]
+~s~Meet up with the Lost ~b~members. 
+[GW_COMMAND_02:JIMGANG]
+~s~Find the rival ~r~gang.
+[GW_COMMAND_03:JIMGANG]
+~s~Take out the rival ~r~gang.
+[GW_COMMAND_04:JIMGANG]
+~s~Get a bike.
+[GW_COMMAND_05:JIMGANG]
+~s~Take out the ~r~target vehicle.
+
+[GW_FAIL_01:JIMGANG]
+~r~A target has escaped.
+[GW_FAIL_02:JIMGANG]
+~r~Jim has been injured.
+[GW_FAIL_03:JIMGANG]
+~r~A member of The Lost has been injured.
+[GW_FAIL_04:JIMGANG]
+~r~The target vehicle has escaped.
+
+[GW_PASS_01:JIMGANG]
+~1~/25
+[GW_PASS_02:JIMGANG]
+GANG WAR
+[GW_PASS_03:JIMGANG]
+~1~
+[GW_FLSP_01:JIMGANG]
+LOST MC
+[GW_FLSP_02:JIMGANG]
+DEFEATED
+
+[GW_TEMP_01:JIMGANG]
+~s~PHONECALL~n~~n~Jim tells you where to meet him and the others if you want to join them in an attack on a rival gang.	
+ 
+{--------------------------------------------------------}
+{                                                        }
+{                           Ray                          }
+{                                                        }
+{--------------------------------------------------------}
+
+[R1_BIKE:E1RAY1]
+Get on your ~b~bike.
+
+[R1_MEET:E1RAY1]
+Meet the other ~b~Lost gang members.
+
+[R1_MEET2:E1RAY1]
+Catch up with the other ~b~Lost gang members.
+
+[R1_BRIEF:E1RAY1]
+Go to the ~y~docks.
+
+[R1_ROCKS:E1RAY1]
+Take out ~r~Tony's boy.
+
+[R1_PICKUP:E1RAY1]
+Pick up the ~g~diamonds.
+
+[R1_FAIL1:E1RAY1]
+~r~Your bike was wrecked.
+
+[R1_FAIL2:E1RAY1]
+~r~Tony's boy escaped with the diamonds.
+
+[R1_FAIL2W:E1RAY1]
+~r~The diamonds were lost in the water.
+
+[R1_FAIL3:E1RAY1]
+~r~Your gang suffered significant losses.
+
+[R1_FAIL4:E1RAY1]
+~r~You abandoned your bike. 
+
+[R1_CARS:E1RAY1]
+Take out ~r~Tony's bodyguards.
+
+[R1_STASH1:E1RAY1]
+Stash the diamonds in the two ~g~trash bags.
+
+[R1_STASH2:E1RAY1]
+Stash the remaining diamonds in the other ~g~trash bag.
+
+[R1_WANTED:E1RAY1]
+Lose the cops.
+
+[R1H_LEAD:E1RAY1]
+Drive to the front of the pack to lead the biker gang.
+
+[R1H_BRIEF2:E1RAY1]
+Lead your brothers to the ~y~docks.
+
+
+
+
+{------- Ray2 - 3Way Diamond Deal --------}
+				
+
+[RB2_COMMAND_01:ASHLEY2]
+~s~Go to the North entrance of the ~y~Libertonian.
+
+[RB2_COMMAND_02:ASHLEY2]
+~s~Escape from the ~y~Libertonian.
+
+[RB2_COMMAND_03:ASHLEY2]
+~s~Go back to ~y~Ray.
+
+[RB2_COMMAND_04:ASHLEY2]
+~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+
+[RB2_COMMAND_05:ASHLEY2]
+~s~Come back between 9pm and 3am.
+
+[RB2_COMMAND_06:ASHLEY2]
+~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.
+
+[RB2_COMMAND_07:ASHLEY2]
+~s~Lose the cops.
+
+[RB2_COMMAND_08:ASHLEY2]
+~s~Lose Isaac's crew.
+
+[RB2_COMMAND_09:ASHLEY2]
+~s~Get away from the Libertonian before the cops arrive in full force.
+
+[RB2_COMMAND_10:ASHLEY2]
+~s~Take the money to ~b~Jim.
+
+[RB2_COMMAND_11:ASHLEY2]
+~s~Enter the ~y~Libertonian.
+
+[RB2_COMMAND_12:ASHLEY2]
+~s~Meet Niko at the ~y~goods entrance.
+
+[RB2_COMMAND_13:ASHLEY2]
+~s~Get back on the ~b~bike.
+
+[RB2_COMMAND_14:ASHLEY2]
+~s~Get on the ~b~bike.
+
+[RB2_COMMAND_15:ASHLEY2]
+~s~Take out ~r~Ray's guys.~s~
+
+[RB2_COMMAND_16:ASHLEY2]
+~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.
+
+[RB2_FAIL_01:ASHLEY2]
+~r~Job Failed.
+
+[RB2_FAIL_02:ASHLEY2]
+~r~Niko is dead.
+
+[RB2_FAIL_04:ASHLEY2]
+~r~Isaac is dead.
+
+[RB2_FAIL_05:ASHLEY2]
+~r~You attacked Niko.
+
+[RB2_FAIL_06:ASHLEY2]
+~r~Niko has been injured.
+
+[RB2_FAIL_07:ASHLEY2]
+~r~You attacked Isaac's crew.
+
+[RB2_FAIL_08:ASHLEY2]
+~r~You attacked Jim.
+
+[RB2_FAIL_09:ASHLEY2]
+~r~Jim has been injured.
+
+[RB2_FAIL_10:ASHLEY2]
+~r~You attacked the gang.
+
+[RB2_FAIL_11:ASHLEY2]
+~r~The gang have been injured.
+
+[RB2_FAIL_12:ASHLEY2]
+~r~You angered Isaac's crew.
+
+[RB2_FAIL_13:ASHLEY2]
+~r~Your bike was wrecked.
+
+[RB2_FAIL_14:ASHLEY2]
+~r~You missed the diamond deal.
+
+[RB2_PASS_01:ASHLEY2]
+~s~Job Complete.
+
+[RB2_HELP_01:ASHLEY2]
+~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.
+
+[RB2_HELP_02:ASHLEY2]
+~s~Terry and Clay will wait for you at the north exit of the Libertonian.
+
+{--------------------------------------------------------}
+{                                                        }
+{                  Corrupt Politician                    }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- RYAN: Bus ride stubbs2 ---}
+
+[CP2_COMMAND_01:CORRP2]
+Get to the ~b~prison transport bus.
+[CP2_COMMAND_02:CORRP2]
+Get the bus to the ~y~drop.
+[CP2_COMMAND_03:CORRP2]
+~s~Lose the cops.
+[CP2_COMMAND_04:CORRP2] 
+Take control of the ~b~prison transport bus.
+[CP2_COMMAND_05:CORRP2]
+Get back in the ~b~bus.
+[CP2_COMMAND_06:CORRP2]
+~s~Lose the cops.
+[CP2_COMMAND_07:CORRP2]
+Get to the prison transport bus ~y~location.
+[CP2_COMMAND_08:CORRP2]
+Take out the prison transport bus ~r~guards.
+
+[CP2_MISC_01:CORRP2]
+The ~b~bus~s~ is leaving. Intercept it before it reaches the prison. 
+[CP2_MISC_02:CORRP2]
+Hold ~INPUT_VEH_CIN_CAM~ for an inside view of the prison transport bus.
+[CP2_MISC_03:CORRP2]
+You will attract attention in the prison transport bus. Try to avoid the cops on your way to the drop off point.
+[CP2_MISC_04:CORRP2]
+The cops have now given up looking for the prison transport bus.
+
+[CP2_FAIL_01:CORRP2]
+~r~The bus made it to the prison. 
+[CP2_FAIL_02:CORRP2]
+~r~A prisoner has died.
+[CP2_FAIL_03:CORRP2]
+~r~The bus was wrecked.
+[CP2_FAIL_04:CORRP2]
+~r~You abandoned the bus.
+[CP2_FAIL_05:CORRP2]
+~r~You disrupted the prisoner's escape plans.
+[CP2_FAIL_06:CORRP2]
+~r~The bus is stuck.
+
+{------------------ Brenda: Stubbs3m1 mini-missions -------------}
+
+[HookerMission:STUB3M1]
+~s~Phone Ho'
+
+[blurb:STUB3M1]
+~s~PHONE CALL~n~~n~Stubbs wants you to photograph ~n~a rival politician soliciting a hooker~n~ and then send him the evidence.
+
+[Dest:STUB3M1]
+~s~Go to the ~y~lookout point~s~ on the roof and wait for the politician.
+
+[Alley:STUB3M1]
+~s~Go to the ~y~alley~s~ near the red light district.
+
+[photo:STUB3M1]
+~s~Take an incriminating photo of the politician with the hooker.
+
+[Inph:STUB3M1]
+~s~The politician must be in the photo.
+
+[Inph1:STUB3M1]
+~s~The hooker must be in the photo.
+
+[good:STUB3M1]
+~s~That is not the politician.
+
+[descrip:STUB3M1]
+~s~The politician drives a red Cognoscenti. Look out for him from this vantage point.
+
+[There:STUB3M1]
+~s~There is the politician, use the phone to take a photo of him with the hooker.
+
+[spook:STUB3M1]
+~r~You spooked the politician.
+
+[Timeout:STUB3M1]
+~r~You missed your chance.
+
+[Hook:STUB3M1]
+~r~You injured the hooker.
+
+[Polit:STUB3M1]
+~r~You injured the politician.
+
+[Car:STUB3M1]
+~r~You damaged the politician's car.  
+
+[RunAway:STUB3M1]
+~r~You scared all the hookers away.
+
+[Gotit:STUB3M1]
+~s~You got the photograph.
+
+[Send:STUB3M1]
+~s~Send the photo to Stubbs.
+
+[QuickSend:STUB3M1]
+~s~Quickly send the photo to Stubbs so he can use it.
+
+[policehook:STUB3M1]
+~r~You scared away the hookers by bringing the police in.
+
+[policewarn:STUB3M1]
+~s~Lose the cops before you go near the hookers.
+
+[wanted:STUB3M1]
+~s~Lose the cops.
+
+
+{------------------ Jim: Stubbs3m4 mini-missions -------------}
+
+[CarMission:STUB3M4]
+~s~Knowing Me, Knowing You	
+		
+[JSTUB_01:STUB3M4]
+Steal the ~b~car. 
+
+[JSTUB_02:STUB3M4]
+~s~Take the car to the ~y~bugging expert~s~, if the car is damaged he will buff out any scratches.
+
+[JSTUB_03:STUB3M4]
+~s~Get the car back to the ~y~garage~s~, don't damage it.
+
+[JSTUB_04:STUB3M4]
+~r~The car was wrecked.
+
+[JSTUB_05:STUB3M4]
+~r~The car is too damaged.
+
+[MECH:STUB3M4]
+~r~You hurt the bugging expert.
+
+[JSTUB_06:STUB3M4]
+Get the car back ~s~by 00:0~1~. 
+
+[JSTUB_07:STUB3M4]
+Get the car back ~s~by 00:~1~.
+
+[JSTUB_08:STUB3M4]
+Get the car back ~s~by ~1~:~1~.
+
+[JSTUB_09:STUB3M4]
+Get the car back ~s~by 0~1~:0~1~.
+
+[JSTUB_10:STUB3M4]
+Get the car back ~s~by 0~1~:~1~.
+
+[JSTUB_11:STUB3M4]
+Get the car back ~s~by ~1~:0~1~.
+
+[stubReminder1:STUB3M4]
+You have until 00:0~1~. 
+
+[stubReminder2:STUB3M4]
+You have until 00:~1~.
+
+[stubReminder3:STUB3M4]
+You have until ~1~:~1~.
+
+[stubReminder4:STUB3M4]
+You have until 0~1~:0~1~.
+
+[stubReminder5:STUB3M4]
+You have until 0~1~:~1~.
+
+[stubReminder6:STUB3M4]
+You have until ~1~:0~1~.
+
+[NotLong:STUB3M4]
+~s~Time is running out.
+
+[LeaveArea:STUB3M4]
+~s~Leave the area before Deputy Mayor Dawkins gets back.
+
+[JSTUB_12:STUB3M4]
+~r~Deputy Mayor Dawkins has reported the car missing.	  
+
+[JSTUB_13:STUB3M4]
+Get back in the ~b~car.
+
+[3M4Warning:STUB3M4]
+~s~You have ~1~ minutes left to return car to the garage.
+
+[3M4Head:STUB3M4]
+~s~Return the car in the direction it was facing before.
+
+[3M4Return:STUB3M4]
+~s~Return the car to the ~y~drive.
+
+[TXTN_E1C3_2]
+123-555-0160 
+[TXTN_E1C3_2S]
+1235550160
+
+
+
+{-------------------Brenda: Stubbs3m5 mini-missions--------------}
+
+[CEOMission:STUB3M5]
+~s~When the Blue Chips are Down
+
+[GoToAlley:STUB3M5]
+~s~Go to the ~y~alley.
+
+[KillAll:STUB3M5]
+~s~Take out the ~r~guards.
+
+[BackToCont:STUB3M5]
+~s~Go to the ~b~CEO.
+
+[protect:STUB3M5]
+~s~Protect the ~b~CEO~s~ from the ~r~attackers~s~ as she enters the helicopter.
+
+[protect1:STUB3M5]
+~s~Protect the ~b~CEO~s~ as she gets in the helicopter.
+
+
+[BackinCar:STUB3M5]
+~s~Get in the ~b~car.
+
+[Helipad:STUB3M5]
+~s~Drive the CEO to her ~y~helipad~s~ quickly.
+
+[dirDead:STUB3M5]
+~r~The CEO is dead.
+
+[dircar:STUB3M5]
+~r~The car was wrecked.
+
+[PilotDead:STUB3M5]
+~r~The pilot is dead.
+
+[HeliDead:STUB3M5]
+~r~The helicopter was wrecked.
+
+[waitdir:STUB3M5]
+~s~Wait for the ~b~CEO.
+
+[backDir:STUB3M5]
+~s~Go and get the ~b~CEO.
+
+[uncuff:STUB3M5]
+~s~Press ~INPUT_PICKUP~ to uncuff the CEO.
+
+[Douncuff:STUB3M5]
+~s~The ~b~CEO~s~ needs to be uncuffed.
+
+[StopAttack:STUB3M5]
+~s~Hold off the ~r~attackers.
+
+
+{-------------------Brenda: Stubbs3m2 mini-missions--------------}
+
+[ContactMission:STUB3M2]
+~s~Communication Breakdown
+
+[stubTime1:STUB3M2]
+Meet the ~b~contact ~s~by 00:0~1~. 
+
+[stubTime2:STUB3M2]
+Meet the ~b~contact ~s~by 00:~1~.
+
+[stubTime3:STUB3M2]
+Meet the ~b~contact ~s~by ~1~:~1~.
+
+[stubTime4:STUB3M2]
+Meet the ~b~contact ~s~by 0~1~:0~1~.
+
+[stubTime5:STUB3M2]
+Meet the ~b~contact ~s~by 0~1~:~1~.
+
+[stubTime6:STUB3M2]
+Meet the ~b~contact ~s~by ~1~:0~1~.
+
+[stub2Reminder1:STUB3M2]
+You have until 00:0~1~. 
+
+[stub2Reminder2:STUB3M2]
+You have until 00:~1~.
+
+[stub2Reminder3:STUB3M2]
+You have until ~1~:~1~.
+
+[stub2Reminder4:STUB3M2]
+You have until 0~1~:0~1~.
+
+[stub2Reminder5:STUB3M2]
+You have until 0~1~:~1~.
+
+[stub2Reminder6:STUB3M2]
+You have until ~1~:0~1~.
+
+
+[3M2Time:STUB3M2]
+~r~You ran out of time.	
+
+[3M2Killed:STUB3M2]
+~r~You hurt the contact.
+
+[3M2Trash:STUB3M2]
+~r~You trashed the car.
+
+[3M2Away:STUB3M2]
+~r~The contact got away.
+
+[3M2KillHim:STUB3M2]
+~s~Take out the ~r~contact.~s~
+
+[3M2Warning:STUB3M2]
+~s~You have ~1~ minutes left to meet the contact.
+
+[3M2Getting:STUB3M2]
+~s~The ~r~contact~s~ is getting away.
+
+[3M2Wanted:STUB3M2]
+~s~Lose the cops.
+
+[3M2Spooked:STUB3M2]
+~r~You spooked the contact.
+
+{------------------ Ryan: Stubbs3m7 mini-missions -------------}
+
+[CafeMission:STUB3M7]
+~s~First Impressions
+
+[JS_COMMAND_01:STUB3M7]
+~s~Go to the ~y~Superstar Cafe. 
+
+[JS_COMMAND_02:STUB3M7]
+~s~Take out the ~r~target.
+
+[JS_COMMAND_03:STUB3M7]
+~s~Leave the area.
+
+[JS_FAIL_01:STUB3M7]
+~r~The target has escaped.
+
+{------------------ Ryan: Stubbs3m7 mini-missions -------------}
+
+
+[JS_COMMAND_01t:STUB3M7]
+~s~Go to the ~y~Irish Pub. 
+
+[JS_COMMAND_02t:STUB3M7]
+~s~Meet up with the ~b~gang.
+
+[JS_COMMAND_03t:STUB3M7]
+~s~Go to the ~y~bar.
+
+[JS_COMMAND_04t:STUB3M7]
+~s~Go ~y~outside~s~ to see what's going on.
+
+[JS_FAIL_01t:STUB3M7]
+~r~The pub will no longer serve you.
+
+[JS_TEMP_01t:STUB3M7]
+~s~PHONECALL~n~~n~Jim tells Johnny to meet the new kid at the Irish Pub.
+
+[JS_TEMP_02t:STUB3M7]
+~s~PHONECALL~n~~n~Johnny calls Jim to tell him to find anything he can about who killed the new kid.
+[JS_TEMP_03t:STUB3M7]
+~s~It's your round Johnny.
+[JS_TEMP_04t:STUB3M7]
+~s~Could I get two beers.
+
+{------------------ Brenda: Stubbs3m3 mini-missions -------------}
+
+[SpLimit:STUB3M3]
+~s~Speed: ~1~mph
+
+[BmbArm:STUB3M3]
+~r~BOMB ARMED!
+
+[3M3Intro:STUB3M3]
+~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.
+
+[Tanker:STUB3M3] 
+~s~Destroy the ~r~tanker.
+ 
+
+{--------------------------------------------------------}
+{                                                        }
+{                       Elizabeta                        }
+{                                                        }
+{--------------------------------------------------------}
+
+{---- Elizabeta_1  - Booth stop ----}
+
+[GOTOTOLL:ELIZA_1]
+Go to the ~y~toll booths~s~ and wait for the convoy.
+
+[HIGHJTOLL:ELIZA_1]
+Go to the ~y~toll booth~s~.
+
+[STEALV:ELIZA_1]
+Take the ~b~van.~s~
+
+[DRIVEB:ELIZA_1]
+Take the van to the ~y~lockup.~s~
+
+[BACKIN:ELIZA_1]
+Get back in the ~b~van.~s~
+
+[DESTROY:ELIZA_1]
+~r~The van has been wrecked.~s~
+
+[ABANDON:ELIZA_1]
+~r~You have abondoned the van.~s~
+
+[STUCK:ELIZA_1]
+~r~The van is stuck.~s~
+
+[LOSEWANT:ELIZA_1]
+Lose the cops or you'll spook the convoy.~s~
+
+[SPOOKED:ELIZA_1]
+You've spooked the convoy. Steal the ~b~van.~s~
+
+[GOTAWAY:ELIZA_1]
+~r~The van got away.~s~
+
+[TOLLHELP:ELIZA_1]
+If you wait in the toll booth the convoy will stop for you.
+
+[GETBIKE:ELIZA_1]
+Get on the ~b~bike.~s~
+
+[MALCDEAD:ELIZA_1]
+~r~Malc is dead.~s~
+
+[DESAUNDEAD:ELIZA_1]
+~r~DeSean is dead.~s~
+
+[PLAYBIKE:ELIZA_1]
+~r~Your bike was wrecked.~s~
+
+[PICKUPMALC:ELIZA_1]
+Pick up ~b~Malc.~s~
+
+[CUTGOD1:ELIZA_1]
+The van is about to pass through the toll booth.
+
+[CUTGOD2:ELIZA_1]
+You can stop the van by hijacking the tollbooth or chase it down.
+
+[WAITVAN:ELIZA_1]
+Wait for the ~b~van~s~ to pull up.
+
+[LOSEWANT1:ELIZA_1] 
+Lose the cops.~s~
+
+[NEWCAR:ELIZA_1] 
+Get a 4 door vehicle.
+
+
+{---- Elizabeta_2 - Drug Courier - Lawrence Kerr ----}
+
+[GOD_0:ELIZA_2]
+Go to the ~y~airport~s~ and pick up the drug mule.
+
+[GOD_1:ELIZA_2]
+Lose the cops.
+
+[GOD_2:ELIZA_2]
+You are too far away from ~b~Marta.~s~ Go back and pick her up. 
+
+[GOD_3:ELIZA_2]
+Take the drug mule to ~y~Elizabeta.~s~
+
+[GOD_4:ELIZA_2]
+~r~You have lost the drug mule.~s~
+
+[GOD_5:ELIZA_2]
+~r~The drug mule is dead.~s~ 
+
+[GOD_6:ELIZA_2]
+Wait for for Marta.
+
+[GOD_7:ELIZA_2]
+Clear the area of ~r~cops~s~ so you can get Marta out safely. 
+
+[GOD_8:ELIZA_2]
+~s~You have picked up Marta. Lose the cops.~s~
+
+[GOD_9:ELIZA_2]
+~s~Go get ~b~Marta.~s~
+
+[GOD_10:ELIZA_2]
+~r~Marta has been arrested.~s~
+
+[GOD_11:ELIZA_2]
+During this police chase, when you are in any vehicle hold ~INPUT_VEH_CIN_CAM~ to change the camera to show the helicopter view.
+
+[GOD_12:ELIZA_2]
+Lose the police chopper.
+
+
+
+{---- Elizabeta3  - Shifting Weight ----}
+
+[GoToDeal:ELIZA_3]
+~s~Go to the ~y~deal.~s~
+  
+[GetOnBike:ELIZA_3]
+~s~Get on your ~b~bike.~s~
+
+[E3_DEF:ELIZA_3]
+~s~Defend ~b~DeSean~s~ from the cops.
+
+[E3_DL1:ELIZA_3]
+~s~Fuck, go go go - escort DeSean!
+
+[E3_DL2:ELIZA_3]
+~s~Johnny, we got a bird - 10 o'clock!
+
+[E3_DL3:ELIZA_3]
+~s~Shit! DeSean is taking damage.
+
+[E3_DL4:ELIZA_3]
+~s~Take these pigs out already Johnny!
+
+[E3_DL5:ELIZA_3]
+~s~Where the fuck is he going? Cover him!
+
+[E3_DL6:ELIZA_3]
+~s~Fuck roadblock!
+
+[E3_DL7:ELIZA_3]
+~s~Fuck this! Johnny use these grenades!
+
+[E3_DL8:ELIZA_3]
+~s~Get these pigs off DeSean's tail Johnny!
+
+[E3_DL9:ELIZA_3]
+~s~Shit that was intense!
+
+[E3_DL10:ELIZA_3]
+~s~Don't speak so soon Johnny - cops up ahead!
+
+[E3_F1:ELIZA_3]
+~r~DeSean is dead.
+
+[E3_F2:ELIZA_3]
+~r~Malc is dead.
+
+[E3_F3:ELIZA_3]
+~r~Your bike was wrecked.
+
+[E3_F4:ELIZA_3]
+~r~You abandoned your bike.
+
+[E3_F5:ELIZA_3]
+~r~Malc's bike was wrecked.
+
+[E3_F6:ELIZA_3]
+~r~DeSean's bike was wrecked.
+
+[E3_GHLP:ELIZA_3]
+~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind you while dropping grenades.	 
+
+[E3_UPAHEAD:ELIZA_3]
+~s~Johnny we got a NOOSE van dead ahead!
+
+[E3_TAKEEMOUT:ELIZA_3]
+~s~Fuck take these fuckers out!
+
+[E3_WINDOWS:ELIZA_3]
+~s~Fuck this! Shoot out these fucking windows!
+
+[E3_BIRD:ELIZA_3]
+~s~Head for the tunnel, we need to shake this fuckin' bird!
+
+[E3_AIM:ELIZA_3]
+~s~Press ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to fire.	
+
+[E3_RELOAD:ELIZA_3]
+~s~To quickly reload release ~INPUT_AIM~ and then press it again.	
+
+[E3_SELECTG:ELIZA_3]
+~s~Press ~INPUT_ATTACK~ to drop grenades.	
+
+[E3_SELECTPB:ELIZA_3]
+~s~Press ~INPUT_ATTACK~ to drop pipe bombs.	
+
+[E3_AHEAD:ELIZA_3]
+~s~We got shit up ahead too, Johnny!	
+
+{---- Ray3 - Dave Bruce ----}
+
+
+[KillThem:E1RAY3]
+~s~Take out ~r~Ray's hitmen.~s~
+
+[KillHelp:E1RAY3]
+~s~Take out ~r~Ray's hitmen~s~ before they get you.~s~
+
+[GetToAshley:E1RAY3]
+~s~Go and meet ~y~Ashley.~s~
+
+[GetToAshleyB:E1RAY3]
+~s~Go and meet ~b~Ashley.~s~
+  
+[R3BBHelp:E1RAY3]
+Terry and Clay have set up an ambush. If you can get to them, they can help you.
+
+[R3Ash:E1RAY3]
+~r~Ashley is dead.
+
+[R3Cops:E1RAY3]
+Lose the cops.	  
+
+{----DB Random Ped Interactions - New Random Char-----}
+
+[RC3_BIK:E1RC3]
+Get back on your ~b~bike.
+
+[RC3_WLEV:E1RC3]
+Lose the cops.
+
+[RC3_BJD:E1RC3]
+~r~Brian is dead.
+
+[RC3_WREK:E1RC3]
+~r~You wrecked your bike.
+
+[RC3_BBIK:E1RC3]
+~r~Brian's bike was wrecked.
+
+[RC3_HURT:E1RC3]
+~r~You hurt Brian.
+
+[RC3_FBJ:E1RC3]
+Follow ~b~Brian.
+
+[RC3_KILL:E1RC3]
+Take out ~r~Brian ~s~and his ~r~faction.
+
+[RC3_CHASE:E1RC3]
+Get on a bike and chase ~r~Brian.
+
+[RC3_BK:E1RC3]
+Get on your bike and chase ~r~Brian.
+
+[RC3_ABANB:E1RC3]
+~r~You abandoned Brian.
+
+[RC3_FDBK:E1RC3]
+Get a bike.
+
+[RC3_BGET:E1RC3]
+~r~Brian got away.
+
+[RC3_FAC:E1RC3]
+~r~You abandoned Brian's faction.
+
+[RC3_HEAT:E1RC3]
+~r~You brought too much attention to the meet.
+
+
+{---- Random character - Dave - Lawrence Kerr ----}
+
+[DAV_GOD0:DAV1]
+Go to Denver Avenue and find the ~r~lawyer.~s~ 
+
+[DAV_GOD1:DAV1]
+The ~r~lawyer~s~ is driving off. Chase him down and intimidate him.
+
+[DAV_GOD2:DAV1]
+You are losing the ~r~lawyer. 
+
+[DAV_GOD3:DAV1]
+~r~The lawyer is dead.~s~
+
+[DAV_GOD4:DAV1]
+~r~The lawyer got away.~s~
+
+[DAV_GOD5:DAV1]
+~r~The lawyer informed the police.~s~
+
+[DAV_GOD6:DAV1]
+~r~The lawyer's car was wrecked.~s~
+
+[DAV_GOD7:DAV1]
+Go and speak with the ~r~lawyer.~s~
+
+
+{---- Random character - Malc1 - Vicki ----}
+
+[M1_MHURT:MALC1]
+~r~You hurt Malc.
+
+[M1_DSHURT:MALC1]
+~r~You hurt DeSean.
+
+[M1_WREK:MALC1]
+~r~Your bike was wrecked.
+
+[M1_DSDEAD:MALC1]
+~r~DeSean is dead.
+
+[M1_MDEAD:MALC1]
+~r~Malc is dead.
+
+[M1_WLEV:MALC1]
+Lose the cops.
+
+[M1_BIK:MALC1]
+Get back on your ~b~bike.
+
+[M1_MBIK:MALC1]
+~r~Malc's bike was wrecked.
+
+[M1_DSBIK:MALC1]
+~r~DeSean's bike was wrecked.
+
+[M1_FOLM:MALC1]
+Follow ~b~Malc.
+
+[M1_FOLDS:MALC1]
+Follow ~b~DeSean.
+
+[M1_KILL:MALC1]
+Take out the cheating ~r~bikers.
+
+[M1_ABANM:MALC1]
+~r~You didn't keep up with Malc.
+
+[M1_ABANDS:MALC1]
+~r~You didn't keep up with DeSean.
+
+[M1_ABANBK:MALC1]
+~r~You abandoned your bike.
+
+[M1_DSDAM:MALC1]
+~r~You damaged DeSean's bike.
+
+[M1_GETBK:MALC1]
+Get a bike.
+
+[M1_AWAY:MALC1]
+~r~The last biker got away.	
+
+						 
+{--------------------------------------------------------}
+{                                                        }
+{                          Jim                           }
+{                                                        }
+{--------------------------------------------------------}
+
+
+{--- (Jim) Friend Activity Help Text ---}
+
+[FRPICKJm]
+You have arranged to do an activity with Jim. Meet him by going towards the ~BLIP_106~ on the radar.
+
+[FRQUITJm]
+You can cancel an activity after it has been arranged. Use the option on the phone under Jim's name. He will prefer to be warned than stood up.
+
+[FRLOCJm]
+You can take Jim to any location marked on the radar, or to the location of other activities.
+
+[FRALTJm]
+You have completed the arranged activity with Jim. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+[FRALTJmH]
+You have completed the arranged activity with Jim. You have already taken him on 3 additional activities. Take him home.
+
+[FRDRHMJm]
+You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jim home. You'll sober up soon.
+
+[FAjmA_1]
+Steer slowly past to attract Jim's attention.
+
+[FAjmB_1]
+Steer slowly past to attract Jim's attention.
+
+[HOGoInJm]
+Follow ~b~Jim~s~ into the Clubhouse.
+
+[HOActsJm]
+Compete with Jim at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Jim.
+
+
+{--------------------------------------------------------}
+{                                                        }
+{                         Terry                          }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- (Terry) Friend Activity Help Text ---}
+
+[FRPICKTr]
+You have arranged to do an activity with Terry. Meet him by going towards the ~BLIP_118~ on the radar.
+
+[FRQUITTr]
+You can cancel an activity after it has been arranged. Use the option on the phone under Terry's name. He will prefer to be warned than stood up.
+
+[FRLOCTr]
+You can take Terry to any location marked on the radar, or to the location of other activities.
+
+[FRALTTr]
+You have completed the arranged activity with Terry. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+[FRALTTrH]
+You have completed the arranged activity with Terry. You have already taken him on 3 additional activities. Take him home.
+
+[FRDRHMTr]
+You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Terry home. You'll sober up soon.
+
+[FAtrA_1]
+Steer slowly past to attract Terry's attention.
+
+[FAtrB_1]
+Steer slowly past to attract Terry's attention.
+
+[HOGoInTr]
+Follow ~b~Terry~s~ into the Clubhouse.
+
+[HOActsTr]
+Compete with Terry at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Terry.
+ 
+
+{--------------------------------------------------------}
+{                                                        }
+{                         Clay                          }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- (Clay) Friend Activity Help Text ---}
+
+[FRPICKCl]
+You have arranged to do an activity with Clay. Meet him by going towards the ~BLIP_119~ on the radar.
+
+[FRQUITCl]
+You can cancel an activity after it has been arranged. Use the option on the phone under Clay's name. He will prefer to be warned than stood up.
+
+[FRLOCCl]
+You can take Clay to any location marked on the radar, or to the location of other activities.
+
+[FRALTCl]
+You have completed the arranged activity with Clay. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+[FRALTClH]
+You have completed the arranged activity with Clay. You have already taken him on 3 additional activities. Take him home.
+
+[FRDRHMCl]
+You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Clay home. You'll sober up soon.
+
+[FAclA_1]
+Steer slowly past to attract Clay's attention.
+
+[FAclB_1]
+Steer slowly past to attract Clay's attention.
+
+[HOGoInCl]
+Follow ~b~Clay~s~ into the Clubhouse.
+
+[HOActsCl]
+Compete with Clay at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Clay.
+
+
+
+
+{--- HOW TO QUIT ACTIVITY ---}
+[HANGQUIT]
+To quit hanging out at the clubhouse, go outside and walk a short distance away.
+
+[ACTQUIT]
+To quit this friend activity, get on a bike or into a car.
+
+
+
+
+{--- FRIENDS GETTING LEFT BEHIND ---}
+[LB_JmTrCl]
+~b~Jim~s~, ~b~Terry~s~, and ~b~Clay~s~ have been left behind.
+ 
+[LB_JmTr]
+~b~Jim~s~ and ~b~Terry~s~ have been left behind.
+ 
+[LB_JmCl]
+~b~Jim~s~ and ~b~Clay~s~ have been left behind.
+ 
+[LB_TrCl]
+~b~Terry~s~ and ~b~Clay~s~ have been left behind.
+ 
+[LB_Jm]
+~b~Jim~s~ has been left behind.
+ 
+[LB_Tr]
+~b~Terry~s~ has been left behind.
+ 
+[LB_Cl]
+~b~Clay~s~ has been left behind.
+
+{--- Fail Text - FRIENDS GETTING LEFT BEHIND ---}
+[BIKELEFT]
+~r~You left your friends behind.
+ 
+
+{--------------------------------------------------------}
+{                                                        }
+{                 Mission Flow Help Text                 }
+{                                                        }
+{--------------------------------------------------------}
+
+{--- Mission Flow Help Text ---}
+{--- LEADERSHIP HELP ---}
+
+[Leader_1]
+You are now President of The Lost Motorcycle Club.
+
+[Leader_2]
+You can call for help anytime from Terry or Clay. They will provide backup for you on jobs.
+
+[Leader_3]
+To ask for their help, call Terry or Clay and select Backup.
+
+[Leader_4] 
+Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_PHONE_PUT_AWAY~.
+
+[Leader_4_PC] 
+Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_FRONTEND_SHOWSCORE~.
+
+{--- RECURRING LOST STATS HELP ---}
+[Recur_1]
+The details displayed above the radar show how fight hardened your Lost gang members are.  This is represented by the colored bar next to their names.
+
+[Recur_2]
+Gang members get harder each time they complete a job with you. They will become more effective in gun battles.
+
+[Recur_3]
+If they die on a job they will be replaced by a new Lost gang member.
+
+
+{--- SPECIAL ABILITY INTRO HELP ---}
+[J_SP_WEAPS]
+You can now use Jim's special ability. You can call up Jim and select "Weapons" and he will stash your fully loaded weapon in the Lost Clubhouse.
+
+[T_SP_GUNVAN]
+You can now use Terry's special ability. You can call up Terry and select "Gun Van" he will arrive at a location near you and sell you guns and equipment at discounted prices.
+
+[C_SP_BIKES]
+You can now use Clay's special ability. You can call up Clay and select "Bikes" he will drop off the bike of your choice near your location.
+
+[SPECABIL]
+You can now phone Jim to get a fully loaded weapon left in the Clubhouse arm wrestling room, Clay to bring you a bike, or Terry for cheap weapons and ammo.
+
+
+
+
+{--- A WARNING THAT AUTOSAVE IS SWITCHED OFF ---}
+[SAVEOFF]
+The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
+
+
+
+
+{---------------| Fight Club Prototype - Paul |------------}
+[RoundA:FIGHTC]
+RANK A
+
+[RoundB:FIGHTC]
+RANK B
+
+[RoundC:FIGHTC]
+RANK C
+
+[RoundD:FIGHTC]
+RANK D
+
+[RoundE:FIGHTC]
+RANK E
+
+[RoundF:FIGHTC]
+RANK F
+
+[Elite:FIGHTC]
+Elite Rank
+
+[good1:FIGHTC]
+The Crowd goes wild!!!!!
+
+[NwChaL:FIGHTC]
+Here comes a new Challenger
+
+[NwChaLs:FIGHTC]
+Here comes new Challengers
+
+[finFC:FIGHTC]
+The fight is over, you have now made the next rank.
+
+[hlpCntr:FIGHTC]
+To get the crowd on your side try to showboat by pressing LB or perform counters.
+
+[hlpCntr2:FIGHTC]
+If the crowd sides with you, in can help out in a tight spot.
+
+[Synopsis:FIGHTC]
+FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.
+
+
+{---------------| Skate Park Prototype - Brenda |------------}
+
+
+[start:SKATE]
+~s~Drive though the coronas in the sky.~n~Land and stop on coronas close to the ground.
+
+[Passed:SKATE]
+~s~Well done!  All Completed
+
+[Failed:SKATE]
+~r~You broke the bike.
+
+[Done:SKATE]
+~s~You got it!
+
+[TutHelp:SKATE]
+~s~Press ~PAD_LB~ for skate park tutorial.
+
+[UpAndOver:SKATE]
+You must hit both sides of the ramp for a pass.
+
+[StopLand:SKATE]
+You must land and stop on the blue box for a pass.
+
+[SkyHigh:SKATE]
+You must reach up and get in the zone for a pass.
+
+{---------------| Race Launcher - ChrisM |------------}
+
+[RLHelp1:RCLnch]
+The ~BLIP_111~ icon represents the meeting point for a race. Go to that location to meet with Terry or Clay who will race alongside you. In races you will battle with other bikers for 1st position. There will be various races around the city.
+
+[RLHelp2:RCLnch]
+There will be various races around the city, these will be represented by the ~BLIP_111~ icon.
+
+[RLHelp3] 
+You can't race if you don't have a bike.
+
+
+
+
+{------------------------- END -------------------}
+[E1DUMMY_M]
+THIS LABEL NEEDS TO BE HERE !!!
+
+
+  

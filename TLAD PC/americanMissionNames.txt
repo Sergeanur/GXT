@@ -1,0 +1,155 @@
+﻿[E1M_1]
+...Clean And Serene
+
+[E1M_2]
+Angels In America
+
+[E1M_3]
+It's War
+
+[E1M_4]
+Action/Reaction
+
+[E1M_5]
+Buyer's Market
+
+[E1M_6]
+This Shit's Cursed
+
+[E1M_7]
+Liberty City Choppers
+
+[E1M_8]
+Bad Cop Drop
+
+[E1M_9]
+I Want One Of Those
+
+[E1M_10]
+Hit The Pipe
+
+[E1M_11]
+End Of Chapter
+
+[E1M_12]
+Bad Standing
+
+[E1M_13]
+Politics
+
+[E1M_14]
+Off Route
+
+[E1M_15]
+Proc Odd Jobs
+
+[E1M_16]
+Get Lost
+
+[E1M_17]
+Coming Down
+
+[E1M_18]
+Roman's Holiday
+
+[E1M_19]
+Heavy Toll
+
+[E1M_20]
+Marta Full Of Grace
+
+[E1M_21]
+Shifting Weight
+
+[E1M_22]
+Diamonds In The Rough
+
+[E1M_23]
+Collector's Item
+
+[E1M_24]
+Was It Worth it?
+
+
+{-- Text message mission names, 15-letter limit --}
+
+[E1M_1a]
+Clean And...
+
+[E1M_2a]
+Angels In...
+
+[E1M_3a]
+It's War
+
+[E1M_4a]
+Action/Reaction
+
+[E1M_5a]
+Buyer's Market.
+
+[E1M_6a]
+This Shit's...
+
+
+[E1M_7a]
+Liberty City...
+
+[E1M_8a]
+Bad Cop Drop
+
+[E1M_9a]
+I Want One Of..
+
+[E1M_10a]
+Hit The Pipe
+
+[E1M_11a]
+End Of Chapter
+
+[E1M_12a]
+Bad Standing
+
+
+[E1M_13a]
+Politics
+
+[E1M_14a]
+Off Route
+
+[E1M_15a]
+Proc Odd Jobs
+
+[E1M_16a]
+Get Lost
+
+
+[E1M_17a]
+Coming Down
+
+[E1M_18a]
+Roman's Holiday
+
+
+[E1M_19a]
+Heavy Toll
+
+[E1M_20a]
+Marta Full...
+
+[E1M_21a]
+Shifting Weight
+
+[E1M_22a]
+Diamonds In The
+
+[E1M_23a]
+Collector's...
+
+[E1M_24a]
+Was It Worth...
+
+
+[E1DUMMYmn]
+THIS LABEL NEEDS TO BE HERE !!!
+

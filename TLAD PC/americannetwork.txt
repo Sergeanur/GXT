@@ -1,0 +1,1109 @@
+﻿start
+
+RACESE1
+BOMBE1
+RUNMAE1
+CHAPE1
+TURFE1
+SLAGE1
+E1VAN
+
+end
+{-----------------------------------------------------------}
+{------------------------- NETWORK -------------------------}
+{-----------------------------------------------------------}
+
+{--------------- FRONTEND STUFF ---------------}
+
+[RACE_E1_1]Down Under
+[RACE_E1_2]Triple L Rocks
+[RACE_E1_3]Bayshore Run
+[RACE_E1_4]Blockie
+[RACE_E1_5]Meltdown
+[RACE_E1_6]Down The Hatch 
+[RACE_E1_7]In the Bricks
+[RACE_E1_8]Ramped Up
+[RACE_E1_9]A Bohan Scramble
+[RACE_E1_10]Uncoupled
+[RACE_E1_11]Down By The River
+[RACE_E1_12]Carousel
+[RACE_E1_13]Honk Honk
+[RACE_E1_14]Bridging the Gap
+[RACE_E1_15]Paradise Lost
+[RACE_E1_16]Middle Ground
+[RACE_E1_17]Triangulate
+[RACE_E1_18]Fairground Distraction
+[RACE_E1_19]Double Parking
+[RACE_E1_20]The Lost's Highway
+[RACE_E1_21]Duke of the City
+[RACE_E1_22]Broker Back
+[RACE_E1_23]Fluid Exchange
+[RACE_E1_24]Dock Tease
+[RACE_E1_25]Reaper's Ride
+[RACE_E1_26]Derailer
+[RACE_E1_27]Snakes & Ladders
+[RACE_E1_28]Beached
+[RACE_E1_29]Hoon Dog
+[RACE_E1_30]Bogan's Revenge
+
+[NET_GAMECLASS]Game Name
+[GAMEC_E1_1]Full Throttle
+[GAMEC_E1_2]Chopper vs Chopper
+
+[K_NICO_E0]Icon_w_PrisonersKilled_Left
+[K_NICO_E1]Icon_w_PrisonersSaved_Left
+[K_NICO_E2]Icon_w_BikesCaptured_Left
+[K_NICO_E3]Icon_w_TurfLost_Left
+[K_NICO_E4]Icon_w_TurfTaken_Left
+[K_NICO_E11]Icon_w_TimeSpentRunning_Left
+[K_NICO_E6]Icon_w_CheckpointsReached_Left
+[NICON_ID_E0]Witnesses Killed
+[NICON_ID_E1]Witnesses Saved
+[NICON_ID_E2]Bikes Captured
+[NICON_ID_E3]Turf Lost
+[NICON_ID_E4]Turf Taken
+[NICON_ID_E11]Time spent as Lone Wolf Biker
+[NICON_ID_E6]Checkpoints reached
+
+
+{--------------- LEADERBOARD SPRITE NAMES ---------------}
+
+{--------------- LOBBY NETWORK GAME TYPES ---------------}
+
+[NTGT_17]
+Chopper vs Chopper
+
+[NTGT_18]
+Witness Protection
+
+[NTGTWIP_18]
+Witness Protection
+
+[NTGT_19]
+Club Business
+[NTGTWIP_19]
+Club Business
+
+[NTGT_20]
+Races
+
+[NTGT_21]
+Team Deathmatch
+
+[NTGTWIP_21]
+Team Deathmatch
+
+[NTGT_22]
+Own the City
+[NTGTWIP_22]
+Own the City
+
+[NTGT_23]
+Lone Wolf Biker
+[NTGT_24]
+Deathmatch
+
+[NTGT_25]
+Instant Play
+
+[NTGT_E1_FREEMDE]
+Free Mode
+
+{--------------- LOBBY DESCRIPTIONS ---------------------}
+
+[CP_DESCRP_17]A biker's running through checkpoints with a gunship at his back.  How long will he last?
+[CP_MAX_17] ~a~ 2 players.
+
+[CP_DESCRP_18]~m~The ~COL_NET_1~N.O.O.S.E.~m~ must protect the state witnesses while ~COL_NET_2~The ~COL_NET_2~Lost~m~ must take them out.
+[CP_MAX_18] ~a~ 4-16 players.
+
+[CP_DESCRP_19]Get respect within the club. Angus will let you know of any club business.
+[CP_MAX_19] ~a~ 2-8 players.
+
+[CP_DESCRP_20]It's biker v biker in a race through the streets of Liberty City.
+[CP_MAX_20] ~a~ 2-32 players.
+
+[CP_DESCRP_21]It's faction versus faction in an all out war.
+[CP_MAX_21] ~a~ 3-32 players. 
+
+[CP_DESCRP_22]Take and hold as much territory as you can.
+[CP_MAX_22] ~a~ 2-16 players.
+
+[CP_DESCRP_23]One biker on the run. How long can they last?
+[CP_MAX_23] ~a~ 2-16 players.
+
+[CP_DESCRP_24]It's every biker for himself.
+[CP_MAX_24] ~a~ 2-32 players.
+
+[CP_DESCRP_25]It's every biker for himself.
+[CP_MAX_25] ~a~ Up to 32 players.
+
+[LONG_DESCRP_17]~m~The ~COL_NET_1~biker~m~ tries to get to a checkpoint - the pursuer pilots an attack helicopter hunting them down. When the biker dies, the roles are reversed. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle.   
+[LONG_DESCRP_18]~m~The ~COL_NET_1~N.O.O.S.E.~m~ have to escort witnesses to police stations around the city, while ~COL_NET_2~The Lost~m~ try to destroy the transport bus and take out the snitches before they talk.
+[LONG_DESCRP_19]~m~Angus will keep you informed as to what's on the agenda for The Lost MC.  Complete tasks to gain standing within the Club.
+[LONG_DESCRP_20]~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. Bikers don't play fair so you've been given a bat to wield. Crack the heads of any racers who come close enough.
+[LONG_DESCRP_20A]~m~Starting on foot, get from the starting position to the finish line by any means necessary.  First one there wins. 
+[LONG_DESCRP_20B]~m~Starting on foot, get to the next point on the map however you can. Proceed through the points in order. First one to finish wins.
+[LONG_DESCRP_21]~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.
+[LONG_DESCRP_22]~m~Take as much territory as you can. A territory becomes yours when all its defenders are dead.  While you own a territory, members of your club will appear to defend it. Your club's Gun Van is marked with a square blip on your radar. Drive it near your defenders to equip them with better weaponry.
+[LONG_DESCRP_23A]~m~One player is the ~COL_NET_1~Lone Wolf Biker~m~, racing to checkpoints while evading the ~COL_NET_2~pursuers~m~. Kill the Lone Wolf Biker and it'll be you getting hunted - and you'll become invincible for ten seconds. Pursuers can hold ~INPUT_VEH_EXIT~ to respawn their vehicles.
+[LONG_DESCRP_24]~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+[LONG_DESCRP_25]~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+
+{----------------------- e1_MostWanted.sc -------------------------}
+
+
+[GET_THE_CRIM:RUNMAE1]~s~Take out the ~COL_NET_1~Lone Wolf Biker.
+[CVC_THE_CRIM:RUNMAE1]~s~Take out the ~COL_NET_1~ biker.
+[IS_THE_CRIM:RUNMAE1]is the Lone Wolf Biker
+[C_IS_THE_CRIM:RUNMAE1]is the biker
+[ARE_THE_CRIM:RUNMAE1]~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.
+[PASSED_CHKPT:RUNMAE1]passed a checkpoint
+[BDEST:RUNMAE1]lost their bike
+
+[DO_PASS:RUNMAE1]You must pass a checkpoint to continue accumulating time.
+[YOU_DEAD:RUNMAE1]Get to a checkpoint within the next minute or roles will be reversed.
+
+[ARE_THE_CRIMb:RUNMAE1]~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.
+
+[CAMHELP_HELI:RUNMAE1]Hold ~INPUT_VEH_CIN_CAM~ to focus on the Lone Wolf Biker when close to them.
+[CAMHELP_CVC:RUNMAE1]Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.
+[CAMHELP_BIKE:RUNMAE1]Hold ~INPUT_VEH_CIN_CAM~ to focus on the pursuer when close to them.
+[LOCKED_CAR:RUNMAE1]Hold ~PAD_Y~ to respawn on your bike.
+
+[SPAWN_TIME_MW:RUNMAE1]Respawn Time
+[SPAWN_TIME_MW0:RUNMAE1]10 seconds
+[SPAWN_TIME_MW1:RUNMAE1]15 seconds
+[SPAWN_TIME_MW2:RUNMAE1]20 seconds
+[SPAWN_TIME_MW3:RUNMAE1]25 seconds
+[SPAWN_TIME_MW4:RUNMAE1]30 seconds
+
+[RM_BIKE:RUNMAE1]Bike
+[RM_PVEH:RUNMAE1]Vehicle
+
+[RM_CLASS:RUNMAE1]Class
+[RM_CLASS0:RUNMAE1]Sport Bikes
+[RM_CLASS1:RUNMAE1]Road Bikes
+[RM_CLASS2:RUNMAE1]Cars
+
+[RM_INIT:RUNMAE1]Initial Lone Wolf Biker
+[CVC_INIT:RUNMAE1]Initial Biker
+[BLIPS_OPTIONMW:RUNMAE1]Pursuer Blips
+[BLIPS_OPTIONMW0:RUNMAE1]On
+[BLIPS_OPTIONMW1:RUNMAE1]Near
+[BLIPS_OPTIONMW2:RUNMAE1]Far
+[BLIPS_OPTIONMW3:RUNMAE1]Off
+
+[RM_DURATION:RUNMAE1]Duration
+[RM_DURATION0:RUNMAE1]10 mins
+[RM_DURATION1:RUNMAE1]20 mins
+[RM_DURATION2:RUNMAE1]30 mins
+[RM_DURATION3:RUNMAE1]45 mins
+[RM_DURATION4:RUNMAE1]60 mins
+[RM_DURATION5:RUNMAE1]Run for 2 mins
+[RM_DURATION6:RUNMAE1]Run for 5 mins
+[RM_DURATION7:RUNMAE1]Run for 10 mins
+[RM_DURATION8:RUNMAE1]Everyone gets a go
+
+[RM_DURATIONa:RUNMAE1]Duration
+[RM_DURATIONa0:RUNMAE1]10 mins
+[RM_DURATIONa1:RUNMAE1]20 mins
+[RM_DURATIONa2:RUNMAE1]30 mins
+[RM_DURATIONa3:RUNMAE1]45 mins
+[RM_DURATIONa4:RUNMAE1]60 mins
+[RM_DURATIONa5:RUNMAE1]3 checkpoints
+[RM_DURATIONa6:RUNMAE1]5 checkpoints
+[RM_DURATIONa7:RUNMAE1]9 checkpoints	
+	
+[RM_DURATIONb:SLAGE1]Duration
+[RM_DURATIONb0:SLAGE1]10 mins
+[RM_DURATIONb1:SLAGE1]20 mins
+[RM_DURATIONb2:SLAGE1]30 mins
+[RM_DURATIONb3:SLAGE1]45 mins
+[RM_DURATIONb4:SLAGE1]60 mins
+[RM_DURATIONb5:SLAGE1]Best of 3
+[RM_DURATIONb6:SLAGE1]Best of 5
+[RM_DURATIONb7:SLAGE1]Best of 9
+
+[RM_GTYPE:RUNMAE1]Game Type
+[RM_GTYPE0:RUNMAE1]Full Throttle
+[RM_GTYPE1:RUNMAE1]Chopper vs Chopper
+
+[MAX_CHK]~1~ WINS
+[MAX_MIN]~1~ MINUTES WINS
+
+   
+
+{--------------------------------e1_Turfwar.sc-------------------------------------}
+
+[MP_ALT9_TEAM_0]THE LOST MC
+[MP_ALT9_TEAM_1]ANGELS OF DEATH MC
+
+[MAX_PCNT]~1~% WINS
+[SHOW_PCNT]~1~%
+
+[TW_DURATION:TURFE1]
+Duration
+[TW_DURATION0:TURFE1]
+10 mins
+[TW_DURATION1:TURFE1]
+20 mins
+[TW_DURATION2:TURFE1]
+30 mins
+[TW_DURATION3:TURFE1] 
+40%
+[TW_DURATION4:TURFE1] 
+60%
+[TW_DURATION5:TURFE1] 
+80%
+[TW_DURATION6:TURFE1] 
+100%
+
+[TB_LOCATION:TURFE1]
+Location
+[TB_LOCATION0:TURFE1]
+Random
+[TB_LOCATION1:TURFE1]
+Alderney
+[TB_LOCATION2:TURFE1]
+Algonquin
+[TB_LOCATION3:TURFE1]
+Bohan
+[TB_LOCATION4:TURFE1]
+Dukes/Broker
+
+[TM_BASE_I0:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I1:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I2:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I3:TURFE1]
+Take over the other territories while protecting your own.
+
+[TM_BASE_I0b:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I1b:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I2b:TURFE1]
+Take over the other territories while protecting your own.
+[TM_BASE_I3b:TURFE1]
+Take over the other territories while protecting your own.
+
+
+[GAIN_BASE:TURFE1]
+gained territory
+[GAIN_BASE15:TURFE1]
+gained territory (15%)
+[GAIN_BASE20:TURFE1]
+gained territory (20%)
+[GAIN_BASE30:TURFE1]
+gained territory (30%)
+[GAIN_BASE35:TURFE1]
+gained territory (35%)
+[GAIN_BASE40:TURFE1]
+gained territory (40%)
+[GAIN_BASE45:TURFE1]
+gained territory (45%)
+[GAIN_BASE50:TURFE1]
+gained territory (50%)
+[GAIN_BASE55:TURFE1]
+gained territory (55%)
+[GAIN_BASE60:TURFE1]
+gained territory (60%)
+[GAIN_BASE65:TURFE1]
+gained territory (65%)
+[GAIN_BASE70:TURFE1]
+gained territory (70%)
+[GAIN_BASE75:TURFE1]
+gained territory (75%)
+[GAIN_BASE80:TURFE1]
+gained territory (80%)
+[GAIN_BASE85:TURFE1]
+gained territory (85%)
+[GAIN_BASE100:TURFE1]
+gained territory (100%)
+
+[LOSE_BASE:TURFE1]
+lost territory
+[LOSE_BASE0:TURFE1]
+lost territory (0%)
+[LOSE_BASE15:TURFE1]
+lost territory (15%)
+[LOSE_BASE20:TURFE1]
+lost territory (20%)
+[LOSE_BASE30:TURFE1]
+lost territory (30%)
+[LOSE_BASE35:TURFE1]
+lost territory (35%)
+[LOSE_BASE40:TURFE1]
+lost territory (40%)
+[LOSE_BASE45:TURFE1]
+lost territory (45%)
+[LOSE_BASE50:TURFE1]
+lost territory (50%)
+[LOSE_BASE55:TURFE1]
+lost territory (55%)
+[LOSE_BASE60:TURFE1]
+lost territory (60%)
+[LOSE_BASE65:TURFE1]
+lost territory (65%)
+[LOSE_BASE70:TURFE1]
+lost territory (70%)
+[LOSE_BASE75:TURFE1]
+lost territory (75%)
+[LOSE_BASE80:TURFE1]
+lost territory (80%)
+[LOSE_BASE85:TURFE1]
+lost territory (85%)
+
+[TAKE_BASE:TURFE1]
+Taking Turf
+[TMBASE_ENN:TURFE1]
+An enemy is nearby, turf cannot be taken over.
+
+[TMBS_CD:TURFE1]
+Turf ~1~% taken over.
+
+[NUMDEF:TURFE1]
+~1~ defenders in this territory.
+[NUMDEF1:TURFE1]
+1 defender in this territory.
+[PLAYDEF:TURFE1]
+Bikers from another club are in this territory.
+[UNDERATTK:TURFE1]
+Territory ~1~ is under attack.
+
+[GW_GUNVAN:TURFE1]
+Gun Van
+
+[DONE_EQUIP:TURFE1]
+You upgraded a defender's weapon.
+
+[BLIPS_OPTIONGW:TURFE1]Blips
+[BLIPS_OPTIONGW0:TURFE1]On
+[BLIPS_OPTIONGW1:TURFE1]Near
+[BLIPS_OPTIONGW2:TURFE1]Far
+[BLIPS_OPTIONGW3:TURFE1]Off
+
+[E1_WEAPONS]Weapons
+[E1_WEAPONS0]All
+[E1_WEAPONS1]Weak
+[E1_WEAPONS2]Standard
+[E1_WEAPONS3]Powerful
+[E1_WEAPONS4]Pistols 
+[E1_WEAPONS5]Shotguns
+[E1_WEAPONS6]Projectiles
+[E1_WEAPONS7]Melee
+[E1_WEAPONS8]SMGs
+[E1_WEAPONS9]Assault Rifles
+[E1_WEAPONS10]Grenade Launchers
+[E1_WEAPONS11]Sniper Rifles
+[E1_WEAPONS12]Biker Weapons
+[E1_WEAPONS13]Health Only
+[E1_WEAPONS14]Off
+
+
+				  
+{------------------------ e1_chapter.sc ----------------------------}
+
+[CH_DURATION:CHAPE1]Duration
+[CH_DURATION0:CHAPE1]10 mins
+[CH_DURATION1:CHAPE1]20 mins
+[CH_DURATION2:CHAPE1]30 mins
+[CH_DURATION3:CHAPE1]45 mins
+[CH_DURATION4:CHAPE1]60 mins
+[CH_DURATION5:CHAPE1]$2500
+[CH_DURATION6:CHAPE1]$5000
+[CH_DURATION7:CHAPE1]$7500
+[CH_DURATION8:CHAPE1]$10000
+[CH_DURATION9:CHAPE1]$15000
+[CH_DURATION10:CHAPE1]$20000
+[CH_DURATION11:CHAPE1]$25000
+[CH_DURATION12:CHAPE1]$50000
+
+[CHAP_1:CHAPE1]Steal the ~b~bike.
+[CHAP_2:CHAPE1]Take out ~r~Murphy.
+[CHAP_2b:CHAPE1]Murphy is dead. Pick up his ~b~colors.
+[CHAP_3:CHAPE1]Destroy the ~r~vans.
+[CHAP_4:CHAPE1]Wipe out the ~r~Angels of Death~s~ before they leave Lost territory.
+[CHAP_5:CHAPE1]Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+[CHAP_6:CHAPE1]Enter the ~b~vans~s~ to rob them.
+[CHAP_7:CHAPE1]Steal the ~b~bikes.
+[CHAP_8:CHAPE1]Steal the ~b~transporter.
+[CHAP_9:CHAPE1]Get to the ~b~cars. 
+[CHAP_10:CHAPE1]Take out ~r~Garrity.
+[CHAP_11:CHAPE1]Take down the ~r~Road Captain.
+[CHAP_12:CHAPE1]Trash the ~r~bikes.
+[CHAP_13:CHAPE1]Free the ~b~old lady.
+[CHAP_14:CHAPE1]Protect ~b~~e~~s~ from the cops.
+[CHAP_14b:CHAPE1]You are the suspect. Stay alive until you are no longer wanted by the cops.
+[CHAP_15:CHAPE1]Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+[CHAP_16:CHAPE1]Pick up ~b~Earl.
+[CHAP_ATTK:CHAPE1]The ~r~Angels of Death~s~ are going after the Ride Captain.
+[CHAP_99:CHAPE1]You are the Ride Captain. Stay alive until all the ~r~Angels of Death~s~ are dead.
+[CHAP_99b:CHAPE1]Protect ~b~~e~~s~ from the ~r~Angels of Death.~s~
+
+[CHFAIL_1:CHAPE1]~r~The bike was wrecked.
+[CHFAIL_2:CHAPE1]~r~The colors were lost.
+[CHFAIL_2CF1:CHAPE1]~r~Angus's buddy was killed.
+[CHFAIL_4:CHAPE1]~r~The Angels of Death left Lost territory.
+[CHFAIL_5:CHAPE1]~r~A member of The Lost died.
+[CHFAIL_6:CHAPE1]~r~A van was wrecked.
+[CHFAIL_7:CHAPE1]~r~A bike was wrecked.
+[CHFAIL_8:CHAPE1]~r~The transporter was wrecked.
+[CHFAIL_9:CHAPE1]~r~A car was wrecked.
+[CHFAIL_13:CHAPE1]~r~The old lady was killed.
+[CHFAIL_14:CHAPE1]~r~The suspect was killed.
+[CHFAIL_15:CHAPE1]~r~A member of The Lost died.
+[CHFAIL_16:CHAPE1]~r~Earl died.
+[CHFAIL_99:CHAPE1]~r~The Ride Captain was killed.
+
+[ANGELMES:CHAPE1]The Angels of Death are attacking. Protect your Brothers.
+
+[DELIVER_CAR1:CHAPE1]Deliver the bike to the ~y~clubhouse.
+[LEAVE_CAR1:CHAPE1]Leave the bike ~y~here.
+[GOT_VEHICLE1:CHAPE1]got the bike
+[COMPLETE1:CHAPE1]delivered the bike
+[CHAP_REM1:CHAPE1]Get back on the ~b~bike.
+
+[CHAP_ITEM2:CHAPE1]Deliver the colors to the ~y~clubhouse.
+[CHAP_HELP2:CHAPE1]Wait on foot ~y~here~s~ until Angus's buddy has taken the colors.
+[TRANSPORT_IT2:CHAPE1]transporting colors
+[COMPLETE2:CHAPE1]delivered the colors
+[KILLED2:CHAPE1]killed Murphy
+[CHAP_REM2:CHAPE1]Pick up the ~b~colors.
+
+[DESTROYED3:CHAPE1]destroyed a van
+
+[KILLED4:CHAPE1]killed an Angel of Death
+
+[KILLED5:CHAPE1]killed an Angel of Death
+
+[ROBBED6:CHAPE1]robbed a van
+
+[DELIVER_CAR7:CHAPE1]Deliver the bike to the ~y~clubhouse.
+[LEAVE_CAR7:CHAPE1]Leave the bike ~y~here.
+[GOT_VEHICLE7:CHAPE1]got a bike
+[DELIVERED7:CHAPE1]delivered a bike
+
+[DELIVER_CAR8:CHAPE1]Drop off the transport at the ~y~projects.
+[LEAVE_CAR8:CHAPE1]Leave the transporter ~y~here.
+[GOT_VEHICLE8:CHAPE1]got the transporter
+[COMPLETE8:CHAPE1]delivered the transporter
+[CHAP_REM8:CHAPE1]Get back in the ~b~transporter.
+
+[DELIVER_CAR9:CHAPE1]Deliver the car to the ~y~safehouse.
+[LEAVE_CAR9:CHAPE1]Leave the car ~y~here.
+[GOT_VEHICLE9:CHAPE1]got a car
+[DELIVERED9:CHAPE1]delivered a car
+
+[COMPLETE10:CHAPE1]killed Garrity
+
+[COMPLETE11:CHAPE1]killed the Road Captain
+
+[DESTROYED12:CHAPE1]trashed a bike
+
+[TAKE_PED13:CHAPE1]Take the old lady to the ~y~safehouse.
+[TRANSPORT_PED13:CHAPE1]escorting the old lady
+[COMPLETE13:CHAPE1]delivered the old lady
+[CHAP_REM13:CHAPE1]Go back for the ~b~old lady.
+
+[KILLED15:CHAPE1]killed an Angel of Death
+
+[TAKE_PED16:CHAPE1]Take Earl to the ~y~clubhouse.
+[TRANSPORT_PED16:CHAPE1]escorting Earl
+[COMPLETE16:CHAPE1]delivered Earl
+[CHAP_REM16:CHAPE1]Go back for ~b~Earl.
+[LEAVE_PED16:CHAPE1]Stop ~y~here~s~. Let ~b~Earl~s~ leave. 
+
+[KILLED99:CHAPE1]killed an Angel of Death
+
+[COOP_COMPLETE:CHAPE1]Task complete
+[COOP_NOPART:CHAPE1]Failed to participate in task
+[COOP_FAILED:CHAPE1]Task failed
+
+[DO_FOLLOWC:CHAPE1]Follow ~b~~e~~s~ to the clubhouse. 
+[DO_FOLLOWS:CHAPE1]Follow ~b~~e~~s~ to the safehouse. 
+
+[MP_ALT8_TEAM_0]THE LOST
+
+[OBJHELP:CHAPE1]Stand over the colors to pick them up.
+
+[RETHOUSE:CHAPE1]Return to the ~y~clubhouse.
+[STAYHOUSE:CHAPE1]Wait here until the ~COL_NET_1~rest of the club~s~ return.
+
+[ISCAPT:CHAPE1]is the Ride Captain
+
+[DOUBLEUP:CHAPE1]This task will involve some members leaving their bikes for other transport - share rides on your way to the objective.
+[NEEDBIKE:CHAPE1]You need a bike for this task.
+[CHAPOVER:CHAPE1]BUSINESS COMPLETE
+[CASHHLP:CHAPE1]Driving in convoy with the Ride Captain will give you health and money. The Captain will get health and money if everyone is in convoy with him.
+
+{----------------------- RACES_CR.SC -------------------------}
+[LAPTIME:RACESE1]
+Lap Time
+
+[TAKESLEAD:RACESE1]
+Enters 1ST
+
+[PERSONAL_BEST:RACESE1]
+New Personal Best
+
+[RACE_ENDING:RACESE1]
+The race is ending soon.
+
+{------ Lobby ------}
+[LAPS:RACESE1]
+Laps
+[VEHICLE:RACESE1]
+Vehicle
+[COLOUR:RACESE1]
+Color
+[VEH_DAMAGE:RACESE1]
+Vehicle Damage
+
+[E1RACECLASS]Race Class
+[E1RACECLASS0]The Lost
+[E1RACECLASS1]Angels of Death
+[E1RACECLASS2]Street Bikes
+[E1RACECLASS3]Vans
+[E1RACECLASS4]Cars
+[E1RACECLASS5]Trucks	
+[E1RACECLASS6]Cars
+[E1RACECLASS7]Trucks
+[E1RACECLASS8]Everyman For Himself
+
+{
+[RACE_TRACKS:RACESE1]Track
+[RACE_TRACKS0:RACESE1]Random
+[RACE_TRACKS1:RACESE1]Bike Track 1
+[RACE_TRACKS2:RACESE1]Bike Track 2
+[RACE_TRACKS3:RACESE1]Bike Track 3
+[RACE_TRACKS4:RACESE1]Bike Track 4
+[RACE_TRACKS5:RACESE1]Bike Track 5
+[RACE_TRACKS6:RACESE1]Bike Track 6
+[RACE_TRACKS7:RACESE1]Bike Track 7
+[RACE_TRACKS8:RACESE1]All Track 1
+[RACE_TRACKS9:RACESE1]All Track 2
+[RACE_TRACKS10:RACESE1]All Track 3
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[WAITING_RACERS:RACESE1]WAITING FOR PLAYERS TO FINISH...
+
+[HELIGUNS:RACESE1]Weapons
+[HELIGUNS0:RACESE1]Off
+[HELIGUNS1:RACESE1]Annihilator
+
+[VEH_DAMAGE0:RACESE1]Scrapes Only
+[VEH_DAMAGE1:RACESE1]Normal
+
+{---------------- BOMB DA BASE II -----------------}
+
+[COOP_BDB_NGT_01:BOMBE1]
+Find the convoy. Steal the ~B~armored vehicle.~S~
+
+[COOP_BDB_NGT_02:BOMBE1]
+The ~B~vehicle~S~ is stopping, steal it.
+
+[COOP_BDB_NGT_03:BOMBE1]
+Take the vehicle back to the ~Y~rendezvous point.~S~
+
+[COOP_BDB_NGT_04:BOMBE1]
+One of your crew has stolen the armored vehicle. Make your way to the ~Y~rendezvous point.~S~
+
+[COOP_BDB_NGT_06:BOMBE1]
+Go back to the ~Y~rendezvous point.~S~
+
+[COOP_BDB_NGT_08:BOMBE1]
+You each have some explosives. Head out to the ~Y~docks~S~ in Broker.
+
+[COOP_BDB_NGT_14:BOMBE1]
+If you damage the ~B~armored vehicle~S~ enough it will stop and you can steal it.
+
+[COOP_BDB_NGT_15:BOMBE1]
+One of you must drive the ~B~armored vehicle~S~ to the rendezvous point.
+
+[COOP_BDB_NGT_16:BOMBE1]
+Wait here for the rest of your crew to arrive.
+
+[COOP_BDB_NGT_17:BOMBE1]
+Drive this thing to the ~Y~rendezvous point.~S~
+
+[COOP_BDB_CD_01:BOMBE1]
+The helicopter has been destroyed. Find alternative transport to get to the ~Y~docks.~S~
+
+[COOP_BDB_GT_03:BOMBE1]
+Place the explosives at the ~Y~weak spots~S~ on the ship.
+
+[COOP_BDB_GT_04:BOMBE1]
+To reach one of the bomb sites you will need to access the cargo hold from the ship's galley.
+
+[COOP_BDB_GT_06:BOMBE1]
+There are enemy snipers somewhere on the boat, someone should take up a sniping position and keep watch.
+
+[COOP_BDB_BP_01:BOMBE1]
+One bomb is in place. Get the other to the second weak spot.
+
+[COOP_BDB_BP_02:BOMBE1]
+The bombs have been placed. Everyone needs to disembark to trigger the explosion.
+
+[COOP_BDB_MP:BOMBE1]
+The ship has been destroyed. The rival operation is no more.
+
+[COOP_BDB_MF_01:BOMBE1]
+~R~You've destroyed the explosives.
+
+[OBJECTIVE_01:BOMBE1]
+Placed a Bomb
+  
+
+{---------------------------------	 CAPTURE THE BIKES	-------------------------------------}
+
+
+[MP_ALT7_TEAM_0]THE LOST MC
+[MP_ALT7_TEAM_1]ANGELS OF DEATH MC
+
+[CTB_MBRIEF_01:SLAGE1]
+Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.
+
+[CTB_MBRIEF_02:SLAGE1]
+Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.
+
+[CTB_GEN_01:SLAGE1]
+You have the bike. Return it to the ~Y~Clubhouse.~S~
+
+[CTB_LOST_01:SLAGE1]
+One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+
+[CTB_GEN_02:SLAGE1]
+One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.
+
+[CTB_ANGELS_01:SLAGE1]
+One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+
+[CTB_GEN_03:SLAGE1]
+You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.
+
+[CTB_GEN_04:SLAGE1]
+One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.
+
+[CTB_GEN_05:SLAGE1]
+You captured the bike for your team.
+
+[CTB_GEN_06:SLAGE1]
+One of your brothers captured the bike.
+
+[CTB_GEN_07:SLAGE1]
+Get off the bike.
+
+[CTB_LOST_02:SLAGE1]
+~R~The Angels of Death captured the bike.~S~
+
+[CTB_ANGELS_02:SLAGE1]
+~R~The Lost captured the bike.~S~
+
+[CTB_GEN_08:SLAGE1]
+~S~Take the bike back to the ~Y~Clubhouse.~S~
+
+[CTB_GEN_09:SLAGE1]
+~R~You destroyed the bike.~S~
+
+[CTB_GEN_10:SLAGE1]
+~R~One of your brothers destroyed the bike. ~S~
+
+[CTB_LOST_03:SLAGE1]
+~R~The Angels of Death destroyed the bike.~S~
+
+[CTB_ANGELS_03:SLAGE1]
+~R~The Lost destroyed the bike.~S~
+
+[CTB_GEN_11:SLAGE1]
+~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+
+[CTB_GEN_12:SLAGE1]
+~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+
+[CTB_GEN_13:SLAGE1]
+~R~The bike is stuck. Pickup a different bike.~S~
+
+[CTB_GEN_14:SLAGE1]
+~R~The bike was destroyed.~S~
+
+{---------------------------------	 VANDALISM	-------------------------------------}
+
+{--- game prints ---}
+[E1VAN_HEALTH]
+Bus Health
+
+{--- BLIP names ---}
+[E1WPBLIP_BUS]
+Prison Bus
+[E1WPBLIP_PRSNR]
+Prisoner
+[E1WPBLIP_PLC]
+Police Station
+
+{--- HELP Text ---}
+[WP_ARMOUR_HELP0:E1VAN] The blue bar above the radar shows the current armor of the ~b~prison bus~s~.
+[WP_ARMOUR_HELP1:E1VAN] The blue bar above the radar shows the current armor of the ~r~prison bus~s~.
+{--- TEAM names ---}
+[MP_ALT10_TEAM_0]N.O.O.S.E.
+[MP_ALT10_TEAM_1]THE LOST MC
+
+{--- NOOSE prints ---}
+[E1WPNOOSE_0:E1VAN] Protect the ~b~prison bus~s~ while it drops off the State's witnesses.
+[E1WPNOOSE_1:E1VAN] Protect the ~b~prison bus~s~ while it drops off the State's witness.
+[E1WPNOOSE_2:E1VAN] No one is driving the ~b~prison bus~s~, get it before ~COL_NET_2~The Lost~s~ hi-jack it.
+[E1WPNOOSE_3:E1VAN] ~COL_NET_2~The Lost~s~ have hi-jacked the ~b~prison bus~s~, get it back before they kill the State's witnesses.
+[E1WPNOOSE_4:E1VAN] ~COL_NET_2~The Lost~s~ have hi-jacked the ~b~prison bus~s~, get it back before they kill the State's witness.
+
+[E1WPNOOSE_10:E1VAN] Protect the ~b~State's witness~s~ as he enters the police station.
+
+[E1WPNOOSE_20:E1VAN] A State's witness has been killed, there are 2 left.
+[E1WPNOOSE_21:E1VAN] A State's witness has been killed, there is 1 left.
+[E1WPNOOSE_22:E1VAN] Another State's witness has been killed, there is 1 left.
+
+[E1WPNOOSE_30:E1VAN] A State's witness has made it safely to the police station, there are 2 left.
+[E1WPNOOSE_31:E1VAN] A State's witness has made it safely to the police station, there is 1 left.
+[E1WPNOOSE_32:E1VAN] Another State's witness has made it safely to the police station, there is 1 left.
+
+[E1WPNOOSE_43:E1VAN] Drop off all the State's witnesses at the ~y~Police stations~s~.
+[E1WPNOOSE_42:E1VAN] Drop off the remaining State's witnesses at the ~y~Police stations~s~.
+[E1WPNOOSE_41:E1VAN] Drop off the remaining State's witness at the ~y~Police station~s~.
+
+[E1WPNOOSE_50:E1VAN] Slow down so the State's witness can get off the bus.
+
+{--- BIKER prints}
+[E1WPBIKER_0:E1VAN] Destroy the ~r~prison bus~s~ and kill the State's witnesses.
+
+[E1WPBIKER_10:E1VAN] A ~r~State's witness~s~ is heading for the police station, kill him.
+
+[E1WPBIKER_20:E1VAN] A State's witness has been killed, there are 2 left.
+[E1WPBIKER_21:E1VAN] A State's witness has been killed, there is 1 left.
+[E1WPBIKER_22:E1VAN] Another State's witness has been killed, there is 1 left.
+
+[E1WPBIKER_30:E1VAN] A State's witness has made it safely to the police station, there are 2 left.
+[E1WPBIKER_31:E1VAN] A State's witness has made it safely to the police station, there is 1 left.
+[E1WPBIKER_32:E1VAN] Another State's witness has made it safely to the police station, there is 1 left.
+
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+{ IF YOU ADD ANY LINES OF TEXT, PLEASE PLACE THEM IN THE SECTION BENEATH HERE }
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+{******************************************************************************************************************************************************}
+
+
+[BIKE_TRACKS:RACESE1]Track
+[BIKE_TRACKS0:RACESE1]Random
+[BIKE_TRACKS1:RACESE1]Down Under
+[BIKE_TRACKS2:RACESE1]Triple L Rocks
+[BIKE_TRACKS3:RACESE1]Bayshore Run
+[BIKE_TRACKS4:RACESE1]Blockie
+[BIKE_TRACKS5:RACESE1]Meltdown
+[BIKE_TRACKS6:RACESE1]Down The Hatch
+[BIKE_TRACKS7:RACESE1]In the Bricks 
+[BIKE_TRACKS8:RACESE1]Ramped Up
+[BIKE_TRACKS9:RACESE1]A Bohan Scramble
+[BIKE_TRACKS10:RACESE1]Uncoupled
+[BIKE_TRACKS11:RACESE1]Down By The River
+[BIKE_TRACKS12:RACESE1]Carousel
+[BIKE_TRACKS13:RACESE1]Honk Honk
+[BIKE_TRACKS14:RACESE1]Bridging the Gap
+[BIKE_TRACKS15:RACESE1]Paradise Lost
+[BIKE_TRACKS16:RACESE1]Middle Ground
+[BIKE_TRACKS17:RACESE1]Triangulate
+[BIKE_TRACKS18:RACESE1]Fairground Distraction
+[BIKE_TRACKS19:RACESE1]Double Parking
+[BIKE_TRACKS20:RACESE1]The Lost's Highway
+[BIKE_TRACKS21:RACESE1]Duke of the City
+[BIKE_TRACKS22:RACESE1]Broker Back
+[BIKE_TRACKS23:RACESE1]Fluid Exchange
+[BIKE_TRACKS24:RACESE1]Dock Tease
+[BIKE_TRACKS25:RACESE1]Reaper's Ride
+[BIKE_TRACKS26:RACESE1]Derailer
+[BIKE_TRACKS27:RACESE1]Snakes & Ladders
+[BIKE_TRACKS28:RACESE1]Beached
+[BIKE_TRACKS29:RACESE1]Hoon Dog
+[BIKE_TRACKS30:RACESE1]Bogan's Revenge
+
+ 
+
+{invites sent through the phone}
+[E1_INVITE_18] You have been invited to play GTAIV:The Lost and Damned - Witness Protection.
+[E1_INVITE_19] You have been invited to play GTAIV:The Lost and Damned - Club Business.
+[E1_INVITE_20] You have been invited to play GTAIV:The Lost and Damned - Race.
+[E1_INVITE_21] You have been invited to play GTAIV:The Lost and Damned - Team Deathmatch.
+[E1_INVITE_22] You have been invited to play GTAIV:The Lost and Damned - Own the City.
+[E1_INVITE_23] You have been invited to play GTAIV:The Lost and Damned - Lone Wolf Biker.
+
+[E1_INVITE_24] You have been invited to play GTAIV:The Lost and Damned - Deathmatch.
+[E1_INVITE_25] You have been invited to play GTAIV:The Lost and Damned - Instant Play.
+
+
+[E1_INVITE_16] You have been invited to play GTAIV:The Lost and Damned - Freemode.
+[E1_INVITE_8] You have been invited to join a party in GTAIV:The Lost and Damned.
+
+{help text for modes}
+
+[MP_HELP_18] Team Game. The N.O.O.S.E. must protect the state witnesses while The Lost must take them out.																			 
+[MP_HELP_IP] Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.
+[MP_HELP_19] Coop Game. Get respect within the club. Angus will let you know of any club business.
+[MP_HELP_20] It's biker v biker in a race through the streets of Liberty City.
+[MP_HELP_22] Team Game. Take and hold as much territory as you can.
+[MP_HELP_23] One biker on the run. How long could you last with everyone else chasing you?
+[MP_HELP_24] It's every biker for himself.
+[MP_HELP_16] Kick back in Liberty City.
+[MP_HELP_17] A biker's running through checkpoints with a gunship at his back.  How long will he last?
+
+[MP_LB_01]Lost and Damned Deathmatch 
+[MP_LB_02]Lost and Damned Races
+[MP_LB_03]Lost and Damned Team Deathmatch
+
+{NEW TEXT ADDED --------- }
+[MP_HELP_21] Team game. It's faction versus faction in an all out war.
+
+[GUN_VAN_HELP] Drive the van past your defenders to upgrade their weapons.
+
+
+[bkHelpA1:RACESE1]
+You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack. 
+
+[bkHelpA1_PC:RACESE1]
+You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack. 
+
+[bkHelpA2:RACESE1]
+Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
+
+[bkHelpA2_PC:RACESE1]
+Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+
+[bkHelpB1:RACESE1]
+You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack. 
+
+[bkHelpB1_PC:RACESE1]
+You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
+ 
+[bkHelpB2:RACESE1]
+Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
+
+[bkHelpB2_PC:RACESE1]
+Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+
+{-- Lost and Damned MP game modes --}
+
+[NF_STATUS_259]
+Deathmatch
+
+[NF_STATUS_260]
+Team Deathmatch
+
+[NF_STATUS_261]
+Races
+
+[NF_STATUS_262]
+Club Business
+
+[NF_STATUS_263]
+Lone Wolf Biker
+
+[NF_STATUS_264]
+Witness Protection
+
+[NF_STATUS_265]
+Own The City
+
+[NF_STATUS_266]
+Free Mode
+
+[NF_STATUS_267]
+Party Mode
+
+[NF_STATUS_268]
+Chopper vs. Chopper
+
+
+{-- E1 Race Tracks --}
+
+[NF_STATUS_269]
+Down Under
+
+[NF_STATUS_270]
+Triple L Rocks
+
+[NF_STATUS_271]
+Bayshore Run
+
+[NF_STATUS_272]
+Blockie
+
+[NF_STATUS_273]
+Meltdown
+
+[NF_STATUS_274]
+Down The Hatch 
+
+[NF_STATUS_275]
+In the Bricks
+
+[NF_STATUS_276]
+Ramped Up
+
+[NF_STATUS_277]
+A Bohan Scramble
+
+[NF_STATUS_278]
+Uncoupled
+
+[NF_STATUS_279]
+Down By The River
+
+[NF_STATUS_280]
+Carousel
+
+[NF_STATUS_281]
+Honk Honk
+
+[NF_STATUS_282]
+Bridging the Gap
+
+[NF_STATUS_283]
+Paradise Lost
+
+[NF_STATUS_284]
+Middle Ground
+
+[NF_STATUS_285]
+Triangulate
+
+[NF_STATUS_286]
+Fairground Distraction
+
+[NF_STATUS_287]
+Double Parking
+
+[NF_STATUS_288]
+The Lost's Highway
+
+[NF_STATUS_289]
+Duke of the City
+
+[NF_STATUS_290]
+Broker Back
+
+[NF_STATUS_291]
+Fluid Exchange
+
+[NF_STATUS_292]
+Dock Tease
+
+[NF_STATUS_293]
+Reaper's Ride
+
+[NF_STATUS_294]
+Derailer
+
+[NF_STATUS_295]
+Snakes & Ladders
+
+[NF_STATUS_296]
+Beached
+
+[NF_STATUS_297]
+Hoon Dog
+
+[NF_STATUS_298]
+Bogan's Revenge
+
+{--E1 MP Race Classes--}
+
+[NF_STATUS_299]
+Lost Bikes
+
+[NF_STATUS_300]
+Angels Of Death Bikes
+
+[NF_STATUS_301]
+Street Bikes
+
+[NF_STATUS_302]
+Vans
+
+[NF_STATUS_303]
+Cars
+
+[NF_STATUS_304]
+Trucks
+
+[NF_STATUS_305]
+Road Bikes
+
+[NF_STATUS_306]
+Run for 2 minutes
+
+[NF_STATUS_307]
+Run for 5 minutes
+
+[NF_STATUS_308]
+Run for 10 minutes
+
+[NF_STATUS_309]
+Everyone Gets a Go
+
+[NF_STATUS_310]
+3 Checkpoints
+
+[NF_STATUS_311]
+5 Checkpoints
+
+[NF_STATUS_312]
+9 Checkpoints
+
+[NF_STATUS_313]
+40 Percent
+
+[NF_STATUS_314]
+60 Percent
+
+[NF_STATUS_315]
+80 Percent
+
+[NF_STATUS_316]
+100 Percent
+
+[NF_STATUS_317]
+Biker Weapons
+
+[NF_STATUS_318]
+Grenade Launchers
+
+
+{--------------------------- END ---------------------------}
+{-----------------------------------------------------------}
+[NETDUMMYE13]
+THIS LABEL NEEDS TO BE HERE !!!
+
+
+
+
+
+

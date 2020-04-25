@@ -1,0 +1,438 @@
+﻿{---- KEITH TEXT: Mission Names for debug menu and for display when mission launches ----}
+{---- NOTE: The mission names have now been moved to americanMissionNames for Xbox Rich Presence - this is just all the extra stuff ----}
+
+{---- E1 Vehicles ----}
+{-- Updated 24/07/08--}
+[DIABO]
+Diabolus
+	
+[NIGHTBL]
+Nightblade
+
+[REVENANT]
+Revenant
+
+[WOLFS]
+Wolfsbane
+
+[LYCAN]
+Lycan
+
+[HEXER]
+Hexer
+
+[ANGEL]
+Angel
+
+[DAEMON]
+Daemon
+
+[INNOV]
+Innovation
+
+[GBURRITO]
+Gang Burrito
+
+[SLAMVAN]
+Slamvan
+
+[TOWTRUCK]
+Towtruck
+
+[BATI]
+Bati 800
+
+[WAYFAR]
+Wayfarer
+
+[BATI2]
+Bati Custom
+
+[DOUBLE]
+Double T
+
+[DOUBLE2]
+Double T Custom
+
+[PBUS]
+Prison Bus
+
+[YANKEE2]
+Yankee
+
+[HAKUCH]
+Hakuchou
+
+[HAKUCH2]
+Hakuchou Custom
+
+[RHAPSODY]
+Rhapsody
+
+[REGINA]
+Regina
+
+[TAMPA]
+Tampa
+
+
+
+
+{---- E1 Map text ----}
+{-- Updated 26/09/08--}
+{-- Neil Meikle     --}
+
+[BLIP_95]
+Terry
+
+[BLIP_96]
+Clay
+
+{---------------------------------------------}
+{ --- E1 stats --- }
+
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_0 ---}
+[STATS_121]
+Billy progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_1 ---}
+[STATS_122]
+Jim progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_2 ---}
+[STATS_123]
+Jim respect
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_3 ---}
+[STATS_124]
+Jim like
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_4 ---}
+[STATS_125]
+Stubbs progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_5 ---}
+[STATS_126]
+Ashley progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_6 ---}
+[STATS_127]
+Elizabeta progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_7 ---}
+[STATS_128]
+Ray progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_8 ---}
+[STATS_129]
+Terry respect
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_9 ---}
+[STATS_130]
+Terry like
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_10 ---}
+[STATS_131]
+Clay respect
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_11 ---}
+[STATS_132]
+Clay like
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_12 ---}
+[STATS_133]
+Game Progress
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_15 ---}
+[STATS_136]
+Times played air hockey
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_16 ---}
+[STATS_137]
+Times won air hockey
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_17 ---}
+[STATS_138]
+Number of racers knocked off their bike
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_18 ---}
+[STATS_139]
+Favorite activity with Jim
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_19 ---}
+[STATS_140]
+Favorite activity with Terry
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_20 ---}
+[STATS_141]
+Favorite activity with Clay
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_21 ---}
+[STATS_142]
+Bike race wins
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_22 ---}
+[STATS_143]
+Seagulls exterminated
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_23 ---}
+[STATS_144]
+Number of bikes delivered
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_24 ---}
+[STATS_145]
+Stubbs' dirty laundry washed  
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_46 ---}
+[STATS_167]
+Times backup was called
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_47 ---}
+[STATS_168]
+Terry toughness
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_48 ---}
+[STATS_169]
+Clay toughness
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_56 ---}
+[STATS_177]
+Gang wars complete
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_57 ---}
+[STATS_178]
+Times played hi-lo cards
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_58 ---}
+[STATS_179]
+Times won hi-lo cards
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_59 ---}
+[STATS_180]
+Times played arm wrestling
+
+{---------------------------------------------}
+{ --- STAT_EPISODIC1_60 ---}
+[STATS_181]
+Times won arm wrestling
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_1 ---}
+[STATS_395]
+Kills with Grenade Launcher
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_2 ---}
+[STATS_396]
+Kills with Assault Shotgun
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_4 ---}
+[STATS_398]
+Kills with Pool Cue
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_6 ---}
+[STATS_400]
+Kills with Sawn-off Shotgun
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_7 ---}
+[STATS_401]
+Kills with Automatic 9mm
+
+{---------------------------------------------}
+{ --- STAT_NUMBER_KILLED_WITH_EPISODIC_8 ---}
+[STATS_402]
+Kills with Pipe Bombs
+
+{---------------------------------------------}
+{ --- STAT_STRING_E1_01 ---}
+[STATS_495]
+Favorite activity with Jim
+
+{---------------------------------------------}
+{ --- STAT_STRING_E1_02 ---}
+[STATS_496]
+Favorite activity with Terry
+
+
+{---------------------------------------------}
+{ --- STAT_STRING_E1_03 ---}
+[STATS_497]
+Favorite activity with Clay
+
+
+{ --- NEW E1 FRIEND ACTIVITY DESCRIPTIONS FOR STATS --- }
+[statAct_air]
+Air Hockey
+
+[statAct_war]
+Gang War
+
+[statAct_hang]
+Hanging Out
+
+[statAct_race]
+Races
+
+[statact_hilo]
+Hi-Lo Cards
+
+[statact_armw]
+Arm Wrestling
+
+
+
+{ *** PICKUP TEXT *** }
+
+[PU_SEADONE]
+All seagulls killed. LC is a quieter place.
+
+[PU_SEAGULL]
+~1~ seagulls left in Liberty City.
+
+[PU_SEAGULL1]
+Just one seagull left in Liberty City.
+
+
+{---- E1 Map text ----}
+{-- Updated 14/10/08--}
+{-- Derek Payne     --}
+
+[BLIP_97]
+Billy
+
+[BLIP_98]
+Corrupt Politician
+
+[BLIP_99]
+Jim
+
+[BLIP_100]
+Leila
+
+[BLIP_101]
+Billy
+
+[BLIP_102]
+Stubbs
+
+[BLIP_103]
+Elizabeta
+
+[BLIP_104]
+Ray Boccino
+
+[BLIP_105]
+Ashley
+
+[BLIP_106]
+Jim
+
+[BLIP_107]
+Contact
+
+[BLIP_108]
+Contact
+
+[BLIP_109]
+Lost Eagle
+
+[BLIP_110]
+Arm wrestling
+
+[BLIP_111]
+Race
+
+[BLIP_112]
+Hi-Lo Card Game
+
+[BLIP_113]
+Air hockey
+
+[BLIP_114]
+Gang War
+
+[BLIP_115]
+Pool Cue
+
+[BLIP_116]
+Pipe Bomb
+
+[BLIP_117]
+Grenade Launcher
+
+[BLIP_118]
+Terry
+
+[BLIP_119]
+Clay
+
+[BLIP_120]
+Territory 1
+
+[BLIP_121]
+Territory 2
+
+[BLIP_122]
+Territory 3
+
+[BLIP_123]
+Territory 4
+
+[BLIP_124]
+Territory 5
+
+[BLIP_125]
+Territory 6
+
+[BLIP_126]
+Clay's Vehicle 
+
+[BLIP_127]
+Jim's Weapon
+
+{---- Special Mission Names ----}
+[IntroCS]
+Clean and Serene...
+
+[E1CREDITS]
+TLAD Complete
+
+[MO_NOISE]
+Noise Effect
+
+[E1DUMMY1]
+THIS LABEL NEEDS TO BE HERE !!!

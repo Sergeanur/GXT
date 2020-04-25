@@ -1,0 +1,2430 @@
+﻿start
+EML10
+EML11
+EML12
+EML13
+EML14
+EML15
+EML16
+EML17
+EML18
+EML19
+EML110
+EML111
+EML112
+EML113
+end
+
+
+{**************************************************}
+{ Ashley }
+{**************************************************}
+
+[E1_NAME_0:EMAILE1]
+Ashley 
+[E1_ADDRESS_0:EMAILE1]
+ashbutlerxxx@eyefind.info
+[E1_SIGNOFF_0:EMAILE1]
+Ash
+
+[E1INTN_0_0:EML10]
+Dearest Johnny,
+[E1INTN_0_1:EML10]
+Johnny boy,
+[E1INTN_0_2:EML10]
+Hey boy,
+[E1INTN_0_3:EML10]
+Hey baby,
+[E1INTN_0_4:EML10]
+Dearest Johnny,
+[E1INTN_0_5:EML10]
+Johnny boy,
+[E1INTN_0_6:EML10]
+Hey boy,
+[E1INTN_0_7:EML10]
+Hey baby,
+
+[E1OUTN_0_0:EML10]
+Your friend,
+[E1OUTN_0_1:EML10]
+Yours,
+[E1OUTN_0_2:EML10]
+Your friend,
+[E1OUTN_0_3:EML10]
+Yours,
+[E1OUTN_0_4:EML10]
+Your friend,
+[E1OUTN_0_5:EML10]
+Yours,
+[E1OUTN_0_6:EML10]
+Your friend,
+[E1OUTN_0_7:EML10]
+Yours,
+
+[E1S_0_0:EMAILE1]
+Some day
+[E1M_0_0:EML10]
+Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now. 
+[E1R_0_0_0:EML10]
+Ash, Ain't much point going over shit again. Whole world we live in is fucked up and we belong in that world. Things weren't meant to be, and I don't seem to be the family man type. I'm your friend, nothing more. Not ever. I can't watch you do any more drugs. Good luck staying clean this time. Johnny.
+[E1R_0_0_1:EML10]
+I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
+
+[E1M_0_1:EML10]
+it makes me happy to know you're on my side and even though we ain't together and we both fucked this thing up, we are at least friends. i'm off the drugs, Johnny boy. i'm off them. i don't want to get high no more. Not ever. i'm sorting myself out. i'm even exercising. i went running yesterday. i was nearly a model, one time. 
+
+[E1M_0_2:EML10]
+i'm going to go to college or something. Give back. i miss you. it won't never be the same without you, but it's the way it's got to be. i know that. we both did bad shit and we hurt each other and people who love each other ain't meant to hurt each other.
+
+[E1S_0_3:EMAILE1]
+Clean
+[E1M_0_3:EML10]
+I checked into rehab again last week. i feel rough, but this time it's going to stick, i know it. 
+[E1R_0_3_0:EML10]
+Good luck Ashley. Please stay the fuck away from me. 
+[E1R_0_3_1:EML10]
+I don't care, Ash. Stay away from me. Please.
+
+[E1S_0_4:EMAILE1]
+Shit
+[E1M_0_4:EML10]
+i fucked up. it weren't my fault. i got thrown out of the facility. it weren't my coke. I love you, Johnny. i love you. drugs ain't shit. you're my drug. Listen, Johnny, can i borrow some money, for a few days? I miss you. i miss you so much. 
+[E1R_0_4_0:EML10]
+Good luck Ashley. Please don't contact me again. 
+[E1R_0_4_1:EML10]
+Fuck off!
+
+
+{**************************************************}
+{ Cpt. Michael Klebitz }
+{**************************************************}
+
+[E1_NAME_1:EMAILE1]
+Cpt. Michael Klebitz
+[E1_ADDRESS_1:EMAILE1]
+capmklebitz@grype.org
+[E1_SIGNOFF_1:EMAILE1]
+Mikey
+
+[E1INTN_1_0:EML11]
+Dear John,
+[E1INTN_1_1:EML11]
+John,
+[E1INTN_1_2:EML11]
+Dear John,
+[E1INTN_1_3:EML11]
+John,
+[E1INTN_1_4:EML11]
+Dear John,
+[E1INTN_1_5:EML11]
+John,
+[E1INTN_1_6:EML11]
+Dear John,
+[E1INTN_1_7:EML11]
+John,
+
+[E1OUTN_1_0:EML11]
+Your Brother,
+[E1OUTN_1_1:EML11]
+Look after yourself,
+[E1OUTN_1_2:EML11]
+Your Brother,
+[E1OUTN_1_3:EML11]
+Look after yourself,
+[E1OUTN_1_4:EML11]
+Your Brother,
+[E1OUTN_1_5:EML11]
+Look after yourself,
+[E1OUTN_1_6:EML11]
+Your Brother,
+[E1OUTN_1_7:EML11]
+Look after yourself,
+
+[E1S_1_0:EMAILE1]
+hey bro
+[E1M_1_0:EML11]
+I hope this mail finds you well and happy and law abiding. I doubt the later, but a brother can hope, can't he? I got shot at yesterday and saw someone have their leg blown off. i saw three kids die last week. My life is one long orgy of death and horror. At least i know i am on the right side. i miss you, man. You have a heart. 
+[E1R_1_0_0:EML11]
+Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
+[E1R_1_0_1:EML11]
+Blah. Blah. Blah. At least I know what I'm fighting for. Look after yourself. John.
+
+[E1M_1_1:EML11]
+What about the life you chose led you to make such stupid choices? Billy Grey? Give me a break. He always was an arsehole. Back in the neighborhood, he was a jackass thinking he was Jesus on an acid trip when we were fifteen and you were 10. That was a long time ago. i hope you don't still look up to that asshole, pardon my fucking French. 
+
+[E1M_1_2:EML11]
+You will throw your whole life way. For a guy who wouldn't piss on you if you were on fire. I know we've been over this a thousand times, but my life is kind of stressful right now. 
+
+[E1S_1_3:EMAILE1]
+RE: hey bro
+[E1M_1_3:EML11]
+You always were a smart ass with all the answers. i have a country. You have nothing. Mom and Dad were right about you, you smug little shit. I will fuck you up when I see you. Mark my words. Disrespecting me like that. And my country. My country. I've seen men die for that shit, you junkie piece of shit. And happily. You would only die for drugs or money. You're a rat, not a man. 
+[E1R_1_3_0:EML11]
+I love you, too bro. And out of a place of love I make one comment - you get on some very strong medication to deal with the fact you've lost your fucking mind, you messianic dip shit.
+[E1R_1_3_1:EML11]
+Whoa. Dude? You should talk to a head doctor.
+
+
+{**************************************************}
+{ Phone Shop }
+{**************************************************}
+
+[E1_NAME_2:EMAILE1]
+Angus
+[E1_ADDRESS_2:EMAILE1]
+angus@LostMC.com
+[E1_SIGNOFF_2:EMAILE1]
+Angus
+
+[E1INTN_2_0:EML12]
+Brother,
+[E1INTN_2_1:EML12]
+Johnny man,
+[E1INTN_2_2:EML12]
+Brother,
+[E1INTN_2_3:EML12]
+Johnny man,
+[E1INTN_2_4:EML12]
+Brother,
+[E1INTN_2_5:EML12]
+Johnny man,
+[E1INTN_2_6:EML12]
+Brother,
+[E1INTN_2_7:EML12]
+Johnny man,
+
+[E1OUTN_2_0:EML12]
+Ride safe,
+[E1OUTN_2_1:EML12]
+Be safe,
+[E1OUTN_2_2:EML12]
+Ride safe,
+[E1OUTN_2_3:EML12]
+Be safe,
+[E1OUTN_2_4:EML12]
+Ride safe,
+[E1OUTN_2_5:EML12]
+Be safe,
+[E1OUTN_2_6:EML12]
+Ride safe,
+[E1OUTN_2_7:EML12]
+Be safe,
+
+[E1S_2_0:EMAILE1]
+B.G. out
+[E1M_2_0:EML12]
+So, they let him out? Ridiculous in some ways. Man, it's tough. I love my brothers, all of them, but there's brothers who stood by me, (you, Jim, Clay and a few others) and brothers who said they would, and I think we know which camp Billy and Brian fall into. This is my life now. I can't ride into the sunset. I can't ride into anything. I'm stuck in a chair and I need money. 
+[E1R_2_0_0:EML12]
+I hear you, brother. Whatever happens, you know me and you are brothers. Johnny.
+[E1R_2_0_1:EML12]
+Let's give him a chance, man. Brothers for life. No matter what. Johnny.
+
+[E1M_2_1:EML12]
+I need it so we have to keep making it. It's tough. I hope Billy don't fuck it up for all of us. He nearly did last time. We are a small crew. We can't beat the Deadbeats, but we can live alongside them. Billy will come out and go on a rampage. And Brian and those other clowns will drag us all along. It ain't going to be good. It's just a question of how bad. 
+
+[E1S_2_2:EMAILE1]
+all done
+[E1M_2_2:EML12]
+Well I guess that's that then. You did what had to be done. And that's why you're a brother and why it's time to move on with our lives. End the charade that this gang meant anything. Do it for Jim. 
+[E1R_2_2_0:EML12]
+World ain't what we thought it was, and people we trusted turned out to be scum. I miss Jim. More than anything. He was the real deal. The man we all wanted to be. 
+[E1R_2_2_1:EML12]
+Fuck. We'll see, man. We'll see.
+
+[E1S_2_3:EMAILE1]
+LOST MC
+[E1M_2_3:EML12]
+So it's come to this. the Lost MC showing that it was all a load of bullshit and all them oaths we swore really never meant shit to anyone. Well, Johnny, you got my blessing. I'm with you, all the way. If i weren't in a fucknig chair, I'd kill them fucks myself. They ain't human beings, let alone brothers. They are scum. Real low life scum. You got my blessing. Do what's got to be done.
+[E1R_2_3_0:EML12]
+Amen to that brother.
+[E1R_2_3_1:EML12]
+Shit's fucked up brother.
+
+
+{**************************************************}
+{ Contact Name }
+{**************************************************}
+
+[E1_NAME_3:EMAILE1]
+Jim Fitz
+[E1_ADDRESS_3:EMAILE1]
+jimfitz@LostMC.com
+[E1_SIGNOFF_3:EMAILE1]
+Jim 
+
+[E1INTN_3_0:EML13]
+Brother,
+[E1INTN_3_1:EML13]
+Johnny man,
+[E1INTN_3_2:EML13]
+Brother,
+[E1INTN_3_3:EML13]
+Johnny man,
+[E1INTN_3_4:EML13]
+Brother,
+[E1INTN_3_5:EML13]
+Johnny man,
+[E1INTN_3_6:EML13]
+Brother,
+[E1INTN_3_7:EML13]
+Johnny man,
+
+[E1OUTN_3_0:EML13]
+Later,
+[E1OUTN_3_1:EML13]
+Later man,
+[E1OUTN_3_2:EML13]
+Later,
+[E1OUTN_3_3:EML13]
+Later man,
+[E1OUTN_3_4:EML13]
+Later,
+[E1OUTN_3_5:EML13]
+Later man,
+[E1OUTN_3_6:EML13]
+Later,
+[E1OUTN_3_7:EML13]
+Later man,
+
+[E1S_3_0:EMAILE1]
+AOD
+[E1M_3_0:EML13]
+Check out this site, man. Fucking assholes! If ever you thought this war weren't worth fighting. <a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
+[E1R_3_0_0:EML13]
+Deadbeat pricks.
+[E1R_3_0_1:EML13]
+Ain't you got better things to do than look around at shit like this on the internet? Later, man.
+
+
+{**************************************************}
+{ 2hot2handle }
+{**************************************************}
+
+[E1_NAME_4:EMAILE1]
+Elena Izmaylov
+[E1_ADDRESS_4:EMAILE1]
+elenaimaylov@eyefind.info
+[E1_SIGNOFF_4:EMAILE1]
+Elena.
+
+[E1INTN_4_0:EML14]
+Hello
+[E1INTN_4_1:EML14]
+Hello
+[E1INTN_4_2:EML14]
+Hello
+[E1INTN_4_3:EML14]
+Hello
+[E1INTN_4_4:EML14]
+Hello
+[E1INTN_4_5:EML14]
+Hello
+[E1INTN_4_6:EML14]
+Hello
+[E1INTN_4_7:EML14]
+Hello
+
+[E1OUTN_4_0:EML14]
+Firm dreams.
+[E1OUTN_4_1:EML14]
+Firm dreams.
+[E1OUTN_4_2:EML14]
+Firm dreams.
+[E1OUTN_4_3:EML14]
+Firm dreams.
+[E1OUTN_4_4:EML14]
+Firm dreams.
+[E1OUTN_4_5:EML14]
+Firm dreams.
+[E1OUTN_4_6:EML14]
+Firm dreams.
+[E1OUTN_4_7:EML14]
+Firm dreams.
+
+[E1S_4_0:EMAILE1]
+My nipples like thumbs for you
+[E1M_4_0:EML14]
+I like you hot lion.My name Elena of 22 years and you interest me greatly.My brother born with arms like pengwin and canot work so good.I see many problims in my life and I search the genrous man for love.Shaky!I make the good omeletes and dance the go go.I speak the full english from the movies and I have nice mound strong for baby.
+
+[E1M_4_1:EML14]
+My hips dont boil slow or ginger child like brother.I hope my words does not remane without your atention.I have many phots for your accesing my flower and beauty. Fasten my obsticals and I will make good wife for you and your freinds.
+
+
+{**************************************************}
+{ Eco Warrior }
+{**************************************************}
+
+[E1_NAME_5:EMAILE1]
+Carl Aangeenbrug
+[E1_ADDRESS_5:EMAILE1]
+66Gp61foa@eyefind.info
+[E1_SIGNOFF_5:EMAILE1]
+Carl Aangeenbrug
+
+[E1INTN_5_0:EML15]
+R8dsf
+[E1INTN_5_1:EML15]
+R8dsf
+[E1INTN_5_2:EML15]
+R8dsf
+[E1INTN_5_3:EML15]
+R8dsf
+[E1INTN_5_4:EML15]
+R8dsf
+[E1INTN_5_5:EML15]
+R8dsf
+[E1INTN_5_6:EML15]
+R8dsf
+[E1INTN_5_7:EML15]
+R8dsf
+
+[E1OUTN_5_0:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_1:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_2:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_3:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_4:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_5:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_6:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+[E1OUTN_5_7:EML15]
+Best deals on the internet. Reply for lowest prices guaranteed.
+
+[E1S_5_0:EMAILE1]
+LOW LOW PRICES!!!
+[E1M_5_0:EML15]
+Ropka88WEssdKq9234HRfinjjiEhd))Hear me roar$>DESIGNER CLOTHES, DERRIERE, PERSEUS, RANCH, YOGARISHMA, FROM $4.99!!!!I will gut you like a pig.$>ELECTRONICS, LATEST MODELS THRIFTEX, PANORAMIC, SCHMIDT & PRISS, $19.99 and up!!!!.I want to cut off your face.$>COSMETICS, PHARAOH, MAX RENDA, FACEON, ALL THIS SEASON, STARTING AT $3.99!!!I kill girls:-)
+
+
+{**************************************************}
+{ LC Finest }
+{**************************************************}
+
+[E1_NAME_6:EMAILE1]
+Harford University
+[E1_ADDRESS_6:EMAILE1]
+halforddegrees@grype.org
+[E1_SIGNOFF_6:EMAILE1]
+Professor Flavio Covarrubias B.A, B.Ec, B.S., MFA, MBA, LL.M, Msc, Ph.D, MD (Harford University)
+
+
+[E1INTN_6_0:EML16]
+Dear Johnny,
+[E1INTN_6_1:EML16]
+Dear Johnny,
+[E1INTN_6_2:EML16]
+Dear Johnny,
+[E1INTN_6_3:EML16]
+Dear Johnny,
+[E1INTN_6_4:EML16]
+Dear Johnny,
+[E1INTN_6_5:EML16]
+Dear Johnny,
+[E1INTN_6_6:EML16]
+Dear Johnny,
+[E1INTN_6_7:EML16]
+Dear Johnny,
+
+[E1OUTN_6_0:EML16]
+Yours truly,
+[E1OUTN_6_1:EML16]
+Yours truly,
+[E1OUTN_6_2:EML16]
+Yours truly,
+[E1OUTN_6_3:EML16]
+Yours truly,
+[E1OUTN_6_4:EML16]
+Yours truly,
+[E1OUTN_6_5:EML16]
+Yours truly,
+[E1OUTN_6_6:EML16]
+Yours truly,
+[E1OUTN_6_7:EML16]
+Yours truly,
+
+[E1S_6_0:EMAILE1]
+Earn your degree online in less than a week!
+[E1M_6_0:EML16]
+Wouldn't you like to boost your salary with a qualification from a prestigious academic institution? Are you aware that you can get a college degree in exchange for what you already know?!!! Can you imagine graduating with top honors in a matter of days rather than years? Harford University awards academic credit for life experience in a wide range of sought-after subjects:
+
+[E1M_6_1:EML16]
+Ph.d in Refrigerator Maintenance: Just $2,499!!!!! B.A. in Pharmaceutical Baking Just $1,399 B.A in Natural Healing: Just $1,199!!! Msc in Beach Management: Just $1,899!!! No attendance! No study! No exams! All you need is a valid credit card. Your new career is just one affordable payment away. Order today and we will throw in an MBA FREE OF CHARGE!!! What have you got to lose?
+
+[E1M_6_2:EML16]
+We look forward to welcoming you as a student at Harford University.
+
+
+{**************************************************}
+{ Lickinggood }
+{**************************************************}
+
+[E1_NAME_7:EMAILE1]
+WADJET
+[E1_ADDRESS_7:EMAILE1]
+wadjet@eyefind.info
+[E1_SIGNOFF_7:EMAILE1]
+WADJET
+
+[E1INTN_7_0:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_1:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_2:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_3:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_4:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_5:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_6:EML17]
+WADJET**** WADJET**** WADJET**** 
+[E1INTN_7_7:EML17]
+WADJET**** WADJET**** WADJET**** 
+
+[E1OUTN_7_0:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_1:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_2:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_3:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_4:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_5:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_6:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+[E1OUTN_7_7:EML17]
+AMAZING INCREASE IN VOLUME OF EJACULATE GUARANTEED. 
+
+[E1S_7_0:EMAILE1]
+COME LIKE A POWER HOSE
+[E1M_7_0:EML17]
+SCIENTIFICBREAKTHROUGHTHEONLYFORMULAFORMENTHATWORKS.  $##Jjsd11''d()yoythi01238954y7hreDo you want a cock like a baby's arm?wefjY*()&*GHDDefq0=eiWe are concerned about your girthDHwfeiok-0890y3ju830”((_!You cannot pleasure a woman with a small tool%)d'((fsdg:()_)E424t40i8a(:;sff@(^$#123gfg()(pYour erected dong is like a pickle*^@#wehe1ws89)+dHF# BUY WADJET ONLINE $19.99. GIVE YOUR GIRL A FACIAL SHELL NEVER FORGET. ENDORSED BY PORN STARS. RELOAD YOUR LOVE GUN. 
+
+
+{**************************************************}
+{ Gogetter }
+{**************************************************}
+
+[E1_NAME_8:EMAILE1]
+Jerry Giordano
+[E1_ADDRESS_8:EMAILE1]
+admin@killdebtdead.com
+[E1_SIGNOFF_8:EMAILE1]
+www.killdebtdead.com
+
+[E1INTN_8_0:EML18]
+Completely risk free!
+[E1INTN_8_1:EML18]
+Completely risk free!
+[E1INTN_8_2:EML18]
+Completely risk free!
+[E1INTN_8_3:EML18]
+Completely risk free!
+[E1INTN_8_4:EML18]
+Completely risk free!
+[E1INTN_8_5:EML18]
+Completely risk free!
+[E1INTN_8_6:EML18]
+Completely risk free!
+[E1INTN_8_7:EML18]
+Completely risk free!
+
+[E1OUTN_8_0:EML18]
+Kill Debt Dead
+[E1OUTN_8_1:EML18]
+Kill Debt Dead
+[E1OUTN_8_2:EML18]
+Kill Debt Dead
+[E1OUTN_8_3:EML18]
+Kill Debt Dead
+[E1OUTN_8_4:EML18]
+Kill Debt Dead
+[E1OUTN_8_5:EML18]
+Kill Debt Dead
+[E1OUTN_8_6:EML18]
+Kill Debt Dead
+[E1OUTN_8_7:EML18]
+Kill Debt Dead
+
+[E1S_8_0:EMAILE1]
+Kill Debt Dead
+[E1M_8_0:EML18]
+Completely risk free! Clear your debts in less than 30 days! 100% success rate!Are you drowning in debt? Getting harassed by creditors? Struggling to pay your bills on time? Scared to answer the phone? Do you hide every time the doorbell rings?
+
+[E1M_8_1:EML18]
+Can you imagine eliminating ALL your outstanding debt? Can you imagine all the people you owe money to floating face down in the their backyard pool with no explanation? Can you imagine never making another payment again?
+
+[E1M_8_2:EML18]
+We eliminate debt quickly and painlessly without damaging your credit score. We sell financial freedom. You may have ruined your life and will never recover, but we can help. Why should you have to pay for the things you've bought? Borrow your way to a new future. Today is the first day of the rest of your lifetime of debt. <a href=”www.killdebtdead.com”>www.killdebtdead.com</a>
+
+
+{**************************************************}
+{ GLANDS - lawyer website }
+{**************************************************}
+
+[E1_NAME_9:EMAILE1]
+Saidou Bakayoko
+[E1_ADDRESS_9:EMAILE1]
+saidoubakayoko@grype.org
+[E1_SIGNOFF_9:EMAILE1]
+Barrister Saidou Bakayoko
+
+[E1INTN_9_0:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_1:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_2:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_3:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_4:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_5:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_6:EML19]
+Dear Mr Klebitz,
+[E1INTN_9_7:EML19]
+Dear Mr Klebitz,
+
+[E1OUTN_9_0:EML19]
+Yours Obediently, 
+[E1OUTN_9_1:EML19]
+Yours Obediently, 
+[E1OUTN_9_2:EML19]
+Yours Obediently, 
+[E1OUTN_9_3:EML19]
+Yours Obediently, 
+[E1OUTN_9_4:EML19]
+Yours Obediently, 
+[E1OUTN_9_5:EML19]
+Yours Obediently, 
+[E1OUTN_9_6:EML19]
+Yours Obediently, 
+[E1OUTN_9_7:EML19]
+Yours Obediently, 
+
+[E1S_9_0:EMAILE1]
+REQUIRES YOUR ATTENTION
+[E1M_9_0:EML19]
+How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso. 
+
+[E1M_9_1:EML19]
+Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
+
+[E1M_9_2:EML19]
+I came to know your esteemed self in my search for relatives of my client with the objective of securing a destinee of the property and money left behind by my aforementioned client following his aforementioned death, which unfortunately claimed his life. 
+
+[E1M_9_3:EML19]
+Knowing of your high trustworthiness and repute, I seek your consent if you are unequivocably interested to present you as Next Of Kin of the deceased so that the funds of $15.5m would be released into your bank account as the aforementioned Next Of Kin. 
+
+[E1M_9_4:EML19]
+This Bank of the deceased has issued a notice instructing me to produce the Next of Kin to the aforementioned account within the next four working days or have the account confiscated. 
+
+[E1M_9_5:EML19]
+In consideration of my failing attempts to locate my client's relatives I humbly seek your help very urgently with much courtesy and hope to present you as the Next of Kin of the aforementioned deceased as you both bear the same name. 
+
+[E1M_9_6:EML19]
+I know that a solitication of this gravitude may cause you apprehension but I assure you wholeheadedly of the good faith in which it is solicited. My sincere apoligies for emptying myself into you unsolicitedly and I trust this letter reaches you in fine health. Please contact me at your earliest comfort. You will be rich.
+
+
+{**************************************************}
+{ Contact Name }
+{**************************************************}
+
+[E1_NAME_10:EMAILE1]
+Tlks1iK87
+[E1_ADDRESS_10:EMAILE1]
+Tlks1iK87@eyefind.info
+[E1_SIGNOFF_10:EMAILE1]
+Tlks1iK87
+
+[E1INTN_10_0:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_1:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_2:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_3:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_4:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_5:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_6:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+[E1INTN_10_7:EML110]
+Open Amateur Webcam Feeds active RIGHT NOW!!!
+
+[E1OUTN_10_0:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_1:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_2:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_3:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_4:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_5:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_6:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+[E1OUTN_10_7:EML110]
+Roadside unfailing canopy desperation overstep improvement cookout harpsichord
+
+[E1S_10_0:EMAILE1]
+HOTTTTTT FREE AMATEUR WEBCAMS 
+[E1M_10_0:EML110]
+Watch young girls study in their bedrooms! FOR FREE!  You have to try this!  Are you spending TOO MUCH on prescriptions?  ALAD-IN, ALAD-IN, H4PP1, ALAD-IN BLISSIKIN, ALAD-IN, HINGMYRALGAN HINGMYRALGAN HINGMYRALGAN BLISSIKIN, BLISSIKIN, BLISSIKIN, BLISSIKIN Top quality Canadian meds delivered overniite.  Classy blonde fucks dog. 
+
+
+{**************************************************}
+{ Contact Name }
+{**************************************************}
+
+[E1_NAME_11:EMAILE1]
+Customer Service Bank of Lee Burty.
+[E1_ADDRESS_11:EMAILE1]
+43jh43b8@eyefind.info
+[E1_SIGNOFF_11:EMAILE1]
+Tina Brannigan
+
+[E1INTN_11_0:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_1:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_2:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_3:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_4:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_5:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_6:EML111]
+Dear Mr Klebitz,
+[E1INTN_11_7:EML111]
+Dear Mr Klebitz,
+
+[E1OUTN_11_0:EML111]
+Best regards,
+[E1OUTN_11_1:EML111]
+Best regards,
+[E1OUTN_11_2:EML111]
+Best regards,
+[E1OUTN_11_3:EML111]
+Best regards,
+[E1OUTN_11_4:EML111]
+Best regards,
+[E1OUTN_11_5:EML111]
+Best regards,
+[E1OUTN_11_6:EML111]
+Best regards,
+[E1OUTN_11_7:EML111]
+Best regards,
+
+[E1S_11_0:EMAILE1]
+Urgent - Your Bank of Liberty account. Please Update Account Details
+[E1M_11_0:EML111]
+As a valued Bank of Lee Burty customer, we would like to inform you that online access for your account has expired. For your convenience, we ask that you provide us with the following information so that internet banking services can be reactivated:
+
+[E1M_11_1:EML111]
+Account Number: Login: Password: Mother's Maiden Name: First Pet's Name:  Social Security Number:  We thank you for your understanding and apologize for any inconvenience.  
+
+
+{**************************************************}
+{ Contact Name }
+{**************************************************}
+
+[E1_NAME_12:EMAILE1]
+PLACEHOLDER
+[E1_ADDRESS_12:EMAILE1]
+ligner@goldberglignerandshyster.com
+[E1_SIGNOFF_12:EMAILE1]
+Larry Ligner, attorney at law
+
+[E1INTN_12_0:EML112]
+PLACEHOLDER
+[E1INTN_12_1:EML112]
+PLACEHOLDER
+[E1INTN_12_2:EML112]
+PLACEHOLDER
+[E1INTN_12_3:EML112]
+PLACEHOLDER
+[E1INTN_12_4:EML112]
+PLACEHOLDER
+[E1INTN_12_5:EML112]
+PLACEHOLDER
+[E1INTN_12_6:EML112]
+PLACEHOLDER
+[E1INTN_12_7:EML112]
+PLACEHOLDER
+
+[E1OUTN_12_0:EML112]
+PLACEHOLDER
+[E1OUTN_12_1:EML112]
+PLACEHOLDER
+[E1OUTN_12_2:EML112]
+PLACEHOLDER
+[E1OUTN_12_3:EML112]
+PLACEHOLDER
+[E1OUTN_12_4:EML112]
+PLACEHOLDER
+[E1OUTN_12_5:EML112]
+PLACEHOLDER
+[E1OUTN_12_6:EML112]
+PLACEHOLDER
+[E1OUTN_12_7:EML112]
+PLACEHOLDER
+
+[E1S_12_0:EMAILE1]
+PLACEHOLDER
+[E1M_12_0:EML112]
+PLACEHOLDER
+[E1R_12_0_0:EML112]
+PLACEHOLDER
+[E1R_12_0_1:EML112]
+PLACEHOLDER
+
+[E1S_12_1:EMAILE1]
+PLACEHOLDER
+[E1M_12_1:EML112]
+PLACEHOLDER
+[E1R_12_1_0:EML112]
+PLACEHOLDER
+[E1R_12_1_1:EML112]
+PLACEHOLDER
+
+[E1S_12_2:EMAILE1]
+PLACEHOLDER
+[E1M_12_2:EML112]
+PLACEHOLDER
+[E1R_12_2_0:EML112]
+PLACEHOLDER
+[E1R_12_2_1:EML112]
+PLACEHOLDER
+
+[E1S_12_3:EMAILE1]
+PLACEHOLDER
+[E1M_12_3:EML112]
+PLACEHOLDER
+[E1R_12_3_0:EML112]
+PLACEHOLDER
+[E1R_12_3_1:EML112]
+PLACEHOLDER
+
+[E1S_12_4:EMAILE1]
+PLACEHOLDER
+[E1M_12_4:EML112]
+PLACEHOLDER
+[E1R_12_4_0:EML112]
+PLACEHOLDER
+[E1R_12_4_1:EML112]
+PLACEHOLDER
+
+[E1S_12_5:EMAILE1]
+PLACEHOLDER
+[E1M_12_5:EML112]
+PLACEHOLDER
+[E1R_12_5_0:EML112]
+PLACEHOLDER
+[E1R_12_5_1:EML112]
+PLACEHOLDER
+
+
+{**************************************************}
+{ Contact Name }
+{**************************************************}
+
+[E1_NAME_13:EMAILE1]
+
+[E1_ADDRESS_13:EMAILE1]
+
+[E1_SIGNOFF_13:EMAILE1]
+
+
+[E1INTN_13_0:EML113]
+Moj dragi sine, 
+[E1INTN_13_1:EML113]
+My son,
+[E1INTN_13_2:EML113]
+Moj dragi sine, 
+[E1INTN_13_3:EML113]
+My dearest son,
+[E1INTN_13_4:EML113]
+Moj dragi sine, 
+[E1INTN_13_5:EML113]
+My son,
+[E1INTN_13_6:EML113]
+Moj dragi sine, 
+[E1INTN_13_7:EML113]
+My dearest son,
+
+[E1OUTN_13_0:EML113]
+Tvoja voljena majka. 
+[E1OUTN_13_1:EML113]
+Your loving mother. 
+[E1OUTN_13_2:EML113]
+Tvoja voljena majka. 
+[E1OUTN_13_3:EML113]
+Your loving mother. 
+[E1OUTN_13_4:EML113]
+Tvoja voljena majka. 
+[E1OUTN_13_5:EML113]
+Your loving mother. 
+[E1OUTN_13_6:EML113]
+Tvoja voljena majka. 
+[E1OUTN_13_7:EML113]
+Your loving mother. 
+
+[E1S_13_0:EMAILE1]
+I miss you.
+[E1M_13_0:EML113]
+Nadam se da si dobro i da si srecan u Americi. I hope this reaches you and you respond. I miss you. I write in English because now you are like Roman. He tells me he only speaks English now. I know things better for you to be out in world, and away from here, but I miss you. It is mother's duty to miss son. Are you no longer in sea? Have you stopped that world for good, or will you go back? Will you ever come back to me? It gladdens heart of mine to think of you and your cousin together, living a good life in America, and at the same time, 
+[E1R_13_0_0:EML113]
+Dear mother, thank you for your e mail. I am always happy to hear from you. Your English is good. Better than mine. I am sorry I have not been much of a good son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for us both. Roman is well. He is living the American dream, mostly in his head, like all dream. 
+[E1R_13_0_1:EML113]
+Dear mother, thank you for your e mail. I am always happy to hear from you. I am sorry I have not been much of a son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for both of us. Roman is well. He is living the American dream, mostly in his head, like all dreams.
+
+[E1M_13_1:EML113]
+breaks heart of mine to think of you never here. I know life has not always easy for you, Niko. I know you had many trouble, and I know you have done many bad thing, but please know that I am mother, your mother, and I do not judge you. I judge the world for making you so, you who has so much to give people, who is man of principle, who always tried to live the correct way. 
+[E1R_13_1_0:EML113]
+. He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. s ljubavlju, Your loving son. 
+[E1R_13_1_1:EML113]
+ He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. Your loving son. 
+
+[E1M_13_2:EML113]
+Life here is the same as it always was. People argue, the farms suffer, we pay taxes for new parliament buildings and government reports, and live in poverty. For country people, life is the same the world. Please write me. 
+
+[E1S_13_3:EMAILE1]
+Thank you.
+[E1M_13_3:EML113]
+thank you for your e mail. It made me cry. At least you are well and happy. I know you cannot live here and be well. I hope happiness finds you. Look after cousin. He is good boy. I dream of both of you settling down with nice women. It is what his mother would have wanted, as well. I will write soon. 
+
+[E1S_13_4:EMAILE1]
+Thinking about you.
+[E1M_13_4:EML113]
+I was thinking about you, and I thought I write. I receive nice e mail from your cousin. He say you had seen Florian Cravic again. Did he become a professional wrestler, as he say? He was always strange boy. Roman also tells me he has woman nice in his life and that maybe there was someone special for you too. Life here is much same - crops grow, 
+[E1R_13_4_0:EML113]
+Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different. 
+[E1R_13_4_1:EML113]
+Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different. 
+
+[E1M_13_5:EML113]
+ the country flounders, British people come to buy holiday homes they never visit, the politicians argue and we all want things will change. I have long memory. Life always confusing uncertain. Only problems change. We have never known freedom, and nor democracy. Sometimes, I think this makes realist life easier for us. 
+[E1R_13_5_0:EML113]
+He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here. 
+[E1R_13_5_1:EML113]
+He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here. 
+
+[E1M_13_6:EML113]
+In America I imagine the people must be bitter. The world used to love the, now they are despised. This President Lawton seems like a foolish man. Have you met him? Roman said that you and him were up for a prestigious award and you had some powerful friends.
+[E1R_13_6_0:EML113]
+The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko. 
+[E1R_13_6_1:EML113]
+The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko. 
+
+[E1S_13_7:EMAILE1]
+Glad you are well.
+[E1M_13_7:EML113]
+thank you for your mail. I am glad you well. Look after Roman. I am excite to hear maybe wedding bells are in air soon? What about you, my son? I will write again, soon. 
+
+[E1S_13_8:EMAILE1]
+Wedding bells?
+[E1M_13_8:EML113]
+I hear Roman is getting married! I am so excited. I also heard you had a nice girl, and you could not seem to commit to her? I wish I could make it to the wedding. Have a good time, my son. I am so proud of you both. s ljubavlju, 
+
+[E1S_13_9:EMAILE1]
+Roman.
+[E1M_13_9:EML113]
+Word in the village is that Roman was killed on wedding day. I know it is true, as I checked on internet. My son, my heart is broken. Please leave evil place. Please go somewhere safe. Please do not caught up in madness. Please do not become statistic.
+
+
+{**************************************************}
+{ Billy Text }
+{**************************************************}
+
+[T1_NAME_0]
+Billy
+
+[T10_1]
+We need your input in a discussion, John. Come to the house.
+
+[T10_2]
+Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
+
+[T10_3]
+PLACEHOLDER
+
+[T10_4]
+PLACEHOLDER
+
+{**************************************************}
+{ Jim Text }
+{**************************************************}
+
+[T1_NAME_1]
+Jim
+
+[T11_1]
+Where'd you run off to, brother?
+
+[T11_2]
+Meet me at Ray's...
+
+[T11_3]
+Why didn't you show, man? We had a date.
+
+[T11_4]
+I thought you were gonna hang out, brother.
+
+[T11_5]
+Jonathan? What you got going on that's more important than hanging with your brothers?
+
+[T11_6]
+Got bored of wating for you, John. 
+
+[T11_7]
+You ever need some firepower, let me know. I might just be able to drop off what you're looking for in the House.
+
+[T11_8]
+Ha ha. Johnny, I've sent you a link to the Deadbeats' website. Check it out!
+
+[T11_9]
+Special Ability Now Available - variation 3
+
+[T11_10]
+Special Ability Now Available - variation 4
+
+[T11_11]
+Let's hang soon, man.
+
+[T11_12]
+Let's do something, man.
+
+[T11_13]
+Johnny, I'm getting bored of this business shit. Let's have fun sometime.
+
+[T11_14]
+All work and no play makes Johnny a dull boy. Let's hang.
+
+[T11_15]
+Dude, you ever need some help, Terry and Clay can back you up. Just call one of em.
+
+[T11_16]
+Now that you're chapter leader you should take advantage. Get Terry and Clay up off their asses and make em help you. 
+
+[T11_17]
+I feel like you're giving Terry and Clay an easy ride, dude. Give 'em a call and make 'em help you out.
+
+[T11_18]
+These are fucked up times, dude. Remember to get T and C to help you if shit gets tough.
+
+[T11_19]
+Good race, man. I'm gonna need to soak all these bruises I got.
+
+[T11_20]
+Shit, man. Jackie's gonna kill me when she sees these bruises. Nice racing.
+
+[T11_21]
+I'm getting to old to get beat up like that. Good racing.
+
+[T11_22]
+I enjoyed the race, even if it nearly killed me. Call me soon, brother.
+
+[T11_23]
+I hope you didn't take that love tap too seriously. Nice racing.
+
+[T11_24]
+Shit, hitting you with that bat was the best part of the race for me. How about you?
+
+[T11_25]
+Nice race, man. You're an easy target. Ha ha.
+
+[T11_26]
+I should play for the Swingers after that bat work. Nice race, dude.
+
+[T11_27]
+Bad luck in the race, man. You should get more aggressive out there.
+
+[T11_28]
+You ain't gonna win those raaces if you're all pacifist with it. Later on, brother.
+
+[T11_29]
+Better luck next race, man. Batter up.
+
+[T11_30]
+Johnny man. You're the friendliest biker I know. Get aggressive in the next race.
+
+[T11_31]
+We should hang out at the clubhouse sometime, do arm wrestling, play pool, or play cards. Or we could play air hockey, play darts, or play pool - shit, there's all kinds of stuff we can do. Call me.
+
+[T11_32]
+We'll hang out again soon. 
+
+[T11_33]
+You should sleep in Brian's old apartment - he won't be turning up there again. Sure beats that old bed at the clubhouse. 
+
+[T11_34]
+Me and the boys have fixed up Brian's apartment after the fire. You should sleep there. It's still a shithole, but might be better than that old bed at the clubhouse.
+
+[T11_35]
+Hey man, don't tell Jackie that I stayed in the club. Thanks, dude.
+
+[T11_36]
+Sorry, man. I wasn't gonna leave that club. You'll know what I'm talking about when you get married. Later.
+
+{**************************************************}
+{ Stubbs Text }
+{**************************************************}
+
+[T1_NAME_2]
+Stubbs
+
+[T12_1]
+Something about faked terrorist acts gets me all excited, Klebitz. You can either take out the chopper as it lands or deal with the convoy as it makes its way out of the airport. By the way, I've got a man at the Southwest gate who can help you if you're locked into the runway area. - TS III 
+
+[T12_2]
+Excellent work. Call 123-555-0160 if you want to tune into that listening device of yours. - TS III
+
+[T12_3]
+I still got work for you to do. Give me a call if you need a job. - TS III
+
+[T12_4]
+My sources tell me you've been locked inside the airport. There's a man on the Southwest gate who can unlock it for you. - TS III
+
+[T12_39]
+PLACEHOLDER
+
+[T12_40]
+PLACEHOLDER
+
+[T12_41]
+PLACEHOLDER
+
+[T12_42]
+PLACEHOLDER
+
+[T12_43]
+PLACEHOLDER
+
+[T12_44]
+PLACEHOLDER
+
+[T12_45]
+PLACEHOLDER
+
+{**************************************************}
+{ Ashley Text }
+{**************************************************}
+
+[T1_NAME_3]
+Ashley
+
+[T13_1]
+Baby, I need to see you. Get here soon. xx
+
+[T13_2]
+PLACEHOLDER
+
+[T13_3]
+PLACEHOLDER
+
+[T13_4]
+PLACEHOLDER
+
+{**************************************************}
+{ Elizabeta Text }
+{**************************************************}
+
+[T1_NAME_4]
+Elizabeta
+
+[T14_1]
+PLACEHOLDER
+
+[T14_2]
+PLACEHOLDER
+
+[T14_3]
+PLACEHOLDER
+
+[T14_4]
+I got some work for you and Malc. Come see me. - Liz
+
+[T14_5]
+A friend of mine asked me to pass on the number of her boyfriend's cab business. It's called Bellic Enterprises and it's 555-2222. - Liz
+
+[T14_6]
+PLACEHOLDER
+
+[T14_7]
+PLACEHOLDER
+
+[T14_8]
+PLACEHOLDER
+
+[T14_9]
+Johnny! I spoke to your friend Jim and he's says you need work. He's sending a friend of his called Malc as well. Meet me at my apartment. - Liz
+
+{**************************************************}
+{ Ray Text }
+{**************************************************}
+
+[T1_NAME_5]
+Ray
+
+[T15_0]
+PLACEHOLDER
+
+[T15_1]
+PLACEHOLDER
+
+[T15_2]
+PLACEHOLDER
+
+[T15_3]
+PLACEHOLDER
+
+[T15_4]
+PLACEHOLDER
+
+{**************************************************}
+{ Terry Text }
+{**************************************************}
+
+[T1_NAME_6]
+Terry
+
+[T16_1]
+what the fuck, man? Where were you?
+
+[T16_2]
+I don't got time to wait around for you all day, man. 
+
+[T16_3]
+You're like my fucking ex wife, always standing me up. Screw you, man.
+
+[T16_4]
+I don't mean to sound like a bitch, but come on dude. Where were you?
+
+[T16_5]
+Hey man. You need help, call me or Clay.
+
+[T16_6]
+Clay and I are here if the Chapter President ever needs assistance.
+
+[T16_7]
+Hey, Prez. Call me or Clay if you need some backup.
+
+[T16_8]
+Me and Clay are here to help out on Club business, Prez. Just call one of us. 
+
+[T16_9]
+Johnny, man. You ever need to replenish your weapons supply, call me and I'll bring round the War Wagon. 
+
+[T16_10]
+Special Ability Now Available - variation 2
+
+[T16_11]
+Special Ability Now Available - variation 3
+
+[T16_12]
+Special Ability Now Available - variation 4
+
+[T16_13]
+What's up, dude? You gonna hang out with your brothers soon.
+
+[T16_14]
+Man, why ain't you calling? I can take my bitch of an ex walking out, but not my brothers.
+
+[T16_15]
+Brother. Let's hang out soon.
+
+[T16_16]
+Fuck, man. Let's go out and stick it to em soon.
+
+[T16_17]
+Fuck, man. You smacked me good. Serves me right for racing with an asshole like you. Ha ha ha.
+
+[T16_18]
+Shit. Was that you that smacked me? Pleasure racing with you.
+
+[T16_19]
+I think I lost a tooth when you hit me, man. Sweet racing.
+
+[T16_20]
+Johnny K, smacks his own brother in the face to try and beat him in a race. Let's hang out soon. 
+
+[T16_21]
+I got you good, Johnny. Don't hold it against me. See you soon, man.
+
+[T16_22]
+Shit, Johnny. I hit you good. Let's race again sometime.
+
+[T16_23]
+Nothing like having a bike between your legs and a bat in your hand. Sorry if I hit you too hard, John. 
+
+[T16_24]
+Let's do that again, Johnny. I could get used to hitting you in the face with a bat. Ha ha ha.
+
+[T16_25]
+Too bad, Johnny. You might do better if you actually made contact with that bat of yours.
+
+[T16_26]
+You're a pleasure to race with, Johnny. Mainly coz you don't know how to use your bat. Ha ha.
+
+[T16_27]
+Nice racing with you, man. Next time try and actually use your bat.
+
+[T16_28]
+You may not have won the race, but you upset anyone with your bat. Good for you, man. Call me soon.
+
+[T16_29]
+Good seeing you at the clubhouse. 
+
+[T16_30]
+You should have said you couldn't stay.
+
+[T16_31]
+Thanks for leaving me at the club, dude. Nothing cooler than a divorced man lone wolfing it amongst the strippers. See you soon.
+
+[T16_32]
+Hey dude, I oughta left with you. Just left that place with a bunch of debt and a sore cock. Later.
+
+{**************************************************}
+{ Clay Text }
+{**************************************************}
+
+[T1_NAME_7]
+Clay
+
+[T17_1]
+You missed us, man.
+
+[T17_2]
+Hey man, you missed out.
+
+[T17_3]
+You shoulda been there, man. It was a blast.
+
+[T17_4]
+I hope you're having fun, man. Because you missed out.
+
+[T17_5]
+Me and Terry wanna see some action, too. Let us know if you need some help.
+
+[T17_6]
+I'm itching to see some action, man. Let me know if you need Terry and me behind you.
+
+[T17_7]
+Me and T are itching for some action. Unleash us, man. Come on.
+
+[T17_8]
+You need some help, just call me or Terry. Okay?
+
+[T17_9]
+You ever need a bike delivered, just call the Road Captain. Yours truly.
+
+[T17_10]
+Special Ability Now Available - variation 2
+
+[T17_11]
+Special Ability Now Available - variation 3
+
+[T17_12]
+Special Ability Now Available - variation 4
+
+[T17_13]
+We should hang, brother.
+
+[T17_14]
+Brother, we should have some chill time.
+
+[T17_15]
+Yo, Johnny. Why don't you call me no more?
+
+[T17_16]
+Johnny, man. We should hit it soon.
+
+[T17_17]
+You call that a hit, man? My little sister can hit harder than that. Let's race again soon.
+
+[T17_18]
+You're a mean motherfucker, ain't you. Let's race again soon.
+
+[T17_19]
+We need a rematch. I wanna see if you're just as cold next time we race.
+
+[T17_20]
+You hit your own brother? I'm shocked, Johnny. Let's have a rematch soon.
+
+[T17_21]
+How you like that bat being taken to you, Johnny. Call me, man.
+
+[T17_22]
+Oh, Johnny. You're an easy target. If you ain't scared, let's race again soon.
+
+[T17_23]
+I'm swingin low, Johnny. We gotta race again real soon.
+
+[T17_24]
+Shit. Was that you I hit? I hope so. Call me soon, man.
+
+[T17_25]
+Johnny, man. Racing's a sport for aggressive men. You should stick to darts.
+
+[T17_26]
+Johnny, man. Maybe we should play air hockey next time. You ain't even man enough to swing a bat.
+
+[T17_27]
+The give you the bat so you hit people, Johnny. Next time why don't you use it?
+
+[T17_28]
+You ain't on the track to make friends. If you need to hit someone in the face to win, fucking do it. See you soon, man.
+
+[T17_29]
+Till next time, Johnny. 
+
+[T17_30]
+You were here and then you wre gone. What happened?
+
+[T17_31]
+Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
+
+[T17_32]
+Brother, why'd you leave the stripclub? You get jealous of my gifts with the finer sex? Maybe you coulda learned something.
+
+[T17_33]
+Thanks for giving me some space with the ladies at the club. You were seriously killing my vibe, dude. We'll hang soon, yeah?
+
+{**************************************************}
+{ Angus Text }
+{**************************************************}
+
+[T1_NAME_8]
+Angus
+
+[T18_1]
+I've got some more bikes that need getting. We got to keep making money, man. Call me. 
+
+[T18_2]
+PLACEHOLDER
+
+[T18_3]
+PLACEHOLDER
+
+[T18_4]
+PLACEHOLDER
+
+[T18_5]
+PLACEHOLDER
+
+[T18_6]
+PLACEHOLDER
+
+{**************************************************}
+{ Secret Text }
+{**************************************************}
+
+[T1_NAME_81]
+Secret
+
+[T181_1]
+PLACEHOLDER
+
+[T181_2]
+PLACEHOLDER
+
+[T181_3]
+PLACEHOLDER
+
+[T181_4]
+PLACEHOLDER
+
+[T181_5]
+PLACEHOLDER
+
+[T181_6]
+PLACEHOLDER
+
+[T181_7]
+PLACEHOLDER
+
+[T181_8]
+PLACEHOLDER
+
+[T181_9]
+PLACEHOLDER
+
+[T181_10]
+PLACEHOLDER
+
+[T181_11]
+PLACEHOLDER
+
+{**************************************************}
+{ Aardvark Audio - song that’s playing }
+{**************************************************}
+
+[T1_NAME_82]
+Zit!
+
+[T182_1]
+Sorry, Zit cannot spot the track you are listening to.
+
+[T182_2]
+Zit! Spotted MILES DAVIS: Move
+
+[T182_3]
+Zit! Spotted ART BLAKEY AND THE JAZZ MESSENGERS: Moanin'
+
+[T182_4]
+Zit! Spotted CHARLIE PARKER: Night & Day
+
+[T182_5]
+Zit! Spotted DIZZY GILLESPIE: Whisper Not
+
+[T182_6]
+Zit! Spotted SONNY ROLLINS: St Thomas              
+
+[T182_7]
+Zit! Spotted CHET BAKER: Let's Get Lost
+
+[T182_8]
+Zit! Spotted JOHN COLTRANE: Giant Steps
+
+[T182_9]
+Zit! Spotted COUNT BASIE: April In Paris
+
+[T182_10]
+Zit! Spotted ROY HAYNES: Snap Crackle
+
+[T182_11]
+Zit! Spotted DUKE ELLINGTON: Take the 'A' Train
+
+[T182_12]
+Zit! Spotted BILLY COBHAM: Stratus                 
+
+[T182_13]
+Zit! Spotted TOM SCOTT AND THE L.A. EXPRESS: Sneakin' In The Back
+
+[T182_14]
+Zit! Spotted DAVID AXELROD: Holy Thursday            
+
+[T182_15]
+Zit! Spotted DAVID MCCALLUM: The Edge
+
+[T182_16]
+Zit! Spotted ALEKSANDER MALISZEWSKI: Pokusa
+
+[T182_17]
+Zit! Spotted RYO KAWASAKI: Raisins                  
+
+[T182_18]
+Zit! Spotted GONG: Heavy Tune
+
+[T182_19]
+Zit! Spotted MARC MOULIN: Stomp                  
+
+[T182_20]
+Zit! Spotted GROVER WASHINGTON, JR: Knucklehead
+
+[T182_21]
+Zit! Spotted ROY AYERS: Funk In The Hole
+
+[T182_22]
+Zit! Spotted THE WHO: The Seeker
+
+[T182_23]
+Zit! Spotted PHILIP GLASS: Pruit Igoe
+
+[T182_24]
+Zit! Spotted STYLES P: What's the problem
+
+[T182_25]
+Zit! Spotted CREATIVE SOURCE: Who Is He And What Is He To You        
+
+[T182_26]
+Zit! Spotted MANDRILL: Livin'It Up
+
+[T182_27]
+Zit! Spotted THE O'JAYS: Give The People What They Want
+
+[T182_28]
+Zit! Spotted GIL SCOTT-HERON: Home Is Where The Hatred Is
+
+[T182_29]
+Zit! Spotted MANU DIBANGO: New Bell                 
+
+[T182_30]
+Zit! Spotted RAMP: Daylight
+
+[T182_31]
+Zit! Spotted THE METERS: Just Kissed My Baby
+
+[T182_32]
+Zit! Spotted FELA KUTI: Sorrow,Tears & Blood      
+
+[T182_33]
+Zit! Spotted THE PRAIRE CARTEL: Homicide
+
+[T182_34]
+Zit! Spotted FEMI KUTI: Truth Don Die
+
+[T182_35]
+Zit! Spotted LONNIE LISTON SMITH: A Chance For Peace
+
+[T182_36]
+Zit! Spotted UNCLE MURDA: Anybody Can Get It 
+
+[T182_37]
+Zit! Spotted FELA KUTI: Zombie
+
+[T182_38]
+Zit! Spotted MAXIMUM PENALTY: All Your Boyz
+
+[T182_39]
+Zit! Spotted BAD BRAINS: Right Brigade
+
+[T182_40]
+Zit! Spotted SHEER TERROR: Just Can't Hate Enough LIVE
+
+[T182_41]
+Zit! Spotted CRO-MAGS: It's The Limit
+
+[T182_42]
+Zit! Spotted SICK OF IT ALL: Injustice System
+
+[T182_43]
+Zit! Spotted LEEWAY: Enforcer
+
+[T182_44]
+Zit! Spotted UNDERDOG: Back To Back
+
+[T182_45]
+Zit! Spotted AGNOSTIC FRONT: Victim In Pain
+
+[T182_46]
+Zit! Spotted MURPHY'S LAW : A Day In The Life 
+
+[T182_47]
+Zit! Spotted KILLING TIME: Tell Tale
+
+[T182_48]
+Zit! Spotted CERRONE: Supernature
+
+[T182_49]
+Zit! Spotted GINO SOCCIO: Dancer
+
+[T182_50]
+Zit! Spotted RAINBOW BROWN: Till You Surrender
+
+[T182_51]
+Zit! Spotted HARRY THUMANN: Underwater
+
+[T182_52]
+Zit! Spotted ELECTRIK FUNK: On A Journey       
+
+[T182_53]
+Zit! Spotted DON RAY: Standing In The Rain
+
+[T182_54]
+Zit! Spotted PETER BROWN: Burning Love Breakdown
+
+[T182_55]
+Zit! Spotted SKATT BROS.: Walk The Night
+
+[T182_56]
+Zit! Spotted SUZY Q: Get On Up And Do It Again     
+
+[T182_57]
+Zit! Spotted TAMIKO JONES: Can't Live Without Your Love
+
+[T182_58]
+Zit! Spotted JEAN MICHEL JARRE: Oxygene Pt.4
+
+[T182_59]
+Zit! Spotted RAY LYNCH: The Oh Of Pleasure
+
+[T182_60]
+Zit! Spotted STEVE ROACH: Arrival
+
+[T182_61]
+Zit! Spotted MICHAEL SHRIEVE: Communiqué: Approach Spiral
+
+[T182_62]
+Zit! Spotted APHEX TWIN: Selected Ambient Works Vol. II CD2, TRK5
+
+[T182_63]
+Zit! Spotted TANGERINE DREAM: Remote Viewing
+
+[T182_64]
+Zit! Spotted TERRY RILEY: A Rainbow In Curved Air
+
+[T182_65]
+Zit! Spotted Global Communication: 8:07
+
+[T182_66]
+Zit! Spotted BOB MARLEY & THE WAILERS AND DAMIAN MARLEY: Stand Up Jamrock
+
+[T182_67]
+Zit! Spotted BOB MARLEY & THE WAILERS: Wake Up And Live
+
+[T182_68]
+Zit! Spotted BOB MARLEY & THE WAILERS: Rebel Music (3 O'Clock Roadblock)
+
+[T182_69]
+Zit! Spotted BOB MARLEY & THE WAILERS: So Much Trouble In The World
+
+[T182_70]
+Zit! Spotted STEPHEN MARLEY: Chase Dem
+
+[T182_71]
+Zit! Spotted BOB MARLEY & THE WAILERS: Rat Race
+
+[T182_72]
+Zit! Spotted BOB MARLEY & THE WAILERS: Pimper's Paradise
+
+[T182_73]
+Zit! Spotted BOB MARLEY & THE WAILERS: Concrete Jungle
+
+[T182_74]
+Zit! Spotted SOS BAND: Just Be Good To Me
+
+[T182_75]
+Zit! Spotted RAHEEM DEVAUGHN: You
+
+[T182_76]
+Zit! Spotted CASSIE: Me & U
+
+[T182_77]
+Zit! Spotted JODECI: Freek 'n You
+
+[T182_78]
+Zit! Spotted MINNIE RIPERTON: Inside My Love
+
+[T182_79]
+Zit! Spotted DRU HILL: In My Bed (So So Def Mix)
+
+[T182_80]
+Zit! Spotted THE ISLEY BROTHERS: Footsteps In The Dark
+
+[T182_81]
+Zit! Spotted JILL SCOTT: Golden
+
+[T182_82]
+Zit! Spotted FREDDIE JACKSON: Have You Ever Loved Somebody
+
+[T182_83]
+Zit! Spotted ALEXANDER O'NEAL: Criticize
+
+[T182_84]
+Zit! Spotted MARVIN GAYE: Inner City Blues (Make Me Wanna Holler)
+
+[T182_85]
+Zit! Spotted GINUWINE: Pony
+
+[T182_86]
+Zit! Spotted BARRY WHITE: It's Only Love Doing Its Thing
+
+[T182_87]
+Zit! Spotted MTUME: C.O.D (I'll Deliver)
+
+[T182_88]
+Zit! Spotted LOOSE ENDS: Hangin' On A String (Contemplating)
+
+[T182_89]
+Zit! Spotted SERYOGA: The Invasion
+
+[T182_90]
+Zit! Spotted CJ: I Want You
+
+[T182_91]
+Zit! Spotted R. KELLY: Bump N' Grind
+
+[T182_92]
+Zit! Spotted LCD SOUNDSYSTEM: Get Innocuous!       
+
+[T182_93]
+Zit! Spotted THE BOGGS: Arm In Arm (Shy Child Remix)
+
+[T182_94]
+Zit! Spotted HUMMINGBIRD: You Can't Hide
+
+[T182_95]
+Zit! Spotted LES SAVY FAV: Raging In The Plague Age
+
+[T182_96]
+Zit! Spotted BUSTA RHYMES: Where's My Money
+
+[T182_97]
+Zit! Spotted UNKLE: Mayday (Featuring Duke Spirit)
+
+[T182_98]
+Zit! Spotted TOM VEK: One Horse Race
+
+[T182_99]
+Zit! Spotted CHEESEBURGER: Cocaine 
+
+[T182_100]
+Zit! Spotted THE PISTOLAS: Take It With A Kiss
+
+[T182_101]
+Zit! Spotted WHITEY: Wrap It Up
+
+[T182_102]
+Zit! Spotted !!!: Yadnus (Still Going To The Roadhouse Mix)
+
+[T182_103]
+Zit! Spotted RALPH MYERZ: The Teacher
+
+[T182_104]
+Zit! Spotted QUEEN: One Vision
+
+[T182_105]
+Zit! Spotted HEART: Straight On
+
+[T182_106]
+Zit! Spotted BLACK SABBATH: Heaven And Hell
+
+[T182_107]
+Zit! Spotted JOE WALSH: Rocky Mountain Way
+
+[T182_108]
+Zit! Spotted ELTON JOHN: Street Kids
+
+[T182_109]
+Zit! Spotted THE BLACK CROWES: Remedy
+
+[T182_110]
+Zit! Spotted THE SMASHING PUMPKINS: 1979
+
+[T182_111]
+Zit! Spotted IGGY POP: I Wanna Be Your Dog
+
+[T182_112]
+Zit! Spotted DAVID BOWIE: Fascination
+
+[T182_113]
+Zit! Spotted GENESIS: Mama
+
+[T182_114]
+Zit! Spotted BOB SEGER & THE SILVER BULLET BAND: Her Strut
+
+[T182_115]
+Zit! Spotted ZZ TOP: Thug
+
+[T182_116]
+Zit! Spotted WAR: Galaxy
+
+[T182_117]
+Zit! Spotted GODLEY & CRÈME: Cry
+
+[T182_118]
+Zit! Spotted HELLO: New York Groove
+
+[T182_119]
+Zit! Spotted STEVIE NICKS: Edge Of Seventeen
+
+[T182_120]
+Zit! Spotted THE SISTERS OF MERCY: Dominion / Mother Russia
+
+[T182_121]
+Zit! Spotted Q LAZZARUS: Goodbye Horses
+
+[T182_122]
+Zit! Spotted ELO: Evil Woman
+
+[T182_123]
+Zit! Spotted STEVE MARRIOTT'S SCRUBBERS: Cocaine
+
+[T182_124]
+Zit! Spotted THIN LIZZY: Jailbreak
+
+[T182_125]
+Zit! Spotted R.E.M.: Turn You Inside Out
+
+[T182_126]
+Zit! Spotted GOLDFRAPP: Ooh La La
+
+[T182_127]
+Zit! Spotted RICK JAMES: Come Into My Life
+
+[T182_128]
+Zit! Spotted MYSTIKAL: Shake Ya Ass
+
+[T182_129]
+Zit! Spotted DOLPHIN: RAP           
+
+[T182_130]
+Zit! Spotted SERYOGA: King Ring
+
+[T182_131]
+Zit! Spotted OLEG KVASHA: Zelenoglazoe Taksi (club remix)
+
+[T182_132]
+Zit! Spotted MARAKESH: Jdat
+
+[T182_133]
+Zit! Spotted RANETKI: O Tebe
+
+[T182_134]
+Zit! Spotted RUSLANA: Wild Dances 
+
+[T182_135]
+Zit! Spotted BASTA: Mama
+
+[T182_136]
+Zit! Spotted ZVERY: Kvartira
+
+[T182_137]
+Zit! Spotted DON OMAR: Salio El Sol
+
+[T182_138]
+Zit! Spotted HECTOR EL FATHER: Maldades
+
+[T182_139]
+Zit! Spotted TITO EL BAMBINO: Siente El Boom (Remix)
+
+[T182_140]
+Zit! Spotted WISIN Y YANDEL: Sexy Movimiento
+
+[T182_141]
+Zit! Spotted CALLE 13: Atrevete-te-te
+
+[T182_142]
+Zit! Spotted DADDY YANKEE: Impacto
+
+[T182_143]
+Zit! Spotted VOLTIO: Ponmela
+
+[T182_144]
+Zit! Spotted ANGEL Y KHRIZ: Ven Bailalo
+
+[T182_145]
+Zit! Spotted LLOYD: Get It Shawty
+
+[T182_146]
+Zit! Spotted NE - YO: Because Of You
+
+[T182_147]
+Zit! Spotted GLUKOZA: Schweine
+
+[T182_148]
+Zit! Spotted GRUPPA KINO: Gruppa Krovi
+
+[T182_149]
+Zit! Spotted LENINGRAD: Nikogo Ne Zhalko
+
+[T182_150]
+Zit! Spotted SPLIN: Liniya Zhizni
+
+[T182_151]
+Zit! Spotted GET SHAKES: Disneyland Part 1
+
+[T182_152]
+Zit! Spotted DELUKA: Sleep Is Impossible 
+
+[T182_153]
+Zit! Spotted BOBBY KONDERS: Intro
+
+[T182_154]
+Zit! Spotted BURRO BANTON: Badder Den Dem
+
+[T182_155]
+Zit! Spotted CHOPPA CHOP: Set It Off
+
+[T182_156]
+Zit! Spotted MAVADO: Real Mckoy
+
+[T182_157]
+Zit! Spotted JABBA: Raise It Up
+
+[T182_158]
+Zit! Spotted BUNJI GARLIN: Brrrt
+
+[T182_159]
+Zit! Spotted RICHIE SPICE: Youths So Cold
+
+[T182_160]
+Zit! Spotted CHUCK FENDA: All About Da Weed
+
+[T182_161]
+Zit! Spotted CHEZIDEK: Call Pon Dem
+
+[T182_162]
+Zit! Spotted MAVADO: Last Night
+
+[T182_163]
+Zit! Spotted SPRAGGA BENZ: Da Order 
+
+[T182_164]
+Zit! Spotted BOUNTY KILLER: Bullet Proof Skin
+
+[T182_165]
+Zit! Spotted SHAGGY: Church Heathen 
+
+[T182_166]
+Zit! Spotted MUNGA: No Fraid A
+
+[T182_167]
+Zit! Spotted BUJU BANTON: Driver
+
+[T182_168]
+Zit! Spotted PADDED CELL: Signal Failure
+
+[T182_169]
+Zit! Spotted BLACK DEVIL DISCO CLUB: The Devil In Us (Dub)
+
+[T182_170]
+Zit! Spotted ONE + ONE : No Pressure (Deadmau5 Remix)
+
+[T182_171]
+Zit! Spotted ALEX GOPHER: Brain Leech (Bugged Mind Remix)
+
+[T182_172]
+Zit! Spotted K.I.M.: B.T.T.T.T.R.Y. (Bag Raiders Remix)
+
+[T182_173]
+Zit! Spotted SIMIAN MOBILE DISCO: Tits & Acid 
+
+[T182_174]
+Zit! Spotted NITZER EBB: Let Your Body Learn 
+
+[T182_175]
+Zit! Spotted KAVINSKY: Testarossa (Sebastian Remix) 
+
+[T182_176]
+Zit! Spotted CHRIS LAKE VS DEADMAU5 : I Thought Inside Out (Original Mix) 
+
+[T182_177]
+Zit! Spotted BOYS NOIZE: & Down 
+
+[T182_178]
+Zit! Spotted JUSTICE: Waters Of Nazareth 
+
+[T182_179]
+Zit! Spotted KILLING JOKE: Turn To Red
+
+[T182_180]
+Zit! Spotted PLAYGROUP: Make It Happen (Instrumental) 
+
+[T182_181]
+Zit! Spotted LIQUID LIQUID: Optimo
+
+[T182_182]
+Zit! Spotted BOB MARLEY & THE WAILERS: Satisfy My Soul
+
+[T182_183]
+Zit! Spotted GREENSKEEPERS: Vagabond
+
+[T182_184]
+Zit! Spotted JULIETTE AND THE LICKS: Inside The Cage (David Gilmour Girls Remix)
+
+[T182_185]
+Zit! Spotted MAINO: Get Away Driver 
+
+[T182_186]
+Zit! Spotted RED CAFÉ: Stick'm
+
+[T182_187]
+Zit! Spotted TRU LIFE: Wet 'em Up 
+
+[T182_188]
+Zit! Spotted JOHNNY POLYGON: Price On Your Head 
+
+[T182_190]
+Zit! Spotted GROUP HOME : Supa Star
+
+[T182_191]
+Zit! Spotted BRAND NUBIAN: All For One 
+
+[T182_192]
+Zit! Spotted SPECIAL ED: I Got It Made 
+
+[T182_193]
+Zit! Spotted JERU THE DAMAJA: D. Original 
+
+[T182_194]
+Zit! Spotted MARLEY MARL FEAT CRAIG G: Droppin' Science 
+
+[T182_195]
+Zit! Spotted MC LYTE: Cha Cha Cha
+
+[T182_196]
+Zit! Spotted AUDIO 2 : Top Billin'
+
+[T182_197]
+Zit! Spotted STETASONIC : Go Stetsa
+
+[T182_198]
+Zit! Spotted T LA ROCK & JAZZY JAY : It's Yours 
+
+[T182_199]
+Zit! Spotted GANG STARR: Who's Gonna Take The Weight?
+
+[T182_200]
+Zit! Spotted MAIN SOURCE: Live At The Barbeque
+
+[T182_201]
+Zit! Spotted THE BLACK KEYS: Strange Times
+
+[T182_202]
+Zit! Spotted TEENAGER: Pony
+
+[T182_203]
+Zit! Spotted WHITE LIGHT PARADE: Riot In The City
+
+[T182_204]
+Zit! Spotted THE VIRGINS: One Week Of Danger
+
+[T182_205]
+Zit! Spotted SWIZZ BEATZ: Top Down
+
+[T182_206]
+Zit! Spotted NAS: War Is Necessary
+
+[T182_207]
+Zit! Spotted KAYNE WEST FEAT. DWELE: Flashing Lights
+
+[T182_208]
+Zit! Spotted JOELL ORTIZ: Hip-Hop (Remix Feat. Jadakiss & Saigon)
+
+[T182_209]
+Zit! Spotted FAT JOE FEAT. LIL WAYNE: Crackhouse
+
+[T182_210]
+Zit! Spotted MOBB DEEP: Dirty New Yorker
+
+[T182_211]
+Zit! Spotted GHOSTFACE KILLAH FEAT. KID CAPRI: We Celebrate
+
+[T182_212]
+Zit! Spotted STYLES P: Blow Your Mind (Remix Feat. Jadakiss & Sheek Louch) 
+
+[T182_213]
+Zit! Spotted PAPOOSE: Stylin'
+
+[T182_214]
+Zit! Spotted QADIR: Nickname
+
+[T182_250]
+Zit! Spotted THE ROLLING STONES: Fingerprint
+
+[T182_251]
+Zit! Spotted THE RAPTURE: No Sex For Ben
+
+[T182_252]
+Zit! Spotted CELEBRATION: Fly The Fly (Holy Fuck Remix)
+
+[T182_290]
+Zit! Has not spotted your track. You must be listening to some obscure shit.
+
+[T182_291]
+Zit! Has been unable to spot your track. Please try again with some decent music.
+
+[T182_292]
+Zit! Regrets to inform you that your second rate track cannot be spotted. 
+
+[T182_293]
+Zit! Does not have your track on record. Try spotting better music.
+
+[T182_294]
+Zit! Is unable to spot this track for reasons of taste. 
+
+[T182_300]
+Zit! Spotted BILLIE HOLIDAY: Fine and Mellow
+
+[T182_301]
+Zit! Spotted TESTERS: Body Music
+
+[T182_400]
+Zit! Spotted PETER ILYICH TCHAIKOVSKY: Dance Of The Sugar Plum Fairy
+
+[T182_401]
+Zit! Spotted GREENSLEEVES
+
+[T182_402]
+Zit! Spotted SCARBOROUGH
+
+[T182_403]
+Zit! Spotted NIKOLAI RIMSKY- KORSAKOV: Flight Of The Bumblebee
+
+[T182_404]
+Zit! Spotted GTA IV Theme
+
+[T182_405]
+Zit! Spotted RICHARD WAGNER: Ride Of The Valkyries
+
+[T182_500]
+Zit! Spotted ALICE COOPER: Go To Hell
+
+[T182_501]
+Zit! Spotted BLONDE ACID CULT: Calypso
+
+[T182_502]
+Zit! Spotted BLONDE ACID CULT: Shake It Loose
+
+[T182_503]
+Zit! Spotted FREE BLOOD: Quick And Painful
+
+[T182_504]
+Zit! Spotted THE CARPS: Porgie & Bess (Big Booty Girls)
+
+[T182_505]
+Zit! Spotted THE CARPS: Veronica Belmont
+
+[T182_506]
+Zit! Spotted THE JANE SHERMANS: I Walk Alone
+
+[T182_507]
+Zit! Spotted MAGIC DIRT: Get Ready To Die
+
+[T182_508]
+Zit! Spotted BRAZILIAN GIRLS: Nouveau Americain
+
+[T182_509]
+Zit! Spotted TK WEBB & THE VISIONS: Shame
+
+[T182_510]
+Zit! Spotted FREELAND: Borderline
+
+[T182_511]
+Zit! Spotted SCISSORS FOR LEFTY: Consumption Junction
+
+[T182_512]
+Zit! Spotted THE SOFT PACK: Nightlife
+
+[T182_513]
+Zit! Spotted JAPANTHER: Radical Businessman
+
+[T182_514]
+Zit! Spotted FOXYLANE: Same Shirt
+
+[T182_515]
+Zit! Spotted FOXYLANE: Command
+
+[T182_516]
+Zit! Spotted MONOTONIX: Body Language
+
+[T182_517]
+Zit! Spotted STYX: Renegade
+
+[T182_518]
+Zit! Spotted LYNYRD SKYNYRD: Saturday Night Special
+
+[T182_519]
+Zit! Spotted STEPPENWOLF: Ride With Me
+
+[T182_520]
+Zit! Spotted THE JAMES GANG: Funk #49
+
+[T182_521]
+Zit! Spotted AEROSMITH: Lord Of The Thighs
+
+[T182_522]
+Zit! Spotted DEEP PURPLE: Highway Star
+
+[T182_523]
+Zit! Spotted FOGHAT: Drivin' Wheel
+
+[T182_524]
+Zit! Spotted THE DOORS: Five To One
+
+[T182_525]
+Zit! Spotted JEFFERSON STARSHIP: Jane
+
+[T182_526]
+Zit! Spotted NAZARETH: Hair Of The Dog
+
+[T182_527]
+Zit! Spotted TUBEWAY ARMY: Bombers
+
+[T182_528]
+Zit! Spotted NAZARETH: Changin' Times
+
+[T182_529]
+Zit! Spotted BLACK OAK ARKANSAS: Hot and Nasty
+
+[T182_530]
+Zit! Spotted BON JOVI: Wanted Dead Or Alive
+
+[T182_531]
+Zit! Spotted BREAKWATER: Release The Beast
+
+[T182_532]
+Zit! Spotted NEW YORK DOLLS: Private World
+
+[T182_533]
+Zit! Spotted THE DOOBIE BROTHERS: Long Train Running
+
+[T182_534]
+Zit! Spotted THE EDGAR WINTER GROUP: Free Ride
+
+[T182_535]
+Zit! Spotted WARREN ZEVON: Lawyers, Guns and Money
+
+[T182_536]
+Zit! Spotted PYTHON LEE JACKSON Feat. ROD STEWART: In A Broken Dream
+
+[T182_537]
+Zit! Spotted RARE EARTH: (I Know) I'm Losing You
+
+[T182_538]
+Zit! Spotted ROBIN TROWER: Day Of The Eagle
+
+[T182_539]
+Zit! Spotted BILLY SQUIER: The Stroke
+
+[T182_540]
+Zit! Spotted TED NUGENT: Hey Baby
+
+[T182_541]
+Zit! Spotted THE CULT: Born To Be Wild
+
+[T182_542]
+Zit! Spotted LOVE AND ROCKETS: Motorcycle
+
+[T182_543]
+Zit! Spotted MOTORHEAD: Ace Of Spades
+
+[T182_545]
+Zit! Spotted IRON MAIDEN: Run To The Hills
+
+[T182_546]
+Zit! Spotted IRON MAIDEN: The Trooper
+
+[T182_547]
+Zit! Spotted MOTLEY CRUE: Wild Side
+
+[T182_548]
+Zit! Spotted MOTLEY CRUE: Kickstart My Heart
+
+[T182_549]
+Zit! Spotted SAXON: Wheels Of Steel
+
+[T182_550]
+Zit! Spotted JUDAS PRIEST: Breaking The Law
+
+[T182_551]
+Zit! Spotted THE DOOBIE BROTHERS: China Grove
+
+[T182_552]
+Zit! Spotted KUDU: Give Me Your Head
+
+[T182_553]
+Zit! Spotted TAME IMPALA: Half Full Glass Of Wine
+
+[T182_554]
+Zit! Spotted THE BRONX: Knifeman
+
+[T182_555]
+Zit! Spotted GAME REBELLION: Dance Girl (GTA MIX)
+
+[T182_556]
+Zit! Spotted THE YELLING: Blood On The Steps
+
+[T182_557]
+Zit! Spotted LOU REED: Vicious
+
+[T182_558]
+Zit! Spotted TERMANOLOGY: Here In Liberty City
+
+[T182_559]
+Zit! Spotted FREEWAY: Car Jack
+
+[T182_560]
+Zit! Spotted SAIGON: Spit
+
+[T182_561]
+Zit! Spotted SKYZOO: The Chase Is On
+
+[T182_562]
+Zit! Spotted CONSEQUENCE: I Hear Footsteps
+
+[T182_563]
+Zit! Spotted TALIB KWELI: My Favorite Song
+
+[T182_564]
+Zit! Spotted AT THE GATES: Slaughter Of The Soul
+
+[T182_565]
+Zit! Spotted DRIVE BY AUDIO: Jailbait
+
+[T182_566]
+Zit! Spotted CELTIC FROST: Inner Sanctum 
+
+[T182_567]
+Zit! Spotted ENTOMBED: Drowned           
+
+[T182_568]
+Zit! Spotted SEPULTURA: Dead Embryonic Cells
+
+[T182_569]
+Zit! Spotted DEICIDE: Dead By Dawn 
+
+[T182_570]
+Zit! Spotted CANNIBAL CORPSE: I Cum Blood
+
+[T182_571]
+Zit! Spotted BATHORY: Call From The Grave
+
+[T182_572]
+Zit! Spotted KREATOR: Awakening Of The Gods 
+
+[T182_573]
+Zit! Spotted TERRORIZER: Fear Of Napalm
+
+[T182_574]
+Zit! Spotted ROD STEWART: Every Picture Tells A Story
+
+[T182_575]
+Zit! Spotted AC/DC: Touch Too Much
+
+[T182_578]
+Zit! Spotted KILL MEMORY CRASH: Hell On Wheels
+
+[T182_579]
+Zit! Spotted KREEPS: The Hunger (Blood In My Mouth)
+
+[T182_580]
+Zit! Spotted BUSTA RHYMES FEAT. RON BROWZ: Arab Money
+
+[T182_581]
+Zit! Spotted BUSTA RHYMES FEAT. YOUNG JEEZY & JADAKISS: Conglomerate
+
+[T182_582]
+Zit! Spotted T.I. FEAT. SWIZZ BEATZ: Swing Ya Rag
+
+[T182_583]
+Zit! Spotted RON BROWZ: Jumping Out The Window
+
+[T182_584]
+Zit! Spotted DJ KHALED FEAT. KANYE WEST & T-PAIN: Go Hard
+
+[T182_586]
+Zit! Spotted KARDINAL OFFISHALL FEAT. AKON & SEAN PAUL: Dangerous (Remix) 
+
+[T182_587]
+Zit! Spotted JOHN LEGEND FEAT ANDRE 3000: Green Light
+
+[T182_588]
+Zit! Spotted KANYE WEST: Love Lockdown
+
+[T182_589]
+Zit! Spotted B.O.B: Auto-Tune
+
+{**************************************************}
+[E1_DUMMY_7]
+THIS LABEL NEEDS TO BE HERE !!!
+

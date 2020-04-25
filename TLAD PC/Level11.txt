@@ -1,0 +1,732 @@
+﻿start
+CREDIT1
+end
+
+{------------------------Rockstar North--------------}
+
+
+{----------------Job titles, could be translated------------------------}
+
+
+
+{-----------------------------People, don't translate--------------------------}
+
+[KirkJo:CREDIT1]
+Kirk Johnston
+[MattBo:CREDIT1]
+Matthew Booton
+[AdamWe:CREDIT1]
+Adam Westwood
+[Rowan:CREDIT1]
+Rowan Cockcroft
+[AlHeb:CREDIT1]
+Alastair Hebson
+[Conor:CREDIT1]
+Conor McGuire
+[IanMcFar:CREDIT1]
+Ian McFarland
+[MichaelEr:CREDIT1]
+Michael Alan Erickson
+[GordMcK:CREDIT1]
+Gordon McKenzie
+[GraeHutton:CREDIT1]
+Graeme Hutton
+[IanDownie:CREDIT1]
+Iain Downie
+[JenMordue:CREDIT1]
+Jen Mordue
+[JohnSloan:CREDIT1]
+John Sloan
+[KeithThor:CREDIT1]
+Keith Thorburn
+[LiamHalley:CREDIT1]
+Liam Halley
+[LiamRoss:CREDIT1]
+Liam Ross
+[RossParker:CREDIT1]
+Ross Parker
+[SeanCasey:CREDIT1]
+Sean Casey
+[StephMcMull:CREDIT1]
+Stephen McMullan
+[WillHasle:CREDIT1]
+Will Haslewood
+[Alicia:CREDIT1]
+Alicia Hall
+[Anneline:CREDIT1]
+Anneline Groves
+[DaveCamp:CREDIT1]
+Dave Campbell
+[Baron:CREDIT1]
+John "Baron" Vaughan-Chaldy - Baron Customs
+[ShawnChurch:CREDIT1]
+Shawn Church - Church Automotive
+[Forest:CREDIT1]
+Dan - Lake Forest Automotive
+[ChrisKje:CREDIT1]
+Christian Kjeldsen
+[AlexDunn:CREDIT1]
+Alex Dunn
+[AshleyJ:CREDIT1]
+Ashley Joyce
+[BlairThor:CREDIT1]
+Blair Thorburn
+[BradLaw:CREDIT1]
+Bradlay Law
+[ChiWai:CREDIT1]
+Chi-Wai Chiu
+[ChrisDix:CREDIT1]
+Chris Dixon
+[ChrisFerg:CREDIT1]
+Christopher Ferguson
+[ChrisBal:CREDIT1]
+Craig Ballantyne
+[CraigKing:CREDIT1]
+Craig Kinghorn
+[ColMcMint:CREDIT1]
+Craig McIntosh
+[DaniJ:CREDIT1]
+Dani Joyce
+[GeorgeCasc:CREDIT1]
+George Cascarino
+[HectorC:CREDIT1]
+Hector C Cassels
+[IainBere:CREDIT1]
+Iain Berekis
+[IanMalone:CREDIT1]
+Ian Malone
+[IanMuirhead:CREDIT1]
+Ian Muirhead
+[InnesForbes:CREDIT1]
+Innes Forbes
+[JamesFraser:CREDIT1]
+James Fraser
+[JamiePrice:CREDIT1]
+Jamie Price
+[JohnMcKay:CREDIT1]
+John McKay
+[KenRoss:CREDIT1]
+Kenneth Ross
+[KevinBlack:CREDIT1]
+Kevin Black
+[LeoWalsh:CREDIT1]
+Leo Walsh
+[LewisEdwards:CREDIT1]
+Lewis Edwards
+[MarkAllan:CREDIT1]
+Mark Allan
+[MarkMears:CREDIT1]
+Mark Mears
+[MikeScho:CREDIT1]
+Mike Schouten
+[NeilHartop:CREDIT1]
+Neil Hartop
+[NeilSuttie:CREDIT1]
+Neil Suttie
+[OscarFarr:CREDIT1]
+Oscar Farrar
+[RichFish:CREDIT1]
+Richard Fisher
+[RichGo:CREDIT1]
+Richard Gouldbourn
+[RobChimes:CREDIT1]
+Robert Chimes
+[RobMcBry:CREDIT1]
+Robert McBryde
+[RoyIss:CREDIT1]
+Roy Isserlis
+[SeanJohn:CREDIT1]
+Shaun Johnston
+[SimonEdge:CREDIT1]
+Simon Edgeler
+[SimonReekie:CREDIT1]
+Simon Reekie
+[TimFletch:CREDIT1]
+Tim Fletcher
+[TomAdam:CREDIT1]
+Tom Adam
+[JaredP:CREDIT1]
+Jared P. Raia
+
+[ShawnA:CREDIT1]
+Shawn Allen
+[ClarkH:CREDIT1]
+Clark Harris
+[CharlesB:CREDIT1]
+Charles Burrell
+[Rocco:CREDIT1]
+Rocco Cambareri
+
+[Lukasz:CREDIT1]
+Lukasz Bogaj
+
+[StephEl:CREDIT1]
+Stephen Ellis
+
+[AlessMorra:CREDIT1]
+Alessandra Morra
+[BenJen:CREDIT1]
+Ben Jennings
+[CesarH:CREDIT1]
+Cesar Hernandez
+
+[CJGibson:CREDIT1]
+CJ Gibson
+[CristianaC:CREDIT1]
+Cristiana Colombo
+[CraigGil:CREDIT1]
+Craig Gilmore
+[DARLANM:CREDIT1]
+Darlan Monterisi
+[DAVECOL:CREDIT1]
+Dave Collier
+[DAVEMAL:CREDIT1]
+Dave Malcom
+[DAVIDGO:CREDIT1]
+David Gomez
+
+[DavidS:CREDIT1]
+David Santana
+[ELANT:CREDIT1]
+Elan Trybuch
+[EmmanuelT:CREDIT1]
+Emmanuel Tramblais
+[FedCl:CREDIT1]
+Federico Clonfero
+[GregWeller:CREDIT1]
+Greg Weller
+[IfeomaObi:CREDIT1]
+Ifeoma Obi
+[JamesCrocker:CREDIT1]
+James Crocker
+[JerryChen:CREDIT1]
+Jerry Chen
+
+[JochFaer:CREDIT1]
+Jochen Faerber
+[JochenT:CREDIT1]
+Jochen Till
+[JohnGo:CREDIT1]
+John Gordon
+[KevinGomez:CREDIT1]
+Kevin Gomez
+[LeighH:CREDIT1]
+Leigh Harris
+[LindaV:CREDIT1]
+Linda Vezzoli
+[Maikel:CREDIT1]
+Maikel Van Dijk
+
+[MathiasB:CREDIT1]
+Mathias Breton
+[MattSmithNY:CREDIT1]
+Matt Smith
+[MichaelCar:CREDIT1]
+Michael Carnevale
+[MichaelZ:CREDIT1]
+Michael Zigon
+[MonicaPu:CREDIT1]
+Monica Puricelli
+
+[OnnoBos:CREDIT1]
+Onno Bos
+[PatCon:CREDIT1]
+Patrick Conroy
+
+[PeiChien:CREDIT1]
+Pei Chien
+[PeterField:CREDIT1]
+Peter Field
+[PhilipDoust:CREDIT1]
+Philip Doust
+[PJSim:CREDIT1]
+PJ Sim
+[RaquelG:CREDIT1]
+Raquel Garcia
+[RichardBarnes:CREDIT1]
+Richard Barnes
+[RitaLib:CREDIT1]
+Rita Liberator
+[SeanMcGrath:CREDIT1]
+Sean McGrath
+
+[SeckinO:CREDIT1]
+Seckin Oezduendar
+[SilviaC:CREDIT1]
+Silvia Cabrera
+[SimonRamsey:CREDIT1]
+Simon Ramsey
+[SiobhanBoes:CREDIT1]
+Siobhan Boes
+[SteveHa:CREDIT1]
+Steve Hahnel
+[TanyaH:CREDIT1]
+Tanya Holland
+[ZachGersh:CREDIT1]
+Zachary Gershman
+
+[BenHol:CREDIT1]
+Ben Holgate
+[GemJames:CREDIT1]
+Gemma James
+[GeorgeRich:CREDIT1]
+George Richards
+[MarcusPratt:CREDIT1]
+Marcus Pratt
+[MattRowley:CREDIT1]
+Matt Rowley
+[NickDab:CREDIT1]
+Nick Dablin
+[RachWalk:CREDIT1]
+Rachael Walker
+[RichKeal:CREDIT1]
+Richard Kealey
+[BobbySim:CREDIT1]
+Bobby Simpson
+[ElisaCam:CREDIT1]
+Elisa Olmedo Camacho
+[MartSchw:CREDIT1]
+Martin Schwitzner
+[SebHuland:CREDIT1]
+Sebastian Huland
+[SergejBog:CREDIT1]
+Sergej Boguslavskij
+[DaveScott:CREDIT1]
+David Scott 
+
+
+
+[CMcKinney:CREDIT1]
+Chris McKinney
+[BillyGrey:CREDIT1]
+Billy Grey
+[LouSumrall:CREDIT1]
+Lou Sumrall
+[BrianJer:CREDIT1]
+Brian Jeremy
+[AdrianMart:CREDIT1]
+Adrian Martinez
+[TerryThor:CREDIT1]
+Terry Thorpe
+[JoshBurr:CREDIT1]
+Joshua Burrow
+[ClaySimons:CREDIT1]
+Clay Simons
+[KRSmith:CREDIT1]
+Keith Randolph Smith
+[DaveGross:CREDIT1]
+David "Dave" Grossman
+[JayPatt:CREDIT1]
+Jay Patterson
+[MrRonc:CREDIT1]
+Mr. Roncero
+[JoseRRos:CREDIT1]
+Jose Ramon Rosario
+[AngusMart:CREDIT1]
+Angus Martin
+[BrianTar:CREDIT1]
+Brian Tarantina
+[Andreas:CREDIT1]
+Andreas
+[Santos:CREDIT1]
+Santos
+[Marta:CREDIT1]
+Marta
+[HoneyRock:CREDIT1]
+Honey Rockwell
+[Malc:CREDIT1]
+Malc
+[WaltTMudu:CREDIT1]
+Walter T Mudu
+[DeSean:CREDIT1]
+DeSean
+[CraigGrant:CREDIT1]
+Craig "Mums" Grant
+[TomStubb:CREDIT1]
+Thomas Stubbs III
+[JohnLantz:CREDIT1]
+John Lantz
+[DetMath:CREDIT1]
+Det. Mathews
+[MathPMcC:CREDIT1]
+Mathew P McCarthy
+[DetMcC:CREDIT1]
+Det. McCornish
+[WassStev:CREDIT1]
+Wass Stevens
+[MaitreD:CREDIT1]
+Maitre D
+[RobertBlum:CREDIT1]
+Robert Blumenfeld
+[LuisLopez:CREDIT1]
+Luis Fernando Lopez
+[MarioLeon:CREDIT1]
+Mario D'Leon
+[AntMang:CREDIT1]
+Anthony J Mangano
+[GeniaMorg:CREDIT1]
+Genia Morgan
+[Chad:CREDIT1]
+Chad
+[RyanWood:CREDIT1]
+Ryan Woodle
+[YevgDekh:CREDIT1]
+Yevgnity Dekhtyar
+[TSmith:CREDIT1]
+T Ryder Smith
+[PeteAppel:CREDIT1]
+Peter Appel
+[PretBoy:CREDIT1]
+Pretty Boy
+[BillCohen:CREDIT1]
+Bill Cohen
+[EvanMoss:CREDIT1]
+Evan Moss
+[RobYou:CREDIT1]
+Robert Youells
+[JasonMich:CREDIT1]
+Jason Michaels
+[BillBurr:CREDIT1]
+Bill Burr
+[KhalOld:CREDIT1]
+Khalipa Oldjohn
+[BrianDona:CREDIT1]
+Brian Donahue
+[GregJohn:CREDIT1]
+Gregory Johnson
+[JackCond:CREDIT1]
+Jack Condon
+[DenPalad:CREDIT1]
+Dennis Paladino
+[Triad1:CREDIT1]
+Triad 1
+[JackLoo:CREDIT1]
+Jackson Loo
+
+[MoCapPre01:CREDIT1]
+Scott Hill, John Lantz, Anthony J Mangano,
+[MoCapPre02:CREDIT1]
+Honey Rockwell, Paula M King, Kirk Larsen,
+[MoCapPre03:CREDIT1]
+Craig "Mums" Grant, Genia Morgan, John Joseph Gallager,
+[MoCapPre04:CREDIT1]
+J Ganser, Tighe Swanson, Robert Youells, 
+[MoCapPre05:CREDIT1]
+Mario D'Leon, Franklin Abrams, Jas Anderson,
+[MoCapPre06:CREDIT1]
+Jarel Davidow, David Kenner, Sonia Cauchi,
+[MoCapPre07:CREDIT1]
+John Lantz,  Santos, Charlie Parker,
+[MoCapPre08:CREDIT1]
+Arnie Mazer, Joe Barbara, Jay Patterson,
+[MoCapPre09:CREDIT1]
+Traci Godfrey, Ryan Woodle, Jose Ramon Rosario,
+[MoCapPre10:CREDIT1]
+Joshua Burrow, Robert Romani, Lou Sumrall,
+[MoCapPre11:CREDIT1]
+Benton Greene, Chris McKinney, Wass Stevens,
+[MoCapPre12:CREDIT1]
+Robert Blumenfeld, Mathew P McCarthy,
+[MoCapPre13:CREDIT1]
+Adrian Martinez, John Zurhellen
+[ImageMet:CREDIT1]
+Image Metrics
+[DanceManh:CREDIT1]
+Dance Manhattan
+[JoMorRorCas:CREDIT1]
+John Moros, Rory Cash
+[WeapSpec:CREDIT1]
+Weapons Specialists Ltd.
+[TelseyCo:CREDIT1]
+Telsey & Company, Donna Deseta Casting, Rob Kenner
+[PEDSDial01:CREDIT1]
+Michael Unsworth, Gregory Johnson, Sanford Santacroce,
+[PEDSDial02:CREDIT1]
+Vincent Parker, Marisa Palumbo, Ayana Osada,
+[PEDSDial03:CREDIT1]
+Rod Edge, Hugh Michaels, John Zurhellen,
+[PEDSDial04:CREDIT1]
+Caroline Hurley, Rupert Humphries, Nick Giovannetti,
+[PEDSDial05:CREDIT1]
+Anthony Litton, Rob Karol, Lazlow, Dan Houser
+
+[NewCrowd01:CREDIT1]
+Patrick Mulligan, Jonny McGovern, Sean Gardner, 
+[NewCrowd02:CREDIT1]
+Brock Busby, Brian M. Wixon, Gaylord Rice, 
+[NewCrowd03:CREDIT1]
+Matt Mack, Brenna Wallace, Luke Pistone, 
+[NewCrowd04:CREDIT1]
+James Edward Becton, Neal Bledsoe, Billy Griffith, 
+[NewCrowd05:CREDIT1]
+Joe Coots, Paugh Shadow, Leyla Pistone, 
+[NewCrowd06:CREDIT1]
+Lauren Fortgang, M Fletcher, Cathy Trien, 
+[NewCrowd07:CREDIT1]
+Marc C. Yarrish, Sean Tierney, Skippy "D",
+[NewCrowd08:CREDIT1]
+Grace Randolph, Deborah Napier, Gust Hookanson, 
+[NewCrowd09:CREDIT1]
+Craig Walker, John Senese, Jessica Knutson, 
+[NewCrowd10:CREDIT1]
+Liza Mosquito de Guia, Eric Strickler, Leif Riddell,
+[NewCrowd11:CREDIT1]
+Tracy Westmoreland, Jennifer Stano, David Dollase,
+[NewCrowd12:CREDIT1]
+Jeffrey C Hawkins, Jena Axelrod, Darlan Monterisi,
+[NewCrowd13:CREDIT1]
+Duke Vanenti, Deanna Sidoti, Steven Marcus,
+[NewCrowd14:CREDIT1]
+Tiffany Little Canfield, Wade Mylius, Danny Hoch,
+[NewCrowd15:CREDIT1]
+Danni, Gregory Konow, Joel M Garland,
+[NewCrowd16:CREDIT1]
+Chuck Anthony, Hasan Salaam, Katie Flahive,
+[NewCrowd17:CREDIT1]
+Steven Huie, Clem Cheung, Grant Chang,
+[NewCrowd18:CREDIT1]
+Gregory Dann, Amari Cheatom, Louis Changchien,
+[NewCrowd19:CREDIT1]
+Rizzo, Andre Blake, Daniel Stewart Sherman, 
+[NewCrowd20:CREDIT1]
+Jabari-Amir Jones, Berman Fenelus, Grace Maiden of Metal,
+[NewCrowd21:CREDIT1]
+Victor Cruz, Vincent C Parker, Lazzarus, 
+[NewCrowd22:CREDIT1]
+Franceska Clemens, Leo Kin, Tony Aroya,
+[NewCrowd23:CREDIT1]
+Seif Eldah, Darryl K. Brown, Jameel Vega,
+[NewCrowd24:CREDIT1]
+Brian Rodriguez, Jared Raia, Montserrat Mendez,
+[NewCrowd25:CREDIT1]
+Seiko Suzuki, Rich Hsu, Alix Nedrick, 
+[NewCrowd26:CREDIT1]
+Nikki Imbornone, Ray "Fling Poo" Lai, Brett Bisogno,
+[NewCrowd27:CREDIT1]
+Dennis K. Philbert, Angela Funk, Nate Smith,
+[NewCrowd28:CREDIT1]
+Mathew Kugler, Hector Palacios, Mari Mori,
+[NewCrowd29:CREDIT1]
+David Levin, Hoon lee, Dominique Johnson, 
+[NewCrowd30:CREDIT1]
+Kamilah Forbes, Luis Anthony Rodriguez, Hassan Brown,
+[NewCrowd31:CREDIT1]
+Stephen Levant, Steven J Cambria,Robert J Santiago,
+[NewCrowd32:CREDIT1]
+Chris Lee, Michael Tully, DJ Baker, Eric Arriola,
+[NewCrowd33:CREDIT1]
+Adrian Johansson, Amy Landon, Roy S Woo, 
+[NewCrowd34:CREDIT1]
+Alexis Iacono, Robert Youngren, Steve MacFadden,
+[NewCrowd35:CREDIT1]
+Daniel Blatman, Nick Matteo, Zach Lombardo,
+[NewCrowd36:CREDIT1]
+Mathew Cronin, Selena N Singleton, Toney Palumbo,
+[NewCrowd37:CREDIT1]
+Andrew Einhorn, Andrew Lee, Corey Noble,
+[NewCrowd38:CREDIT1]
+Justin Tejada, David Carranza, Arianne Recto,
+[NewCrowd39:CREDIT1]
+Philip Estrera, Stephen Spencer, Maurice Murphy,
+[NewCrowd40:CREDIT1]
+Yanni Walker, Daphane Johnson, Andrea L Patterson,
+[NewCrowd41:CREDIT1]
+Joe Gonzalez, Clark Harris, Charles Burrell,
+[NewCrowd42:CREDIT1]
+Vincent Parker, Rocco Cambareri, Lioyd Anthony Thompson.
+[FrancClem:CREDIT1]
+Franceska Clemens
+
+[RockStud:CREDIT1]
+Rockstar Studios
+[ButtonStud:CREDIT1]
+Buttons Studios 
+[SoundRec:CREDIT1]
+Soundtrack Recording Studio
+
+{--------------------RADIO--------------------}
+
+
+[MaxCav:CREDIT1]
+Max Cavalera
+[DickErva:CREDIT1]
+Dick Ervasti
+[JohnReil:CREDIT1]
+John Reilly
+[FunkFlex:CREDIT1]
+Funk Flex
+[StatSele:CREDIT1]
+Statik Selektah
+
+{---------WKTT-------}
+{---TheMartinSeriousShow--------}
+[MartSerSHOW1:CREDIT1]
+Martin Serious
+[MartSerSHOW2:CREDIT1]
+Will Forte
+[MartSerSHOW3:CREDIT1]
+Lisa Lynn
+[MartSerSHOW4:CREDIT1]
+Carla Renata Williams
+[MartSerSHOW6:CREDIT1]
+David D. McDonald
+[MartSerSHOW8:CREDIT1]
+Amy Evinger
+[MartSerSHOW10:CREDIT1]
+Michael Elkind
+[MartSerSHOW11:CREDIT1]
+Brianna
+[MartSerSHOW12:CREDIT1]
+Cassandra Nguyen
+[MartSerSHOW14:CREDIT1]
+Stephen Ellis
+[MartSerSHOW15:CREDIT1]
+Dorothy Williams
+[MartSerSHOW16:CREDIT1]
+Alison Larkan
+[MartSerSHOW18:CREDIT1]
+Chris Corley
+
+{---Weazel-News---}
+[LoriStock:CREDIT1]    
+Lori Diangelo-Stockton            
+[MelLeeb:CREDIT1]
+Melissa Leebaert
+
+{---Republican_Space_Rangers_Episode_456---}
+[JimCon:CREDIT1]
+Jim Conroy
+[LloyFloy:CREDIT1]
+Lloyd Floyd
+
+{---A_History_of_Liberty_City_part_2-------}
+[AngHep:CREDIT1]
+Angus Hepburn
+[JerPilch:CREDIT1]
+Jerome Pilchard
+[CharlTurn:CREDIT1]
+Charles Turner
+[MilSavan:CREDIT1]
+Milton Savanah
+[TomMcKe:CREDIT1]
+Tom McKeon
+[LenKinc:CREDIT1]
+Lennox Kincade
+[AntLitton:CREDIT1]
+Anthony Litton
+
+{------Split_sides--------}
+[FrankBoyle:CREDIT1]
+Frankie Boyle
+[EricEd:CREDIT1]
+Eric Edwards
+
+
+
+
+
+
+
+{------------------------- ROCKSTAR TORONTO -------------------}
+
+
+[KevinH:CREDIT1]
+Kevin Hoare
+[FrankK:CREDIT1]
+Frank Kozuh
+[OscarV:CREDIT1]
+Oscar Valer
+[JohnM:CREDIT1]
+John MacPherson
+[DanVZ:CREDIT1]
+Dan Van Zant
+[JonH:CREDIT1]
+Jonathan Hodge
+[MattP:CREDIT1]
+Matthew Puthiampadavil
+[NickSN:CREDIT1]
+Nick Snell
+[StephenO:CREDIT1]
+Stephen Orr
+[KarimH:CREDIT1]
+Karim Hemraj
+[GeoffH:CREDIT1]
+Geoff Herbynchuk
+[FrankC:CREDIT1]
+Frank Chen
+[GrantK:CREDIT1]
+Grant Kim
+[TerryL:CREDIT1]
+Terry Litrenta
+[DavidY:CREDIT1]
+David Yang
+[MattW:CREDIT1]
+Matt West
+[ColinO:CREDIT1]
+Colin Orr
+[ReginaldW:CREDIT1]
+Reginald Woods
+[ScottP:CREDIT1]
+Scott Penman
+[PaulM:CREDIT1]
+Paul MacPherson
+[DanielE:CREDIT1]
+Daniel Ebanks
+[LukeS:CREDIT1]
+Luke Shelswell
+[ChrisBA:CREDIT1]
+Chris Babic
+[DennyB:CREDIT1]
+Denny Borges
+[JasmineW:CREDIT1]
+Jasmine Wong
+[YunK:CREDIT1]
+Yun Kyung Suh
+[DenisC:CREDIT1]
+Denis Cawson
+[PeteA:CREDIT1]
+Pete Armstrong
+[RaymondD:CREDIT1]
+Raymond Dela Cruz
+[GaryY:CREDIT1]
+Gary Yeung
+[AbrahamA:CREDIT1]
+Abraham Ahmed
+[BenjaminC:CREDIT1]
+Benjamin Chue
+[DavidSa:CREDIT1]
+David Saguil
+[JohnK:CREDIT1]
+John Kim
+[RobE:CREDIT1]
+Rob Elsworthy
+[SteveD:CREDIT1]
+Steve "Knuckles" Donohoe
+[ArthurC:CREDIT1]
+Arthur Chiang
+[ChrisC:CREDIT1]
+Chris Conway
+[MatthewS:CREDIT1]
+Matthew Schembri
+[NickS:CREDIT1]
+Nick Shier
+[NormB:CREDIT1]
+Norm "Tubbz" Brown
+[MatthewF:CREDIT1]
+Matthew Flewelling
+[MattK:CREDIT1]
+Matt Kazan
+[AlanT:CREDIT1]
+Alan Tighe
+[LisaO:CREDIT1]
+Lisa Olsen
+
+
+{
+[DUMMY_l11]
+Dummy label.}
+
+
+
+
+

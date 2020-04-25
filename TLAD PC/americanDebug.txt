@@ -1,0 +1,696 @@
+﻿start
+end
+
+
+{--- AmericanDebug.txt ---}
+{--- Use for: ALL debug text ---}
+
+[E1_NUM]
+~1~
+
+[E1_STR]
+~e~
+
+[E1_VEC]
+<<~1~,~1~,~1~>>
+
+{---- KEITH: Contact Names for stats display ----}
+[E1NAME_1]
+BILLY
+
+[E1NAME_2]
+JIM
+
+[E1NAME_3]
+STUBBS
+
+[E1NAME_4]
+ASHLEY
+
+[E1NAME_5]
+ELIZBET
+
+[E1NAME_6]
+RAY
+
+[E1NAME_7]
+TERRY
+
+[E1NAME_8]
+CLAY
+
+[E1NAME_9]
+ANGUS
+
+
+{---- END TEMP ----}
+
+{---- KEITH: June 08 E1 Demo text ----}
+[E1J08_HED]
+GTA IV: Old Glory (E1) - First Pass Demo 06/18/08
+
+
+
+{---- KEITH: Copies of GTA IV debug menu text ----}
+[E1TOGAME]
+Swap to GAME mode
+
+[E1TODEBUG]
+Swap to DEBUG mode
+
+[E1STRAND]
+Display missions in STRAND order
+
+[E1BUGSTAR]
+Display missions in BUGSTAR order
+
+[E1PLAYING]
+Display missions in PLAYING order
+
+[E1DEMO]
+Use DEMO menu
+
+[E1NORMAL]
+Use NORMAL menu
+
+[E1MRKTCAM]
+Marketing Camera (rockstarcamera.sc)
+
+[E1MEM_OFF]
+Craig's Memory Testing - switch it OFF
+
+[E1MEM_ON]
+Craig's Memory Testing - switch it ON
+
+
+
+{---- KEITH: Debug Menu Control Text ----}
+
+[E1DBNONE]
+NONE
+
+[E1DBPOINT]
+>>>
+
+[E1DBGAP]
+------------------
+
+[E1DBINFO]
+Navigate <UP, DOWN, LEFT, RIGHT>    Select <A/RETURN>    Quit <'M'>
+
+
+
+
+{---- KEITH: Strand Names for debug menu ----}
+[E1T1C1]
+C1: Billy
+
+[E1T1F2]
+F2: Jim
+
+[E1T1C3]
+C3: Stubbs
+
+[E1T1C4]
+C4: Ashley
+
+[E1T1F7]
+F7: Terry
+
+[E1T1F8]
+F8: Clay
+
+[E1T2C5]
+C5: Elizabeta
+
+[E1T3C6]
+C6: Ray
+
+{---- END TEMP ----}
+
+
+
+{---- KEITH: Normal Menu Header text ----}
+
+[E1_FLOW]
+START E1 FROM BEGINNING IN GAMEFLOW MODE
+
+
+[E1M_GAME1]
+Billy/Jim
+
+[E1M_GAME2]
+Stubbs/Ashley
+
+[E1M_GAME3]
+Elizabeta/Ray/End
+
+
+[E1M_PLAY1]
+Level 1
+
+[E1M_PLAY2]
+Level 2
+
+[E1M_PLAY3]
+Level 3
+
+
+[E1M_BUG1]
+A, B
+
+[E1M_BUG2]
+E, J
+
+[E1M_BUG3]
+R, S
+
+
+[M_OPTIONS]
+Options
+
+[M_STRAND]
+Strand
+
+[M_RNDCH]
+Random Chars
+
+[M_TSTBD]
+Testbeds
+
+[M_NMISS]
+Non-Mission
+
+[M_FRND]
+Friend Tests
+
+[M_MARKET]
+NY Marketing
+
+
+{---- Other Debug Menu Names ----}
+
+[E1F4FDART]
+Darts - Friend Activity (JimDarts.sc - KM (+BC))
+
+[E1F4FPOOL]
+Pool - Friend Activity (JimPool.sc - KM (+NF))
+
+
+
+{---- KEITH: Miscellaneous scripts - debug menu text ----}
+
+[SPGUNCAR]
+Special Ability: Gun Car (ability_gun_car.sc - NF)
+
+[SPBACKUP]
+Special Ability: Backup (ability_backup.sc - NF)
+
+
+
+{---- KEITH: Friend Testbed scripts - debug menu text ----}
+
+[E1F2FTEST]
+Friend Testbed: Jim
+
+[E1F7FTEST]
+Friend Testbed: Terry
+
+[E1F8FTEST]
+Friend Testbed: Clay
+
+
+
+{---- KEITH: Friend Test scripts - debug menu text ----}
+
+[E1F2FAIRH]
+Friend: Jim Air Hockey (JimAirHockey.sc - KM+JA/MB)
+
+[E1F2FDART]
+Friend: Jim Darts (JimDarts.sc - KM+NF)
+
+[E1F2FRACE]
+Friend: Jim Road Rash (jimRaces.sc - CM)
+
+[E1F2FGANG]
+Friend: Jim Gang War (JimGangWar.sc - KM+RyB)
+
+[E1F2FHANG]
+Friend: Jim Hangout at Clubhouse (JimHangout.sc - KM)
+
+[E1F2FEAT]
+Friend: Jim Eating (JimEat.sc - KM)
+
+[E1F2POOL]
+Friend: Jim Pool (JimPool.sc - KM+NF)
+
+[E1F2FSHOW]
+Friend: Jim Comedy Club (JimShow.sc - KM+CM)
+
+[E1F2FSTRIP]
+Friend: Jim Strip Club (JimStrip.sc - KM+CM)
+
+[E1F7FAIRH]
+Friend: Terry Air Hockey (TerryAirHockey.sc - KM+JA/MB)
+
+[E1F7FDART]
+Friend: Terry Darts (TerryDarts.sc - KM+NF)
+
+[E1F7FEAT]
+Friend: Terry Eating (TerryEat.sc - KM)
+
+[E1F7POOL]
+Friend: Terry Pool (TerryPool.sc - KM+NF)
+
+[E1F7FSHOW]
+Friend: Terry Comedy Club (TerryShow.sc - KM+CM)
+
+[E1F7FSTRIP]
+Friend: Terry Strip Club (TerryStrip.sc - KM+CM)
+
+[E1F8FAIRH]
+Friend: Clay Air Hockey (ClayAirHockey.sc - KM+JA/MB)
+
+[E1F8FDART]
+Friend: Clay Darts (ClayDarts.sc - KM+NF)
+
+[E1F8FEAT]
+Friend: Clay Eating (TerryEat.sc - KM)
+
+[E1F8POOL]
+Friend: Clay Pool (ClayPool.sc - KM+NF)
+
+[E1F8FSHOW]
+Friend: Clay Comedy Club (ClayShow.sc - KM+CM)
+
+[ARMWRESTLE]
+Friend: Arm Wrestling Test (arm_wrestling.sc - NF)
+
+[HILOCARDS]
+Friend: Hi-Lo Cards Test (hi_lo_cards.sc - NF)
+
+[AIRHOCKEY]
+Friend: Air Hockey Test (air_hockey.sc - MB)
+
+
+
+{---- KEITH: E2 Prototype scripts ----}
+
+[E2FIGHT]
+E2 Prototype: Fight Club (FightClub.sc - PG)
+
+[E2BAGGAGE]
+E2 Prototype: Lost Baggage (lost_baggage.sc - LK)
+
+
+
+{---- KEITH: Test scripts ----}
+
+[BOATNM]
+Test: BoatNM (BoatNMTest.sc - ROB)
+
+[BIKERBUD]
+Test: Biker Follow Group(L) (bikerBuddyTest.sc - RoB)
+
+[BIKERBUD2]
+Test: Biker Follow Group(S) (bikerBuddyTest2.sc - RoB)
+
+[BIKERBUD3]
+Test: Biker Follow Player (bikerBuddyTest3.sc - RoB)
+
+[BIKERBUDM]
+Test: Player Follow Marker (bikerBuddyMarker.sc – JA)
+
+[TESTAUDIO]
+Test: Audio (audiotest.sc - NM)
+
+[TESTCREDS]
+Test: Credits (E1EndCredits.sc - BBC)
+
+
+
+
+
+
+{---- KEITH: Additional Info for mission script debug menu entries ----}
+
+{ - E1M_1: Clean and Serene - }
+[E1M_1_mid]
+BG1
+[E1M_1_script]
+Billy1.sc
+[E1M_1_inits]
+RyB
+[E1M_1_perc]
+95%
+[E1M_1_play]
+n
+
+{ - E1M_2: Angels In America - }
+[E1M_2_mid]
+BG2
+[E1M_2_script]
+Billy2.sc
+[E1M_2_inits]
+DW
+[E1M_2_perc]
+95%
+[E1M_2_play]
+n
+
+{ - E1M_3: It's War - }
+[E1M_3_mid]
+BG3
+[E1M_3_script]
+Billy3.sc
+[E1M_3_inits]
+DW
+[E1M_3_perc]
+95%
+[E1M_3_play]
+n
+
+{ - E1M_4: Action/Reaction - }
+[E1M_4_mid]
+BG4
+[E1M_4_script]
+Billy4.sc
+[E1M_4_inits]
+DW
+[E1M_4_perc]
+100%
+[E1M_4_play]
+n
+
+{ - E1M_5: Buyer's Market - }
+[E1M_5_mid]
+BG5
+[E1M_5_script]
+Billy5.sc
+[E1M_5_inits]
+CF
+[E1M_5_perc]
+95%
+[E1M_5_play]
+n
+
+{ - E1M_6: This Shit's Cursed - }
+[E1M_6_mid]
+BG6
+[E1M_6_script]
+Billy6.sc
+[E1M_6_inits]
+LK
+[E1M_6_perc]
+95%
+[E1M_6_play]
+n
+
+{ - E1M_7: Liberty City Choppers - }
+[E1M_7_mid]
+JF1
+[E1M_7_script]
+Jim1.sc
+[E1M_7_inits]
+NM
+[E1M_7_perc]
+95%
+[E1M_7_play]
+n
+
+{ - E1M_8: Bad Cop Drop - }
+[E1M_8_mid]
+JF2
+[E1M_8_script]
+Jim2.sc
+[E1M_8_inits]
+BBC
+[E1M_8_perc]
+95%
+[E1M_8_play]
+n
+
+{ - E1M_9: I Want One Of Those - }
+[E1M_9_mid]
+JFp3
+[E1M_9_script]
+Jim3p.sc
+[E1M_9_inits]
+KW
+[E1M_9_perc]
+--%
+[E1M_9_play]
+n
+
+{ - E1M_10: Hit The Pipe - }
+[E1M_10_mid]
+JF4
+[E1M_10_script]
+Jim4.sc
+[E1M_10_inits]
+NM
+[E1M_10_perc]
+95%
+[E1M_10_play]
+n
+
+{ - E1M_11: End Of Chapter - }
+[E1M_11_mid]
+JF5
+[E1M_11_script]
+Jim5.sc
+[E1M_11_inits]
+NF
+[E1M_11_perc]
+95%
+[E1M_11_play]
+n
+
+{ - E1M_12: Bad Standing - }
+[E1M_12_mid]
+JF6
+[E1M_12_script]
+Jim6.sc
+[E1M_12_inits]
+DW
+[E1M_12_perc]
+95%
+[E1M_12_play]
+n
+
+{ - E1M_13: Politics - }
+[E1M_13_mid]
+TS1
+[E1M_13_script]
+Stubbs1.sc
+[E1M_13_inits]
+KW
+[E1M_13_perc]
+95%
+[E1M_13_play]
+n
+
+{ - E1M_14: Off Route - }
+[E1M_14_mid]
+TS2
+[E1M_14_script]
+Stubbs2.sc
+[E1M_14_inits]
+RyB
+[E1M_14_perc]
+95%
+[E1M_14_play]
+n
+
+{ - E1M_15: Proc Odd Jobs - }
+[E1M_15_mid]
+TSp3
+[E1M_15_script]
+Stubbs3p.sc
+[E1M_15_inits]
+BBC
+[E1M_15_perc]
+--%
+[E1M_15_play]
+n
+
+{ - E1M_16: Get Lost - }
+[E1M_16_mid]
+TS4
+[E1M_16_script]
+Stubbs4.sc
+[E1M_16_inits]
+LK
+[E1M_16_perc]
+80%
+[E1M_16_play]
+n
+
+{ - E1M_17: Coming Down - }
+[E1M_17_mid]
+AB1
+[E1M_17_script]
+Ashley1.sc
+[E1M_17_inits]
+CM
+[E1M_17_perc]
+95%
+[E1M_17_play]
+n
+
+{ - E1M_18: Roman's Holiday - }
+[E1M_18_mid]
+AB2
+[E1M_18_script]
+Ashley2.sc
+[E1M_18_inits]
+JA
+[E1M_18_perc]
+90%
+[E1M_18_play]
+n
+
+{ - E1M_19: Heavy Toll - }
+[E1M_19_mid]
+ET1
+[E1M_19_script]
+Elizabeta1.sc
+[E1M_19_inits]
+CF
+[E1M_19_perc]
+95%
+[E1M_19_play]
+n
+
+{ - E1M_20: Martha Full Of Grace - }
+[E1M_20_mid]
+ET2
+[E1M_20_script]
+Elizabeta2.sc
+[E1M_20_inits]
+LK
+[E1M_20_perc]
+95%
+[E1M_20_play]
+n
+
+{ - E1M_21: Shifting Weight - }
+[E1M_21_mid]
+ET3
+[E1M_21_script]
+Elizabeta3.sc
+[E1M_21_inits]
+BBC
+[E1M_21_perc]
+90%
+[E1M_21_play]
+n
+
+{ - E1M_22: Diamonds In The Rough - }
+[E1M_22_mid]
+RB1
+[E1M_22_script]
+Ray1.sc
+[E1M_22_inits]
+JA
+[E1M_22_perc]
+95%
+[E1M_22_play]
+n
+
+{ - E1M_23: Collector's Item - }
+[E1M_23_mid]
+RB2
+[E1M_23_script]
+Ray2.sc
+[E1M_23_inits]
+BW
+[E1M_23_perc]
+95%
+[E1M_23_play]
+n
+
+{ - E1M_24: Was It Worth it? - }
+[E1M_24_mid]
+RB3
+[E1M_24_script]
+Ray3.sc
+[E1M_24_inits]
+CM
+[E1M_24_perc]
+95%
+[E1M_24_play]
+n
+
+
+
+{-- Random Interactions --}
+
+[RC_DAVE]
+Dave
+[RC_DAVE_mid]
+RP1
+[RC_DAVE_script]
+dave.sc
+[RC_DAVE_inits]
+LK
+[RC_DAVE_perc]
+90%
+[RC_DAVE_play]
+y
+
+[RC_BRIAN]
+Brian
+[RC_BRIAN_mid]
+RP2
+[RC_BRIAN_script]
+brian.sc
+[RC_BRIAN_inits]
+VE
+[RC_BRIAN_perc]
+90%
+[RC_BRIAN_play]
+y
+
+[RC_MALC]
+Malc
+[RC_MALC_mid]
+RP3
+[RC_MALC_script]
+malc1.sc
+[RC_MALC_inits]
+VE
+[RC_MALC_perc]
+50%
+[RC_MALC_play]
+y
+
+[RIMALC2]
+Malc2
+[RIMALC2_mid]
+RPi
+[RIMALC2_script]
+malc2.sc
+[RIMALC2_inits]
+CM
+[RIMALC2_perc]
+100%
+[RIMALC2_play]
+n
+
+
+
+
+
+
+{--------- VERY TEMP ----------}
+[NEWMENUREQ]
+NEW: For Debug Menu press LB together with left and right thumbstick buttons.
+
+
+
+
+
+{------------------------- END -------------------}
+[E1DUMMYDBG]
+THIS LABEL NEEDS TO BE HERE !!!
