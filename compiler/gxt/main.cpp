@@ -42,6 +42,7 @@ std::vector<std::string> inputFiles;
 std::string outputFile;
 bool isRussian = false; // todo more
 bool isJapanese = false; // todo
+bool isPolish = false;
 
 int main(int argc, char* argv[])
 {
@@ -69,7 +70,8 @@ int main(int argc, char* argv[])
 			"\n"
 			"Optional parameters:\n"
 			"-r: set this is you're compiling a russian text\n"
-			"-j: set this is you're compiling a japanese text\n");
+			"-j: set this is you're compiling a japanese text\n"
+			"-p: set this is you're compiling a polish text\n");
 		return 0;
 	}
 
@@ -92,6 +94,9 @@ int main(int argc, char* argv[])
 			break;
 		case 'j': 
 			isJapanese = true;
+			break;
+		case 'p':
+			isPolish = true;
 			break;
 		case 'i':
 			cmdI++;
@@ -127,6 +132,8 @@ int main(int argc, char* argv[])
 	{
 		if (isRussian)
 			stringCompiler = new cStringCompilerIII_Rus;
+		else if (isPolish)
+			stringCompiler = new cStringCompilerIII_PL;
 		else
 			stringCompiler = new cStringCompilerIII;
 	}

@@ -169,3 +169,56 @@ void cStringCompilerIII_Rus::ConvertString(const std::string& s, std::vector<tCh
 	}
 	buf.push_back(0);
 }
+
+std::string cStringCompilerIII_PL::PrepareSource(const char* _source)
+{
+	return ConvertStringCodePage(_source, CP_UTF8, 1250);
+}
+
+void cStringCompilerIII_PL::ConvertString(const std::string& s, std::vector<tCharType>& buf)
+{
+	struct { int c, gxt; } pl_chars[] =
+	{
+		{ 0x8C, 0x0080 }, // S
+		{ 0x8F, 0x0081 }, // Z
+		{ 0xA3, 0x0082 }, // L
+		{ 0xA5, 0x0083 }, // A
+		{ 0xC6, 0x0085 }, // C
+		{ 0xCA, 0x0086 }, // E
+		{ 0xD1, 0x0087 }, // N
+		{ 0xD3, 0x0088 }, // O
+		{ 0xAF, 0x0089 }, // Z
+		{ 0x9C, 0x0097 }, // s
+		{ 0x9F, 0x0098 }, // z
+		{ 0xB3, 0x0099 }, // l
+		{ 0xB9, 0x009A }, // a
+		{ 0xE6, 0x009C }, // c
+		{ 0xEA, 0x009D }, // e
+		{ 0xF1, 0x009E }, // n
+		{ 0xF3, 0x009F }, // o
+		{ 0xBF, 0x00A0 }  // z
+	};
+
+	for (auto i = s.begin(); i != s.end(); i++)
+	{
+		unsigned char c = (unsigned char)*i;
+		if (c >= 0x80)
+		{
+			bool found = false;
+			for (int a = 0; a < ARRAYSIZE(pl_chars); a++)
+			{
+				if (pl_chars[a].c == c) {
+					found = true;
+					buf.push_back(pl_chars[a].gxt);
+					break;
+				}
+			}
+			if (!found)
+				buf.push_back(c);
+		}
+		else
+			buf.push_back(c);
+
+	}
+	buf.push_back(0);
+}

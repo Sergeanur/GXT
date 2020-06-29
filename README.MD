@@ -9,11 +9,12 @@ All files where sorted into directories of their games and platforms accordingly
 
 ## GXT Compiler
 **gxt.exe** is a compiler for GXT files.</br>
-The source code of it is in `compile/ ` directory.
+The source code of it is in `compiler/ ` directory.
 
 Currently supports:
 * III EFIGS 
 * III Russian (Buka)
+* III Polish
 * VC EFIGS
 * SA EFIGS
 * LCS EFIGS
@@ -35,6 +36,9 @@ All of the txt files must be encoded into **UTF-8 BOM** (no need to fix FIGS dia
 ***Optional parameters:***
 
 -r: is russian text</br>
+Currently supported only for III. Does nothing for the other games.
+
+-p: is polish text</br>
 Currently supported only for III. Does nothing for the other games.
 
 -j: for future japanese support. Does nothing at this moment.

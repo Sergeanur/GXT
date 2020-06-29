@@ -70,3 +70,10 @@ public:
 	virtual std::string PrepareSource(const char* _source);
 	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
 };
+
+class cStringCompilerIII_PL : public cStringCompilerIII
+{
+public:
+	virtual std::string PrepareSource(const char* _source);
+	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+};
