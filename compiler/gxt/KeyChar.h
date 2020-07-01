@@ -16,6 +16,16 @@ public:
 		memset(value, 0, count);
 		strcpy_s(value, val);
 	}
+	KeyChar(const wchar_t* val)
+	{
+		memset(value, 0, count);
+		//strcpy_s(value, val);
+		for (int i = 0; i < count-1; i++)
+		{
+			if (!val[i]) break;
+			value[i] = val[i];
+		}
+	}
 };
 
 template<size_t count>

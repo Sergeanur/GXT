@@ -12,10 +12,10 @@ All files where sorted into directories of their games and platforms accordingly
 The source code of it is in `compiler/ ` directory.
 
 Currently supports:
-* III EFIGS 
+* III EFIGS (including mobile)
 * III Russian (Buka)
 * III Polish
-* VC EFIGS
+* VC EFIGS (including mobile)
 * SA EFIGS
 * LCS EFIGS
 * VCS EFIGS
@@ -26,9 +26,16 @@ Currently supports:
 -g [game]: game for which you're compiling a GXT file</br>
 Supported values: III, VC, SA, LCS, VCS, IV
 
+-m: flag for mobile VC support (does not required for III)
+
 
 -i [input files]: list of txt files which you want to compile into GXT (can be one or multiple files)</br>
-All of the txt files must be encoded into **UTF-8 BOM** (no need to fix FIGS diacritics if they are supported by the game).
+Supported codepages:</br>
+- **UCS-2 LE BOM**</br>
+- **UTF-8 BOM**</br>
+- Windows-1252 (for EFIGS)</br>
+- Windows-1251 (for russian)</br>
+- Windows-1250 (for polish)
 
 -o [output_file]: name of a GXT file that will be generated
 

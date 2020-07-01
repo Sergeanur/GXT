@@ -6,6 +6,7 @@ struct CRC32
 public:
 	CRC32() {}
 	CRC32(const char* str);
+	CRC32(const wchar_t* str);
 	CRC32(uint32 val) : value(val) {}
 };
 

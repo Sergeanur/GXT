@@ -141,9 +141,7 @@
     <ClCompile Include="CRC32.cpp" />
     <ClCompile Include="JenkinsHash.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="StringCompiler.cpp" />
     <ClCompile Include="StringCompilers.cpp" />
-    <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />

@@ -52,8 +52,7 @@ protected:
 	virtual void WriteHeaderStuff(std::ostream& s) {};
 	virtual bool IsMainTableNeedSorting() { return true; };
 public:
-	virtual void AddTextLine(const std::string& table, const std::string& key, const std::string& text) = 0;
-	virtual std::string PrepareSource(const char* _source);
+	virtual void AddTextLine(const std::wstring& table, const std::wstring& key, const std::wstring& text) = 0;
 	virtual void OutputIntoStream(std::ostream& s) = 0;
 	virtual bool IsSortedTableList() = 0;
 };
@@ -94,27 +93,33 @@ public:
 	};
 
 	sTableData mainTable;
-	umap<std::string, sTableData> missionTables;
+	umap<std::wstring, sTableData> missionTables;
 
 public:
-	virtual void AddTextLine(const std::string& table, const std::string& key, const std::string& text)
+	void AddTextLine(const std::wstring& table, const std::wstring& key, const std::wstring& text)
 	{
 		key_type _key = key.c_str();
 
 		sTableData* pTable = &mainTable;
 
-		if (table.compare("MAIN"))
+		if (table.compare(L"MAIN"))
 			pTable = &missionTables[table];
-
 
 		uint32 offset = pTable->data.size() * sizeof(char_type);
 		pTable->keys.push_back(TableEntry<key_type>(_key, offset));
-		ConvertString(text, pTable->data);
+		ConvertString(key, text, pTable->data);
 	}
 
-	virtual void ConvertString(const std::string& s, std::vector<char_type>& buf) = 0;
+	virtual wchar_t ConvertChar(wchar_t c) = 0;
 
-	virtual void OutputIntoStream(std::ostream& s)
+	virtual void ConvertString(const std::wstring& key, const std::wstring& s, std::vector<char_type>& buf)
+	{
+		for (auto i = s.begin(); i != s.end(); i++)
+			buf.push_back(ConvertChar(*i));
+		buf.push_back(0);
+	}
+
+	void OutputIntoStream(std::ostream& s)
 	{
 		WriteHeaderStuff(s);
 		if (missionTables.size() > 0)

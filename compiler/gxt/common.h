@@ -9,4 +9,3 @@
 #include "utils.h"
 
 typedef unsigned int uint32;
-typedef unsigned short wchar;

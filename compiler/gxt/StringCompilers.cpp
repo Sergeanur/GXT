@@ -1,224 +1,191 @@
 #include "common.h"
 #include "StringCompilers.h"
 
-void cStringCompilerIII::ConvertString(const std::string& s, std::vector<tCharType>& buf)
+const wchar_t euro_chars[] = { 192, 193, 194, 195, 198, 199, 200, 201, 202, 203, 204,
+							205, 206, 207, 210, 211, 212, 214, 217, 218, 219, 220,
+							223, 224, 225, 226, 227, 230, 231, 232, 233, 234, 235,
+							236, 237, 238, 239, 242, 243, 244, 246, 249, 250, 251,
+							252, 209, 241, 191, 161, 180, };
+
+wchar_t StandartFIGSConvertion(wchar_t wc)
 {
-	const char euro_chars[] = "ÀÁÂÃÆÇÈÉÊËÌÍÎÏÒÓÔÖÙÚÛÜßàáâãæçèéêëìíîïòóôöùúûüÑñ¿\xA1\xB4";
+	if ((wc >= 0x80) && (wc < 0x100))
+	{
+		for (int a = 0; a < ARRAYSIZE(euro_chars); a++)
+		{
+			if (euro_chars[a] == wc)
+				return a + 0x80;
+		}
+	}
+	return wc;
+}
+
+wchar_t cStringCompilerIII::ConvertChar(wchar_t c)
+{
+	return StandartFIGSConvertion(c);
+}
+
+wchar_t cStringCompilerVC::ConvertChar(wchar_t c)
+{
+	if (c == 0xA1)  // upside down exclamation mark
+		return 0x5e;
+	return cStringCompilerIII::ConvertChar(c);
+}
+
+wchar_t cStringCompilerVC_Mobile::ConvertChar(wchar_t c)
+{
+	if (c == '<') return '[';
+	if (c == '>') return ']';
+	return cStringCompilerVC::ConvertChar(c);
+}
+
+wchar_t cStringCompilerSA::ConvertChar(wchar_t c)
+{
+	if (c == 0xA1)  // upside down exclamation mark
+		return 0x5e;
+	return StandartFIGSConvertion(c);
+}
+
+wchar_t cStringCompilerLCS::ConvertChar(wchar_t c)
+{
+	//const wchar LcsEfigsChars[] = { 128, 130, 132, 136, 139, 140, 145, 146, 147, 148, 152, 153, 155, 156, 159, 161,
+	//					 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 174, 176, 185, 187, 191, 127 };
+	const wchar_t LcsEfigsChars[] = { 0x20AC, 0x201A, 0x201E, 0x02C6, 0x2039, 0x0152, 0x2018, 0x2019, 0x201C, 0x201D, 0x02DC, 0x2122, 0x203A, 0x0153, 0x0178, 161,
+						 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 174, 176, 185, 187, 0xBF, 127 };
+	if ((c >= 0xC0) && (c < 0x100))
+		return c - 0x40;
+	else if (c >= 0x80)
+	{
+		for (int a = 0; a < ARRAYSIZE(LcsEfigsChars); a++)
+			if (LcsEfigsChars[a] == c)
+				return a + 0xc0;
+	}
+	return c;
+}
+
+wchar_t cStringCompilerVCS::ConvertChar(wchar_t c)
+{
+	switch (c)
+	{
+	case 0x20AC: return 128;
+
+	case 0x201A: return 130;
+	case 0x0192: return 131;
+	case 0x201E: return 132;
+	case 0x2026: return 133;
+	case 0x2020: return 134;
+	case 0x2021: return 135;
+	case 0x02C6: return 136;
+	case 0x2030: return 137;
+	case 0x0160: return 138;
+	case 0x2039: return 139;
+	case 0x0152: return 140;
+
+	case 0x017D: return 142;
+
+	case 0x2018: return 145;
+	case 0x2019: return 146;
+	case 0x201C: return 147;
+	case 0x201D: return 148;
+	case 0x2022: return 149;
+	case 0x2013: return 150;
+	case 0x2014: return 151;
+	case 0x02DC: return 152;
+	case 0x2122: return 153;
+	case 0x0161: return 154;
+	case 0x203A: return 155;
+	case 0x0153: return 156;
+
+	case 0x017E: return 158;
+	case 0x0178: return 159;
+	}
+	return c;
+}
+
+
+wchar_t cStringCompilerIV::ConvertChar(wchar_t c)
+{
+	switch (c)
+	{
+	case 0x20AC: return 128;
+
+	case 0x201A: return 130;
+	case 0x0192: return 131;
+	case 0x201E: return 132;
+	case 0x2026: return 133;
+	case 0x2020: return 134;
+	case 0x2021: return 135;
+	case 0x02C6: return 136;
+	case 0x2030: return 137;
+	case 0x0160: return 138;
+	case 0x2039: return 139;
+	case 0x0152: return 140;
+
+	case 0x017D: return 142;
+
+	case 0x2018: return 145;
+	case 0x2019: return 146;
+	case 0x201C: return 147;
+	case 0x201D: return 148;
+	case 0x2022: return 149;
+	case 0x2013: return 150;
+	case 0x2014: return 151;
+	case 0x02DC: return 152;
+	case 0x2122: return 153;
+	case 0x0161: return 154;
+	case 0x203A: return 155;
+	case 0x0153: return 156;
+
+	case 0x017E: return 158;
+	case 0x0178: return 159;
+	}
+	return c;
+}
+
+wchar_t cStringCompilerIII_Rus::ConvertChar(wchar_t c)
+{
+	if ((c >= 0x0410) && (c < 0x0450))
+		return c - 0x390;
+	return c;
+}
+
+void cStringCompilerIII_Rus::ConvertString(const std::wstring& key, const std::wstring& s, std::vector<wchar_t>& buf)
+{
 	for (auto i = s.begin(); i != s.end(); i++)
 	{
-		unsigned char c = (unsigned char)*i;
-		if (c >= 0x80)
-		{
-			bool found = false;
-			for (int a = 0; a < ARRAYSIZE(euro_chars); a++)
-			{
-				if (euro_chars[a] == *i) {
-					found = true;
-					buf.push_back(a + 0x80);
-					break;
-				}
-			}
-			if (!found)
-				buf.push_back(c);
-		}
+		if (key.find(L"WIN_") == 0)
+			buf.push_back(*i);
 		else
-			buf.push_back(c);
-
+			buf.push_back(ConvertChar(*i));
 	}
 	buf.push_back(0);
 }
 
-void cStringCompilerVC::ConvertString(const std::string& s, std::vector<tCharType>& buf)
+wchar_t cStringCompilerIII_Pl::ConvertChar(wchar_t c)
 {
-	const char euro_chars[] = "ÀÁÂÃÆÇÈÉÊËÌÍÎÏÒÓÔÖÙÚÛÜßàáâãæçèéêëìíîïòóôöùúûüÑñ¿\xA1\xB4";
-	for (auto i = s.begin(); i != s.end(); i++)
+	switch (c)
 	{
-		unsigned char c = (unsigned char)*i;
-		if (c >= 0x80)
-		{
-			if (c == 0xA1) // upside down exclamation mark
-				buf.push_back(0x5e);
-			else
-			{
-				bool found = false;
-				for (int a = 0; a < ARRAYSIZE(euro_chars); a++)
-				{
-					if (euro_chars[a] == *i) {
-						found = true;
-						buf.push_back(a + 0x80);
-						break;
-					}
-				}
-				if (!found)
-					buf.push_back(c);
-			}
-		}
-		else
-			buf.push_back(c);
+	case 0x15A: return 128;
+	case 0x179: return 129;
+	case 0x141: return 130;
+	case 0x104: return 131;
+
+	case 0x106: return 133;
+	case 0x118: return 134;
+	case 0x143: return 135;
+	case 0xD3: return 136;
+	case 0x17B: return 137;
+
+	case 0x15B: return 151;
+	case 0x17A: return 152;
+	case 0x142: return 153;
+	case 0x105: return 154;
+
+	case 0x107: return 156;
+	case 0x119: return 157;
+	case 0x144: return 158;
+	case 0xF3: return 159;
+	case 0x17C: return 160;
 	}
-	buf.push_back(0);
-}
-
-
-void cStringCompilerSA::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	const char euro_chars[] = "ÀÁÂÃÆÇÈÉÊËÌÍÎÏÒÓÔÖÙÚÛÜßàáâãæçèéêëìíîïòóôöùúûüÑñ¿\xA1\xB4";
-	for (auto i = s.begin(); i != s.end(); i++)
-	{
-		unsigned char c = (unsigned char)*i;
-		if (c >= 0x80)
-		{
-			if (c == 0xA1) // upside down exclamation mark
-				buf.push_back(0x5e);
-			else
-			{
-				bool found = false;
-				for (int a = 0; a < ARRAYSIZE(euro_chars); a++)
-				{
-					if (euro_chars[a] == *i) {
-						found = true;
-						buf.push_back(a + 0x80);
-						break;
-					}
-				}
-				if (!found)
-					buf.push_back(c);
-			}
-		}
-		else
-			buf.push_back(c);
-
-	}
-	buf.push_back(0);
-}
-
-void cStringCompilerLCS::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	wchar LcsEfigsChars[] = { 128, 130, 132, 136, 139, 140, 145, 146, 147, 148, 152, 153, 155, 156, 159, 161,
-						 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 174, 176, 185, 187, 191, 127 };
-	for (auto i = s.begin(); i != s.end(); i++)
-	{
-		wchar c = (unsigned char)*i;
-		if (c >= 0xC0)
-			buf.push_back(c - 0x40);
-		else if (c >= 0x80)
-		{
-			bool found = false;
-			for (int a = 0; a < ARRAYSIZE(LcsEfigsChars); a++)
-			{
-				if (LcsEfigsChars[a] == c)
-				{
-					found = true;
-					buf.push_back(a + 0xC0);
-					break;
-				}
-			}
-			if (!found)
-				buf.push_back(c);
-		}
-		else
-			buf.push_back(c);
-
-	}
-	buf.push_back(0);
-}
-
-void cStringCompilerVCS::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	const std::string &str = s;
-	for (auto i = str.begin(); i != str.end(); i++)
-	{
-		wchar c = (unsigned char)*i;
-		buf.push_back(c);
-	}
-	buf.push_back(0);
-}
-
-bool BothAreSpaces(char lhs, char rhs) { return (lhs == rhs) && (lhs == ' '); }
-
-void cStringCompilerIV::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	std::string str = s;
-	// remove double spaces, TODO: could be needed for all games, not just IV?
-	std::string::iterator new_end = std::unique(str.begin(), str.end(), BothAreSpaces);
-	str.erase(new_end, str.end());
-
-	for (auto i = str.begin(); i != str.end(); i++)
-	{
-		wchar c = (unsigned char)*i;
-		buf.push_back(c);
-	}
-	buf.push_back(0);
-}
-
-
-std::string cStringCompilerIII_Rus::PrepareSource(const char* _source)
-{
-	return ConvertStringCodePage(_source, CP_UTF8, 1251);
-}
-
-void cStringCompilerIII_Rus::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	const std::string& str = s;
-	for (auto i = str.begin(); i != str.end(); i++)
-	{
-		wchar c = (unsigned char)*i;
-		if (c >= 0xC0)
-			c -= 0x40;
-		buf.push_back(c);
-	}
-	buf.push_back(0);
-}
-
-std::string cStringCompilerIII_PL::PrepareSource(const char* _source)
-{
-	return ConvertStringCodePage(_source, CP_UTF8, 1250);
-}
-
-void cStringCompilerIII_PL::ConvertString(const std::string& s, std::vector<tCharType>& buf)
-{
-	struct { int c, gxt; } pl_chars[] =
-	{
-		{ 0x8C, 0x0080 }, // S
-		{ 0x8F, 0x0081 }, // Z
-		{ 0xA3, 0x0082 }, // L
-		{ 0xA5, 0x0083 }, // A
-		{ 0xC6, 0x0085 }, // C
-		{ 0xCA, 0x0086 }, // E
-		{ 0xD1, 0x0087 }, // N
-		{ 0xD3, 0x0088 }, // O
-		{ 0xAF, 0x0089 }, // Z
-		{ 0x9C, 0x0097 }, // s
-		{ 0x9F, 0x0098 }, // z
-		{ 0xB3, 0x0099 }, // l
-		{ 0xB9, 0x009A }, // a
-		{ 0xE6, 0x009C }, // c
-		{ 0xEA, 0x009D }, // e
-		{ 0xF1, 0x009E }, // n
-		{ 0xF3, 0x009F }, // o
-		{ 0xBF, 0x00A0 }  // z
-	};
-
-	for (auto i = s.begin(); i != s.end(); i++)
-	{
-		unsigned char c = (unsigned char)*i;
-		if (c >= 0x80)
-		{
-			bool found = false;
-			for (int a = 0; a < ARRAYSIZE(pl_chars); a++)
-			{
-				if (pl_chars[a].c == c) {
-					found = true;
-					buf.push_back(pl_chars[a].gxt);
-					break;
-				}
-			}
-			if (!found)
-				buf.push_back(c);
-		}
-		else
-			buf.push_back(c);
-
-	}
-	buf.push_back(0);
+	return c;
 }

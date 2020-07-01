@@ -7682,19 +7682,19 @@ TEXT NO LONGER REQUIRED
 М-р.Вупи
 
 [WIN_95]
-Grand Theft Auto III }u ~ytu‚ ~t Windows 95
+Grand Theft Auto III не пойдет под Windows 95
 
 [WIN_DX]
-Grand Theft Auto III ‚Ђuqѓu‚ DirectX ruЂЃxx }u }xvu 8.1
+Grand Theft Auto III требует DirectX версии не ниже 8.1
 
 [WIN_RSZ]
-]u ѓtp{~ЃЊ ѓЃ‚p}~rx‚Њ }~r~u ЂpwЂu€u}xu ЌzЂp}p
+Не удалось установить новое разрешение экрана
 
 [WIN_TTL]
 Grand Theft Auto III
 
 [WIN_VDM]
-Grand Theft Auto III ‚Ђuqѓu‚ }p rxtu~zpЂ‚u }u |u}uu 12\q p|Џ‚x
+Grand Theft Auto III требует на видеокарте не менее 12Мб памяти
 
 [WRCONT]
 The controller connected to controller port 1 is an unsupported controller. Grand Theft Auto III requires an analog controller (DUALSHOCK@) or analog controller (DUALSHOCK@2).

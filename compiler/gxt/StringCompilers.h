@@ -6,10 +6,10 @@
 #include <functional>
 
 
-class cStringCompilerIII : public cStringCompilerTmpl<wchar, KeyChar8>
+class cStringCompilerIII : public cStringCompilerTmpl<wchar_t, KeyChar8>
 {
 public:
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 	virtual bool IsSortedTableList() { return true; };
 };
 
@@ -17,7 +17,7 @@ public:
 class cStringCompilerVC : public cStringCompilerIII
 {
 public:
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 };
 
 
@@ -31,25 +31,25 @@ public:
 		n = sizeof(tCharType) * 8;
 		s.write((char*)&n, 2);
 	};
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 	virtual bool IsSortedTableList() { return true; };
 };
 
-class cStringCompilerLCS : public cStringCompilerTmpl<wchar, KeyChar8>
+class cStringCompilerLCS : public cStringCompilerTmpl<wchar_t, KeyChar8>
 {
 public:
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 	virtual bool IsSortedTableList() { return false; };
 };
 
-class cStringCompilerVCS : public cStringCompilerTmpl<wchar, KeyChar8>
+class cStringCompilerVCS : public cStringCompilerTmpl<wchar_t, KeyChar8>
 {
 public:
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 	virtual bool IsSortedTableList() { return false; };
 };
 
-class cStringCompilerIV : public cStringCompilerTmpl<wchar, JenkinsHash>
+class cStringCompilerIV : public cStringCompilerTmpl<wchar_t, JenkinsHash>
 {
 public:
 	virtual bool IsMainTableNeedSorting() { return false; };
@@ -60,20 +60,26 @@ public:
 		n = sizeof(tCharType) * 8;
 		s.write((char*)&n, 2);
 	};
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 	virtual bool IsSortedTableList() { return true; };
 };
 
 class cStringCompilerIII_Rus : public cStringCompilerIII
 {
 public:
-	virtual std::string PrepareSource(const char* _source);
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual void ConvertString(const std::wstring& key, const std::wstring& s, std::vector<wchar_t>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
 };
 
-class cStringCompilerIII_PL : public cStringCompilerIII
+class cStringCompilerIII_Pl : public cStringCompilerIII
 {
 public:
-	virtual std::string PrepareSource(const char* _source);
-	virtual void ConvertString(const std::string& s, std::vector<tCharType>& buf);
+	virtual wchar_t ConvertChar(wchar_t c);
+};
+
+
+class cStringCompilerVC_Mobile : public cStringCompilerVC
+{
+public:
+	virtual wchar_t ConvertChar(wchar_t c);
 };

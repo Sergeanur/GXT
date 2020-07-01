@@ -6,6 +6,7 @@ struct JenkinsHash
 public:
     JenkinsHash() {}
     JenkinsHash(const char* str);
+    JenkinsHash(const wchar_t* str);
     JenkinsHash(uint32 val) : value(val) {}
 };
 

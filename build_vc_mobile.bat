@@ -1,0 +1,5 @@
+gxt -g VC -m -i "VC Mobile/american.txt" -o "VC Mobile/american.gxt"
+gxt -g VC -m -i "VC Mobile/french.txt" -o "VC Mobile/french.gxt"
+gxt -g VC -m -i "VC Mobile/german.txt" -o "VC Mobile/german.gxt"
+gxt -g VC -m -i "VC Mobile/italian.txt" -o "VC Mobile/italian.gxt"
+gxt -g VC -m -i "VC Mobile/spanish.txt" -o "VC Mobile/spanish.gxt"

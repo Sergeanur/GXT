@@ -100,10 +100,26 @@ uint32 CRC32fromstr(const char* pData)
 	return uiCRC32;
 }
 
+uint32 CRC32fromstr(const wchar_t* pData)
+{
+	uint32 uiCRC32 = 0xFFFFFFFF;
+	unsigned short* pszData = (unsigned short*)pData;
+
+	while (*pszData)
+		uiCRC32 = ((uiCRC32 >> 8) & 0x00FFFFFF) ^ uiCRC32_Table[(uiCRC32 ^ (uint32)*pszData++) & 0xFF];
+
+	return uiCRC32;
+}
+
 bool operator<(const CRC32& l, const CRC32& r) { return l.value < r.value; }
 
 
 CRC32::CRC32(const char* str)
+{
+	value = CRC32fromstr(str);
+}
+
+CRC32::CRC32(const wchar_t* str)
 {
 	value = CRC32fromstr(str);
 }

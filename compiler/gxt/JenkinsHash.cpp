@@ -1,7 +1,8 @@
 #include "common.h"
 #include "JenkinsHash.h"
 
-uint32 jenkins_one_at_a_time_hash(const char* key)
+template <class T>
+uint32 jenkins_one_at_a_time_hash(const T* key)
 {
 	uint32 hash, i;
 	for (hash = i = 0; key[i]; ++i)
@@ -19,6 +20,11 @@ uint32 jenkins_one_at_a_time_hash(const char* key)
 bool operator<(const JenkinsHash& l, const JenkinsHash& r) { return l.value < r.value; }
 
 JenkinsHash::JenkinsHash(const char* str)
+{
+	value = jenkins_one_at_a_time_hash(str);
+}
+
+JenkinsHash::JenkinsHash(const wchar_t* str)
 {
 	value = jenkins_one_at_a_time_hash(str);
 }
