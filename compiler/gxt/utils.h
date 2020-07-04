@@ -1,5 +1,6 @@
 #pragma once
 #include <cctype>
+#include <cwctype>
 
 // trim from start (in place)
 static inline void ltrim(std::wstring& s) {

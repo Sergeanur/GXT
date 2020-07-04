@@ -41,7 +41,7 @@ void RemoveReturns(std::wstring& s)
 bool ReadFileToWString(const std::string &filename, int suggestedEncoding, std::wstring& outstr)
 {
 	std::wstring str0;
-	std::ifstream t(filename);
+	std::ifstream t(filename, std::ios::in | std::ios::binary);
 	if (!t.is_open())
 	{
 		printf("ERROR: File %s could not be opened.\n", filename.c_str());
@@ -57,7 +57,7 @@ bool ReadFileToWString(const std::string &filename, int suggestedEncoding, std::
 	if ((BomCheck & 0xFFFF) == 0xFEFF)
 	{
 		t.seekg(2);
-		str0.reserve(filesize/2);
+		str0.resize(filesize/2);
 		t.read((char*)str0.c_str(), filesize - 2);
 	}
 	else if ((BomCheck & 0xFFFF) == 0xFFFE)
@@ -126,6 +126,7 @@ std::vector<std::string> inputFiles;
 std::string outputFile;
 bool isRussian = false; // todo more
 bool isJapanese = false; // todo
+bool isKorean = false;
 bool isPolish = false;
 bool isMobile = false; // todo more
 
@@ -137,6 +138,7 @@ int main(int argc, char* argv[])
 	-r: is russian
 	-p: is polish
 	-j: is japanese
+	-k: is korean
 	-i [a b .. z]: input txt files
 	-o [file]: output gxt files
 	*/
@@ -159,7 +161,8 @@ int main(int argc, char* argv[])
 			"Optional parameters:\n"
 			"-r: set this is you're compiling a russian text\n"
 			"-p: set this is you're compiling a polish text\n"
-			"-j: set this is you're compiling a japanese text\n");
+			"-j: set this is you're compiling a japanese text\n"
+			"-k: set this is you're compiling a korean text\n");
 		return 0;
 	}
 
@@ -188,6 +191,9 @@ int main(int argc, char* argv[])
 			break;
 		case 'j': 
 			isJapanese = true;
+			break;
+		case 'k':
+			isKorean = true;
 			break;
 		case 'i':
 			cmdI++;
@@ -225,6 +231,10 @@ int main(int argc, char* argv[])
 			stringCompiler = new cStringCompilerIII_Rus;
 		else if (isPolish)
 			stringCompiler = new cStringCompilerIII_Pl;
+		else if (isJapanese && isMobile)
+			stringCompiler = new cStringCompilerIII_Mobile_Jap;
+		else if (isKorean && isMobile)
+			stringCompiler = new cStringCompilerIII_Mobile_Kor;
 		else
 			stringCompiler = new cStringCompilerIII;
 	}

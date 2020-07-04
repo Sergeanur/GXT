@@ -13,6 +13,8 @@ The source code of it is in `compiler/ ` directory.
 
 Currently supports:
 * III EFIGS (including mobile)
+* III Korean (mobile only)
+* III Japanese (mobile only)
 * III Russian (Buka)
 * III Polish
 * VC EFIGS (including mobile)
@@ -26,7 +28,7 @@ Currently supports:
 -g [game]: game for which you're compiling a GXT file</br>
 Supported values: III, VC, SA, LCS, VCS, IV
 
--m: flag for mobile VC support (does not required for III)
+-m: flag for mobile support for III and VC
 
 
 -i [input files]: list of txt files which you want to compile into GXT (can be one or multiple files)</br>
@@ -48,4 +50,8 @@ Currently supported only for III. Does nothing for the other games.
 -p: is polish text</br>
 Currently supported only for III. Does nothing for the other games.
 
--j: for future japanese support. Does nothing at this moment.
+-j: is japanese text.</br>
+Currently supported only for III Mobile. Does nothing for the other games.
+
+-k: is korean text.</br>
+Currently supported only for III Mobile. Does nothing for the other games.

@@ -77,6 +77,17 @@ public:
 	virtual wchar_t ConvertChar(wchar_t c);
 };
 
+class cStringCompilerIII_Mobile_Jap : public cStringCompilerIII
+{
+public:
+	virtual wchar_t ConvertChar(wchar_t c);
+};
+
+class cStringCompilerIII_Mobile_Kor : public cStringCompilerIII
+{
+public:
+	virtual wchar_t ConvertChar(wchar_t c);
+};
 
 class cStringCompilerVC_Mobile : public cStringCompilerVC
 {
