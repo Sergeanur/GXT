@@ -203,6 +203,7 @@ int main(int argc, char* argv[])
 			assert(cmdI < argc);
 			while (cmdI < argc && argv[cmdI][0] != '-')
 				inputFiles.push_back(argv[cmdI++]);
+			cmdI--;
 			break;
 		case 'o':
 			assert(cmdI+1 < argc);
@@ -283,6 +284,9 @@ int main(int argc, char* argv[])
 				break;
 			case LANGUAGE_KOREAN:
 				stringCompiler = new cStringCompilerVC_Mobile_Kor;
+				break;
+			case LANGUAGE_RUSSIAN:
+				stringCompiler = new cStringCompilerVC_Mobile_Rus;
 				break;
 			default:
 				return 0;

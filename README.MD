@@ -20,6 +20,7 @@ Currently supports:
 * VC EFIGS (including mobile)
 * VC Korean (mobile only)
 * VC Japanese (mobile only)
+* VC Russian (mobile only)
 * SA EFIGS
 * LCS EFIGS
 * VCS EFIGS
@@ -46,14 +47,14 @@ Supported codepages:</br>
 
 ***Optional parameters:***
 
--r: is russian text</br>
-Currently supported only for III. Does nothing for the other games.
-
--p: is polish text</br>
-Currently supported only for III. Does nothing for the other games.
-
 -j: is japanese text.</br>
 Currently supported for III Mobile and VC Mobile.
 
 -k: is korean text.</br>
 Currently supported for III Mobile and VC Mobile.
+
+-r: is russian text</br>
+Currently supported for III (PC) and VC Mobile.
+
+-p: is polish text</br>
+Currently supported only for III. Does nothing for the other games.

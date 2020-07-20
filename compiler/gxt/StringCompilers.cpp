@@ -1721,7 +1721,7 @@ wchar_t cStringCompilerVC_Mobile_Kor::ConvertChar(wchar_t c)
 {
     if (c == '<') return '[';
     else if (c == '>') return ']';
-    else if (c >= 0x7F)
+    else if (c >= 0x80)
         for (int i = 0; i < ARRAYSIZE(koreanMobile_VC); i++)
             if (koreanMobile_VC[i] == c)
                 return 0x7F + i;
@@ -1791,9 +1791,33 @@ wchar_t cStringCompilerVC_Mobile_Jap::ConvertChar(wchar_t c)
 {
     if (c == '<') return '[';
     else if (c == '>') return ']';
-    else if (c >= 0x7F)
+    else if (c >= 0x80)
         for (int i = 0; i < ARRAYSIZE(japaneseMobile_VC); i++)
             if (japaneseMobile_VC[i] == c)
                 return 0x7F + i;
+    return c;
+}
+
+wchar_t russian_table[] = { 0,   0,   0,   0,   0,   133, 0,   0,   0,   0,   0,   0,   0,   141, 142, 143, 0,   0,   0,   0,   0,   0,
+                                       0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   32,  0,   0,   0,   0,   0,   0,   0,   177, 0,   0,   0,
+                                       0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   210, 0,   0,   0,   0,   0,   0,   0,   193, 208,
+                                       192, 184, 198, 182, 199, 187, 205, 178, 181, 197, 204, 183, 196, 194, 195, 203, 206, 180, 190, 188, 179, 202,
+                                       185, 186, 189, 191, 207, 200, 209, 201, 226, 241, 225, 217, 231, 215, 232, 220, 238, 211, 214, 230, 237, 216,
+                                       229, 227, 228, 236, 239, 213, 223, 221, 212, 235, 218, 219, 222, 224, 240, 233, 242, 234 };
+wchar_t russian_unicode_table[] = {
+    0,    0,    0,    0,    0,    8230, 0,    0,    0,    0,    0,    0,    0,    4000, 4001, 4002, 0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
+    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    1025, 0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
+    0,    0,    0,    0,    1105, 0,    0,    0,    0,    0,    0,    0,    1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053,
+    1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079,
+    1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103 };
+
+wchar_t cStringCompilerVC_Mobile_Rus::ConvertChar(wchar_t c)
+{
+    if (c == '<') return '[';
+    else if (c == '>') return ']';
+    else if (c >= 0x80)
+        for (int i = 0; i < ARRAYSIZE(russian_unicode_table); i++)
+            if (russian_unicode_table[i] == c)
+                return russian_table[i];
     return c;
 }
