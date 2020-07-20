@@ -122,13 +122,31 @@ bool ReadFileToWString(const std::string &filename, int suggestedEncoding, std::
 	return true;
 }
 
+enum eLanguage
+{
+	LANGUAGE_EFIGS = 0,
+	LANGUAGE_JAPANESE,
+	LANGUAGE_KOREAN,
+	LANGUAGE_RUSSIAN,
+	LANGUAGE_POLISH,
+};
+
+eLanguage Language = LANGUAGE_EFIGS;
+
 std::vector<std::string> inputFiles;
 std::string outputFile;
-bool isRussian = false; // todo more
-bool isJapanese = false; // todo
-bool isKorean = false;
-bool isPolish = false;
 bool isMobile = false; // todo more
+
+int GetSuggestedCodepage()
+{
+	switch (Language)
+	{
+	case LANGUAGE_EFIGS: return 1252;
+	case LANGUAGE_RUSSIAN: return 1251;
+	case LANGUAGE_POLISH: return 1250;
+	default: return -1;
+	}
+}
 
 int main(int argc, char* argv[])
 {
@@ -150,7 +168,7 @@ int main(int argc, char* argv[])
 	{
 		printf(
 			"Usage:\n"
-			"gxt -g [game] -i [input files] -o [output_file] [-r] [-j]\n"
+			"gxt -g [game] [-m] -i [input files] -o [output_file] [-r] [-j] [-k] [-p]\n"
 			"\n"
 			"Parameters:\n"
 			"-g [III|VC|SA|LCS|VCS|IV]: game for which you're compiling a GXT file\n"
@@ -180,33 +198,22 @@ int main(int argc, char* argv[])
 				c = toupper(c);
 			break;
 		}
-		case 'm':
-			isMobile = true;
-			break;
-		case 'r':
-			isRussian = true;
-			break;
-		case 'p':
-			isPolish = true;
-			break;
-		case 'j': 
-			isJapanese = true;
-			break;
-		case 'k':
-			isKorean = true;
-			break;
 		case 'i':
 			cmdI++;
 			assert(cmdI < argc);
 			while (cmdI < argc && argv[cmdI][0] != '-')
-			{
 				inputFiles.push_back(argv[cmdI++]);
-			}
+			break;
 		case 'o':
 			assert(cmdI+1 < argc);
 			outputFile = argv[++cmdI];
-		default:
 			break;
+		case 'm': isMobile = true; break;
+		case 'j': Language = LANGUAGE_JAPANESE; break;
+		case 'k': Language = LANGUAGE_KOREAN; break;
+		case 'r': Language = LANGUAGE_RUSSIAN; break;
+		case 'p': Language = LANGUAGE_POLISH; break;
+		default: break;
 		}
 		cmdI++;
 	}
@@ -227,27 +234,71 @@ int main(int argc, char* argv[])
 
 	if (game == "III")
 	{
-		if (isRussian)
-			stringCompiler = new cStringCompilerIII_Rus;
-		else if (isPolish)
-			stringCompiler = new cStringCompilerIII_Pl;
-		else if (isJapanese && isMobile)
-			stringCompiler = new cStringCompilerIII_Mobile_Jap;
-		else if (isKorean && isMobile)
-			stringCompiler = new cStringCompilerIII_Mobile_Kor;
+		if (isMobile)
+		{
+			switch (Language)
+			{
+			case LANGUAGE_EFIGS:
+				stringCompiler = new cStringCompilerIII;
+				break;
+			case LANGUAGE_JAPANESE:
+				stringCompiler = new cStringCompilerIII_Mobile_Jap;
+				break;
+			case LANGUAGE_KOREAN:
+				stringCompiler = new cStringCompilerIII_Mobile_Kor;
+				break;
+			default:
+				return 0;
+			}
+		}
 		else
-			stringCompiler = new cStringCompilerIII;
+		{
+			switch (Language)
+			{
+			case LANGUAGE_EFIGS:
+				stringCompiler = new cStringCompilerIII;
+				break;
+			case LANGUAGE_RUSSIAN:
+				stringCompiler = new cStringCompilerIII_Rus;
+				break;
+			case LANGUAGE_POLISH:
+				stringCompiler = new cStringCompilerIII_Pl;
+				break;
+			default:
+				return 0;
+			}
+		}
 	}
 	else if (game == "VC")
 	{
-		if (isKorean && isMobile)
-			stringCompiler = new cStringCompilerVC_Mobile_Kor;
-		else if (isJapanese && isMobile)
-			stringCompiler = new cStringCompilerVC_Mobile_Jap;
-		else if (isMobile)
-			stringCompiler = new cStringCompilerVC_Mobile;
+		if (isMobile)
+		{
+			switch (Language)
+			{
+			case LANGUAGE_EFIGS:
+				stringCompiler = new cStringCompilerVC_Mobile;
+				break;
+			case LANGUAGE_JAPANESE:
+				stringCompiler = new cStringCompilerVC_Mobile_Jap;
+				break;
+			case LANGUAGE_KOREAN:
+				stringCompiler = new cStringCompilerVC_Mobile_Kor;
+				break;
+			default:
+				return 0;
+			}
+		}
 		else
-			stringCompiler = new cStringCompilerVC;
+		{
+			switch (Language)
+			{
+			case LANGUAGE_EFIGS:
+				stringCompiler = new cStringCompilerVC;
+				break;
+			default:
+				return 0;
+			}
+		}
 	}
 	else if (game == "SA")
 		stringCompiler = new cStringCompilerSA;
@@ -269,11 +320,8 @@ int main(int argc, char* argv[])
 	for (auto inputFile : inputFiles)
 	{
 		std::wstring str;
-		int suggestedEncoding = 1252;
-		if (isRussian) suggestedEncoding = 1251;
-		else if (isPolish) suggestedEncoding = 1250;
-		else if (isJapanese) suggestedEncoding = -1;
-		if (!ReadFileToWString(inputFile, suggestedEncoding, str))
+
+		if (!ReadFileToWString(inputFile, GetSuggestedCodepage(), str))
 		{
 			delete stringCompiler;
 			return 0;
@@ -282,7 +330,7 @@ int main(int argc, char* argv[])
 		str_new += str;
 	}
 
-	if (!isKorean)
+	if (Language != LANGUAGE_KOREAN)
 	{
 		// remove double spaces
 		std::wstring::iterator new_end = std::unique(str_new.begin(), str_new.end(), [](wchar_t lhs, wchar_t rhs) { return (lhs == rhs) && (lhs == ' '); });
