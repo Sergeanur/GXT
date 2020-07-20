@@ -240,7 +240,11 @@ int main(int argc, char* argv[])
 	}
 	else if (game == "VC")
 	{
-		if (isMobile)
+		if (isKorean && isMobile)
+			stringCompiler = new cStringCompilerVC_Mobile_Kor;
+		else if (isJapanese && isMobile)
+			stringCompiler = new cStringCompilerVC_Mobile_Jap;
+		else if (isMobile)
 			stringCompiler = new cStringCompilerVC_Mobile;
 		else
 			stringCompiler = new cStringCompilerVC;
@@ -278,9 +282,12 @@ int main(int argc, char* argv[])
 		str_new += str;
 	}
 
-	// remove double spaces
-	std::wstring::iterator new_end = std::unique(str_new.begin(), str_new.end(), [](wchar_t lhs, wchar_t rhs) { return (lhs == rhs) && (lhs == ' '); });
-	str_new.erase(new_end, str_new.end());
+	if (!isKorean)
+	{
+		// remove double spaces
+		std::wstring::iterator new_end = std::unique(str_new.begin(), str_new.end(), [](wchar_t lhs, wchar_t rhs) { return (lhs == rhs) && (lhs == ' '); });
+		str_new.erase(new_end, str_new.end());
+	}
 
 	auto skob_pos = str_new.find('[');
 	while (skob_pos != std::wstring::npos)

@@ -18,6 +18,8 @@ Currently supports:
 * III Russian (Buka)
 * III Polish
 * VC EFIGS (including mobile)
+* VC Korean (mobile only)
+* VC Japanese (mobile only)
 * SA EFIGS
 * LCS EFIGS
 * VCS EFIGS
