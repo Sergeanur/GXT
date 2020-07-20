@@ -53,7 +53,7 @@ Currently supported only for III. Does nothing for the other games.
 Currently supported only for III. Does nothing for the other games.
 
 -j: is japanese text.</br>
-Currently supported only for III Mobile. Does nothing for the other games.
+Currently supported for III Mobile and VC Mobile.
 
 -k: is korean text.</br>
-Currently supported only for III Mobile. Does nothing for the other games.
+Currently supported for III Mobile and VC Mobile.
