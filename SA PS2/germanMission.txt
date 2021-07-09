@@ -860,10 +860,10 @@ Whirly Bird Waypoint
 Heli Hell
 
 [TATTA]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [TATTB]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um ein Tattoo auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um ein Tattoo auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [TATTO]
 Tattoo
@@ -1064,10 +1064,10 @@ Fleischberg-Burger
 Salat
 
 [FOOD_H]
-Benutze den ~h~linken Analog-Stick~w~ oder ~<~ und ~>~, um ein Essen auszuwãhlen.~N~~X~ Kaufen~N~~T~ Beenden
+Benutze den ~h~linken Analog-Stick~w~ oder ~<~ und ~>~, um ein Essen auszuwählen.~N~~X~ Kaufen~N~~T~ Beenden
 
 [FOOD_H2]
-Benutze den ~h~linken Analog-Stick~w~ oder ~<~ und ~>~, um ein Essen auszuwãhlen.~N~~T~ Beenden
+Benutze den ~h~linken Analog-Stick~w~ oder ~<~ und ~>~, um ein Essen auszuwählen.~N~~T~ Beenden
 
 [FOODCHO]
 Essen
@@ -1091,19 +1091,19 @@ Hamburger-Restaurant
 Pizzeria
 
 [CHICN]
-Hãhnchen-Schnellimbiss
+Hähnchen-Schnellimbiss
 
 [AMUBYE]
 Komm bald wieder.
 
 [AMUWELL]
-Wãhle eine Waffe oder einen anderen Artikel, den du kaufen willst.
+Wähle eine Waffe oder einen anderen Artikel, den du kaufen willst.
 
 [AMMU_H]
-Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Waffe auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Waffe auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [AMMU_H2]
-Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Waffe auszuwãhlen.~N~~X~ Ansehen~N~~T~ Zurück.
+Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Waffe auszuwählen.~N~~X~ Ansehen~N~~T~ Zurück.
 
 [AMMU_H3]
 ~X~ Kaufen~N~~T~ Zurück.
@@ -1130,7 +1130,7 @@ Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Waffe auszuwãhl
 Kugelsichere Weste
 
 [PISTSL]
-9mm mit Schalldãmpfer
+9mm mit Schalldämpfer
 
 [PISTOL]
 9mm
@@ -1157,7 +1157,7 @@ AK-47
 Unterhebelgewehr
 
 [SNIPE]
-Prãzisionsgewehr
+Präzisionsgewehr
 
 [GRENADE]
 Granaten
@@ -1169,10 +1169,10 @@ Schrotflinte
 Autom. Schrotflinte
 
 [SHOTGN3]
-Abgesãgte Schrotflinte
+Abgesägte Schrotflinte
 
 [BASEBAT]
-Baseballschlãger
+Baseballschläger
 
 [KNIFE]
 Messer
@@ -1181,13 +1181,13 @@ Messer
 Katana
 
 [CHAINSA]
-Kettensãge
+Kettensäge
 
 [ROCKET]
 Raketenwerfer
 
 [ROCKHS]
-Wãrme suchender Raketenwerfer
+Wärme suchender Raketenwerfer
 
 [FLAMET]
 Flammenwerfer
@@ -1211,7 +1211,7 @@ Ammu-Nation
 Ammu-Nation
 
 [NEWWEAP]
-Es ist eine neue Waffe erhãltlich.
+Es ist eine neue Waffe erhältlich.
 
 [GUN1]
 Pistolen
@@ -1241,7 +1241,7 @@ Schutzweste
 Friseur
 
 [BARB_H1]
-Benutze ~h~den linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Frisur auszuwãhlen.~n~~x~ Ansehen~n~~T~ Beenden
+Benutze ~h~den linken Analog-Stick~w~ oder ~u~ und ~d~, um eine Frisur auszuwählen.~n~~x~ Ansehen~n~~T~ Beenden
 
 [BARB_H2]
 ~x~ Haare schneiden lassen~N~~T~ Zurück
@@ -1280,7 +1280,7 @@ Blonder Irokese
 Pink Irokese
 
 [HEAD]
-Cãsar-Frisur
+Cäsar-Frisur
 
 [HIGHFAD]
 Kurze Bürste
@@ -1319,7 +1319,7 @@ Hoher Afro
 Keilförmige Frisur
 
 [SLOPE]
-Schrãge Frisur
+Schräge Frisur
 
 [JHERI]
 Jeri Curl
@@ -1343,13 +1343,13 @@ Irokese und Bart
 Elvis-Frisur
 
 [BEARD]
-Cãsar und Bart
+Cäsar und Bart
 
 [TASH]
-Cãsar und Schnurrbart
+Cäsar und Schnurrbart
 
 [GOATEE]
-Cãsar und Ziegenbart
+Cäsar und Ziegenbart
 
 [AFROGOT]
 Afro und Ziegenbart
@@ -1376,13 +1376,13 @@ Didier Sachs
 Sonderkleidung
 
 [WARDH1]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Shop auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Shop auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [WARDH2]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um den Bereich zu wãhlen.~N~~X~ Auswãhlen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um den Bereich zu wählen.~N~~X~ Auswählen~N~~T~ Zurück
 
 [WARDH3]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Artikel auszuwãhlen.~N~~X~ Ansehen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Artikel auszuwählen.~N~~X~ Ansehen~N~~T~ Zurück
 
 [WARDH4]
 ~X~ Tragen~N~~T~ Zurück
@@ -1391,7 +1391,7 @@ Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Artikel auszuw�
 Gewechselt.
 
 [WARDNO]
-Dieses Kleidungsstück trãgst du bereits!
+Dieses Kleidungsstück trägst du bereits!
 
 [BANDAN3]
 Totenkopf-Bandana
@@ -1400,19 +1400,19 @@ Totenkopf-Bandana
 Grüne Bandana
 
 [CLOTHA]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [CLOTHB]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Kleidung auszuwãhlen.~N~~X~ Artikel ansehen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Kleidung auszuwählen.~N~~X~ Artikel ansehen~N~~T~ Zurück
 
 [BANDAN4]
-Blãtter-Bandana
+Blätter-Bandana
 
 [BANDAN5]
 Rote Bandana
 
 [REMOH1]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwãhlen.~N~~X~ Artikel ausziehen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwählen.~N~~X~ Artikel ausziehen~N~~T~ Zurück
 
 [REMOH2]
 ~X~ Behalten~N~~T~ Zurück
@@ -1424,7 +1424,7 @@ Artikel ausziehen
 ~s~Du hast nichts an, was du ausziehen könntest!
 
 [CLOTHES]
-Bekleidungsgeschãft
+Bekleidungsgeschäft
 
 [BOUGHT]
 Gekauft
@@ -1943,7 +1943,7 @@ S&M-Anzug
 Park-Boy
 
 [COUNTRY]
-Lãndl. Kleidung
+Ländl. Kleidung
 
 [CROUP]
 Croupier
@@ -2018,7 +2018,7 @@ Gr. Cap rückw.
 Gr. Cap seitw.
 
 [CAP34]
-Gr. Cap schrãg
+Gr. Cap schräg
 
 [CAP35]
 Gr. Cap oben
@@ -2033,7 +2033,7 @@ Ro. Cap rückw.
 Ro. Cap seitw.
 
 [CAP39]
-Ro. Cap schrãg
+Ro. Cap schräg
 
 [CAP40]
 Ro. Cap oben
@@ -2048,7 +2048,7 @@ Bl. Cap rückw.
 Bl. Cap seitw.
 
 [CAP44]
-Bl. Cap schrãg
+Bl. Cap schräg
 
 [CAP45]
 Bl. Cap oben
@@ -2057,13 +2057,13 @@ Bl. Cap oben
 Cap
 
 [CAP47]
-Cap rückwãrts
+Cap rückwärts
 
 [CAP48]
-Cap seitwãrts
+Cap seitwärts
 
 [CAP49]
-Cap schrãg
+Cap schräg
 
 [CAP50]
 Cap Schirm oben
@@ -2078,7 +2078,7 @@ Sch. Cap rückw.
 Sch. Cap seitw.
 
 [CAP54]
-Sch. Cap schrãg
+Sch. Cap schräg
 
 [CAP55]
 Sch. Cap oben
@@ -2171,7 +2171,7 @@ Beige Hose
 Hundemarken
 
 [NECKAFR]
-Afrika-Anhãnger
+Afrika-Anhänger
 
 [SHELSUT]
 Freizeit-Top
@@ -2237,7 +2237,7 @@ S. Sonnenbrille
 Schw. Rand
 
 [PIMPSUT]
-Zuhãlterdress
+Zuhälterdress
 
 [RDRIVER]
 Rennanzug
@@ -2252,22 +2252,22 @@ Car mods (LA)
 Car mods (lowriderLA)
 
 [MODH1]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwãhlen.~N~~X~ Auswahl~N~~T~ Beenden
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwählen.~N~~X~ Auswahl~N~~T~ Beenden
 
 [MODH2]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwãhlen.~N~~X~ Kaufen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwählen.~N~~X~ Kaufen~N~~T~ Zurück
 
 [MODH3]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwãhlen.~N~~X~ Ansehen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um Zubehör auszuwählen.~N~~X~ Ansehen~N~~T~ Zurück
 
 [MODH4]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~, ~d~, ~<~ und ~>~, um eine Farbe auszuwãhlen.~N~~X~ Kaufen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~, ~d~, ~<~ und ~>~, um eine Farbe auszuwählen.~N~~X~ Kaufen~N~~T~ Zurück
 
 [MODH5]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwãhlen.~N~~X~ Auswahl~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~ und ~d~, um einen Bereich auszuwählen.~N~~X~ Auswahl~N~~T~ Zurück
 
 [MODH6]
-Benutze den ~H~linken Analog-Stick~W~ oder ~u~, ~d~, ~<~ und ~>~, um eine Farbe auszuwãhlen.~N~~X~ Kaufen~N~~T~ Zurück
+Benutze den ~H~linken Analog-Stick~W~ oder ~u~, ~d~, ~<~ und ~>~, um eine Farbe auszuwählen.~N~~X~ Kaufen~N~~T~ Zurück
 
 [COLORNO]
 ~s~Dein Fahrzeug hat bereits diese Farbe.
@@ -2312,7 +2312,7 @@ Dach
 Lackierungen
 
 [CARM12]
-Rãder
+Räder
 
 [CARM13]
 Frontschutzbügel
@@ -2327,7 +2327,7 @@ Diverses
 Autostereoanlage
 
 [CARM17]
-Lufteinlãsse
+Lufteinlässe
 
 [CARM18]
 Hydraulik
@@ -2408,10 +2408,10 @@ Lackierung ~1~
 'Race' Lufteinlass
 
 [BMBOBV]
-Ovale Lufteinlãsse
+Ovale Lufteinlässe
 
 [BMBSBV]
-Rechteckige Lufteinlãsse
+Rechteckige Lufteinlässe
 
 [BMBLE]
 Großer Auspuff
@@ -2894,13 +2894,13 @@ Seitenschweller
 ~s~Du kannst es jeden Mittwoch und Samstag erneut versuchen.
 
 [GYM1_81]
-Drücke ~T~, um dieses Gerãt zu benutzen
+Drücke ~T~, um dieses Gerät zu benutzen
 
 [GYM1_85]
 Drücke ~T~, um mit dem Training zu beginnen
 
 [GYM1_90]
-~s~Sieht aus, als wãrst du beschãftigt. Komm doch spãter wieder.
+~s~Sieht aus, als wärst du beschäftigt. Komm doch später wieder.
 
 [GF_H006]
 Deine Freundin hat dir ein Geschenk gekauft. Fahr nach Hause und schau in deine Garderobe.
@@ -2933,7 +2933,7 @@ Du wurdest von einer anderen Freundin gesehen. Schnell, schüttle sie ab!
 Du wurdest beim Seitensprung ertappt. Das Date ist zu Ende.
 
 [GF_H016]
-Du hast es geschafft, die eifersüchtige Freundin abzuhãngen. Gut gemacht.
+Du hast es geschafft, die eifersüchtige Freundin abzuhängen. Gut gemacht.
 
 [GF_H017]
 Du hast deine Freundin zurückgelassen. Euer Date ist zu Ende.
@@ -3335,7 +3335,7 @@ Minimum
 Maximum
 
 [WAGERH]
-~<~ ~>~ Einsatz ãndern~N~~x~ Setzen~N~~q~ Max. Einsatz
+~<~ ~>~ Einsatz ändern~N~~x~ Setzen~N~~q~ Max. Einsatz
 
 [KPAD1]
 ~t~ Keypad benutzen
@@ -3383,10 +3383,10 @@ Drücke ~t~, um die zum Kauf verfügbaren Autos anzusehen.
 ~r~Du kannst ein Auto nur an~n~dem Tag kaufen, an dem es verfügbar ist.
 
 [IE20]
-Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um einen Tag auszuwãhlen.~N~~x~ Auswãhlen~N~~t~ Ende
+Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um einen Tag auszuwählen.~N~~x~ Auswählen~N~~t~ Ende
 
 [IE21]
-Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um ein Fahrzeug auszuwãhlen.~N~~x~ Auto kaufen~N~~t~ Zurück
+Benutze den ~h~linken Analog-Stick~w~ oder ~u~ und ~d~, um ein Fahrzeug auszuwählen.~N~~x~ Auto kaufen~N~~t~ Zurück
 
 [IE22]
 Du kannst dieses Fahrzeug drüben bei den Easter Basin Docks exportieren.
@@ -3416,7 +3416,7 @@ Alle Autos beschafft!
 Einkünfte~N~~w~$~1~
 
 [BUSY]
-Sieht aus, als wãrst du beschãftigt. Komm doch spãter wieder.
+Sieht aus, als wärst du beschäftigt. Komm doch später wieder.
 
 [NOCASH]
 Du hast nicht genug Bares, um hier zu spielen.
@@ -3434,7 +3434,7 @@ Wo gehen wir heute auf Raubzug?
 Ich hab dich verloren. Wir treffen uns bei der Hütte.
 
 [CATLOS2]
-Ich hab dich verloren. Wir treffen uns bei der Raststãtte.
+Ich hab dich verloren. Wir treffen uns bei der Raststätte.
 
 [BCE2_04]
 Du hast dem Kurier $~1~ gestohlen.
@@ -3446,7 +3446,7 @@ Du hast dem Kurier $~1~ gestohlen.
 ~s~Begib dich zu dem verlassenen Flugplatz und kaufe ihn.
 
 [LG_65]
-Nãchster Flugplatz
+Nächster Flugplatz
 
 [DNC_001]
 Ergebnis:
@@ -3470,7 +3470,7 @@ Ergebnis:
 ~w~Okay!
 
 [DNC_008]
-~w~Zu spãt!
+~w~Zu spät!
 
 [DNC_009]
 ~w~Zu früh!
@@ -3512,7 +3512,7 @@ Ergebnis:
 ~w~Akzeptabel
 
 [DNC_022]
-~w~Du hãngst nach!
+~w~Du hängst nach!
 
 [DNC_023]
 ~w~Langsamer!
@@ -3536,7 +3536,7 @@ Power:
 Fun:
 
 [GF_0020]
-Drücke den ~h~linken Analog-Stick~w~ rhythmisch nach oben und unten.~n~~o~ Blickwinkel ãndern~n~~q~ Stellung ãndern~n~~t~ Beenden
+Drücke den ~h~linken Analog-Stick~w~ rhythmisch nach oben und unten.~n~~o~ Blickwinkel ändern~n~~q~ Stellung ändern~n~~t~ Beenden
 
 [GF_0021]
 Zum Küssen drücke ~K~.
@@ -3548,13 +3548,13 @@ Drücke ~>~, um zuzustimmen, oder ~<~, um nicht zuzustimmen
 Deine Freundin ist tot.
 
 [GF_0043]
-Drücke ~x~, wenn der Power-Balken voll ist. ~n~~o~ Blickwinkel ãndern~n~~t~ Beenden
+Drücke ~x~, wenn der Power-Balken voll ist. ~n~~o~ Blickwinkel ändern~n~~t~ Beenden
 
 [GF_0046]
 ~K~ - Radiosender wechseln~n~~t~ Beenden
 
 [GF_0048]
-Deine Freundin ist gerade nicht zu Hause. Versuche es spãter noch einmal.
+Deine Freundin ist gerade nicht zu Hause. Versuche es später noch einmal.
 
 [GF_0049]
 Besorg einen hübschen Wagen für deine Freundin!
@@ -3563,10 +3563,10 @@ Besorg einen hübschen Wagen für deine Freundin!
 Such dir ein Lokal aus, das deiner Freundin gefallen könnte, und bring sie hin.
 
 [GF_0037]
-Fahr dein Mãdchen durch Gegenden, die ihr gefallen könnten und auchte auf deine Geschwindigkeit.
+Fahr dein Mädchen durch Gegenden, die ihr gefallen könnten und auchte auf deine Geschwindigkeit.
 
 [GF_0038]
-Geh mit deinem Mãdchen in einen Club und beeindrucke sie mit deinen tãnzerischen Fãhigkeiten.
+Geh mit deinem Mädchen in einen Club und beeindrucke sie mit deinen tänzerischen Fähigkeiten.
 
 [GF_H000]
 Denise ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich lieben.~n~Um sie auszuführen, schau bei ihrem Haus vorbei.
@@ -3578,7 +3578,7 @@ Michelle ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich liebe
 Helena ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich lieben.~n~Helena verfügt über einen geheimen Vorrat an 'Werkzeug', das in ihrer Scheune in Flint Range zu finden ist.
 
 [GF_H003]
-Barbara ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich lieben.~n~Barbara wird dich umsonst aus dem Gefãngnis holen. Du kannst sie bei dem Polizeirevier in El Quebradas abholen.
+Barbara ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich lieben.~n~Barbara wird dich umsonst aus dem Gefängnis holen. Du kannst sie bei dem Polizeirevier in El Quebradas abholen.
 
 [GF_H004]
 Katie ist jetzt deine Freundin. Mach sie glücklich, dann wird sie dich lieben.~n~Katie wird dich umsonst aus dem Krankenhaus holen. Du kannst sie in Paradiso abholen.
@@ -3620,25 +3620,25 @@ Das Date ist gut gelaufen! Jetzt will sie nach Hause gefahren werden...
 Scheint ihr einigermaßen gefallen zu haben. Jetzt fahr sie nach Hause!
 
 [GF_0010]
-Sie mag dich! Das nãchste Mal geht vielleicht ein bisschen mehr...
+Sie mag dich! Das nächste Mal geht vielleicht ein bisschen mehr...
 
 [GF_0011]
 Na, große Klasse, Casanova, sie hat mit dir Schluss gemacht! Na ja, andere Mütter haben auch schöne Töchter.
 
 [GF_0012]
-Du Amateur! REGEL Nr. 1 - Lass NIEMALS ein Mãdchen wãhrend 'nem Date sitzen!
+Du Amateur! REGEL Nr. 1 - Lass NIEMALS ein Mädchen während 'nem Date sitzen!
 
 [GF_0014]
-Du hast es geschafft, sie lãdt dich auf einen Kaffee ein! Mach deine Lenden bereit für Liebe....
+Du hast es geschafft, sie lädt dich auf einen Kaffee ein! Mach deine Lenden bereit für Liebe....
 
 [GF_0019]
 Ja, das ist die Stelle! Denk daran: nette Kerle enden als Loser!
 
 [GF_0022]
-Sie will, dass du sie nach Hause fãhrst! Das könnte was werden...
+Sie will, dass du sie nach Hause fährst! Das könnte was werden...
 
 [GF_0024]
-Sie will ein Drive-by machen? Das ist 'ne ganz schön gefãhrliche Lady!
+Sie will ein Drive-by machen? Das ist 'ne ganz schön gefährliche Lady!
 
 [GF_0025]
 Dein Abzug geht zu leicht los...
@@ -3650,7 +3650,7 @@ Sie will sich den Bauch vollschlagen!
 Sie will eine kleine Spazierfahrt machen. Vielleicht will sie ja dann irgendwo parken und...
 
 [GF_0028]
-Sie will sehen, wie du tanzt! Die Damen stehen auf gute Tãnzer!
+Sie will sehen, wie du tanzt! Die Damen stehen auf gute Tänzer!
 
 [GF_0031]
 O-oh! Sie klingt gelangweilt. Schnell, mach irgendwas Lustiges mit ihr!
@@ -3665,7 +3665,7 @@ Sie will dich wieder sehen! Bald wird sie dir nicht mehr widerstehen können...
 Du hast keine Ahnung, wie man eine Dame behandelt!
 
 [GF_0035]
-Streng dich das nãchste Mal ein bisschen mehr an!
+Streng dich das nächste Mal ein bisschen mehr an!
 
 [GF_0041]
 Du hast es vermasselt! Was ist eigentlich los mit dir?
@@ -3683,10 +3683,10 @@ Lass sie lieber fahren, sonst zieht sie das ganze Date über 'nen Flunsch...
 Sie hat dein Auto geklaut! Ihr beide habt so viel gemeinsam...
 
 [GF_0050]
-Es scheint, als ob ihr diese Gegend gefãllt...
+Es scheint, als ob ihr diese Gegend gefällt...
 
 [GF_0051]
-Hört sich nicht so an, als ob ihr die Gegend gefãllt...
+Hört sich nicht so an, als ob ihr die Gegend gefällt...
 
 [GF_0052]
 Kleider machen Leute, Kumpel!
@@ -3698,7 +3698,7 @@ Du bist von der Figur her nicht ihr Typ. Sinn für Humor scheint es heutzutage n
 Du hast sie schwindlig getanzt! Fahr sie nach Hause. Mal sehen, was sich da entwickelt...
 
 [GF_0055]
-Oje. Ihr gefãllt's hier nicht besonders...
+Oje. Ihr gefällt's hier nicht besonders...
 
 [GF_0056]
 Deine komischen Tanzversuche waren ihr peinlich. Sie war null beeindruckt von dir!
@@ -3713,7 +3713,7 @@ Die Dame ist langsam beeindruckt von dir!
 Sie ist völlig gebannt von deinen Moves, Mr. Groove!
 
 [GF_0060]
-Auf der Tanzflãche gibst du eine peinliche Figur ab!
+Auf der Tanzfläche gibst du eine peinliche Figur ab!
 
 [GF_0061]
 Sie will, dass die Hüllen fallen!
@@ -3731,7 +3731,7 @@ Geh ran, Kumpel, sie will tanzen!
 Der Laden hat ihr SUPER gefallen!
 
 [GF_0066]
-Oje, hört sich nicht so an, als ob sie sich gut amüsiert hãtte...
+Oje, hört sich nicht so an, als ob sie sich gut amüsiert hätte...
 
 [GF_0067]
 Eine Frau nicht ordentlich zu befriedigen, ist ein VERBRECHEN!
@@ -3749,7 +3749,7 @@ Was hast du denn da für eine Stelle ausgesucht? Das ist ja schrecklich hier!
 Der schnellste Weg ins Herzen einer Frau: Geschenke und Komplimente!
 
 [GF_0072]
-Oh, Mann! REGEL Nr. 2: Unbedingt vermeiden, dass ein Mãdchen auf 'nem Date zu bluten anfãngt!
+Oh, Mann! REGEL Nr. 2: Unbedingt vermeiden, dass ein Mädchen auf 'nem Date zu bluten anfängt!
 
 [GF_0073]
 Achte auf deine Geschwindigkeit!
@@ -3761,13 +3761,13 @@ Du musst mehr essen, wenn du bei dieser Lady ankommen willst, du dürres Gestell
 Du hast dir zu viele Muskeln draufgepackt! Was hattest du zum Frühstück, Anabolika?
 
 [GF_0076]
-Du fãhrst zu langsam!
+Du fährst zu langsam!
 
 [GF_0077]
 Oh nein, sie amüsiert sich nicht! Schnell, spendier ihr was zu essen oder vielleicht einen Drink...
 
 [GF_0078]
-Sie fãngt an, sich zu langweilen. Streng dich mehr an, eine Gegend zu finden, wo es ihr gefãllt.
+Sie fängt an, sich zu langweilen. Streng dich mehr an, eine Gegend zu finden, wo es ihr gefällt.
 
 [GF_0079]
 Sie verliert die Geduld. Kein Wunder, sie will einfach nur tanzen gehen!
@@ -3827,10 +3827,10 @@ Drücke den ~h~linken Analog-Stick~w~ nach rechts oder links, um den Abrisskran 
 Drücke den ~h~linken Analog-Stick~w~ nach rechts oder links, um den Kran zu drehen.
 
 [CONS_2]
-Drücke den ~h~linken Analog-Stick~w~ nach oben oder nach unten, um die Abrissbirne nãher heran oder weiter weg zu bewegen.
+Drücke den ~h~linken Analog-Stick~w~ nach oben oder nach unten, um die Abrissbirne näher heran oder weiter weg zu bewegen.
 
 [CONS_2B]
-Drücke den ~h~linken Analog-Stick~w~ nach oben oder unten, um den Magneten nãher heran oder weiter weg zu bewegen.
+Drücke den ~h~linken Analog-Stick~w~ nach oben oder unten, um den Magneten näher heran oder weiter weg zu bewegen.
 
 [CONS_3]
 Drücke ~q~, um die Abrissbirne anzuheben.
@@ -3845,7 +3845,7 @@ Drücke ~x~, um die Abrissbirne herunter zu lassen.
 Drücke ~x~, um den Magneten abzusenken.
 
 [CONS_5]
-Drücke die ~h~SELECT~w~-Taste, um den Blickwinkel zu ãndern.
+Drücke die ~h~SELECT~w~-Taste, um den Blickwinkel zu ändern.
 
 [MAG_1]
 Links/rechts mit dem ~h~linken Analog-Stick~w~, um Kran zu drehen.~N~ Rauf/runter mit dem ~h~linken Analog-Stick~w~, um Magnet anzuheben/herunter zu lassen.
@@ -3863,7 +3863,7 @@ Steuere den Kran mit dem ~h~linken Analog-Stick~w~~N~~q~ Magnet anheben.~n~~x~ M
 ~t~ Snack kaufen: $1
 
 [SLOT_05]
-~t~ Getrãnk kaufen: $1
+~t~ Getränk kaufen: $1
 
 [SLOT_06]
 ~t~ Roulette spielen~n~Max. Einsatz $100
@@ -3884,7 +3884,7 @@ Steuere den Kran mit dem ~h~linken Analog-Stick~w~~N~~q~ Magnet anheben.~n~~x~ M
 ~t~ Wettautomat benutzen
 
 [ROUHELP]
-Benutze den ~h~linken Analog-Stick~w~, um ein Feld auszuwãhlen.~n~~q~ Einsatz erhöhen~n~~o~ Einsatz verringern~n~~x~ Rad drehen~n~~t~ Beenden
+Benutze den ~h~linken Analog-Stick~w~, um ein Feld auszuwählen.~n~~q~ Einsatz erhöhen~n~~o~ Einsatz verringern~n~~x~ Rad drehen~n~~t~ Beenden
 
 [ROU_MAX]
 Max. Einsatz
@@ -3953,7 +3953,7 @@ STRASSE
 DRILLING
 
 [VP13]
-ZWEI PÃRCHEN
+ZWEI PÄRCHEN
 
 [VP14]
 BUBEN O. HÖHER
@@ -3965,7 +3965,7 @@ BUBEN O. HÖHER
 BAR $~1~
 
 [VP17]
-~x~ WÃHLEN ~t~ ENDE ~<~~>~~u~~d~ NAVIGIEREN
+~x~ WÄHLEN ~t~ ENDE ~<~~>~~u~~d~ NAVIGIEREN
 
 [VP18]
 KEIN KREDIT!
@@ -4004,7 +4004,7 @@ linker Analog-Stick: Drehen
 4. Zahl: ~1~
 
 [ST1_12]
-Dreh den Knopf vorsichtig, hör genau hin, ob irgend etwas klickt und achte auf eventuelles unregelmãßiges Vibrieren
+Dreh den Knopf vorsichtig, hör genau hin, ob irgend etwas klickt und achte auf eventuelles unregelmäßiges Vibrieren
 
 [ST1_13]
 !
@@ -4019,7 +4019,7 @@ Safe
 linker Analog-Stick: Drehen~n~ ~x~ Zahl eingeben~n~ ~t~ Beenden
 
 [WOFHD01]
-Benutze den ~h~linken Analog-Stick~w~, um den Einsatz zu wãhlen.~n~~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter~N~~t~ Beenden
+Benutze den ~h~linken Analog-Stick~w~, um den Einsatz zu wählen.~n~~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter~N~~t~ Beenden
 
 [WOFHD05]
 Gesamt
@@ -4148,7 +4148,7 @@ Kein Gewinn
 Auszahlung
 
 [BJ_STAT]
-Dieser Tisch ist nur für Stammgãste.
+Dieser Tisch ist nur für Stammgäste.
 
 [BJ_H1]
 ~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter~N~~t~ Beenden
@@ -4241,7 +4241,7 @@ DUNKLER DONNER
 ~r~Du brauchst ein leeres Auto, um Taxi-Missionen zu beginnen.
 
 [TX_ILL]
-~r~Dieses Taxi ist Schrott. Du brauchst einen unbeschãdigten Wagen, um Taxi-Missionen zu starten.
+~r~Dieses Taxi ist Schrott. Du brauchst einen unbeschädigten Wagen, um Taxi-Missionen zu starten.
 
 [HMLS_01]
 Hey, Alter, haste mal 'n Dollar?
@@ -4310,7 +4310,7 @@ Verdammt, wer sind Sie?
 Wir müssen was Abgeschiedeneres finden.
 
 [PROS_02]
-Das sieht mir nach einem guten Plãtzchen aus.
+Das sieht mir nach einem guten Plätzchen aus.
 
 [PROS_03]
 Schönes Auto.
@@ -4418,7 +4418,7 @@ Steigung
 160 kg
 
 [GYM1_23]
-~<~ oder ~>~ Gewicht wãhlen~N~ ~x~ OK
+~<~ oder ~>~ Gewicht wählen~N~ ~x~ OK
 
 [GYM1_25]
 Drücke ~t~ zum Beenden.
@@ -4460,25 +4460,25 @@ Um die Hanteln zu stemmen, drücke abwechselnd ~x~ und ~o~. Dadurch erhöht sich
 ~w~Um das Gewicht zu stemmen, drücke abwechselnd ~x~ und ~o~. Dadurch erhöht sich dein Krafteinsatz.
 
 [GYM1_40]
-Indem du mehrmals schnell ~x~ drückst, fãngst du an, in die Pedale zu treten.
+Indem du mehrmals schnell ~x~ drückst, fängst du an, in die Pedale zu treten.
 
 [GYM1_41]
-Um den Schwierigkeitsgrad zu ãndern, drücke ~<~ oder ~>~.
+Um den Schwierigkeitsgrad zu ändern, drücke ~<~ oder ~>~.
 
 [GYM1_42]
 Um mit dem Laufen zu beginnen, drücke mehrmals schnell ~x~.
 
 [GYM1_43]
-Um den Stufe zu ãndern, drücke ~<~ oder ~>~, wãhrend du auf dem Laufband bist.
+Um den Stufe zu ändern, drücke ~<~ oder ~>~, während du auf dem Laufband bist.
 
 [GYM1_44]
-Um die Steigung zu ãndern, drücke ~U~ oder ~D~, wãhrend du auf dem Laufband bist.
+Um die Steigung zu ändern, drücke ~U~ oder ~D~, während du auf dem Laufband bist.
 
 [GYM1_45]
 Lass nicht zu, dass sich deine Kraftanzeige leert, sonst fliegst du vom Laufband.
 
 [GYM1_60]
-Drücke den ~h~linken Analog-Stick~w~ aufwãrts oder abwãrts, um den Schwierigkeitsgrad auszuwãhlen.~N~~X~ Auswahl~N~~T~ Beenden
+Drücke den ~h~linken Analog-Stick~w~ aufwärts oder abwärts, um den Schwierigkeitsgrad auszuwählen.~N~~X~ Auswahl~N~~T~ Beenden
 
 [GYM1_61]
 Stufe 1
@@ -4511,7 +4511,7 @@ Stufe 9
 Stufe 10
 
 [GYM1_71]
-Drücke den ~H~linken Analog-Stick~W~ nach oben oder unten, um ein Gewicht auszuwãhlen.~N~~X~ Auswahl~N~~T~ Beenden
+Drücke den ~H~linken Analog-Stick~W~ nach oben oder unten, um ein Gewicht auszuwählen.~N~~X~ Auswahl~N~~T~ Beenden
 
 [GYM1_72]
 Gewicht
@@ -4529,7 +4529,7 @@ Stufe
 ~r~Du hast dich zu weit wegbewegt.
 
 [SEXGOD]
-Zuhãlter-Missionen abgeschlossen! Prostituierte werden ab jetzt DIR Geld zahlen, damit du dich mit ihnen abgibst.
+Zuhälter-Missionen abgeschlossen! Prostituierte werden ab jetzt DIR Geld zahlen, damit du dich mit ihnen abgibst.
 
 [IE01]
 Drücke ~t~, um die Liste mit Autos, die angekauft werden, einzusehen.
@@ -4541,7 +4541,7 @@ Drücke ~t~, um dir die Autos anzusehen, die augenblicklich zum Verkauf stehen.
 Drücke ~t~ zum Beenden.
 
 [IE04]
-Drücke ~u~ oder ~d~, um ein Fahrzeug auszuwãhlen.
+Drücke ~u~ oder ~d~, um ein Fahrzeug auszuwählen.
 
 [IE05]
 Drücke ~x~, um ein Fahrzeug zu kaufen.
@@ -4613,16 +4613,16 @@ Drücke ~q~, um Einbrecher-Missionen an- oder abzuschalten.
 Drücke ~C~, um Einbrecher-Missionen an- oder abzuschalten.
 
 [PTUTORA]
-Drücke ~C~, um Zuhãlter-Missionen an- oder abzuschalten.
+Drücke ~C~, um Zuhälter-Missionen an- oder abzuschalten.
 
 [PTUTORB]
-Drücke ~q~, um Zuhãlter-Missionen an- oder abzuschalten.
+Drücke ~q~, um Zuhälter-Missionen an- oder abzuschalten.
 
 [HELP6_A]
-Drücke ~J~, um die hintere Bremse des Fahrzeugs zu betãtigen.
+Drücke ~J~, um die hintere Bremse des Fahrzeugs zu betätigen.
 
 [HELP6_D]
-Drücke ~K~, um die hintere Bremse des Fahrzeugs zu betãtigen.
+Drücke ~K~, um die hintere Bremse des Fahrzeugs zu betätigen.
 
 [HELP26]
 Drücke ~K~, um auf das Fahrrad zu springen.
@@ -4643,7 +4643,7 @@ Drücke den ~h~linken Analog-Stick~w~ nach links oder rechts, um das Fahrzeug zu
 Folge dem ~h~'CJ'~w~-Symbol auf dem Radar, um in dein Viertel zurückzufinden.
 
 [HELP57]
-Drücke ~U~ oder ~D~, um den Blickwinkel zu ãndern.
+Drücke ~U~ oder ~D~, um den Blickwinkel zu ändern.
 
 [HELP53]
 Benutze ~M~ oder ~V~, um zwischen deinen Waffen zu wechseln.
@@ -4667,13 +4667,13 @@ Drücke ~t~, um auf das Fahrrad zu springen.
 Drücke ~t~, um aus einem Fahrzeug auszusteigen.
 
 [WANT_L]
-Dein Fahndungslevel ist bis auf weiteres aufgehoben. Solltest du ein Verbrechen begehen, wãhrend die Sterne blinken, wird dein volles Fahndungslevel wieder aktiv.
+Dein Fahndungslevel ist bis auf weiteres aufgehoben. Solltest du ein Verbrechen begehen, während die Sterne blinken, wird dein volles Fahndungslevel wieder aktiv.
 
 [HELP3B]
 Du kannst nur bestimmte Zeit schnell Rad fahren oder sprinten.
 
 [HELP3B2]
-Je mehr du trainierst, desto besser wird deine ~h~Kondition~w~, was dir erlaubt, dich lãnger anzustrengen.
+Je mehr du trainierst, desto besser wird deine ~h~Kondition~w~, was dir erlaubt, dich länger anzustrengen.
 
 [HELP4_D]
 Drücke den ~h~rechten Analog-Stick~w~ nach oben, um zu ~h~beschleunigen.
@@ -4763,7 +4763,7 @@ Um verneinend zu antworten, drücke ~<~~n~Um bejahend zu antworten, drücke ~>~
 Folge dem 'R' auf dem Radar, um Ryders Bude zu finden
 
 [HELP56]
-Drücke die ~h~SELECT~w~-Taste, um den Blickwinkel zu ãndern. Drücke den ~h~linken Analog-Stick~w~ nach oben oder unten, um die Höhe der Kamera zu ãndern.
+Drücke die ~h~SELECT~w~-Taste, um den Blickwinkel zu ändern. Drücke den ~h~linken Analog-Stick~w~ nach oben oder unten, um die Höhe der Kamera zu ändern.
 
 [IMPEXP]
 Import/Export(impexp-NF)
@@ -4808,10 +4808,10 @@ AK-47 ~n~Runde 3
 Micro SMG-Schießen siegreich bestanden
 
 [ANR_54]
-Fãhigkeit zum Schnellladen erworben. Du kannst deine Waffen jetzt rascher nachladen.
+Fähigkeit zum Schnellladen erworben. Du kannst deine Waffen jetzt rascher nachladen.
 
 [ANR_55]
-Komm spãter wieder, dann gibt es weitere Schießwettbewerbe.
+Komm später wieder, dann gibt es weitere Schießwettbewerbe.
 
 [ANR_56]
 Ein neuer Schießwettbewerb ist verfügbar.
@@ -4838,7 +4838,7 @@ Wenn du nichts isst, verlierst du Gewicht und irgendwann auch Energie. Der rote 
 Essen gibt dir Energie, aber wenn du zu viel isst, wirst du fett.
 
 [FUDHLP3]
-Drücke ~K~, um dir Statistiken anzusehen. Dies zeigt CJs augenblicklichen Zustand an. Immer wenn sich eine Statistik ãndert, erscheint sie oben links auf dem Bildschirm.
+Drücke ~K~, um dir Statistiken anzusehen. Dies zeigt CJs augenblicklichen Zustand an. Immer wenn sich eine Statistik ändert, erscheint sie oben links auf dem Bildschirm.
 
 [BURGLAR]
 'Einbrecher'
@@ -4865,7 +4865,7 @@ Um schneller zu fahren, ~X~ mehrmals schnell hintereinander drücken.
 Drücke ~J~, um Ziele anzuvisieren und ~o~, um eine Nahkampfattacke durchzuführen.
 
 [MELHLP2]
-Wãhrend du einen Gegner anvisierst, drücke ~t~, um eine Spezialattacke auszuführen und ~q~, um zu blocken.
+Während du einen Gegner anvisierst, drücke ~t~, um eine Spezialattacke auszuführen und ~q~, um zu blocken.
 
 [CS2_11]
 ~s~DER ALARM IST LOSGEGANGEN
@@ -4895,10 +4895,10 @@ Du hast $~1~ gestohlen.
 ~s~Schnapp dir den ~g~Stoff~s~.
 
 [BCR3_06]
-~s~Wãhrend der Verfolgungsjagd ist der ganze Stoff verlorengegangen!
+~s~Während der Verfolgungsjagd ist der ganze Stoff verlorengegangen!
 
 [BCR3_07]
-~s~Der Kurier hat seine Lieferung getãtigt.
+~s~Der Kurier hat seine Lieferung getätigt.
 
 [GARAGE2]
 Demolition (garage2.sc)
@@ -4910,7 +4910,7 @@ Trag Blumen im Haar
 Benutze den ~h~linken Analog-Stick~w~, um dich im Wasser zu bewegen.
 
 [WZI2_A1]
-Tippe auf ~X~ wãhrend du vorwãrts schwimmst, um schneller zu schwimmen.
+Tippe auf ~X~ während du vorwärts schwimmst, um schneller zu schwimmen.
 
 [WZI2_A2]
 Der blaue Balken oben rechts auf dem Bildschirm ist deine ~h~Atemanzeige~w~. Sie gibt an, wie lange du unter Wasser bleiben kannst.
@@ -4952,7 +4952,7 @@ Du brauchst mehr Tauch-Praxis, bevor du diese Mission starten kannst.
 ~s~Zisch los zum Ort des Rennens.
 
 [AMBUL_M]
-SANITÃTER
+SANITÄTER
 
 [A_TIME]
 +~1~ Sekunden
@@ -4979,7 +4979,7 @@ Teste dein Können in der Ammu-Nation Schießstand-Mission.
 Tritt mit verschiedenen Waffen gegen zwei Konkurrenten an.
 
 [ANR_3]
-Du musst jede Runde als Erster beenden, um in die nãchste vorzurücken.
+Du musst jede Runde als Erster beenden, um in die nächste vorzurücken.
 
 [ANR_6]
 Pistole Runde 1
@@ -5138,7 +5138,7 @@ Unternehmen erworben!
 Hotelsuite erworben!
 
 [ASS_LUV]
-Dieses Objekt generiert ab jetzt Einkünfte von bis zu $~1~. Hol dir das Geld regelmãßig ab!
+Dieses Objekt generiert ab jetzt Einkünfte von bis zu $~1~. Hol dir das Geld regelmäßig ab!
 
 [MODNO2]
 ~s~Dieses Fahrzeug kannst du nicht tunen.
@@ -5207,7 +5207,7 @@ Ein rundes Symbol bedeutet, dass sich ein Ziel auf gleicher Höhe mit dir befind
 Ein nach oben zeigendes Dreieck bedeutet, dass sich ein Ziel in größerer Höhe befindet als du und ein nach unten zeigendes, dass sich ein Ziel in geringerer Höhe befindet.
 
 [CELSKIP]
-~t~ drücken, um ein Handygesprãch zu überspringen.
+~t~ drücken, um ein Handygespräch zu überspringen.
 
 [MID_AIR]
 Geh vom Gas, um dein Fahrzeug im Flug unter Kontrolle zu halten.
@@ -5222,7 +5222,7 @@ Wenn du innerhalb einer vorher fehlgeschlagenen Mission eine Fahrtstrecke bereit
 Wenn du deine Kondition verbessern, oder dir mehr Muskeln zulegen willst, ODER wenn du neue Tricks lernen willst, geh in eins der Fitnesscenter in San Andreas.
 
 [SPRSTAM]
-Je mehr du sprintest, desto besser wird deine ~h~Kondition~w~ und du hãltst körperlichen Belastungen lãnger stand.
+Je mehr du sprintest, desto besser wird deine ~h~Kondition~w~ und du hältst körperlichen Belastungen länger stand.
 
 [SPANNER]
 Fahr über Icons, um dein Auto zu reparieren!
@@ -5237,7 +5237,7 @@ Um das Fahrwerk anzuheben oder zu senken, drücke ~A~.
 ~t~ halten, um zu beenden.
 
 [DNC_H2]
-Bist du sicher? ~N~~x~ Bestãtigen und beenden.~n~~t~ Weitertanzen.
+Bist du sicher? ~N~~x~ Bestätigen und beenden.~n~~t~ Weitertanzen.
 
 [DNC_P1]
 Gut getanzt!
@@ -5279,7 +5279,7 @@ Gut getanzt!
 ~t~ Glücksrad spielen~n~Max. Einsatz $1000000
 
 [SNIPER1]
-Um auf das Zielfernrohr des Prãzisionsgewehrs zu wechseln, drücke ~J~. Benutze ~M~, um ranzuzoomen und ~V~, um wegzuzoomen.
+Um auf das Zielfernrohr des Präzisionsgewehrs zu wechseln, drücke ~J~. Benutze ~M~, um ranzuzoomen und ~V~, um wegzuzoomen.
 
 [SNIPER2]
 Drücke ~o~ oder ~K~, um zu feuern.
@@ -5291,7 +5291,7 @@ Chaos-Derby
 ~t~ drücken, für einen Private Dance. Kosten - $100
 
 [STR_02]
-~o~ Ansicht ãndern~n~~t~ Private Dance verlassen
+~o~ Ansicht ändern~n~~t~ Private Dance verlassen
 
 [STR_03]
 Du brauchst wenigstens $100 für einen Private Dance.
@@ -5351,7 +5351,7 @@ PREIS
 $~1~
 
 [PLA_19]
-AUSWÃHLEN
+AUSWÄHLEN
 
 [PLA_20]
 KAUFEN
@@ -5387,7 +5387,7 @@ Du kannst dir jederzeit bei Emmet eine Waffe besorgen!
 Um Carl daran zu hindern, in ein Auto zu steigen, nachdem er bereits die Tür geöffnet hat oder den Fahrer oder Beifahrer herausgezerrt hat, bewege den ~h~linken Analog-Stick~w~ oder drücke ~o~.
 
 [HLP_TRN]
-Um eine Bahn zu besteigen, drücke in der Nãhe der Türe eines Personenwagens ~t~.
+Um eine Bahn zu besteigen, drücke in der Nähe der Türe eines Personenwagens ~t~.
 
 [BUST_1]
 Wenn du einen Fahndungslevel hast, wird die örtliche Polizei versuchen, dich zu verhaften.
@@ -5396,13 +5396,13 @@ Wenn du einen Fahndungslevel hast, wird die örtliche Polizei versuchen, dich zu
 Wenn dein Fahndungslevel höher wird, werden sich auch andere Behörden mit ihren Spezialeinheiten einschalten und die Wahrscheinlichkeit, dass man versucht, dich zu töten, steigt.
 
 [BUST_3]
-Wenn du verhaftet wirst, dann wirst du zum nãchsten Polizeirevier gebracht.
+Wenn du verhaftet wirst, dann wirst du zum nächsten Polizeirevier gebracht.
 
 [BUST_4]
 Die Cops werden dir alle Waffen abnehmen und kassieren ein wenig Schmiergeld von dir.
 
 [HOSP_1]
-Wenn deine Gesundheit bei Null ist, dann wirst du ohnmãchtig und wirst im nãchsten Krankenhaus behandelt.
+Wenn deine Gesundheit bei Null ist, dann wirst du ohnmächtig und wirst im nächsten Krankenhaus behandelt.
 
 [HOSP_2]
 Um deinen Gesundheitszustand zu verbessern, kannst du essen, Gesundheits-Pickups aufnehmen, oder du kannst dich durch Panzerung schützen.
@@ -5438,7 +5438,7 @@ Beat the Cock!
 Der Cluckin' Cock ist noch nicht soweit!
 
 [TRAINS]
-Drücke ~X~, um zur nãchsten Station zu springen.
+Drücke ~X~, um zur nächsten Station zu springen.
 
 [BEEFY]
 Beefy Baron
@@ -5462,7 +5462,7 @@ Alle Austern eingesammelt! Katie, Helena, Barbara und Michelle werden dich immer
 Jedes Kleidungsstück, das du kaufst, steht im Kleiderschrank deines Verstecks zur Verfügung.
 
 [CHATBAK]
-Die Leute auf der Straße werden manchmal mit Carl reden wollen.~n~Du kannst auf ihre Ãußerungen reagieren: Drücke ~<~ für eine negative Reaktion oder ~>~, um positiv zu antworten.
+Die Leute auf der Straße werden manchmal mit Carl reden wollen.~n~Du kannst auf ihre Äußerungen reagieren: Drücke ~<~ für eine negative Reaktion oder ~>~, um positiv zu antworten.
 
 [WUZ_HLP]
 Geh ins Four Dragons Casino und triff dich mit Woozie!
@@ -5518,7 +5518,7 @@ GERETTETE MENSCHEN: ~1~
 Krankenwagen-Missionen abgeschlossen: $~1~
 
 [AMBSEAT:AMBULAE]
-FREIE PLÃTZE
+FREIE PLÄTZE
 
 [A_COMP3:AMBULAE]
 ~s~Der maximale Wert für deine Gesundheit wurde erhöht!
@@ -5542,28 +5542,28 @@ Zeit
 Halte ~M~ oder ~V~ gedrückt und drücke dann ~o~, um einen Gegenstand nach links oder rechts zu werfen. Um einen daneben geworfenen Gegenstand wieder aufzunehmen, fahre über ihn drüber.
 
 [BCOU_3:BCOU]
-~s~Wirf diese Pãckchen schnell durch die ~y~Abwurfmarkierungen~s~!
+~s~Wirf diese Päckchen schnell durch die ~y~Abwurfmarkierungen~s~!
 
 [BCOU_4:BCOU]
-~s~Fahr mit dem Bike durch die Stadt und wirf Pãckchen durch die ~y~Abwurfmarkierungen~s~, bevor die Zeit um ist.
+~s~Fahr mit dem Bike durch die Stadt und wirf Päckchen durch die ~y~Abwurfmarkierungen~s~, bevor die Zeit um ist.
 
 [BCOU_5:BCOU]
-~s~Pãckchen abgeliefert! Fahr zu einer anderen ~y~Abwurfmarkierung~s~ und liefere ein weiteres Pãckchen aus.
+~s~Päckchen abgeliefert! Fahr zu einer anderen ~y~Abwurfmarkierung~s~ und liefere ein weiteres Päckchen aus.
 
 [BCOU_6:BCOU]
-~s~Alle Pãckchen abgeliefert! Fahr zurück zum ~y~Abholort~s~, und hol dir deinen Lohn ab.
+~s~Alle Päckchen abgeliefert! Fahr zurück zum ~y~Abholort~s~, und hol dir deinen Lohn ab.
 
 [BCOU_7:BCOU]
 ~s~Lohn $~1~
 
 [BCOU_8:BCOU]
-Pãckchen an Bord
+Päckchen an Bord
 
 [BCOU_10:BCOU]
-~s~Wirf ein Pãckchen und triff damit durch die ~y~Abwurfmarkierung~s~, damit die Lieferung als ausgeführt gilt.
+~s~Wirf ein Päckchen und triff damit durch die ~y~Abwurfmarkierung~s~, damit die Lieferung als ausgeführt gilt.
 
 [BCOU_11:BCOU]
-~r~Du hast nicht genug Pãckchen, um die Lieferquote für diese Fahrt zu erfüllen!
+~r~Du hast nicht genug Päckchen, um die Lieferquote für diese Fahrt zu erfüllen!
 
 [BCOU_12:BCOU]
 Gute Arbeit! Nun zu deinem Anteil am Profit!
@@ -5584,7 +5584,7 @@ Lohn :
 Verbliebene Zeit
 
 [BCOU_23:BCOU]
-Pãckchen übrig
+Päckchen übrig
 
 [BCOU_24:BCOU]
 Gesamtbetrag
@@ -5647,10 +5647,10 @@ Los Santos
 Las Venturas
 
 [BCOU_83:BCOU]
-Pãckchen
+Päckchen
 
 [BCOU_84:BCOU]
-Halte ~M~ oder ~V~ gedrückt und drücke ~o~, um ein Pãckchen nach rechts oder links zu werfen. Fahre über das letzte erfolglos abgeworfene Pãckchen, um es wieder aufzusammeln.
+Halte ~M~ oder ~V~ gedrückt und drücke ~o~, um ein Päckchen nach rechts oder links zu werfen. Fahre über das letzte erfolglos abgeworfene Päckchen, um es wieder aufzusammeln.
 
 {=================================== MISSION TABLE BCRASH1 ===================================}
 
@@ -5676,13 +5676,13 @@ Rufe durch drücken der ~h~START~w~-Taste das Pause-Menü auf, um deine Galerie 
 ~s~Du brauchst die ~g~Kamera~s~.
 
 [BCR1_02:BCRASH1]
-~s~Begib dich auf den Berg hinauf, finde diesen ~r~Verrãter~s~.
+~s~Begib dich auf den Berg hinauf, finde diesen ~r~Verräter~s~.
 
 [BCR1_03:BCRASH1]
 ~s~Beseitige den ~y~Zeugen~s~! ~s~Bring den Beweis.
 
 [BCR1_04:BCRASH1]
-~s~Er ist da drin. Rãuchere ihn aus!
+~s~Er ist da drin. Räuchere ihn aus!
 
 [BCR1_05:BCRASH1]
 ~s~Vorsicht vor den U.S. Marshalls.
@@ -5691,10 +5691,10 @@ Rufe durch drücken der ~h~START~w~-Taste das Pause-Menü auf, um deine Galerie 
 ~s~Und lass ihn nicht entkommen!
 
 [BCR1_07:BCRASH1]
-~s~Der ~r~Verrãter ~s~entkommt!
+~s~Der ~r~Verräter ~s~entkommt!
 
 [BCR1_08:BCRASH1]
-~s~Der ~r~Verrãter ~s~flieht zu Fuß!
+~s~Der ~r~Verräter ~s~flieht zu Fuß!
 
 [BCR1_09:BCRASH1]
 ~r~Er ist nicht zu erkennen!
@@ -5729,15 +5729,15 @@ Wenn du die Kamera benutzt, drücke ~M~, um heranzuzoomen, oder ~V~, um hinauszu
 ~s~
 
 [BIKE_12:BIKE_2P]
-Wãhle ein Motorrad aus
+Wähle ein Motorrad aus
 
 [BIKE_13:BIKE_2P]
-Zerstöre ~1~ Motorrãder in ~1~ Minuten
+Zerstöre ~1~ Motorräder in ~1~ Minuten
 
 {=================================== MISSION TABLE BLOOD ===================================}
 
 [BLOD_01:BLOOD]
-~s~Fahr durch die Checkpoints, um deine Gesamtzeit zu verlãngern.
+~s~Fahr durch die Checkpoints, um deine Gesamtzeit zu verlängern.
 
 [BLOD_02:BLOOD]
 ~s~Wenn die Gesamtzeit abgelaufen ist, hast du verloren.
@@ -5767,10 +5767,10 @@ Zerstörte Autos:
 ~s~Die Countdown für die Gesamtzeit startet bei 30 Sekunden.
 
 [BLOD_11:BLOOD]
-~s~Die momentan erforderliche Zeit, um das Chaos-Derby zu gewinnen, betrãgt 1 Min.
+~s~Die momentan erforderliche Zeit, um das Chaos-Derby zu gewinnen, beträgt 1 Min.
 
 [BLOD_12:BLOOD]
-~s~Die momentan erforderliche Zeit, um das Chaos-Derby zu gewinnen, betrãgt ~1~ Min.
+~s~Die momentan erforderliche Zeit, um das Chaos-Derby zu gewinnen, beträgt ~1~ Min.
 
 {=================================== MISSION TABLE BOAT ===================================}
 
@@ -5808,13 +5808,13 @@ Drücke ~T~, um den Test zu beenden.
 Kleines 1x1 der Seefahrt
 
 [BOAT_A1:BOAT]
-~s~Fahr mit dem Boot volle Kraft voraus und bringe es innerhalb der parallelen ~y~Bojen~s~ zum Stehen. ~n~ Vorwãrts geht's mit ~X~, rückwãrts mit ~q~.
+~s~Fahr mit dem Boot volle Kraft voraus und bringe es innerhalb der parallelen ~y~Bojen~s~ zum Stehen. ~n~ Vorwärts geht's mit ~X~, rückwärts mit ~q~.
 
 [BOAT_A4:BOAT]
-~s~Halte ~X~ gedrückt, um Vorwãrtsschub zu geben und bringe das Boot innerhalb der parallelen ~y~Bojen~s~ zum Stehen.
+~s~Halte ~X~ gedrückt, um Vorwärtsschub zu geben und bringe das Boot innerhalb der parallelen ~y~Bojen~s~ zum Stehen.
 
 [BOAT_A5:BOAT]
-~s~Halte ~q~ gedrückt, um Rückwãrtsschub zu geben.
+~s~Halte ~q~ gedrückt, um Rückwärtsschub zu geben.
 
 [BOAT_B:BOAT]
 Kursplanung
@@ -6106,7 +6106,7 @@ Ich gebe dir $~1~ dafür.
 Ich gebe dir $~1~ für das ganze Zeug.
 
 [BURG50:BURGLAR]
-~s~Du musst die Bullen abhãngen, bevor du die Ware abladen kannst.
+~s~Du musst die Bullen abhängen, bevor du die Ware abladen kannst.
 
 [BURG51:BURGLAR]
 GELD
@@ -6148,16 +6148,16 @@ Drücke ~t~, um einen Gegenstand aufzuheben.
 Drücke ~t~, um Gegenstand in Truck zu legen
 
 [BURG36:BURGLAR]
-~s~Diese Ladung: ~1~ Gegenstãnde = $~1~
+~s~Diese Ladung: ~1~ Gegenstände = $~1~
 
 [BURG37:BURGLAR]
-GESAMT: ~1~ Gegenstãnde im Wert von $~1~
+GESAMT: ~1~ Gegenstände im Wert von $~1~
 
 [BURG39:BURGLAR]
 ~s~Diese Ladung: ~1~ Gegenstand = $~1~
 
 [BURG25:BURGLAR]
-Lãrm :
+Lärm :
 
 [BURG26:BURGLAR]
 ~s~Lade die Beute in der ~y~Garage~s~ ab.
@@ -6192,7 +6192,7 @@ Lãrm :
 ~s~
 
 [CARS_12:CARS_2P]
-Wãhle ein Fahrzeug aus
+Wähle ein Fahrzeug aus
 
 [CARS_13:CARS_2P]
 Zerstöre ~1~ Autos in ~1~ Minuten
@@ -6215,7 +6215,7 @@ Nah ya fools! you chill, I'll call ya when I get back from Liberty City.
 ~s~Mach dich auf zum ~y~Flughafen~s~.
 
 [CM10_2:CASIN10]
-~s~Erledige ~r~Forelli~s~ und all seine Leibwãchter.
+~s~Erledige ~r~Forelli~s~ und all seine Leibwächter.
 
 [CM10_10:CASIN10]
 ~s~Der ~b~Jet ~s~steht am Ende der Rollbahn. Steig ein und flieg nach Liberty City.
@@ -6274,7 +6274,7 @@ Irrsinns-Stunts werden ihm nervlich schwer zusetzen.
 Fahren auf der falschen Seite wird ihn zutiefst beunruhigen.
 
 [CAS1_11:CASINO1]
-~s~Schüchtere ihn ein, aber denk daran: ein Frontalzusammenstoß wãre tödlich für ihn.
+~s~Schüchtere ihn ein, aber denk daran: ein Frontalzusammenstoß wäre tödlich für ihn.
 
 [CAS1_12:CASINO1]
 ~s~Und halte dich vom Highway fern, um nicht die Aufmerksamkeit der Polizei zu erregen.
@@ -6306,7 +6306,7 @@ Du brauchst etwas Schweres, um diese Dynamitkiste zu zertrümmern.
 Die Security versperrt den Ausgang.
 
 [PD_11:CASINO2]
-~s~Nimm das ~b~Gelãndemotorrad ~s~und finde einen anderen Weg hinaus!
+~s~Nimm das ~b~Geländemotorrad ~s~und finde einen anderen Weg hinaus!
 
 [PD_12:CASINO2]
 ~s~Jetzt sammle das ~r~Dynamit~s~ auf!
@@ -6410,13 +6410,13 @@ Schau im Steinbruch vorbei, um die Steinbruch-Nebenmissionen anzunehmen.
 ~s~Ausgezeichnet! Die Maschinen sind außer Betrieb!
 
 [CA3_13:CASINO3]
-~s~Ich weiß nicht, für wen der Kerl sich hãlt, aber man wird auf ihn aufmerksam werden, wenn er zu viel sieht!
+~s~Ich weiß nicht, für wen der Kerl sich hält, aber man wird auf ihn aufmerksam werden, wenn er zu viel sieht!
 
 [CA3_17:CASINO3]
 ~w~Bleib weg! Ich geb dir deine eigenen Scheißschuhe zu fressen!
 
 [CA3_20:CASINO3]
-~r~Was soll der Scheiß? Ich sagte, keine Gewalt! Jetzt herrscht bei der Mafia Alarmstufe rot! Dãmlicher Arsch!
+~r~Was soll der Scheiß? Ich sagte, keine Gewalt! Jetzt herrscht bei der Mafia Alarmstufe rot! Dämlicher Arsch!
 
 [CA3_22:CASINO3]
 ~s~Vorsicht! Das sind die Mindestlohn-Arbeiter! Sieh zu, dass du heil von der Fabrik wegkommst, um den Job abzuschließen!
@@ -6436,7 +6436,7 @@ Ich glaube, ich erinnere mich... Moment mal, hattest du nicht die Videokamera in
 Ich glaub, ich hab mir 'nen Nagel abgebrochen
 
 [CAS4_27:CASINO4]
-Ich bin zu hübsch, um zu kãmpfen
+Ich bin zu hübsch, um zu kämpfen
 
 [CAS4_29:CASINO4]
 Was riecht denn hier so?
@@ -6445,7 +6445,7 @@ Was riecht denn hier so?
 Oh, Moment, das bin ja ich.
 
 [CAS4_45:CASINO4]
-Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
+Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefährt!
 
 [CAS4_01:CASINO4]
 ~s~Such ~b~Paul ~s~und ~b~Maccer~s~.
@@ -6489,7 +6489,7 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 {=================================== MISSION TABLE CASINO5 ===================================}
 
 [CAS5_00:CASINO5]
-~s~Such dir ein Gefãhrt und hole Johnny Sindacco aus dem ~y~Krankenhaus~s~ ab.
+~s~Such dir ein Gefährt und hole Johnny Sindacco aus dem ~y~Krankenhaus~s~ ab.
 
 [CAS5_01:CASINO5]
 ~s~Du brauchst ein Fahrzeug, um Johnny abzuholen.
@@ -6507,10 +6507,10 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 ~s~Johnny muss in dem anderen ~r~Krankenwagen~s~ sein. Der hier ist echt.
 
 [CAS5_07:CASINO5]
-~s~Du hast soeben einen unschuldigen Sanitãter erledigt. Johnny muss in einem der anderen ~r~Krankenwagen~s~ sein.
+~s~Du hast soeben einen unschuldigen Sanitäter erledigt. Johnny muss in einem der anderen ~r~Krankenwagen~s~ sein.
 
 [CAS5_08:CASINO5]
-~s~Du hast soeben einen unschuldigen Sanitãter erledigt. Johnny muss in dem anderen ~r~Krankenwagen~s~ sein.
+~s~Du hast soeben einen unschuldigen Sanitäter erledigt. Johnny muss in dem anderen ~r~Krankenwagen~s~ sein.
 
 [CAS5_09:CASINO5]
 ~s~Das scheint der ~r~Krankenwagen~s~ zu sein, der Johnny abgeholt hat. Zerdelle ihn ein wenig, um den Mafiosi zu zeigen, dass du es ernst meinst.
@@ -6519,10 +6519,10 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 ~s~Du hast die Mafiosi auf dich aufmerksam gemacht. Zerdelle den ~r~Krankenwagen~s~ ein wenig, um ihnen zu zeigen, dass du es ernst meinst.
 
 [CAS5_11:CASINO5]
-~s~Steig schnell in den ~b~Krankenwagen~s~, bevor Verstãrkung eintrifft.
+~s~Steig schnell in den ~b~Krankenwagen~s~, bevor Verstärkung eintrifft.
 
 [CAS5_12:CASINO5]
-~s~Steig schnell in den ~b~Krankenwagen~s~. Der Fahrer könnte Verstãrkung angefordert haben, bevor er starb.
+~s~Steig schnell in den ~b~Krankenwagen~s~. Der Fahrer könnte Verstärkung angefordert haben, bevor er starb.
 
 [CAS5_13:CASINO5]
 ~s~Fahre Johnny zu der ~y~Fleischfabrik~s~.
@@ -6534,7 +6534,7 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 ~s~Steig wieder in den ~b~Krankenwagen~s~.
 
 [CAS5_16:CASINO5]
-~s~Sieht aus, als wãre Verstãrkung eingetroffen. Bring Johnny zu der ~y~Fleischfabrik~s~.
+~s~Sieht aus, als wäre Verstärkung eingetroffen. Bring Johnny zu der ~y~Fleischfabrik~s~.
 
 [CAS5_17:CASINO5]
 ~r~Johnny Sindacco wurde getötet.
@@ -6569,7 +6569,7 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 ~s~Alle Zeugen sind tot, aber ~b~Rosenberg~s~ ist in der Kühlkammer eingeschlossen. Du musst ihn rauslassen, bevor du abhauen kannst.
 
 [CAS6_G3:CASINO6]
-~s~Alle Zeugen sind tot, aber du musst warten, bis ~b~Rosenberg~s~ dich rauslãsst, bevor du abzwitschern kannst.
+~s~Alle Zeugen sind tot, aber du musst warten, bis ~b~Rosenberg~s~ dich rauslässt, bevor du abzwitschern kannst.
 
 [CAS6_G4:CASINO6]
 ~s~Geh zum ~y~Ausgang~s~.
@@ -6587,10 +6587,10 @@ Ich steig in keinen verdammten Bus ein. Such uns ein angemessenes Gefãhrt!
 Rosenberg :
 
 [CAS6_H0:CASINO6]
-Wenn du vor Schaltern stehst, drücke ~t~, um sie zu betãtigen.
+Wenn du vor Schaltern stehst, drücke ~t~, um sie zu betätigen.
 
 [CAS6_H1:CASINO6]
-Wenn du vor dem Schalter neben der Kühlkammer stehst, drücke ~t~, um die Tür zu betãtigen.
+Wenn du vor dem Schalter neben der Kühlkammer stehst, drücke ~t~, um die Tür zu betätigen.
 
 [CAS6_H2:CASINO6]
 Solang Rosenberg eingeschlossen ist, wird sich sein Gesundheitszustand langsam verschlechtern.
@@ -6803,13 +6803,13 @@ Fucking cops!
 ~S~Spreng die Tür mit einer Rucksackbombe auf
 
 [CAT4_43:CAT]
-Drücke ~O~, um die ~h~Rucksackbombe~w~ zu werfen. Je lãnger du ~O~ gedrückt hãltst, desto weiter der Wurf.
+Drücke ~O~, um die ~h~Rucksackbombe~w~ zu werfen. Je länger du ~O~ gedrückt hältst, desto weiter der Wurf.
 
 [CAT4_44:CAT]
 ~s~Begib dich in sichere Entfernung von der platzierten Rucksackbombe.
 
 [CAT4_45:CAT]
-Ist die ~h~Rucksackbombe~w~ angebracht, wãhle den ~h~Fernzünder~w~ aus dem Waffeninventar und drücke ~O~, um sie zu zünden.
+Ist die ~h~Rucksackbombe~w~ angebracht, wähle den ~h~Fernzünder~w~ aus dem Waffeninventar und drücke ~O~, um sie zu zünden.
 
 [CAT4_46:CAT]
 Öffne den Safe mit einer ~h~Rucksackbombe~w~.
@@ -6818,10 +6818,10 @@ Ist die ~h~Rucksackbombe~w~ angebracht, wãhle den ~h~Fernzünder~w~ aus dem Waf
 ~s~Du hast angekoppelt!
 
 [CAT3_12:CAT]
-Durch gleichzeitiges Drücken von ~M~ und ~V~ kannst du nach hinten sehen. Oder ãndere den Blickwinkel mit dem ~h~rechten Analog-Stick~w~.
+Durch gleichzeitiges Drücken von ~M~ und ~V~ kannst du nach hinten sehen. Oder ändere den Blickwinkel mit dem ~h~rechten Analog-Stick~w~.
 
 [CAT3_13:CAT]
-Um einen Anhãnger anzukoppeln, vorsichtig mit der Zugmaschine zum Anhãnger zurückstoßen.
+Um einen Anhänger anzukoppeln, vorsichtig mit der Zugmaschine zum Anhänger zurückstoßen.
 
 [CAT137:CAT]
 Geld erbeutet
@@ -6830,7 +6830,7 @@ Geld erbeutet
 ~s~Du hast Catalina zurückgelassen, du musst sie holen!
 
 [LOSE:CAT]
-~r~Du hast die Rãuber aus den Augen verloren.
+~r~Du hast die Räuber aus den Augen verloren.
 
 [LOSE2:CAT]
 ~r~Catalina hat den Löffel abgegeben.
@@ -6848,7 +6848,7 @@ Catalina ist zurück zum Versteck gefahren.
 ~s~Richte deine Waffe auf die Angestellten, um sie in Schach zu halten.
 
 [CAT2_06:CAT]
-Lass sie nicht die Hãnde runternehmen, damit sie nicht den Alarm auslösen.
+Lass sie nicht die Hände runternehmen, damit sie nicht den Alarm auslösen.
 
 [CAT2_14:CAT]
 ~s~Du hast ~b~Catalina~s~ zurückgelassen, du musst zurück und sie holen.
@@ -6869,22 +6869,22 @@ Lass sie nicht die Hãnde runternehmen, damit sie nicht den Alarm auslösen.
 ~s~Steig in die ~b~Zugmaschine~s~!
 
 [CAT3_03:CAT]
-Positioniere die Zugmaschine vor dem Anhãnger.
+Positioniere die Zugmaschine vor dem Anhänger.
 
 [CAT3_04:CAT]
-Durch gleichzeitiges Drücken von ~M~ und ~V~ kannst du nach hinten sehen. Oder ãndere den Blickwinkel mit dem ~h~rechten Analog-Stick~w~. Um einen Anhãnger anzukoppeln, vorsichtig mit der Zugmaschine zum Anhãnger zurückstoßen.
+Durch gleichzeitiges Drücken von ~M~ und ~V~ kannst du nach hinten sehen. Oder ändere den Blickwinkel mit dem ~h~rechten Analog-Stick~w~. Um einen Anhänger anzukoppeln, vorsichtig mit der Zugmaschine zum Anhänger zurückstoßen.
 
 [CAT3_05:CAT]
-~s~Fahr den Tanklastzug zu Catalinas ~y~Abnehmer~s~. Sei vorsichtig, dass du den Anhãnger nicht verlierst.
+~s~Fahr den Tanklastzug zu Catalinas ~y~Abnehmer~s~. Sei vorsichtig, dass du den Anhänger nicht verlierst.
 
 [CAT3_06:CAT]
 ~r~Catalina hat es nicht geschafft.
 
 [CAT3_07:CAT]
-~r~Der Tankanhãnger wurde zerstört!
+~r~Der Tankanhänger wurde zerstört!
 
 [CAT3_08:CAT]
-~r~Der Tankanhãnger hat sich gelöst!
+~r~Der Tankanhänger hat sich gelöst!
 
 [CAT3_09:CAT]
 ~r~Die Zugmaschine wurde zerstört!
@@ -6963,7 +6963,7 @@ Why don't you bring your car round here and I'll fix her up good for ya?
 ~s~Du brauchst ein Auto, mit dem Cesar arbeiten kann.
 
 [CS2_16:CESAR2]
-~r~Du musst das Auto unbeschãdigt zu ihm bringen.
+~r~Du musst das Auto unbeschädigt zu ihm bringen.
 
 [CS2_23:CESAR2]
 ~s~Begib dich zu der Verwahrstelle und hol dir dein ~b~Auto~s~ wieder.
@@ -6986,10 +6986,10 @@ Why don't you bring your car round here and I'll fix her up good for ya?
 HITS
 
 [C_BREIF:COPCAR]
-~r~Verdãchtiger~s~ wurde zuletzt in der Gegend von ~a~ gesehen.
+~r~Verdächtiger~s~ wurde zuletzt in der Gegend von ~a~ gesehen.
 
 [C_BREIS:COPCAR]
-~r~Verdãchtige ~s~wurden zuletzt in der Gegend von ~a~ gesichtet.
+~r~Verdächtige ~s~wurden zuletzt in der Gegend von ~a~ gesichtet.
 
 [COPCART:COPCAR]
 ~s~Du hast ~1~ Sekunden, um zu einem Polizeifahrzeug zurückzukehren, bevor die Mission endet.
@@ -7010,7 +7010,7 @@ Bürgerwehr-Mission Level 12 beendet: Deine max. Panzerung erhöht sich auf 150
 Bürgerwehr-Mission Level ~1~
 
 [C_PASS:COPCAR]
-BEDROHUNG~n~AUSGERÃUMT:~n~~w~$~1~
+BEDROHUNG~n~AUSGERÄUMT:~n~~w~$~1~
 
 [COPTIME:COPCAR]
 ZEIT
@@ -7027,7 +7027,7 @@ LEVEL
 ~s~In der Küche unten ist ein ~g~Feuerlöscher~s~.
 
 [CRA1_11:CRASH1]
-~s~Fahr das ~b~Mãdchen~s~ ~y~nach Hause~s~.
+~s~Fahr das ~b~Mädchen~s~ ~y~nach Hause~s~.
 
 [RUMBLE:CRASH1]
 Rumpel...Rumpel...
@@ -7036,10 +7036,10 @@ Rumpel...Rumpel...
 Denise kommt jetzt als Freundin in Frage. Komm jederzeit wieder und bitte sie um ein Date.
 
 [MOLOTOV:CRASH1]
-Drücke und halte ~o~, um einen Molotowcocktail zu werfen. Je lãnger du ~o~ gedrückt hãltst, desto weiter der Wurf. Sei vorsichtig! Wenn du nicht weit genug wirfst, wirst du von der Explosion erfasst.
+Drücke und halte ~o~, um einen Molotowcocktail zu werfen. Je länger du ~o~ gedrückt hältst, desto weiter der Wurf. Sei vorsichtig! Wenn du nicht weit genug wirfst, wirst du von der Explosion erfasst.
 
 [FIRE_EX:CRASH1]
-Drücke ~o~, um den Feuerlöscher zu benutzen. Ãndere deine Position mit dem ~h~rechten Analog-Stick~w~ und dem ~h~linken~n~Analog-Stick~w~. Drücke ~J~ für einen besseren Blickwinkel. Ziele auf den Kern des Feuers, um es zu löschen.
+Drücke ~o~, um den Feuerlöscher zu benutzen. Ändere deine Position mit dem ~h~rechten Analog-Stick~w~ und dem ~h~linken~n~Analog-Stick~w~. Drücke ~J~ für einen besseren Blickwinkel. Ziele auf den Kern des Feuers, um es zu löschen.
 
 [CRA1_01:CRASH1]
 ~s~Du hast die Molotowcocktails. Begib dich zum ~y~Gang-Haus~s~ und stecke es in Brand.
@@ -7048,31 +7048,31 @@ Drücke ~o~, um den Feuerlöscher zu benutzen. Ãndere deine Position mit dem ~h
 ~s~Setz das Haus in Brand. Wirf dazu Molotowcocktails in die ~r~5 unteren Fenster~s~.
 
 [CRA1_03:CRASH1]
-~s~In der Nãhe gibt es noch mehr ~g~Molotowcocktails~s~.
+~s~In der Nähe gibt es noch mehr ~g~Molotowcocktails~s~.
 
 [CRA1_04:CRASH1]
 ~s~Gut gemacht. Das Haus wird abbrennen.
 
 [CRA1_05:CRASH1]
-~s~Ein Mãdchen befindet sich noch in dem brennenden Haus. Du musst es retten.
+~s~Ein Mädchen befindet sich noch in dem brennenden Haus. Du musst es retten.
 
 [CRA1_06:CRASH1]
 ~s~Geh durch die ~y~Vordertür~s~ hinein.
 
 [CRA1_07:CRASH1]
-Das Mãdchen ist oben. Du hast nicht viel Zeit, bevor es verbrennt.
+Das Mädchen ist oben. Du hast nicht viel Zeit, bevor es verbrennt.
 
 [CRA1_09:CRASH1]
-~s~Nimm den Feuerlöscher mit ins Obergeschoss und rette das ~b~Mãdchen~s~.
+~s~Nimm den Feuerlöscher mit ins Obergeschoss und rette das ~b~Mädchen~s~.
 
 [CRA1_10:CRASH1]
-~s~Du hast das ~b~Mãdchen~s~ zurückgelassen. Kehr um und hole es.
+~s~Du hast das ~b~Mädchen~s~ zurückgelassen. Kehr um und hole es.
 
 [CRA1_12:CRASH1]
-~s~Du hast das ~b~Mãdchen~s~ zurückgelassen. Kehr um und bring es nach Hause.
+~s~Du hast das ~b~Mädchen~s~ zurückgelassen. Kehr um und bring es nach Hause.
 
 [CRA1_30:CRASH1]
-~s~Hier brennt's! Jetzt das nãchste Fenster.
+~s~Hier brennt's! Jetzt das nächste Fenster.
 
 [CRA1_31:CRASH1]
 ~s~Hübsches Feuerchen! Mach weiter.
@@ -7081,19 +7081,19 @@ Das Mãdchen ist oben. Du hast nicht viel Zeit, bevor es verbrennt.
 ~s~Guter Wurf! Ein paar mehr davon sollten reichen.
 
 [CRA1_33:CRASH1]
-~s~Das wird schön brennen. Zünde den nãchsten Raum an.
+~s~Das wird schön brennen. Zünde den nächsten Raum an.
 
 [CRA1_34:CRASH1]
-~s~Burn, Baby, burn. Jetzt den nãchsten Raum.
+~s~Burn, Baby, burn. Jetzt den nächsten Raum.
 
 [CRA1_50:CRASH1]
-~r~Das Mãdchen wurde gegrillt!
+~r~Das Mädchen wurde gegrillt!
 
 [CRA1_51:CRASH1]
-~r~Das Mãdchen ist tot!
+~r~Das Mädchen ist tot!
 
 [CRA1_70:CRASH1]
-Mãdchen
+Mädchen
 
 [WINDOWS:CRASH1]
 Um die Fenster einzuwerfen, schieße mit einer Waffe darauf oder schleudere einen Molotowcocktail dagegen.
@@ -7113,7 +7113,7 @@ Die Radarmarkierung zeigt das Gebiet an, das es anzugreifen gilt. Die Markierung
 ~s~Du sollst ~y~Glen Park, Ballas-Gebiet~s~ erobern. Geh in ~b~Ammu-Nation~s~, falls du eine Waffe brauchst.
 
 [CM2_5:CRASH2]
-~s~Greife feindliche Gangmitglieder an, wãhrend du zu Fuß unterwegs bist.
+~s~Greife feindliche Gangmitglieder an, während du zu Fuß unterwegs bist.
 
 [CM2_6:CRASH2]
 ~s~Begib dich wieder in den ~y~Glen Park~s~!
@@ -7134,7 +7134,7 @@ Die Radarmarkierung zeigt das Gebiet an, das es anzugreifen gilt. Die Markierung
 ~s~Deine Gangmitglieder sind jetzt in diesem Gebiet zu finden.
 
 [CM2_14:CRASH2]
-~s~Dein Gebiet wird stãndig von feindlichen Gangs angegriffen werden. Du musst es verteidigen.
+~s~Dein Gebiet wird ständig von feindlichen Gangs angegriffen werden. Du musst es verteidigen.
 
 [CM2_16:CRASH2]
 ~s~Greife feindliche Gangmitglieder an, um die Übernahme des Gebiets einzuleiten!
@@ -7184,13 +7184,13 @@ Durch die Übernahme eines Gebiets gewinnst du Achtung und Geld. Das Geld ersche
 Die Tür ist verschlossen. Schrotte das Keypad, dann geht sie vielleicht auf.
 
 [CSH3_10:CRASH3]
-Wenn du ~J~ drückst, ohne jemanden anzuvisieren, kannst du dich seitwãrts bewegen.
+Wenn du ~J~ drückst, ohne jemanden anzuvisieren, kannst du dich seitwärts bewegen.
 
 [CSH3_11:CRASH3]
-Wãhrend du dich seitwãrts bewegst, kannst du mit dem ~h~rechten Analog-Stick ~w~manuell zielen und schießen.
+Während du dich seitwärts bewegst, kannst du mit dem ~h~rechten Analog-Stick ~w~manuell zielen und schießen.
 
 [CSH3_12:CRASH3]
-Durch Seitwãrtsbewegungen kannst du um Ecken sehen und dich bei Schießereien effektiver positionieren.
+Durch Seitwärtsbewegungen kannst du um Ecken sehen und dich bei Schießereien effektiver positionieren.
 
 [CSH3_52:CRASH3]
 Um dich abzurollen, musst du in der Hocke sein und eine Waffe aktiviert haben. Halte dann ~J~ gedrückt und drücke den ~h~linken Analog-Stick~w~ in die Richtung, in die du dich abrollen willst.
@@ -7199,7 +7199,7 @@ Um dich abzurollen, musst du in der Hocke sein und eine Waffe aktiviert haben. H
 Das Abrollen nützt dir bei Schießereien, denn so kannst du feindlichem Feuer ausweichen und den Gegner überraschen. Du kannst dich sowohl nach links, als auch nach rechts abrollen.
 
 [CSH3_53:CRASH3]
-~s~Schalte den ~r~russischen Waffenhãndler~s~ im Büro aus!
+~s~Schalte den ~r~russischen Waffenhändler~s~ im Büro aus!
 
 [CSH3_54:CRASH3]
 ~s~Er ist in ein ~r~Auto~s~ gestiegen! Verfolge ihn und schalte ihn aus!
@@ -7336,7 +7336,7 @@ Allez Hop
 Wheelie Slalom
 
 [DS_L:DS]
-Abdrãng-Manöver
+Abdräng-Manöver
 
 [DS_N:DS]
 Pylonen-Slalom
@@ -7372,7 +7372,7 @@ Gesamtergebnis:
 Gesamtzeit:
 
 [DS1_28:DS]
-~s~Das Auto hat Vorderradantrieb. Fahr rückwãrts und dreh dich schnell um 180 Grad.~n~Drücke ~M~ und ~V~, um nach hinten zu sehen.
+~s~Das Auto hat Vorderradantrieb. Fahr rückwärts und dreh dich schnell um 180 Grad.~n~Drücke ~M~ und ~V~, um nach hinten zu sehen.
 
 [DS1_29:DS]
 ~s~Fahre so schnell wie möglich 5 Runden.~n~Ziel ist es, unter 40 Sekunden zu bleiben.
@@ -7381,13 +7381,13 @@ Gesamtzeit:
 ~s~Fahre zum Ende der Strecke. Auf halbem Weg wird ein Reifen platzen.~n~Um mehr Kontrolle über das Fahrzeug zu bekommen, lass die Gas-Taste los.
 
 [DS1_31:DS]
-~s~Fahr auf die andere Seite der Stadt und wieder zurück, ohne den Wagen zu beschãdigen.~n~Ziel ist es, unter 120 Sekunden zu bleiben.
+~s~Fahr auf die andere Seite der Stadt und wieder zurück, ohne den Wagen zu beschädigen.~n~Ziel ist es, unter 120 Sekunden zu bleiben.
 
 [DS1_32:DS]
 ~s~Mache einen Powerslide um eine enge Kurve und halte in dem markierten Bereich.
 
 [DS1_33:DS]
-~s~Vollführe eine perfekte Landung nach einer Fassrolle. Lass in der Luft die Gas-Taste los und bewege den ~h~linken Analog-Stick~w~, um die Neigung des Autos zu verãndern.
+~s~Vollführe eine perfekte Landung nach einer Fassrolle. Lass in der Luft die Gas-Taste los und bewege den ~h~linken Analog-Stick~w~, um die Neigung des Autos zu verändern.
 
 [DS1_34:DS]
 ~s~Halte den Wagen bis Ende der Strecke auf zwei Reifen.
@@ -7396,7 +7396,7 @@ Gesamtzeit:
 ~s~Bring das andere Auto ins Schleudern, ohne dass du größeren Schaden nimmst.~n~Fahre so nah wie möglich an dem anderen Auto durchs Ziel.
 
 [DS1_36:DS]
-~s~Schlãngle dich rasch durch die Pylone und begib dich wieder in Startposition.
+~s~Schlängle dich rasch durch die Pylone und begib dich wieder in Startposition.
 
 [DS1_43:DS]
 ~s~Geh zum Fernseher, um mit der Lektion zu beginnen.
@@ -7500,19 +7500,19 @@ Drücke ~Q~, um zu beginnen.
 ~s~Flieg das Jet Pack zum ~g~Zug~s~ und stehle das, was sie hüten wie ihren Augapfel.
 
 [DE10_02:DSERT10]
-~s~Das ist die richtige! Schnapp dir ~g~den Behãlter mit dem grünen Glibber~s~.
+~s~Das ist die richtige! Schnapp dir ~g~den Behälter mit dem grünen Glibber~s~.
 
 [DE10_03:DSERT10]
 ~s~Die ~g~Kiste~s~ ist leer. Versuch's mit einer anderen.
 
 [DE10_04:DSERT10]
-~s~Du hast den Behãlter mit dem grünen Glibber. Bring ihn zu ~y~The Truth~s~.
+~s~Du hast den Behälter mit dem grünen Glibber. Bring ihn zu ~y~The Truth~s~.
 
 [DE10_05:DSERT10]
 ~r~Du hast den grünen Glibber nicht rechtzeitig in deinen Besitz gebracht.
 
 [DE10_06:DSERT10]
-~s~Zerschieße die ~g~Kisten~s~, um den Behãlter mit dem grünen Glibber zu finden.
+~s~Zerschieße die ~g~Kisten~s~, um den Behälter mit dem grünen Glibber zu finden.
 
 {=================================== MISSION TABLE DSERT12 ===================================}
 
@@ -7582,7 +7582,7 @@ Heli :
 ~s~Liefere die Schmuggelware im ~y~Versteck ~s~ab.
 
 [AIR1_11:DSERT3]
-~s~Hãng das ~r~FBI~s~ ab.
+~s~Häng das ~r~FBI~s~ ab.
 
 [AIR1_12:DSERT3]
 Cops
@@ -7610,7 +7610,7 @@ Kreise und lande
 ~s~Drücke ~C~, um das Fahrgestell einzuholen.
 
 [DES5_1J:DSERT5]
-~s~Steigt oder fãllt das Flugzeug, kannst du dies am Höhenmesser links von Radar ablesen.
+~s~Steigt oder fällt das Flugzeug, kannst du dies am Höhenmesser links von Radar ablesen.
 
 [DES5_2A:DSERT5]
 ~s~Halte ~Q~ gedrückt, um den Sinkflug zu verlangsamen.
@@ -7631,22 +7631,22 @@ Drücke ~M~, um mittels Seitenruder nach links zu fliegen. Mit ~V~ fliegst du na
 ~s~Durch Einsatz des Ruders kannst du bei Querneigung des Flugzeugs schneller um die Kurve fliegen.
 
 [DES5_3E:DSERT5]
-~s~Halte den ~h~linken Analog-Stick~w~ diagonal nach links unten gedrückt, um in Querneigung eine Kurve zu fliegen, und halte auf die nãchste ~y~Markierung~s~ zu.
+~s~Halte den ~h~linken Analog-Stick~w~ diagonal nach links unten gedrückt, um in Querneigung eine Kurve zu fliegen, und halte auf die nächste ~y~Markierung~s~ zu.
 
 [DES5_3F:DSERT5]
-~s~Halte den ~h~linken Analog-Stick~w~ diagonal nach rechts unten gedrückt, um in Querneigung eine Kurve zu fliegen, und halte auf die nãchste ~y~Markierung~s~ zu.
+~s~Halte den ~h~linken Analog-Stick~w~ diagonal nach rechts unten gedrückt, um in Querneigung eine Kurve zu fliegen, und halte auf die nächste ~y~Markierung~s~ zu.
 
 [DES5_3I:DSERT5]
-~s~Fliege in Querneigung scharf nach links, um die nãchste ~y~Markierung~s~ zu finden. Drücke ~M~, um mittels Ruder schneller um die Kurve zu fliegen.
+~s~Fliege in Querneigung scharf nach links, um die nächste ~y~Markierung~s~ zu finden. Drücke ~M~, um mittels Ruder schneller um die Kurve zu fliegen.
 
 [DES5_3J:DSERT5]
-~s~Fliege in Querneigung scharf nach rechts, um die nãchste ~y~Markierung~s~ zu finden. Drücke ~V~, um mittels Ruder schneller um die Kurve zu fliegen.
+~s~Fliege in Querneigung scharf nach rechts, um die nächste ~y~Markierung~s~ zu finden. Drücke ~V~, um mittels Ruder schneller um die Kurve zu fliegen.
 
 [DES5_3L:DSERT5]
 ~s~Der künstliche Horizont auf dem Radar zeigt das Verhalten des Flugzeugs an.
 
 [DES5_3M:DSERT5]
-~s~Geht das Flugzeug in Quer- oder Lãngsneigung, verãndert sich der künstliche Horizont entsprechend.
+~s~Geht das Flugzeug in Quer- oder Längsneigung, verändert sich der künstliche Horizont entsprechend.
 
 [DES5_7H:DSERT5]
 ~s~Wenn du in Querneigung eine Kurve fliegen musst, halte den ~h~linken Analog-Stick~w~ diagonal nach links oder rechts oben gedrückt.
@@ -7670,7 +7670,7 @@ Drücke ~K~, um die Kanonen abzufeuern und ~O~, um Raketen abzufeuern.
 ~s~Zieh die Nase der Maschine leicht hoch, bevor du die Fassrolle ausführst, um zu verhindern, dass das Flugzeug an Höhe verliert.
 
 [DES5_CG:DSERT5]
-Ziehe den ~h~linken Analog-Stick~w~ nach hinten, um die Beine anzuheben und dich vorwãrts zu bewegen.
+Ziehe den ~h~linken Analog-Stick~w~ nach hinten, um die Beine anzuheben und dich vorwärts zu bewegen.
 
 [DES5_CI:DSERT5]
 ~s~Ziehe den ~h~linken Analog-Stick~w~ nach hinten, um den Sinkflug zu verlangsamen, und drücke ihn nach links oder rechts, um zu rotieren.
@@ -7754,7 +7754,7 @@ Zeit: ~1~
 ~s~Nimm Kurs auf die erste ~y~Markierung~s~.
 
 [DES5_1G:DSERT5]
-~s~Drücke den ~h~linken Analog-Stick~w~ nach vorn, um im Sinkflug die nãchste ~y~Markierung~s~ zu erreichen.
+~s~Drücke den ~h~linken Analog-Stick~w~ nach vorn, um im Sinkflug die nächste ~y~Markierung~s~ zu erreichen.
 
 [DES5_1H:DSERT5]
 ~s~Zieh den ~h~linken Analog-Stick~w~ nach hinten und halte ~X~ gedrückt, um im Steigflug die letzte ~y~Markierung~s~ zu erreichen.
@@ -7781,10 +7781,10 @@ Zeit: ~1~
 ~s~Drücke ~M~, um mithilfe des Ruders eine Linkskurve zu fliegen, und ~V~, um eine Rechtskurve zu fliegen.
 
 [DES5_3G:DSERT5]
-~s~Neige die Maschine nach links und flieg durch die nãchste ~y~Markierung~s~.
+~s~Neige die Maschine nach links und flieg durch die nächste ~y~Markierung~s~.
 
 [DES5_3H:DSERT5]
-~s~Neige die Maschine nach rechts und flieg durch die nãchste ~y~Markierung~s~.
+~s~Neige die Maschine nach rechts und flieg durch die nächste ~y~Markierung~s~.
 
 [DES5_3K:DSERT5]
 ~s~Neige die Maschine immer wieder nach links und rechts und folge den ~y~Markierungen~s~.
@@ -7817,13 +7817,13 @@ Drücke ~M~, um den Heli nach links zu drehen, und ~V~, um ihn nach rechts zu dr
 ~s~Drücke den ~h~linken Analog-Stick~w~ nach vorn und halte ihn gedrückt, um den Hubschrauber um 45 Grad zu neigen.
 
 [DES5_7G:DSERT5]
-~s~Drücke ~X~ und halte sie gedrückt, um vorwãrts auf die ~y~Markierung~s~ zuzufliegen.
+~s~Drücke ~X~ und halte sie gedrückt, um vorwärts auf die ~y~Markierung~s~ zuzufliegen.
 
 [DES5_7I:DSERT5]
 ~s~Wenn du sinken musst, halte ~Q~ gedrückt.
 
 [DES5_8A:DSERT5]
-~s~Drücke den ~h~linken Analog-Stick~w~ nach vorn und drücke ~X~, um deine Vorwãrtsgeschwindigkeit beizubehalten.
+~s~Drücke den ~h~linken Analog-Stick~w~ nach vorn und drücke ~X~, um deine Vorwärtsgeschwindigkeit beizubehalten.
 
 [DES5_8B:DSERT5]
 ~s~Nimm Kurs auf das andere Ende der Piste und behalte deine Höhe bei.
@@ -7862,7 +7862,7 @@ Drücke ~Q~, um zu sinken, und ~X~, um zu steigen.
 ~s~Drücke im freien Fall den ~h~linken Analog-Stick~w~ nach vorn, um nach vorne abzutauchen.
 
 [DES5_CB:DSERT5]
-~s~Zieh den ~h~linken Analog-Stick~w~ nach hinten, um dich rückwãrts zu bewegen, und drücke ihn nach links und rechts, um zu rotieren.
+~s~Zieh den ~h~linken Analog-Stick~w~ nach hinten, um dich rückwärts zu bewegen, und drücke ihn nach links und rechts, um zu rotieren.
 
 [DES5_CC:DSERT5]
 ~s~Drücke jetzt ~O~, um den Fallschirm zu öffnen.
@@ -7874,10 +7874,10 @@ Drücke ~Q~, um zu sinken, und ~X~, um zu steigen.
 ~s~Benutze den ~h~linken Analog-Stick~w~, um den Fallschirm nach links und rechts zu lenken.
 
 [DES5_CF:DSERT5]
-~s~Zieh den ~h~linken Analog-Stick~w~ nach hinten, um deine Beine zu heben und vorwãrts zu fliegen.
+~s~Zieh den ~h~linken Analog-Stick~w~ nach hinten, um deine Beine zu heben und vorwärts zu fliegen.
 
 [DES5_CH:DSERT5]
-Fliegst du vorwãrts, sinkst du auch langsamer.
+Fliegst du vorwärts, sinkst du auch langsamer.
 
 [DES5_S4:DSERT5]
 Zeit:
@@ -8009,7 +8009,7 @@ Weiche den Scheinwerferkegeln aus und verschaff dir Zutritt zum Area 51 Forschun
 Geh zum Kontrollturm, um die gepanzerte Tür zu öffnen.
 
 [DES8_3:DSERT8]
-Es patrouilliert Militãrpersonal auf dem Gelãnde.
+Es patrouilliert Militärpersonal auf dem Gelände.
 
 [DES8_12:DSERT8]
 Du kannst die Scheinwerfer ausschießen. Schießt du aber zu viele aus, könnten die Wachleute Verdacht schöpfen.
@@ -8018,7 +8018,7 @@ Du kannst die Scheinwerfer ausschießen. Schießt du aber zu viele aus, könnten
 Du hast nur begrenzt Zeit, um durch die ~y~Tür~w~ zu kommen, also Beeilung!
 
 [DES8_15:DSERT8]
-Du hast es in die Area 51 geschafft. Dies ist eine große militãrische Forschungseinrichtung, besetzt mit Wissenschaftlern und Soldaten.
+Du hast es in die Area 51 geschafft. Dies ist eine große militärische Forschungseinrichtung, besetzt mit Wissenschaftlern und Soldaten.
 
 [DES8_16:DSERT8]
 Versuche immer, mit List und Köpfchen an den Wachen vorbeizukommen. Wenn man dich bemerkt, versteck dich in dunklen Bereichen.
@@ -8039,7 +8039,7 @@ Level 2 Keycard erhalten
 SAM-Abschussvorrichtung ausgeschaltet
 
 [DES8_22:DSERT8]
-Die Tür zum Jet Pack wird sich nicht öffnen lassen. Du brauchst eine Level 2 Keycard. Ein Wissenschaftler in der Nãhe könnte eine haben.
+Die Tür zum Jet Pack wird sich nicht öffnen lassen. Du brauchst eine Level 2 Keycard. Ein Wissenschaftler in der Nähe könnte eine haben.
 
 [DES8_23:DSERT8]
 Du hast die Keycard. Öffne jetzt die Tür!
@@ -8069,7 +8069,7 @@ Drücke ~X~, um senkrecht aufzusteigen.
 Drücke ~Q~, um zu schweben.
 
 [DES8_35:DSERT8]
-Drücke ~V~ und ~M~, um seitwãrts nach rechts bzw. links zu fliegen.
+Drücke ~V~ und ~M~, um seitwärts nach rechts bzw. links zu fliegen.
 
 [DES8_36:DSERT8]
 Eindringling entdeckt. Schicken Sie Truppen in Forschlabor A.
@@ -8087,7 +8087,7 @@ Sie haben dich gesehen und schicken Truppen! Halte dich so lange wie möglich au
 ~s~The Truth will, dass du dir Zutritt zum Area 69 Forschungslabor verschaffst und ihm das schwarze Projekt bringst, an dem dort gearbeitet wird.
 
 [DST8_2:DSERT8]
-~s~Der Weg in das Area 69 Gelãnde führt durch die gepanzerten Türen. Öffne sie und geh zum ~y~Kontrollturm~s~.
+~s~Der Weg in das Area 69 Gelände führt durch die gepanzerten Türen. Öffne sie und geh zum ~y~Kontrollturm~s~.
 
 [DST8_3:DSERT8]
 ~s~Versuche, nicht von den Suchscheinwerfern erfasst zu werden. Beobachte, wie sie sich bewegen und plane eine entsprechende Route.
@@ -8096,13 +8096,13 @@ Sie haben dich gesehen und schicken Truppen! Halte dich so lange wie möglich au
 ~s~Suchscheinwerfer können ausgeschossen werden. Schießt du aber mehr als zwei aus, so wird der Kontrollturm geschlossen, und du musst dir eine andere Route suchen.
 
 [DST8_5:DSERT8]
-~s~Außerdem patrouillieren einige Soldaten auf dem Gelãnde. Verhalte dich klug und weiche ihnen aus.
+~s~Außerdem patrouillieren einige Soldaten auf dem Gelände. Verhalte dich klug und weiche ihnen aus.
 
 [DST8_6:DSERT8]
 ~s~Du musst dir bis Sonnenaufgang Zutritt zu dem Forschungslabor verschafft haben.
 
 [DST8_7:DSERT8]
-~s~Öffne die gepanzerten Türen, indem du den Schalter im ~y~Kontrollturm~s~ betãtigst.
+~s~Öffne die gepanzerten Türen, indem du den Schalter im ~y~Kontrollturm~s~ betätigst.
 
 [DST8_8:DSERT8]
 ~s~Die ~y~gepanzerten Türen~s~ sollten jetzt geöffnet sein. Du hast aber nur begrenzt Zeit, um durch sie hindurch zu gehen, bevor sie sich wieder schließen!
@@ -8120,7 +8120,7 @@ Schleiche dich heimlich hinein und weiche wenn möglich den Suchscheinwerfern un
 Man hat dich entdeckt! Bleib außerhalb der Scheinwerferkegel!
 
 [DST8_13:DSERT8]
-Es wurde bestãtigt, dass man dich gesehen hat! Die Soldaten wissen nun, dass du hier bist und die Suchscheinwerfer werden sich permanent auf deine Position zu bewegen.
+Es wurde bestätigt, dass man dich gesehen hat! Die Soldaten wissen nun, dass du hier bist und die Suchscheinwerfer werden sich permanent auf deine Position zu bewegen.
 
 [DST8_14:DSERT8]
 ~s~Der Kontrollturm wurde abgeschaltet. Du musst dir einen anderen Weg nach innen suchen. Ein ~y~Luftschacht~s~ führt ins Innere von Area 69.
@@ -8129,28 +8129,28 @@ Es wurde bestãtigt, dass man dich gesehen hat! Die Soldaten wissen nun, dass du
 Was war das? Möglicherweise Eindringling gesichtet. Suchscheinwerfer auf Verfolgungsmodus stellen.
 
 [DST8_16:DSERT8]
-Sichtung nicht bestãtigt. Wieder auf normalen Suchscheinwerfer-Modus gehen.
+Sichtung nicht bestätigt. Wieder auf normalen Suchscheinwerfer-Modus gehen.
 
 [DST8_17:DSERT8]
-Roter Alarm! Sichtung bestãtigt! Schickt die Soldaten rein! Panzertüren und Kontrollturm verriegeln!
+Roter Alarm! Sichtung bestätigt! Schickt die Soldaten rein! Panzertüren und Kontrollturm verriegeln!
 
 [DST8_18:DSERT8]
 ~s~Der einfachste Weg in den Area 69 Bunkerkomplex führt durch die gepanzerten Türen. Begib dich zum ~y~Kontrollturm~s~, um sie zu öffnen.
 
 [DST8_19:DSERT8]
-~s~Scheinwerfer suchen das Gelãnde ab. Beobachte ihre Bewegungen und plane eine Route, um ihren Lichtkegeln auszuweichen.
+~s~Scheinwerfer suchen das Gelände ab. Beobachte ihre Bewegungen und plane eine Route, um ihren Lichtkegeln auszuweichen.
 
 [DST8_20:DSERT8]
 ~s~Wenn du zu lange in einem Lichtkegel bleibst oder zu viele Scheinwerfer ausschießt, wirst du entdeckt und der Kontrollturm riegelt das Areal ab. Dies würde dich zwingen, dir einen anderen Weg nach innen zu suchen.
 
 [DST8_21:DSERT8]
-~s~Es patrouillieren auch einige Soldaten auf dem Gelãnde. Das Thermo-Sichtgerãt, das The Truth dir gegeben hat, hilft dir, sie im Dunkeln zu sehen.
+~s~Es patrouillieren auch einige Soldaten auf dem Gelände. Das Thermo-Sichtgerät, das The Truth dir gegeben hat, hilft dir, sie im Dunkeln zu sehen.
 
 [DST8_22:DSERT8]
-Du kannst dich heimlich an den Patrouillen vorbeischleichen oder auf einen Kontrollturm steigen und sie mit dem Prãzisionsgewehr ausschalten.
+Du kannst dich heimlich an den Patrouillen vorbeischleichen oder auf einen Kontrollturm steigen und sie mit dem Präzisionsgewehr ausschalten.
 
 [DST8_23:DSERT8]
-~s~Die ~y~Tür~s~ zu dem Raketenschacht, wo das schwarze Projekt aufbewahrt wird, ist verriegelt. Du brauchst eine Keycard, um sie zu öffnen. Bedrohe einen der Wissenschaftler in der Nãhe.
+~s~Die ~y~Tür~s~ zu dem Raketenschacht, wo das schwarze Projekt aufbewahrt wird, ist verriegelt. Du brauchst eine Keycard, um sie zu öffnen. Bedrohe einen der Wissenschaftler in der Nähe.
 
 [DST8_24:DSERT8]
 ~s~Du brauchst eine Keycard, um diese Tür zu öffnen.
@@ -8165,22 +8165,22 @@ Du kannst dich heimlich an den Patrouillen vorbeischleichen oder auf einen Kontr
 Drücke ~x~, um den Schub zu erhöhen. Dies bewirkt, dass du steigst.
 
 [DST8_28:DSERT8]
-Um mit dem Jet Pack in der Luft die Richtung zu ãndern, benutze den ~h~linken Analog-Stick~w~.
+Um mit dem Jet Pack in der Luft die Richtung zu ändern, benutze den ~h~linken Analog-Stick~w~.
 
 [DST8_29:DSERT8]
 Um schnell zu sinken, drücke ~q~.
 
 [DST8_30:DSERT8]
-Um mit dem Jet Pack seitwãrts nach rechts zu fliegen, drücke ~V~.
+Um mit dem Jet Pack seitwärts nach rechts zu fliegen, drücke ~V~.
 
 [DST8_31:DSERT8]
-Um mit dem Jet Pack seitwãrts nach links zu fliegen, drücke ~M~.
+Um mit dem Jet Pack seitwärts nach links zu fliegen, drücke ~M~.
 
 [DST8_32:DSERT8]
 Um mit dem Jet Pack zu schweben, halte ~V~ und ~M~ gleichzeitig gedrückt.
 
 [DST8_33:DSERT8]
-Wãhrend du mit dem Jet Pack fliegst, kannst du mit einhãndigen Waffen ganz normal feuern.
+Während du mit dem Jet Pack fliegst, kannst du mit einhändigen Waffen ganz normal feuern.
 
 [DST8_34:DSERT8]
 ~s~Das ~g~schwarze Projekt~s~ befindet sich auf den Boden des Raketenschachts.
@@ -8189,7 +8189,7 @@ Wãhrend du mit dem Jet Pack fliegst, kannst du mit einhãndigen Waffen ganz nor
 ~s~Liefere das Jet Pack bei der ~y~Landungszone~s~ tief in den Canyons ab.
 
 [DST8_37:DSERT8]
-Ist das Sichtgerãt selektiert, drücke ~o~, um die Thermo-Sicht an- oder abzuschalten.
+Ist das Sichtgerät selektiert, drücke ~o~, um die Thermo-Sicht an- oder abzuschalten.
 
 [DST8_38:DSERT8]
 ~s~Du musst vor Sonnenaufgang um 05:30 Uhr in die Forschungseinrichtung eingedrungen sein.
@@ -8201,13 +8201,13 @@ Ist das Sichtgerãt selektiert, drücke ~o~, um die Thermo-Sicht an- oder abzusc
 ~r~Du bist zu weit von Area 69 entfernt!
 
 [DST8_41:DSERT8]
-~r~Du solltest im Schutz der Dunkelheit in die Area 69 Forschungseinrichtung einbrechen. Mach nãchstes Mal schneller!
+~r~Du solltest im Schutz der Dunkelheit in die Area 69 Forschungseinrichtung einbrechen. Mach nächstes Mal schneller!
 
 [DST8_42:DSERT8]
-~s~Durchquere Area 69 und begib dich zum Forschungslabor. Von dort erhãltst du Zutritt zum schwarzen Projekt.
+~s~Durchquere Area 69 und begib dich zum Forschungslabor. Von dort erhältst du Zutritt zum schwarzen Projekt.
 
 [DST8_43:DSERT8]
-~s~In der Anlage sind mehrere Militãrpatrouillen unterwegs.
+~s~In der Anlage sind mehrere Militärpatrouillen unterwegs.
 
 [DST8_44:DSERT8]
 ~s~Im Kontrollraum kannst du einige der externen Verteidigungsanlagen von Area 69 deaktivieren. Dies wird dir bei der Flucht helfen.
@@ -8266,7 +8266,7 @@ I feel a little exposed!
 ~S~Du brauchst einen Fallschirm, um aus dem Flugzeug zu entkommen. Eines der Crew-Mitglieder muss einen haben.
 
 [DES9_A7:DSERT9]
-~s~Sobald die Rucksackbombe platziert ist, löse die Explosion aus, indem du den Zünder betãtigst oder aus dem Flugzeug abspringst.
+~s~Sobald die Rucksackbombe platziert ist, löse die Explosion aus, indem du den Zünder betätigst oder aus dem Flugzeug abspringst.
 
 [DES9_A8:DSERT9]
 ~s~Verlasse das Flugzeug, bevor du mit in die Luft fliegst!
@@ -8496,7 +8496,7 @@ Z
 .
 
 [SPAC_10:DUAL]
-~w~~<~~u~~d~~>~ Navigieren~n~~x~ Auswãhlen
+~w~~<~~u~~d~~>~ Navigieren~n~~x~ Auswählen
 
 [SPAC_11:DUAL]
 ~w~~<~~>~ Rotieren~n~~x~ Schub~n~~o~ Feuern~n~~t~ Verlassen.
@@ -8505,7 +8505,7 @@ Z
 ~w~~t~ Zurück
 
 [SPAC_13:DUAL]
-~w~~u~~d~ Navigieren~n~~x~ Auswãhlen
+~w~~u~~d~ Navigieren~n~~x~ Auswählen
 
 [NONE_01:DUAL]
 SCORE
@@ -8602,34 +8602,34 @@ You have ~1~ seconds to get into the next ~b~Dumper Truck.
 {=================================== MISSION TABLE FARLIE2 ===================================}
 
 [DRV3_6:FARLIE2]
-~s~Das letzte Motorrad steuert den Treffpunkt an. Ehe es sein Ziel erreicht, musst du dir das ~r~Pãckchen~s~ schnappen!
+~s~Das letzte Motorrad steuert den Treffpunkt an. Ehe es sein Ziel erreicht, musst du dir das ~r~Päckchen~s~ schnappen!
 
 [DRV3_5:FARLIE2]
-~s~Die Motorrãder fahren zum Treffpunkt. Sammle alle ~r~Pãckchen~s~ ein, bevor sie ihr Ziel erreichen.
+~s~Die Motorräder fahren zum Treffpunkt. Sammle alle ~r~Päckchen~s~ ein, bevor sie ihr Ziel erreichen.
 
 [DRV3_2:FARLIE2]
-~s~Verfolge die Biker, und sammle alle ~r~Pãckchen ~s~ein.
+~s~Verfolge die Biker, und sammle alle ~r~Päckchen ~s~ein.
 
 [DRV3_H:FARLIE2]
-Bist du in der Nãhe eines ~r~Pãckchens~s~, tippe auf ~K~, um es dir zu schnappen.
+Bist du in der Nähe eines ~r~Päckchens~s~, tippe auf ~K~, um es dir zu schnappen.
 
 [DRV3_3:FARLIE2]
-~s~Tippe auf ~K~, um dir das ~r~Pãckchen~s~ zu schnappen.
+~s~Tippe auf ~K~, um dir das ~r~Päckchen~s~ zu schnappen.
 
 [DRV3_4:FARLIE2]
-~s~Pãckchen eingesammelt
+~s~Päckchen eingesammelt
 
 [DRV3_7:FARLIE2]
-~r~Du hast nicht rechtzeitig alle Pãckchen eingesammelt!
+~r~Du hast nicht rechtzeitig alle Päckchen eingesammelt!
 
 [DRV3_8:FARLIE2]
-~r~Eines der Pãckchen liegt auf dem Meeresgrund...
+~r~Eines der Päckchen liegt auf dem Meeresgrund...
 
 [DRV3_9:FARLIE2]
-~r~Eines der Pãckchen wurde zerstört!
+~r~Eines der Päckchen wurde zerstört!
 
 [DRV3_10:FARLIE2]
-~s~Bring die Pãckchen zum ~y~Pleasure Domes.
+~s~Bring die Päckchen zum ~y~Pleasure Domes.
 
 [DRV3_11:FARLIE2]
 ~s~Begib dich zu dem ~b~überfallenen Transporter.
@@ -8652,7 +8652,7 @@ Bist du in der Nãhe eines ~r~Pãckchens~s~, tippe auf ~K~, um es dir zu schnapp
 AKKU
 
 [DRI2_12:FARLIE3]
-~s~Rãum diese ~r~Schlãgertypen~s~ aus dem Weg!
+~s~Räum diese ~r~Schlägertypen~s~ aus dem Weg!
 
 [DRI2_17:FARLIE3]
 SIGNAL
@@ -8711,7 +8711,7 @@ Schaden
 ~s~Zurück in das ~b~Auto~s~!
 
 [F4_T5:FARLIE4]
-Das ist ein Hinterhalt, die Da Nang Boys bewachen die Ausgãnge!
+Das ist ein Hinterhalt, die Da Nang Boys bewachen die Ausgänge!
 
 [F4_T7:FARLIE4]
 ~s~Hol dir das ~b~Auto~s~!
@@ -8720,7 +8720,7 @@ Das ist ein Hinterhalt, die Da Nang Boys bewachen die Ausgãnge!
 ~s~Bring das Auto in die ~y~Garage~s~.
 
 [F4_T9:FARLIE4]
-~s~Entkomme den feindlichen ~r~Motorrãdern~s~!
+~s~Entkomme den feindlichen ~r~Motorrädern~s~!
 
 {=================================== MISSION TABLE FARLIE5 ===================================}
 
@@ -8746,13 +8746,13 @@ Schaden
 ~s~Hol das ~b~Lockvogel-Fahrzeug~s~ ab.
 
 [DRV6_4:FARLIE5]
-~s~Werden die Türen zu stark beschãdigt, können die Biker in das Auto sehen.
+~s~Werden die Türen zu stark beschädigt, können die Biker in das Auto sehen.
 
 [DRV6_5:FARLIE5]
 Tür-Schaden :
 
 [DRV6_6:FARLIE5]
-~s~Das Auto ist fast so stark beschãdigt, dass man hineinsehen kann!
+~s~Das Auto ist fast so stark beschädigt, dass man hineinsehen kann!
 
 [DRV6_7:FARLIE5]
 ~r~Sie haben dich entdeckt!
@@ -8761,7 +8761,7 @@ Tür-Schaden :
 ~r~Das Lockvogel-Auto wurde zerstört!
 
 [DRV6_15:FARLIE5]
-~s~Gönne den Bikern keinen zu langen Blick in das beschãdigte Auto, sonst entdecken sie dich.
+~s~Gönne den Bikern keinen zu langen Blick in das beschädigte Auto, sonst entdecken sie dich.
 
 [DRV6_16:FARLIE5]
 ~s~Die Biker können in das Auto hineinsehen! Halt sie von den Türen fern.
@@ -8781,13 +8781,13 @@ Tür-Schaden :
 Brand gelöscht!
 
 [F_FAIL2:FIRETRK]
-~r~Du kommst zu spãt!
+~r~Du kommst zu spät!
 
 [F_CANC:FIRETRK]
 ~r~Feuerwehr-Mission abgebrochen!
 
 [F_EXTIN:FIRETRK]
-Brãnde
+Brände
 
 [F_START:FIRETRK]
 ~s~~b~Brennendes Fahrzeug~s~ in der Gegend um ~a~ gemeldet. Fahr hin und lösche den Brand.
@@ -8799,10 +8799,10 @@ Um die Sirene anzuschalten, tippe auf ~A~.
 Um die Sirene anzuschalten, tippe auf ~K~.
 
 [SPRAY_4:FIRETRK]
-Benutze ~J~, um die Löschkanone zu betãtigen, und den ~h~rechten Analog-Stick~w~, um damit zu zielen.
+Benutze ~J~, um die Löschkanone zu betätigen, und den ~h~rechten Analog-Stick~w~, um damit zu zielen.
 
 [SPRAY_1:FIRETRK]
-Benutze ~o~ oder ~K~, um die Löschkanone zu betãtigen, und den ~h~rechten Analog-Stick~w~, um damit zu zielen.
+Benutze ~o~ oder ~K~, um die Löschkanone zu betätigen, und den ~h~rechten Analog-Stick~w~, um damit zu zielen.
 
 [FIREPRO:FIRETRK]
 ~s~Feuerwehr-Mission Level 12 abgeschlossen. Jetzt bist du absolut feuerfest!!
@@ -8834,7 +8834,7 @@ Distanz
 Tempo
 
 [FREI_12:FTRAIN]
-~s~Wenn du zu schnell fãhrst, entgleist du
+~s~Wenn du zu schnell fährst, entgleist du
 
 [FREI_13:FTRAIN]
 ~s~Bremse rechtzeitig, sonst schießt du über den Bahnhof hinaus
@@ -8928,7 +8928,7 @@ Drücke ~A~, um zu hupen
 ~s~Zerstöre alle ~g~Baucontainer~s~, bevor die Cops hier sind!
 
 [GAR2_42:GARAGE2]
-Sei vorsichtig! Meide die explosiven Fãsser!
+Sei vorsichtig! Meide die explosiven Fässer!
 
 [GAR2_01:GARAGE2]
 ~s~Verjage die Baufirma.
@@ -8952,10 +8952,10 @@ Sei vorsichtig! Meide die explosiven Fãsser!
 ~s~Dann schütte sie mit Zement zu.
 
 [GAR2_13:GARAGE2]
-~s~Fahr mit einem Zementlaster rückwãrts an die Grube heran.
+~s~Fahr mit einem Zementlaster rückwärts an die Grube heran.
 
 [GAR2_14:GARAGE2]
-~s~Bring den Zementlaster in Position und fahr dann rückwãrts an die Grube heran.
+~s~Bring den Zementlaster in Position und fahr dann rückwärts an die Grube heran.
 
 [GAR2_19:GARAGE2]
 ~s~Zerstöre alle ~g~Baucontainer~s~. Dazu wirst du einen Bulldozer brauchen.
@@ -9221,7 +9221,7 @@ Besiege deinen Gegner und lerne einen neuen Trick.
 Laufe und drücke ~t~!
 
 [GYM1106:GYM]
-Besiege deinen Gegner, um neue Kampftechniken zu erlernen. Wenn du den Ring verlãsst, hast du verloren!
+Besiege deinen Gegner, um neue Kampftechniken zu erlernen. Wenn du den Ring verlässt, hast du verloren!
 
 {=================================== MISSION TABLE HEIST1 ===================================}
 
@@ -9280,19 +9280,19 @@ Besiege deinen Gegner, um neue Kampftechniken zu erlernen. Wenn du den Ring verl
 ~s~Bring den Film zum Hintertür von dem ~y~Four Dragons Casino~s~.
 
 [HEI1_40:HEIST1]
-~s~Du hast eine Kamera. Begib dich jetzt zum Gebãude der ~y~Planungsbehörde~s~.
+~s~Du hast eine Kamera. Begib dich jetzt zum Gebäude der ~y~Planungsbehörde~s~.
 
 [HEI1_1:HEIST1]
-~s~In der ~y~Planungsbehörde~s~ herrschen strenge Sicherheitsvorschriften. Mach keinen Ãrger!
+~s~In der ~y~Planungsbehörde~s~ herrschen strenge Sicherheitsvorschriften. Mach keinen Ärger!
 
 [HEI1_6:HEIST1]
-~s~Du kannst die Casino-Plãne nicht fotografieren, wenn der Wachmann in der Nãhe ist! Du musst ihn ablenken.
+~s~Du kannst die Casino-Pläne nicht fotografieren, wenn der Wachmann in der Nähe ist! Du musst ihn ablenken.
 
 [HEI1_7:HEIST1]
 ~s~Unten ist ein ~y~Dokumentenarchiv~s~. Geh runter und sieh zu, ob du ein Ablenkungsmanöver starten kannst.
 
 [HEI1_9:HEIST1]
-~s~Dies ist eine Behörde. Keine offen getragenen Waffen, sonst wirft man dich vom Gelãnde.
+~s~Dies ist eine Behörde. Keine offen getragenen Waffen, sonst wirft man dich vom Gelände.
 
 [HEI1_10:HEIST1]
 ~s~Diese ~g~Klimaanlagen~s~ sind ziemlich altersschwach. Zerstöre sie irgendwie.
@@ -9301,22 +9301,22 @@ Besiege deinen Gegner, um neue Kampftechniken zu erlernen. Wenn du den Ring verl
 ~s~Falls du noch eine ~r~Kamera~s~ oder einen Film brauchst, begib dich wieder Richtung Casino und überrede einen Touristen, seine Ausrüstung herauszurücken.
 
 [HEI1_20:HEIST1]
-~s~Das war's! Der Feueralarm dürfte die Wachmãnner beschãftigen.
+~s~Das war's! Der Feueralarm dürfte die Wachmänner beschäftigen.
 
 [HEI1_22:HEIST1]
-~s~Okay! Sie sind jetzt mit der Evakuierung beschãftigt. Geh nach oben und fotografiere die ~y~Plãne~s~ an der Wand.
+~s~Okay! Sie sind jetzt mit der Evakuierung beschäftigt. Geh nach oben und fotografiere die ~y~Pläne~s~ an der Wand.
 
 [HEI1_25:HEIST1]
-~s~Sehr gut! Du hast die Casino-Plãne fotografiert! Verlass jetzt das ~y~Gebãude~s~, bevor man dich erwischt.
+~s~Sehr gut! Du hast die Casino-Pläne fotografiert! Verlass jetzt das ~y~Gebäude~s~, bevor man dich erwischt.
 
 [HEI1_28:HEIST1]
-~s~Stell dich vor die Plãne. Halte dann ~J~ gedrückt und drücke ~o~, um ein Foto zu machen.
+~s~Stell dich vor die Pläne. Halte dann ~J~ gedrückt und drücke ~o~, um ein Foto zu machen.
 
 [HEI1_33:HEIST1]
-~s~Das ~y~Treppenhaus~s~ ist jetzt zugãnglich. Klettere in das Stockwerk hinauf, wo die Plãne aufbewahrt werden.
+~s~Das ~y~Treppenhaus~s~ ist jetzt zugänglich. Klettere in das Stockwerk hinauf, wo die Pläne aufbewahrt werden.
 
 [HEI1_34:HEIST1]
-~s~Die ~y~Plãne~s~, die du fotografieren sollst, sind in dem hinteren Raum im obersten Stockwerk.
+~s~Die ~y~Pläne~s~, die du fotografieren sollst, sind in dem hinteren Raum im obersten Stockwerk.
 
 [HEI1_35:HEIST1]
 ~s~Auf diesem Schiff sind ~r~Touristen~s~. Such dir einen mit einer Kamera und nimm sie ihm ab.
@@ -9328,22 +9328,22 @@ Besiege deinen Gegner, um neue Kampftechniken zu erlernen. Wenn du den Ring verl
 Drücke ~<~, um mit NEIN zu antworten oder ~>~ für JA.
 
 [HEIH2:HEIST1]
-Geh zur Empfangsdame hin und drücke ~J~, um das Gesprãch erneut zu beginnen.
+Geh zur Empfangsdame hin und drücke ~J~, um das Gespräch erneut zu beginnen.
 
 [HEIH9:HEIST1]
-Tritt nah an die Empfangsdame heran und drücke ~K~, um das Gesprãch erneut zu beginnen
+Tritt nah an die Empfangsdame heran und drücke ~K~, um das Gespräch erneut zu beginnen
 
 [HEI1_41:HEIST1]
-~s~Du brauchst eine Kamera, um die Casino-Plãne zu fotografieren. Schnapp dir eine von einem ~r~Touristen~s~ auf dem Strip.
+~s~Du brauchst eine Kamera, um die Casino-Pläne zu fotografieren. Schnapp dir eine von einem ~r~Touristen~s~ auf dem Strip.
 
 [HEI1_46:HEIST1]
 ~s~Die Cops können wegen des Feuers die unteren Türen nicht schließen! Mach wenn nötig von deinen Waffen Gebrauch.
 
 [HEI1_50:HEIST1]
-~r~Du solltest dich unauffãllig verhalten, und du hast mit deinen Waffen rumgefuchtelt!
+~r~Du solltest dich unauffällig verhalten, und du hast mit deinen Waffen rumgefuchtelt!
 
 [HEI1_52:HEIST1]
-~r~Na, wunderbar! Du hãttest vor dem Fotografieren den Wachmann ablenken sollen.
+~r~Na, wunderbar! Du hättest vor dem Fotografieren den Wachmann ablenken sollen.
 
 {=================================== MISSION TABLE HEIST2 ===================================}
 
@@ -9360,7 +9360,7 @@ Shit, must of taken a wrong turn somewhere!
 ~s~Begib dich zum ~y~Flughafen~s~. Du brauchst ein Flugzeug, um mit dem Fallschirm über dem Damm-Kai abzuspringen.
 
 [HEI2_89:HEIST2]
-Denk daran, geduckt zu gehen, um weniger Lãrm zu verursachen.
+Denk daran, geduckt zu gehen, um weniger Lärm zu verursachen.
 
 [HEI2_88:HEIST2]
 Wenn du die Markierung erreichst, drücke ~t~, um aus dem Flugzeug zu springen.
@@ -9378,7 +9378,7 @@ Drücke ~o~, um den Fallschirm zu öffnen.
 ~s~Suche den ~y~Eingang ~s~zum Generatorraum.
 
 [HEI2_2:HEIST2]
-~s~Drücke in der Nãhe eines ~y~Generators~s~ ~t~, um die Ladungen zu platzieren. Du brauchst eine Ladung für jeden Generator.
+~s~Drücke in der Nähe eines ~y~Generators~s~ ~t~, um die Ladungen zu platzieren. Du brauchst eine Ladung für jeden Generator.
 
 [HEI2_5:HEIST2]
 ~s~Alle Generatoren sind mit Sprengladungen versehen. Geh zum ~y~Ausgang~s~.
@@ -9390,7 +9390,7 @@ Drücke ~o~, um den Fallschirm zu öffnen.
 ~s~ Begib dich zum ~y~Flughafen~s~. Du brauchst ein Flugzeug, um auf den Damm-Kai abzuspringen.
 
 [HEI2_20:HEIST2]
-~s~Du musst unbemerkt bleiben. Wirst du entdeckt oder machst zu viel Lãrm, wird das ganze Gebãude alarmiert.
+~s~Du musst unbemerkt bleiben. Wirst du entdeckt oder machst zu viel Lärm, wird das ganze Gebäude alarmiert.
 
 [HEI2_25:HEIST2]
 ~r~Das Flugzeug wurde zerstört!
@@ -9420,7 +9420,7 @@ Heimlichkeit
 ~s~Du bist zu hoch. Du musst etwas runtergehen, um abspringen zu können.
 
 [HEI2_46:HEIST2]
-~s~In der Nãhe eines der Container ist ein ~g~Messer~s~ versteckt. Es könnte dir nützlich sein.
+~s~In der Nähe eines der Container ist ein ~g~Messer~s~ versteckt. Es könnte dir nützlich sein.
 
 [HEI2_52:HEIST2]
 ~s~Begib dich zum Ende des Damm-Kais.
@@ -9473,7 +9473,7 @@ Du hast eine Freundin mehr. Du musst sie zum Essen ausführen, bevor sie dir die
 SCHRECK
 
 [HEI3_08:HEIST3]
-~s~Der Sexsklave wird gleich kommen. Warte in der Nãhe und sorge dafür, dass er das Haus der Croupière nicht erreicht.
+~s~Der Sexsklave wird gleich kommen. Warte in der Nähe und sorge dafür, dass er das Haus der Croupière nicht erreicht.
 
 [HEI3_92:HEIST3]
 ~r~Der Sexsklave hat das Haus erreicht!
@@ -9506,7 +9506,7 @@ SCHRECK
 ~s~Die ~r~Croupière~s~ hat den Shop verlassen. Folge ihr, aber geh nicht zu dicht ran.
 
 [HEI3_10:HEIST3]
-~s~Die ~r~Croupière~s~ ist fast außer Sichtweite. Du musst nãher ran!
+~s~Die ~r~Croupière~s~ ist fast außer Sichtweite. Du musst näher ran!
 
 [HEI3_11:HEIST3]
 ~s~Du bist zu nah dran. Geh auf Abstand, sonst erschrickt sie!
@@ -9542,7 +9542,7 @@ SCHRECK-O-METER
 ~s~Der Sexsklave ist unterwegs.
 
 [HEI3_22:HEIST3]
-~s~Der Sexsklave ist ausgeschaltet. Geh und betãtige die ~y~Klingel~s~.
+~s~Der Sexsklave ist ausgeschaltet. Geh und betätige die ~y~Klingel~s~.
 
 [HEI3_23:HEIST3]
 ~s~Zieh den Sexsklaven aus dem Verkehr.
@@ -9574,31 +9574,31 @@ Zeit
 ~s~Fahre das Motorrad auf den ~b~Packer~s~ Truck.
 
 [HEI4_13:HEIST4]
-~s~Vor dir fãhrt ein ~b~Packer~s~. Fahre mit gleichmãßiger Geschwindigkeit die Rampe hinauf, damit es festgemacht werden kann.
+~s~Vor dir fährt ein ~b~Packer~s~. Fahre mit gleichmäßiger Geschwindigkeit die Rampe hinauf, damit es festgemacht werden kann.
 
 [HEI4_11:HEIST4]
-~s~Der Packer fãhrt am Stadtrand herum. Aber du musst dich beeilen, er ist bald weg.
+~s~Der Packer fährt am Stadtrand herum. Aber du musst dich beeilen, er ist bald weg.
 
 [HEI4_01:HEIST4]
-~s~Wir müssen vier ~g~Polizei-Motorrãder~s~ klauen und heil auf der Ladeflãche des Packer Trucks verstauen.
+~s~Wir müssen vier ~g~Polizei-Motorräder~s~ klauen und heil auf der Ladefläche des Packer Trucks verstauen.
 
 [HEI4_03:HEIST4]
 ~s~Steig wieder auf das ~g~Motorrad~s~.
 
 [HEI4_04:HEIST4]
-~r~Wir brauchen alle Motorrãder in gutem, funktionstüchtigem Zustand!
+~r~Wir brauchen alle Motorräder in gutem, funktionstüchtigem Zustand!
 
 [HEI4_05:HEIST4]
-~r~Der Packer ist zerstört! Wie sollen wir jetzt die Motorrãder abliefern?
+~r~Der Packer ist zerstört! Wie sollen wir jetzt die Motorräder abliefern?
 
 [HEI4_06:HEIST4]
 ~s~Besorge ein weiteres ~g~Polizei-Motorrad~s~ für den Job.
 
 [HEI4_07:HEIST4]
-~s~Alle vier Motorrãder wurden heil abgeliefert!
+~s~Alle vier Motorräder wurden heil abgeliefert!
 
 [HEI4_08:HEIST4]
-~s~Noch zwei ~g~Motorrãder~s~.
+~s~Noch zwei ~g~Motorräder~s~.
 
 [HEI4_09:HEIST4]
 ~s~Noch ein ~g~Motorrad~s~.
@@ -9630,7 +9630,7 @@ Benutze den ~h~linken Analog-Stick~w~ oder den ~h~rechten Analog-Stick~w~, um zu
 ~r~Das Triaden-Mitglied ist tot!
 
 [HM5_1:HEIST5]
-~s~Klau den Helikopter aus dem ~y~Treibstoffdepot des Militãrs~s~. Die Tore öffnen sich für Militãrfahrzeuge.
+~s~Klau den Helikopter aus dem ~y~Treibstoffdepot des Militärs~s~. Die Tore öffnen sich für Militärfahrzeuge.
 
 [HM5_2:HEIST5]
 ~s~Bring den Bank-Van zu dem ~y~Flugzeugfriedhof~s~ in der Wüste.
@@ -9657,7 +9657,7 @@ Benutze den ~h~linken Analog-Stick~w~ oder den ~h~rechten Analog-Stick~w~, um zu
 ZUSTAND VAN:
 
 [HM5_12:HEIST5]
-~s~Der Van muss auf seinen Rãdern stehen!
+~s~Der Van muss auf seinen Rädern stehen!
 
 [HM5_13:HEIST5]
 ~s~Lande den Helikopter in der ~y~markierten Zone~s~.
@@ -9689,7 +9689,7 @@ Bewege den ~h~rechten Analog-Stick~w~ nach oben, um die Tür anzuheben.
 ~s~Das Team braucht dich beim ~y~Safe~s~.
 
 [HM9_57:HEIST9]
-~s~Erledige die ~r~Mafiosi~s~, wãhrend das Team das Geld holt.
+~s~Erledige die ~r~Mafiosi~s~, während das Team das Geld holt.
 
 [HM9_8:HEIST9]
 ~s~Bring das ~b~Team~s~ heil zurück zum Van.
@@ -9737,7 +9737,7 @@ ZEIT
 ~s~Folge dem ~b~Team~s~ runter zum Tresor.
 
 [HM9_1F:HEIST9]
-~s~Kehr um und schalte alle verbliebenen ~r~Sicherheitskrãfte~s~ aus.
+~s~Kehr um und schalte alle verbliebenen ~r~Sicherheitskräfte~s~ aus.
 
 [HM9_1G:HEIST9]
 ~s~Denk daran, nahe beim Team zu bleiben.
@@ -9770,16 +9770,16 @@ ZEIT
 ~r~Der Van ist weg. Jetzt gibt es keine Möglichkeit mehr, das Geld abzutransportieren.
 
 [HM9_21:HEIST9]
-~s~Rãum die ~r~Security-Leute~s~ aus dem Weg, dass das Team hinunter zum Safe kann!
+~s~Räum die ~r~Security-Leute~s~ aus dem Weg, dass das Team hinunter zum Safe kann!
 
 [HM9_23:HEIST9]
 ~s~Steig wieder auf den ~b~Gabelstapler~s~!
 
 [HM9_24:HEIST9]
-~s~Drücke wãhrend des Sprungs ~o~, um den Fallschirm zu öffnen.
+~s~Drücke während des Sprungs ~o~, um den Fallschirm zu öffnen.
 
 [HM9_25:HEIST9]
-~s~Geh über die Dãcher und schnapp dir den ~g~Fallschirm~s~.
+~s~Geh über die Dächer und schnapp dir den ~g~Fallschirm~s~.
 
 [HM9_26:HEIST9]
 ~s~Fahr mit dem Aufzug hoch und geh aufs Dach!
@@ -9812,10 +9812,10 @@ Du musst zuerst die Wachen mit dem Gas außer Gefecht setzen!
 ~r~Du Idiot, du hast alle Granaten verschwendet!
 
 [HM9_49:HEIST9]
-~s~Wãhle das Nachtsichtgerãt aus und drücke ~o~, um es zu aktivieren.
+~s~Wähle das Nachtsichtgerät aus und drücke ~o~, um es zu aktivieren.
 
 [HM9_50:HEIST9]
-~s~Drücke ~o~, um das Nachtsichtgerãt zu aktivieren.
+~s~Drücke ~o~, um das Nachtsichtgerät zu aktivieren.
 
 [HM9_51:HEIST9]
 ~s~Du brauchst etwas Großes, um dieses Tor anzuheben.
@@ -9832,7 +9832,7 @@ Du musst zuerst die Wachen mit dem Gas außer Gefecht setzen!
 ~s~
 
 [HELI_12:HELI_2P]
-Wãhle einen Helikopter aus
+Wähle einen Helikopter aus
 
 [HELI_13:HELI_2P]
 Zerstöre ~1~ Autos in ~1~ Minuten
@@ -9843,7 +9843,7 @@ Zerstöre ~1~ Autos in ~1~ Minuten
 ~s~Fahr mit Big Smoke zum Friedhof.
 
 [INTRO2D:INTRO1]
-Du kannst einen Bunny Hop machen, indem du ~K~ gedrückt hãltst und dann loslãsst. Je lãnger du ~K~ hãltst, desto höher springst du.
+Du kannst einen Bunny Hop machen, indem du ~K~ gedrückt hältst und dann loslässt. Je länger du ~K~ hältst, desto höher springst du.
 
 [INTRO2G:INTRO1]
 ~s~Du bist zu weit weg. Bleib bei ~b~Sweet~s~ !
@@ -9997,10 +9997,10 @@ Zeit:
 ~b~ZEIT: ~1~:0~1~
 
 [GETBIKE:KICKSTT]
-~s~Du hast ~1~ Sekunden, um zu einem ~b~Gelãndemotorrad~s~ zurückzukehren, bevor die Mission endet.
+~s~Du hast ~1~ Sekunden, um zu einem ~b~Geländemotorrad~s~ zurückzukehren, bevor die Mission endet.
 
 [GETBIK2:KICKSTT]
-~s~Du hast ~1~ Sekunde, um zu einem ~b~Gelãndemotorrad~s~ zurückzukehren, bevor die Mission endet.
+~s~Du hast ~1~ Sekunde, um zu einem ~b~Geländemotorrad~s~ zurückzukehren, bevor die Mission endet.
 
 [KICK1_1:KICKSTT]
 ~s~Fahre den Kurs so schnell wie möglich ab.
@@ -10017,7 +10017,7 @@ Zeit:
 ~s~Durchsuche das Motel nach ~b~Sweet~s~.
 
 [LAF1_7:LAFIN1]
-An ~h~Getrãnkeautomaten~w~ kannst du dir Drinks kaufen. Sie werden deine Gesundheit wiederherstellen.
+An ~h~Getränkeautomaten~w~ kannst du dir Drinks kaufen. Sie werden deine Gesundheit wiederherstellen.
 
 [LAF1_1:LAFIN1]
 ~s~Steig in den Wagen und fahre die Crew zum Treffpunkt im Motel.
@@ -10038,7 +10038,7 @@ An ~h~Getrãnkeautomaten~w~ kannst du dir Drinks kaufen. Sie werden deine Gesund
 Sweet :
 
 [LAF1_21:LAFIN1]
-Schalte alle Spezial-Cops in der Nãhe aus. Dann kannst du mit ~b~Sweet~s~ verschwinden.
+Schalte alle Spezial-Cops in der Nähe aus. Dann kannst du mit ~b~Sweet~s~ verschwinden.
 
 [LAF1_38:LAFIN1]
 Auto :
@@ -10082,7 +10082,7 @@ Quick CJ, over here.
 Hop in quick. You're just in time.
 
 [LA1_36:LAFIN2]
-~S~Die Ballas schaffen Verstãrkung heran.
+~S~Die Ballas schaffen Verstärkung heran.
 
 [LA1_37:LAFIN2]
 ~S~Es kommen noch mehr Ballas.
@@ -10123,7 +10123,7 @@ SWEET
 Du schon wieder!
 
 [LOW_07:LOWR]
-Einsatz auswãhlen
+Einsatz auswählen
 
 [LOW_08:LOWR]
 Diesmal verliere ich nicht.
@@ -10132,7 +10132,7 @@ Diesmal verliere ich nicht.
 Coole Karre! Kann ich mitmischen?
 
 [LOW_25:LOWR]
-Du musst die Stoßdãmpfer im Rhythmus der Musik bewegen.
+Du musst die Stoßdämpfer im Rhythmus der Musik bewegen.
 
 [LOW_28:LOWR]
 Dann nimm halt mein Geld, du Miststück!
@@ -10153,7 +10153,7 @@ Komm wieder, wenn du Lust hast, noch mehr Geld zu verlieren.
 ~r~Das Treffen löst sich auf, weil du ein Gruppenmitglied angegriffen hast.
 
 [LOW_05:LOWR]
-~s~Du brauchst ein Auto mit hydraulischen Stoßdãmpfern, um mitzumischen.
+~s~Du brauchst ein Auto mit hydraulischen Stoßdämpfern, um mitzumischen.
 
 [LOW_15:LOWR]
 Mit dem ~h~rechten Analog-Stick~w~ aktivierst du die Hydraulik des Autos .
@@ -10180,7 +10180,7 @@ Versuch den ~h~rechten Analog-Stick~w~ im Rhythmus der Musik zu bewegen.
 ~r~Das Lowrider-Treffen hat sich aufgelöst.
 
 [LOW_36:LOWR]
-~s~Du brauchst einen Lowrider mit hydraulischen Stoßdãmpfern.
+~s~Du brauchst einen Lowrider mit hydraulischen Stoßdämpfern.
 
 [LOW_38:LOWR]
 ~s~Du brauchst $~1~, um teilzunehmen.
@@ -10239,7 +10239,7 @@ Ok, CJ, wir sind in Unterzahl, aber wenn wir ruhig bleiben und nicht den Kopf ve
 ~r~Big Poppa~s~ hat die ~y~Villa~s~ verlassen. Folge ihm.
 
 [MAN1_23:MAN_1]
-~s~Verfolge ~r~Big Poppa~s~ und drãng ihn von der Straße!
+~s~Verfolge ~r~Big Poppa~s~ und dräng ihn von der Straße!
 
 [MAN1_24:MAN_1]
 ~r~Du hast Big Poppa verloren.
@@ -10259,7 +10259,7 @@ Du hast Madd Doggs Villa zurückerobert.
 Zerstöre die Flottille von ~r~Spionageschiffen
 
 [MAN2_00:MAN_2]
-~s~Begib dich zu dem ~y~Flugzeugtrãger~s~ in San Fierro.
+~s~Begib dich zu dem ~y~Flugzeugträger~s~ in San Fierro.
 
 [MAN2_01:MAN_2]
 ~s~Finde einen Hydra Jet.
@@ -10283,7 +10283,7 @@ Zerstöre die Flottille von ~r~Spionageschiffen
 ~r~Deine Hydra ist im Arsch!
 
 [MAN2_20:MAN_2]
-~s~Auf dem ~b~Schnellboot~s~ befinden sich eine Pistole mit Schalldãmpfer und ein Messer.
+~s~Auf dem ~b~Schnellboot~s~ befinden sich eine Pistole mit Schalldämpfer und ein Messer.
 
 [MAN2_21:MAN_2]
 ~s~Du musst zu dem ~y~Schiff~s~.
@@ -10298,7 +10298,7 @@ Zerstöre die Flottille von ~r~Spionageschiffen
 ~s~Die SAM-Abschussvorrichtungen sind immer noch aktiv.
 
 [MAN2_25:MAN_2]
-~s~Klau einen der Militãrjets.
+~s~Klau einen der Militärjets.
 
 [MAN2_26:MAN_2]
 ~s~Flieg mit dem Jet zu dem Flugplatz in der Wüste und lande irgendwo auf der ~y~Landebahn~s~.
@@ -10316,7 +10316,7 @@ Zerstöre die Flottille von ~r~Spionageschiffen
 ~s~Spionageschiff zerstört. ~1~ Schiff übrig.
 
 [MAN2_31:MAN_2]
-~s~Die hintere Luke des Flugzeugtrãgers schließt sich.
+~s~Die hintere Luke des Flugzeugträgers schließt sich.
 
 [MAN2_32:MAN_2]
 ~s~Du musst in das ~y~Schiff~s~ hinein, bevor sich die hintere Luke schließt, Wenn du schwimmst, werden dich die Wachen nicht so leicht entdecken.
@@ -10328,58 +10328,58 @@ Zerstöre die Flottille von ~r~Spionageschiffen
 ~s~Die Hydra wird nun immer in diesem Hangar verfügbar sein.
 
 [MAN2_35:MAN_2]
-~s~Dir sitzen ~r~Militãrjets~s~ im Nacken. Schalte sie aus!
+~s~Dir sitzen ~r~Militärjets~s~ im Nacken. Schalte sie aus!
 
 [MAN2_36:MAN_2]
-~s~Ein ~r~Militãrjet~s~ ist dir auf den Fersen. Schalte ihn aus!
+~s~Ein ~r~Militärjet~s~ ist dir auf den Fersen. Schalte ihn aus!
 
 [MAN2_37:MAN_2]
 ~s~Steig wieder in deinen ~b~Jet~s~.
 
 [MAN2_38:MAN_2]
-~s~Du hast zu viel Lãrm gemacht, als du in den Flugzeugtrãger eingedrungen bist. Die ~r~Wachen~s~ sind jetzt alarmiert.
+~s~Du hast zu viel Lärm gemacht, als du in den Flugzeugträger eingedrungen bist. Die ~r~Wachen~s~ sind jetzt alarmiert.
 
 [MAN2_39:MAN_2]
-~s~Du bist von einem Mechaniker entdeckt worden. Der Flugzeugtrãger ist in Alarmzustand versetzt worden.
+~s~Du bist von einem Mechaniker entdeckt worden. Der Flugzeugträger ist in Alarmzustand versetzt worden.
 
 [MAN2_40:MAN_2]
-~s~Du bist von den ~r~Wachen~s~ entdeckt worden. Der Flugzeugtrãger ist in Alarmzustand versetzt worden.
+~s~Du bist von den ~r~Wachen~s~ entdeckt worden. Der Flugzeugträger ist in Alarmzustand versetzt worden.
 
 [MAN2_41:MAN_2]
-~s~Ein Mechaniker hat eine Leiche gefunden. Der Flugzeugtrãger ist in Alarmzustand versetzt worden.
+~s~Ein Mechaniker hat eine Leiche gefunden. Der Flugzeugträger ist in Alarmzustand versetzt worden.
 
 [MAN2_42:MAN_2]
-~s~Die ~r~Wachen~s~ haben eine Leiche gefunden. Der Flugzeugtrãger ist in Alarmzustand versetzt worden.
+~s~Die ~r~Wachen~s~ haben eine Leiche gefunden. Der Flugzeugträger ist in Alarmzustand versetzt worden.
 
 [MAN2_43:MAN_2]
-~s~Es hat eine Explosion gegeben. Der Flugzeugtrãger ist in Alarmzustand versetzt worden.
+~s~Es hat eine Explosion gegeben. Der Flugzeugträger ist in Alarmzustand versetzt worden.
 
 [MAN2_44:MAN_2]
 ~s~Alle Spionageschiffe zerstört. Jetzt schalte die übrigen ~r~Jets~s~ aus.
 
 [MAN2_45:MAN_2]
-~s~Ein Mechaniker hat dich entdeckt. Er lãuft los, um Alarm auszulösen.
+~s~Ein Mechaniker hat dich entdeckt. Er läuft los, um Alarm auszulösen.
 
 [MAN2_46:MAN_2]
-~s~Du hast zu viel Lãrm verursacht, als du den Flugzeugtrãger betreten wolltest.
+~s~Du hast zu viel Lärm verursacht, als du den Flugzeugträger betreten wolltest.
 
 [MAN2_47:MAN_2]
 ~s~Die ~r~Wachleute~s~ sind jetzt alarmiert.
 
 [MAN2_48:MAN_2]
-~s~Ein Mechaniker hat eine Leiche gefunden. Er lãuft los, um Alarm auszulösen.
+~s~Ein Mechaniker hat eine Leiche gefunden. Er läuft los, um Alarm auszulösen.
 
 [MAN2_49:MAN_2]
-~s~Ein Mechaniker hat Alarm geschlagen. Der Flugzeugtrãger befindet sich jetzt in Alarmzustand.
+~s~Ein Mechaniker hat Alarm geschlagen. Der Flugzeugträger befindet sich jetzt in Alarmzustand.
 
 [MAN2_70:MAN_2]
-Benutze den ~h~rechten Analog-Stick~h~, um die Ausrichtung der Schubdüsen zu verãndern (Vertikal für Start und Landung, horizontal für Vorwãrtsschub.)
+Benutze den ~h~rechten Analog-Stick~h~, um die Ausrichtung der Schubdüsen zu verändern (Vertikal für Start und Landung, horizontal für Vorwärtsschub.)
 
 [MAN2_99:MAN_2]
 Mit ~C~ wird das Fahrgestell ein- und ausgefahren.
 
 [MAN2_71:MAN_2]
-Drücke und halte ~J~, um einen Feind anzuvisieren. Wenn sich das Fadenkreuz rot fãrbt ist es erfasst. Drücke ~K~, um eine zielsuchende Rakete abzufeuern.
+Drücke und halte ~J~, um einen Feind anzuvisieren. Wenn sich das Fadenkreuz rot färbt ist es erfasst. Drücke ~K~, um eine zielsuchende Rakete abzufeuern.
 
 [MAN2_98:MAN_2]
 Drücke ~o~, um Gegenmaßnahmen zu ergreifen.
@@ -10397,13 +10397,13 @@ Mit ~C~ kannst du das Fahrgestell aus- oder einfahren.
 ~r~Toreno ist tot.
 
 [MAN2_82:MAN_2]
-~r~Es sind keine Jets mehr auf dem Flugzeugtrãger.
+~r~Es sind keine Jets mehr auf dem Flugzeugträger.
 
 [MAN2_83:MAN_2]
 ~r~Jet zerstört.
 
 [MAN2_84:MAN_2]
-~r~Du hast es nicht geschafft, in den Flugzeugtrãger zu gelangen.
+~r~Du hast es nicht geschafft, in den Flugzeugträger zu gelangen.
 
 [MAN2_ZZ:MAN_2]
 ~r~Du hast es nicht geschafft, die Hydra zu klauen!
@@ -10450,7 +10450,7 @@ Erledige alle Crack-Dealer in deinem Viertel, damit deine Gang gesund bleibt.
 Wenn ein Gang-Mitglied von Crack total abgefuckt ist, ist er keine Hilfe für dich.
 
 [MAN3_22:MAN_3]
-~s~Erobere das Viertel von den Ballas zurück, und sãubere es von sãmtlichen ~r~Dealern~s~!
+~s~Erobere das Viertel von den Ballas zurück, und säubere es von sämtlichen ~r~Dealern~s~!
 
 [MAN3_27:MAN_3]
 Zeit
@@ -10485,7 +10485,7 @@ Das Fahrzeug ist zu voll. Es ist kein Platz für Sweet!
 ~r~OG Loc~s~ versucht abzuhauen. Lass ihn nicht entkommen.
 
 [MAN5_G5:MAN_5]
-~s~Verfolge ~r~OG Loc~s~. Lass dich nicht abhãngen.
+~s~Verfolge ~r~OG Loc~s~. Lass dich nicht abhängen.
 
 [MAN5_F2:MAN_5]
 ~r~Du hast OG Loc verloren.
@@ -10514,7 +10514,7 @@ Das Fahrzeug ist zu voll. Es ist kein Platz für Sweet!
 {=================================== MISSION TABLE MENU2P ===================================}
 
 [MENU_10:MENU2P]
-Fußgãnger
+Fußgänger
 
 [MENU_11:MENU2P]
 ~1~
@@ -10535,10 +10535,10 @@ Zeitlimit
 ~1~ Minute
 
 [MENU_32:MENU2P]
-Drücke den ~H~linken Analog-Stick~w~ hoch oder runter, um eine Option auszuwãhlen.~N~~X~ Auswãhlen~N~~T~ Beenden
+Drücke den ~H~linken Analog-Stick~w~ hoch oder runter, um eine Option auszuwählen.~N~~X~ Auswählen~N~~T~ Beenden
 
 [MENU_33:MENU2P]
-Fußgãnger ~1~
+Fußgänger ~1~
 
 [MENU_34:MENU2P]
 ~1~
@@ -10547,7 +10547,7 @@ Fußgãnger ~1~
 Erledige ~1~ Passanten in ~1~ Minuten
 
 [MENU_38:MENU2P]
-Zerstöre ~1~ Motorrãder in ~1~ Minuten.
+Zerstöre ~1~ Motorräder in ~1~ Minuten.
 
 [MENU_41:MENU2P]
 Autos ~1~
@@ -11151,10 +11151,10 @@ DEIN GELD: $~1~
 ~s~
 
 [PEDS_12:PEDS_2P]
-Wãhle ein Fahrzeug aus
+Wähle ein Fahrzeug aus
 
 [PEDS_13:PEDS_2P]
-Erledige ~1~ Fußgãnger in ~1~ Minuten
+Erledige ~1~ Fußgänger in ~1~ Minuten
 
 {=================================== MISSION TABLE PIMP ===================================}
 
@@ -11168,16 +11168,16 @@ Erledige ~1~ Fußgãnger in ~1~ Minuten
 ~w~Hier ist dein Anteil!
 
 [PIMP_31:PIMP]
-~w~Behandle mich anstãndig!
+~w~Behandle mich anständig!
 
 [PIMP_32:PIMP]
 ~w~Da ist dein Anteil, Tiger!
 
 [PIMP_33:PIMP]
-~w~Da ist mein Kunde. Halt in der Nãhe an. Ich ruf dich, wenn ich für meinen nãchsten Termin bereit bin.
+~w~Da ist mein Kunde. Halt in der Nähe an. Ich ruf dich, wenn ich für meinen nächsten Termin bereit bin.
 
 [PIMP_35:PIMP]
-~w~Hilf mir! Der Dreckskerl wird grob! Er glaubt, er hãtte sich Sackratten bei mir geholt!
+~w~Hilf mir! Der Dreckskerl wird grob! Er glaubt, er hätte sich Sackratten bei mir geholt!
 
 [PIMP_39:PIMP]
 ~w~Ich hab hier einen Geizhals, der nicht zahlen will! Ich brauche deine Überredungskünste!
@@ -11189,19 +11189,19 @@ Erledige ~1~ Fußgãnger in ~1~ Minuten
 ZEIT
 
 [PIMP_91:PIMP]
-~r~Die Zeit ist um! Ein Zuhãlter muss schnell sein, um sich um seine Mãdchen kümmern zu können.
+~r~Die Zeit ist um! Ein Zuhälter muss schnell sein, um sich um seine Mädchen kümmern zu können.
 
 [PIMP_92:PIMP]
-~r~Freier warten nicht ewig! Liefere dein Mãdchen das nãchste Mal schneller ab!
+~r~Freier warten nicht ewig! Liefere dein Mädchen das nächste Mal schneller ab!
 
 [PIMP_1:PIMP]
-~s~Du hast ~1~ Sekunden, um wieder in das ~b~Auto~s~ zu steigen, sonst ist die Zuhãlter-Mission beendet!
+~s~Du hast ~1~ Sekunden, um wieder in das ~b~Auto~s~ zu steigen, sonst ist die Zuhälter-Mission beendet!
 
 [PIMP_2:PIMP]
-~s~Ein ~b~Mãdchen~s~ ist in der Nãhe - Hol es ab.
+~s~Ein ~b~Mädchen~s~ ist in der Nähe - Hol es ab.
 
 [PIMP_10:PIMP]
-~s~Fahr zu den ~y~Docks~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr zu den ~y~Docks~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP_11:PIMP]
 ~s~Fahr zum ~y~Los Santos Airport~s~, um einen Kunden zu finden.
@@ -11216,10 +11216,10 @@ ZEIT
 ~s~Fahr in den ~y~Commerce~s~-Distrikt.
 
 [PIMP_15:PIMP]
-~s~Bring dein Mãdchen jetzt nach ~y~Downtown~s~.
+~s~Bring dein Mädchen jetzt nach ~y~Downtown~s~.
 
 [PIMP_16:PIMP]
-~s~Dein nãchstes Ziel ist ~y~Glen Park~s~.
+~s~Dein nächstes Ziel ist ~y~Glen Park~s~.
 
 [PIMP_17:PIMP]
 ~s~Besorge einen weiteren Freier in ~y~Little Mexico~s~.
@@ -11228,13 +11228,13 @@ ZEIT
 ~s~Jetzt zur Kirche in ~y~Jefferson~s~.
 
 [PIMP_19:PIMP]
-~s~Als nãchstes nach ~y~East Los Santos~s~.
+~s~Als nächstes nach ~y~East Los Santos~s~.
 
 [PIMP_20:PIMP]
 ~s~Fahr nach ~y~Los Flores~s~, um einen weiteren Kunden aufzutreiben.
 
 [PIMP_21:PIMP]
-~s~Setz das Mãdchen diesmal am ~y~East Beach~s~ ab.
+~s~Setz das Mädchen diesmal am ~y~East Beach~s~ ab.
 
 [PIMP_22:PIMP]
 ~s~Fahr zum ~y~Konferenzzentrum~s~ in der Stadtmitte.
@@ -11243,34 +11243,34 @@ ZEIT
 ~s~Diesmal geht's Richtung ~y~Verona Beach~s~.
 
 [PIMP_24:PIMP]
-~s~Nãchstes Ziel: ~y~Santa Maria Beach~s~.
+~s~Nächstes Ziel: ~y~Santa Maria Beach~s~.
 
 [PIMP_25:PIMP]
-~s~Fahr nach ~y~Marina~s~, um einen weiteren Kunden für dein Mãdchen zu finden.
+~s~Fahr nach ~y~Marina~s~, um einen weiteren Kunden für dein Mädchen zu finden.
 
 [PIMP_26:PIMP]
 ~s~Fahr jetzt in die Gegend um ~y~Market~s~.
 
 [PIMP_27:PIMP]
-~s~Dein nãchstes Ziel liegt mitten in ~y~Rodeo~s~.
+~s~Dein nächstes Ziel liegt mitten in ~y~Rodeo~s~.
 
 [PIMP_28:PIMP]
 ~s~Fahr diesmal zur Treppe in ~y~Rodeo.
 
 [PIMP_29:PIMP]
-~s~Fahr hoch nach ~y~Richman~s~, um einen weiteren Kunden für dein Mãdchen zu finden.
+~s~Fahr hoch nach ~y~Richman~s~, um einen weiteren Kunden für dein Mädchen zu finden.
 
 [PIMP_30:PIMP]
-~s~Gut! Hol jetzt ein anderes ~b~Mãdchen~s~ ab.
+~s~Gut! Hol jetzt ein anderes ~b~Mädchen~s~ ab.
 
 [PIMP_36:PIMP]
-~s~Ein ~r~Freier~s~ ist zu grob zu deinem Mãdchen! Mach ihn fertig!
+~s~Ein ~r~Freier~s~ ist zu grob zu deinem Mädchen! Mach ihn fertig!
 
 [PIMP_37:PIMP]
 ~s~Bring diesen ~r~Mistkerl~s~ schnell zur Strecke!
 
 [PIMP_38:PIMP]
-~s~Gute Arbeit! Fahr zurück und hol dein ~b~Mãdchen~s~ ab, um weiterzumachen.
+~s~Gute Arbeit! Fahr zurück und hol dein ~b~Mädchen~s~ ab, um weiterzumachen.
 
 [PIMP_40:PIMP]
 0 von 10 Kuppeleien erfolgreich!
@@ -11303,31 +11303,31 @@ ZEIT
 9 von 10 Kuppeleien erfolgreich!
 
 [PIMP_50:PIMP]
-Zuhãlter-Missionen abgeschlossen!
+Zuhälter-Missionen abgeschlossen!
 
 [PIMP_51:PIMP]
-~r~Im Krankenhaus kann dein Mãdchen keine Kunden bedienen! Du bist kein guter Lude!
+~r~Im Krankenhaus kann dein Mädchen keine Kunden bedienen! Du bist kein guter Lude!
 
 [PIMP_52:PIMP]
-~r~Sei höflich zu deinen Kunden! Sie nehmen deine Mãdchen nicht mehr, wenn du ihnen grob kommst!
+~r~Sei höflich zu deinen Kunden! Sie nehmen deine Mädchen nicht mehr, wenn du ihnen grob kommst!
 
 [PIMP_53:PIMP]
 ~s~Begib dich jetzt in die ~y~Gegend~s~ des Kunden!
 
 [PIMP_54:PIMP]
-~s~Hol jetzt dein ~b~Mãdchen~s~ ab!
+~s~Hol jetzt dein ~b~Mädchen~s~ ab!
 
 [PIMP_55:PIMP]
 ~s~Dieser ~r~Kunde~s~ nutzt deine Dienste schamlos aus. Vernichte ihn!
 
 [PIMP_57:PIMP]
-~s~Dein ~b~Mãdchen~s~ ist mit einem Kunden fertig. Hol es ab.
+~s~Dein ~b~Mädchen~s~ ist mit einem Kunden fertig. Hol es ab.
 
 [PIMP_59:PIMP]
-~r~Zuhãlter-Mission beendet.
+~r~Zuhälter-Mission beendet.
 
 [PIMP_60:PIMP]
-~s~Ausgezeichnete Arbeit! Du warst deinen Mãdchen ein guter Beschützer.
+~s~Ausgezeichnete Arbeit! Du warst deinen Mädchen ein guter Beschützer.
 
 [PIMP_70:PIMP]
 Kuppeleien
@@ -11354,13 +11354,13 @@ X ~1~
 ~s~Fahr jetzt zu der Waschstraße in ~y~Mulholland~s~.
 
 [PIMP_82:PIMP]
-~s~Bring dein Mãdchen diesmal nach ~y~Vinewood~s~.
+~s~Bring dein Mädchen diesmal nach ~y~Vinewood~s~.
 
 [PIMP_83:PIMP]
-~s~Fahr dein Mãdchen in die Nãhe vom ~y~Temple~s~-Friedhof.
+~s~Fahr dein Mädchen in die Nähe vom ~y~Temple~s~-Friedhof.
 
 [PIMP_84:PIMP]
-~s~Fahr zurück nach ~y~Idlewood~s~, um einen weiteren Freier für dein Mãdchen zu finden.
+~s~Fahr zurück nach ~y~Idlewood~s~, um einen weiteren Freier für dein Mädchen zu finden.
 
 [PIMP_85:PIMP]
 ~s~Fahre diesmal nach ~y~Ganton~s~.
@@ -11372,7 +11372,7 @@ X ~1~
 ~s~Fahre Richtung ~y~Little Mexico~s~, um einen weiteren Kunden aufzutreiben.
 
 [PIMP200:PIMP]
-~s~Begib dich nach ~y~Calton Heights~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Begib dich nach ~y~Calton Heights~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP201:PIMP]
 ~s~Fahr jetzt rauf zu dem Park in ~y~Juniper Hills~s~.
@@ -11390,13 +11390,13 @@ X ~1~
 ~s~Fahre nach ~y~Bayside~s~, um einen weiteren Kunden zu finden.
 
 [PIMP206:PIMP]
-~s~Setz dein Mãdchen jetzt am ~y~Battery Point~s~ ab.
+~s~Setz dein Mädchen jetzt am ~y~Battery Point~s~ ab.
 
 [PIMP207:PIMP]
-~s~Dein nãchstes Ziel ist ~y~Palisades~s~.
+~s~Dein nächstes Ziel ist ~y~Palisades~s~.
 
 [PIMP208:PIMP]
-~s~Fahr nach ~y~Chinatown~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr nach ~y~Chinatown~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP209:PIMP]
 ~s~Fahr jetzt nach ~y~Downtown~s~.
@@ -11408,25 +11408,25 @@ X ~1~
 ~s~Fahr nach ~y~Esplanade East~s~, um einen weiteren Freier zu finden.
 
 [PIMP212:PIMP]
-~s~Nãchste Station: ~y~Queens~s~.
+~s~Nächste Station: ~y~Queens~s~.
 
 [PIMP213:PIMP]
 ~s~Fahre nach ~y~Hashbury~s~, um einen weiteren Kunden zu finden.
 
 [PIMP214:PIMP]
-~s~Setze dein Mãdchen jetzt in ~y~Ocean Flats~s~ ab.
+~s~Setze dein Mädchen jetzt in ~y~Ocean Flats~s~ ab.
 
 [PIMP215:PIMP]
-~s~Dein nãchstes Ziel ist der ~y~Avispa Country Club~s~.
+~s~Dein nächstes Ziel ist der ~y~Avispa Country Club~s~.
 
 [PIMP216:PIMP]
-~s~Setze dein Mãdchen jetzt bei ~y~King's~s~ ab.
+~s~Setze dein Mädchen jetzt bei ~y~King's~s~ ab.
 
 [PIMP217:PIMP]
-~s~Nãchstes Ziel: ~y~Garcia~s~.
+~s~Nächstes Ziel: ~y~Garcia~s~.
 
 [PIMP218:PIMP]
-~s~Fahr nach ~y~Doherty~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr nach ~y~Doherty~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP219:PIMP]
 ~s~Jetzt zum ~y~Easter Basin~s~.
@@ -11438,22 +11438,22 @@ X ~1~
 ~s~Fahr nach ~y~Foster Valley~s~, um einen weiteren Freier zu finden.
 
 [PIMP222:PIMP]
-~s~Als nãchstes geht's zum ~y~Easter Bay Airport~s~.
+~s~Als nächstes geht's zum ~y~Easter Bay Airport~s~.
 
 [PIMP223:PIMP]
 ~s~Fahr nach ~y~Palisades~s~, um einen weiteren Kunden aufzutreiben.
 
 [PIMP224:PIMP]
-~s~Setze dein Mãdchen jetzt in ~y~Paradiso~s~ ab.
+~s~Setze dein Mädchen jetzt in ~y~Paradiso~s~ ab.
 
 [PIMP225:PIMP]
-~s~Dein nãchster Zielort ist ~y~Santa Flora~s~.
+~s~Dein nächster Zielort ist ~y~Santa Flora~s~.
 
 [PIMP226:PIMP]
-~s~Nãchste Station: Das ~y~Rathaus~s~.
+~s~Nächste Station: Das ~y~Rathaus~s~.
 
 [PIMP300:PIMP]
-~s~Fahr zum ~y~Pink Swan~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr zum ~y~Pink Swan~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP301:PIMP]
 ~s~Fahr jetzt zum ~y~Four Dragons~s~.
@@ -11471,13 +11471,13 @@ X ~1~
 ~s~Fahr zum ~y~Royal Casino~s~, um einen weiteren Kunden zu finden.
 
 [PIMP306:PIMP]
-~s~Setze dein Mãdchen jetzt bei ~y~Caligula's Palace~s~ ab.
+~s~Setze dein Mädchen jetzt bei ~y~Caligula's Palace~s~ ab.
 
 [PIMP307:PIMP]
-~s~Dein nãchstes Ziel ist das ~y~High Roller~s~.
+~s~Dein nächstes Ziel ist das ~y~High Roller~s~.
 
 [PIMP308:PIMP]
-~s~Fahr nach ~y~Pilgrim~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr nach ~y~Pilgrim~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP309:PIMP]
 ~s~Fahr jetzt zum ~y~Starfish Casino~s~.
@@ -11489,19 +11489,19 @@ X ~1~
 ~s~Fahr zum ~y~Visage~s~, dort findest du einen weiteren Freier.
 
 [PIMP312:PIMP]
-~s~Nãchstes Fahrziel: ~y~Emerald Isle~s~.
+~s~Nächstes Fahrziel: ~y~Emerald Isle~s~.
 
 [PIMP313:PIMP]
 ~s~Fahr nach ~y~Roca Escalante~s~, um einen weiteren Kunden zu finden.
 
 [PIMP314:PIMP]
-~s~Setze dein Mãdchen jetzt beim ~y~Old Venturas Strip~s~ ab.
+~s~Setze dein Mädchen jetzt beim ~y~Old Venturas Strip~s~ ab.
 
 [PIMP315:PIMP]
-~s~Dein nãchstes Ziel: ~y~Clown's Pocket~s~.
+~s~Dein nächstes Ziel: ~y~Clown's Pocket~s~.
 
 [PIMP316:PIMP]
-~s~Fahr zur ~y~Blackfield Chapel~s~, um einen Freier für dein Mãdchen zu finden.
+~s~Fahr zur ~y~Blackfield Chapel~s~, um einen Freier für dein Mädchen zu finden.
 
 [PIMP317:PIMP]
 ~s~Fahr jetzt zum ~y~Greenglass College~s~.
@@ -11515,7 +11515,7 @@ X ~1~
 {=================================== MISSION TABLE POOL ===================================}
 
 [POOL01:POOL]
-Wenn du Pool spielen willst, wãhle deinen Einsatz.
+Wenn du Pool spielen willst, wähle deinen Einsatz.
 
 [PL_H1:POOL]
 ~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter~N~~t~ Beenden~N~Spieler 2, drücke die ~h~START~w~-Taste, um zu zweit zu spielen.
@@ -11524,7 +11524,7 @@ Wenn du Pool spielen willst, wãhle deinen Einsatz.
 ~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter~N~~t~ Beenden
 
 [PL_H3:POOL]
-~h~linker Analog-Stick~w~ - Mit dem Queue zielen~N~~h~SELECT~w~-Taste - Blickwinkel ãndern~N~~x~ - In Stoßposition gehen~N~~t~ halten - Beenden
+~h~linker Analog-Stick~w~ - Mit dem Queue zielen~N~~h~SELECT~w~-Taste - Blickwinkel ändern~N~~x~ - In Stoßposition gehen~N~~t~ halten - Beenden
 
 [PL_H4:POOL]
 Benutze den ~h~rechten Analog-Stick~w~, um die weiße Kugel zu spielen.~N~Benutze den ~h~linken Analog-Stick~w~, um die Queuespitze zu positionieren.~N~~t~ - Erneut zielen
@@ -11673,7 +11673,7 @@ Steinbruch-Mission erfüllt!
 ~r~Du hast die Leichen verloren.
 
 [QUAR_F9:QUARRY]
-~r~Die Fãsser sind explodiert.
+~r~Die Fässer sind explodiert.
 
 [QUAR_FA:QUARRY]
 ~r~Sprengstoff auf dem Gleis.
@@ -11703,7 +11703,7 @@ Zug
 Schaden
 
 [QUAR_H1:QUARRY]
-Benutze den ~h~rechten Analog-Stick~w~, um die Ladeflãche des Kippers hoch- und runterzufahren.
+Benutze den ~h~rechten Analog-Stick~w~, um die Ladefläche des Kippers hoch- und runterzufahren.
 
 [QUAR_H2:QUARRY]
 Du trittst gegen deine eigene Bestzeit an. Drücke ~C~, um diese Mission zu überspringen.
@@ -11733,7 +11733,7 @@ Pass auf, dass der Kipper nicht bei dem Motorrad und der Leiche im Wasser landet
 ~s~Steig in den ~y~Kran~s~.
 
 [QUAR_06:QUARRY]
-~s~Hebe die Leiche und das Motorrad mit dem Kran auf die Ladeflãche des ~b~Kippers~s~.
+~s~Hebe die Leiche und das Motorrad mit dem Kran auf die Ladefläche des ~b~Kippers~s~.
 
 [QUAR_07:QUARRY]
 ~s~Steig in den ~b~Kipper~s~.
@@ -11745,16 +11745,16 @@ Pass auf, dass der Kipper nicht bei dem Motorrad und der Leiche im Wasser landet
 ~s~Kippe die Leiche und das Motorrad ins ~y~Wasser~s~.
 
 [QUAR_11:QUARRY]
-~s~Rãume mit dem ~b~Bulldozer~s~ die Wege frei, bevor die nãchste Lieferung kommt.
+~s~Räume mit dem ~b~Bulldozer~s~ die Wege frei, bevor die nächste Lieferung kommt.
 
 [QUAR_12:QUARRY]
-~s~Rãum einen Weg frei, indem du die ~g~Steinbrocken~s~ über die Kante in die Markierungen schiebst.
+~s~Räum einen Weg frei, indem du die ~g~Steinbrocken~s~ über die Kante in die Markierungen schiebst.
 
 [QUAR_13:QUARRY]
-~s~~1~ Steine weggerãumt. ~1~ übrig.
+~s~~1~ Steine weggeräumt. ~1~ übrig.
 
 [QUAR_14:QUARRY]
-~s~~1~ Stein weggerãumt. ~1~ übrig.
+~s~~1~ Stein weggeräumt. ~1~ übrig.
 
 [QUAR_15:QUARRY]
 ~s~Ein Konkurrenzunternehmen hat Bomben gelegt. Schiebe die Bomben mit dem ~b~Bulldozer~s~ in die markierten sicheren Bereiche.
@@ -11766,7 +11766,7 @@ Pass auf, dass der Kipper nicht bei dem Motorrad und der Leiche im Wasser landet
 ~s~Eine ~g~Bombe~s~ liegt neben dem Kran. Bring sie in den ~y~sicheren Bereich~s~.
 
 [QUAR_18:QUARRY]
-~s~Die nãchste ~g~Bombe~s~ befindet sich bei der Brechanlage. Schieb sie in einen ~y~sicheren Bereich~s~.
+~s~Die nächste ~g~Bombe~s~ befindet sich bei der Brechanlage. Schieb sie in einen ~y~sicheren Bereich~s~.
 
 [QUAR_19:QUARRY]
 ~s~Die letzte ~g~Bombe~s~ liegt zwischen den Quetschanlagen. Begib dich aus dem Explosionsradius, wenn du sie in den ~y~sicheren Bereich~s~ gebracht hast.
@@ -11790,19 +11790,19 @@ Pass auf, dass der Kipper nicht bei dem Motorrad und der Leiche im Wasser landet
 ~s~Der ~b~Kipper~s~ ist mit Sprengstoff beladen und muss sachte gefahren werden. Liefere den Sprengstoff an den ~y~Flugplatz in der Wüste~s~ und kehre dann zum Steinbruch zurück.
 
 [QUAR_26:QUARRY]
-~s~Wirf die Fãsser ab. Durch den weichen Sand werden sie nicht explodieren.
+~s~Wirf die Fässer ab. Durch den weichen Sand werden sie nicht explodieren.
 
 [QUAR_27:QUARRY]
 ~s~Kehre zurück zum ~y~Steinbruch~s~.
 
 [QUAR_28:QUARRY]
-~s~Ein Kipper hat überall entlang der Strecke Sprengstoff verloren. Rãume ihn mit dem ~b~Bulldozer~s~ weg, bevor der nãchste Zug durchkommt.
+~s~Ein Kipper hat überall entlang der Strecke Sprengstoff verloren. Räume ihn mit dem ~b~Bulldozer~s~ weg, bevor der nächste Zug durchkommt.
 
 [QUAR_29:QUARRY]
-~s~Der ~b~Zug~s~ nãhert sich.
+~s~Der ~b~Zug~s~ nähert sich.
 
 [QUAR_30:QUARRY]
-~s~Diebe haben Gerãte gestohlen und fliehen in einem ~r~Kipper~s~. Zerstöre ihn mit diesem ~b~Kipper~s~.
+~s~Diebe haben Geräte gestohlen und fliehen in einem ~r~Kipper~s~. Zerstöre ihn mit diesem ~b~Kipper~s~.
 
 [QUAR_31:QUARRY]
 ~s~Die ~r~Diebe~s~ bekommen zu viel Vorsprung.
@@ -11826,7 +11826,7 @@ Pass auf, dass der Kipper nicht bei dem Motorrad und der Leiche im Wasser landet
 ~s~Steig wieder in den ~b~Kipper~s~.
 
 [QUAR_37:QUARRY]
-~s~Kehre zum Büro im Steinbruch zurück, um die nãchste Mission zu starten.
+~s~Kehre zum Büro im Steinbruch zurück, um die nächste Mission zu starten.
 
 [QUAR_38:QUARRY]
 ~s~Der ~b~Kipper~s~ ist vollgeladen mit Sprengladungen und muss sehr vorsichtig gefahren werden. Bring die Sprengladungen zu dem ~y~Flugplatz in der Wüste~s~.
@@ -11894,10 +11894,10 @@ Beste Platzierung: 3.
 Beste Platzierung: ~1~.
 
 [RACES13:RACETOR]
-Streckenlãnge: ~1~,~1~ km
+Streckenlänge: ~1~,~1~ km
 
 [RACES14:RACETOR]
-Streckenlãnge: ~1~,0~1~ km
+Streckenlänge: ~1~,0~1~ km
 
 [RACES15:RACETOR]
 Bestzeit: -
@@ -11906,7 +11906,7 @@ Bestzeit: -
 Beste Platzierung: -
 
 [RACES17:RACETOR]
-Streckenlãnge: ~1~,0~1~ Meilen
+Streckenlänge: ~1~,0~1~ Meilen
 
 [RACES18:RACETOR]
 Sieger!
@@ -11924,7 +11924,7 @@ Sieger!
 Bestzeit: ~1~:0~1~
 
 [RACES23:RACETOR]
-Streckenlãnge: ~1~,~1~ Meilen
+Streckenlänge: ~1~,~1~ Meilen
 
 [RACES24:RACETOR]
 ~r~Du bist disqualifiziert worden, weil du dein Fahrzeug zerstört hast.
@@ -11954,7 +11954,7 @@ Zeit:
 RUNDE ~1~/~1~
 
 [RACES33:RACETOR]
-Benutze den ~h~linken Analog-Stick~w~, um ein Rennen auszuwãhlen.~n~~x~ Rennen starten~n~~t~ Beenden
+Benutze den ~h~linken Analog-Stick~w~, um ein Rennen auszuwählen.~n~~x~ Rennen starten~n~~t~ Beenden
 
 [TOP_POS:RACETOR]
 NEUE beste Platzierung:
@@ -12014,7 +12014,7 @@ Steig vom Fahrrad und renne zu dem Checkpoint, um das Rennen fortzusetzen
 ~1~,0~1~ km
 
 [RACES36:RACETOR]
-Streckenlãnge
+Streckenlänge
 
 [RACES37:RACETOR]
 Bestes Resultat
@@ -12082,10 +12082,10 @@ ALLE RENNEN GEWONNEN!~n~~w~$~1~
 ~s~
 
 [RAM_12:RAM_2P]
-Wãhle eine Waffe aus
+Wähle eine Waffe aus
 
 [RAM_13:RAM_2P]
-Erledige ~1~ Fußgãnger in ~1~ Minuten
+Erledige ~1~ Fußgänger in ~1~ Minuten
 
 {=================================== MISSION TABLE RIOT1 ===================================}
 
@@ -12119,13 +12119,13 @@ Steig wieder in ~b~Sweets Wagen~s~.
 ~s~Triff dich mit den ~b~Veteranos~s~.
 
 [R2_03:RIOT2]
-~s~Hilf ~b~Cesar~s~ und den Gangstern, das Viertel zu sãubern.
+~s~Hilf ~b~Cesar~s~ und den Gangstern, das Viertel zu säubern.
 
 [R2_04:RIOT2]
 ~s~Begib dich in die ~y~Gasse~s~!
 
 [R2_05:RIOT2]
-~S~Bleib in ~b~Cesars~s~ Nãhe und mach klar Schiff in der Gasse.
+~S~Bleib in ~b~Cesars~s~ Nähe und mach klar Schiff in der Gasse.
 
 [R2_06:RIOT2]
 ~S~Verteidige ~b~Cesar~s~.
@@ -12148,7 +12148,7 @@ Steig wieder in ~b~Sweets Wagen~s~.
 {=================================== MISSION TABLE RIOT3 ===================================}
 
 [RM3_1:RIOT3]
-~s~Begib dich in die Nãhe von ~y~Market~s~ und übernimm das gesamte ~y~Los Santos Vagos-Gebiet~s~.
+~s~Begib dich in die Nähe von ~y~Market~s~ und übernimm das gesamte ~y~Los Santos Vagos-Gebiet~s~.
 
 [RM3_2:RIOT3]
 ~s~Greife die Gangmitglieder der Los Santos Vagos an und übernimm das Gebiet.
@@ -12183,7 +12183,7 @@ Yo! Lass den Quatsch und such einen Weg hinein.
 ~s~Ramm den Eingang zu ~y~Big Smokes Crack Festung~s~ mit dem SWAT Panzer ein.
 
 [RM4_9:RIOT4]
-Du musst diese Wand vollstãndig einrammen. Steig wieder in den ~b~SWAT Panzer~s~!
+Du musst diese Wand vollständig einrammen. Steig wieder in den ~b~SWAT Panzer~s~!
 
 [RM4_10:RIOT4]
 ~r~Der SWAT Panzer wurde zerstört. Wie willst du jetzt in Big Smokes Crack Festung kommen?
@@ -12240,7 +12240,7 @@ Studiobeleuchtung aus!
 Ahh, ich kann nichts mehr sehen!
 
 [RM4_28:RIOT4]
-Smoke trãgt eine kugelsichere Weste. Um ihm möglichst viel Schaden zuzufügen, ziele auf andere Körperteile.
+Smoke trägt eine kugelsichere Weste. Um ihm möglichst viel Schaden zuzufügen, ziele auf andere Körperteile.
 
 [RM4_29:RIOT4]
 Steht nicht dumm rum! Schnappt ihn euch, Jungs!
@@ -12249,13 +12249,13 @@ Steht nicht dumm rum! Schnappt ihn euch, Jungs!
 Guter Schuss! Aber mal sehen. ob du im Dunkeln auch so gut triffst!
 
 [RM4_31:RIOT4]
-~s~Smoke hat das Licht ausgeschaltet. Hol dir das ~g~Thermo-Sichtgerãt~s~ beim unteren Fenster.
+~s~Smoke hat das Licht ausgeschaltet. Hol dir das ~g~Thermo-Sichtgerät~s~ beim unteren Fenster.
 
 [RM4_32:RIOT4]
-Um das Nachtsichtgerãt zu verwenden, wãhle es aus deinem Inventar aus und drücke ~O~.
+Um das Nachtsichtgerät zu verwenden, wähle es aus deinem Inventar aus und drücke ~O~.
 
 [RM4_33:RIOT4]
-~s~Benutze das Nachtsichtgerãt, das du gerade von Big Smoke ergattert hast, um im Dunkeln zu sehen und das Gebãude so schnell wie möglich zu ~y~verlassen~s~.
+~s~Benutze das Nachtsichtgerät, das du gerade von Big Smoke ergattert hast, um im Dunkeln zu sehen und das Gebäude so schnell wie möglich zu ~y~verlassen~s~.
 
 [RM4_34:RIOT4]
 Zeit
@@ -12264,22 +12264,22 @@ Zeit
 ~s~Diese Etage steht in Brand. Benutze einen ~g~Feuerlöscher~s~, um hier rauszukommen!
 
 [RM4_36:RIOT4]
-~s~Mit dem Thermo-Sichtgerãt wirst du ~r~Smoke~s~ und seine Gangster leichter finden.
+~s~Mit dem Thermo-Sichtgerät wirst du ~r~Smoke~s~ und seine Gangster leichter finden.
 
 [RM4_37:RIOT4]
 Brenn, CJ!
 
 [RM4_38:RIOT4]
-~s~Tenpenny hat eine Explosion ausgelöst. Die Beleuchtung im Gebãude ist ausgefallen. Es brennt ab. Du musst schnell hier raus!
+~s~Tenpenny hat eine Explosion ausgelöst. Die Beleuchtung im Gebäude ist ausgefallen. Es brennt ab. Du musst schnell hier raus!
 
 [RM4_39:RIOT4]
 Smoke
 
 [RM4_40:RIOT4]
-Nachtsichtgerãte können Feuer heller erscheinen lassen. Es kann also sein, dass du zwischen Nachtsicht und normaler Sicht wechseln musst, um Brãnde besser einschãtzen zu können.
+Nachtsichtgeräte können Feuer heller erscheinen lassen. Es kann also sein, dass du zwischen Nachtsicht und normaler Sicht wechseln musst, um Brände besser einschätzen zu können.
 
 [RM4_41:RIOT4]
-Folge Tenpenny und sorge dafür, dass ~b~Sweet~s~ nichts passiert. Bleib dicht an dem Feuerwehrwagen dran und lass dich von Tenpenny nicht abhãngen.
+Folge Tenpenny und sorge dafür, dass ~b~Sweet~s~ nichts passiert. Bleib dicht an dem Feuerwehrwagen dran und lass dich von Tenpenny nicht abhängen.
 
 [RM4_42:RIOT4]
 ~s~Versuche nicht, den Feuerwehrwagen zu rammen. Du könntest ~b~Sweet~s~ sonst verletzen.
@@ -12291,7 +12291,7 @@ Folge Tenpenny und sorge dafür, dass ~b~Sweet~s~ nichts passiert. Bleib dicht a
 ~s~Gleich kann ~b~Sweet~s~ sich nicht mehr halten. Bring deinen Wagen direkt unter die Leiter und fang ~b~Sweet~s~ auf, bevor er den Halt verliert!
 
 [RM4_45:RIOT4]
-~r~Sweet ist tot! Du sollst ihn auffangen. Bring deinen Wagen das nãchste Mal unter Sweet, wenn er droht, den Halt zu verlieren!
+~r~Sweet ist tot! Du sollst ihn auffangen. Bring deinen Wagen das nächste Mal unter Sweet, wenn er droht, den Halt zu verlieren!
 
 [RM4_46:RIOT4]
 ~r~Du hast deinen Wagen geschrottet!
@@ -12306,7 +12306,7 @@ Sweets Halt
 ~s~Verfolge den Feuerwehrwagen!
 
 [RM4_50:RIOT4]
-~r~Du hast Sweet verloren! Bleib das nãchste Mal dichter dran!
+~r~Du hast Sweet verloren! Bleib das nächste Mal dichter dran!
 
 [RM4_51:RIOT4]
 Benutze den ~h~rechten Analog-Stick~w~, um das Fadenkreuz zu bewegen. Um zu feuern, drücke ~K~.
@@ -12341,7 +12341,7 @@ Ein Stadtbummel
 ~s~Du kannst den anderen Spieler küssen, indem du dich nahe zu ihm stellst und dann ~K~ drückst.
 
 [RUN_XX:RUN_2P]
-Spieler 2: Drücke den ~H~linken Analog-Stick~w~ nach links oder rechts, um einen Charakter auszuwãhlen.~N~~X~ Auswãhlen
+Spieler 2: Drücke den ~H~linken Analog-Stick~w~ nach links oder rechts, um einen Charakter auszuwählen.~N~~X~ Auswählen
 
 {=================================== MISSION TABLE RYDER1 ===================================}
 
@@ -12361,7 +12361,7 @@ Wie ich gesagt habe...
 ~s~Du musst wenigstens ~1~ Kisten mit Waffen stehlen.
 
 [GUNS1_5:RYDER1]
-Lãrm :
+Lärm :
 
 [GUNS1_6:RYDER1]
 ZZZZZZzzzzZZ
@@ -12373,7 +12373,7 @@ Hhhhrrummphh
 Diesmal hab ich euch aber gehört. Ich rufe die Polizei!
 
 [GUNS117:RYDER1]
-Okay, sieht aus, als hãttest du alles. Jetzt nichts wie raus hier!
+Okay, sieht aus, als hättest du alles. Jetzt nichts wie raus hier!
 
 [GUNS118:RYDER1]
 Drücke ~t~, um die Kiste aufzuheben.
@@ -12400,7 +12400,7 @@ Okay, du musst durch diese Tür gehen.
 ~s~Parke den Truck nahe dem ~y~Haus~s~ und hole die Waffen, bevor es hell wird.
 
 [GUNS134:RYDER1]
-~s~Du machst zu viel Lãrm. Du musst schleichen!
+~s~Du machst zu viel Lärm. Du musst schleichen!
 
 [GUNS143:RYDER1]
 ~s~Du hast ~b~Ryder~s~ zurückgelassen. Hole ihn.
@@ -12451,7 +12451,7 @@ Wenn du dich nicht gerade auf einer Mission befindest, kannst du nachts auf Dieb
 Du kannst in einen Van wie diesen steigen, um eine Diebes-Tour zu starten.
 
 [RYD1_90:RYDER1]
-Man kann in viele Hãuser einbrechen und die Besitzer um ihre Habe erleichtern.
+Man kann in viele Häuser einbrechen und die Besitzer um ihre Habe erleichtern.
 
 [RYD1_91:RYDER1]
 Belade den Truck und fahre ihn dann zurück zur Garage.
@@ -12460,13 +12460,13 @@ Belade den Truck und fahre ihn dann zurück zur Garage.
 Du musst stets leise sein.
 
 [RYD1_93:RYDER1]
-Wenn du die Maske trãgst, drücke sanft auf den ~h~linken Analog-Stick~w~, um zu schleichen.
+Wenn du die Maske trägst, drücke sanft auf den ~h~linken Analog-Stick~w~, um zu schleichen.
 
 [RYD1_94:RYDER1]
-Wenn du zu viel Lãrm machst, weckst du die Bewohner des Hauses.
+Wenn du zu viel Lärm machst, weckst du die Bewohner des Hauses.
 
 [RYD1_95:RYDER1]
-Achte darauf, dass die Lãrm-Anzeige nie das Maximum erreicht.
+Achte darauf, dass die Lärm-Anzeige nie das Maximum erreicht.
 
 [RYD1_37:RYDER1]
 ~r~Du hast die Maske nicht mehr.
@@ -12489,7 +12489,7 @@ Achte darauf, dass die Lãrm-Anzeige nie das Maximum erreicht.
 ~s~Nimm die Kisten mit dem Gabelstapler und stell sie ~y~hinter dem Transporter~s~ ab.
 
 [RY2_64:RYDER2]
-Wãhrend du auf dem Gabelstapler sitzt, benutze ~O~, um Kisten aufzunehmen und abzustellen.
+Während du auf dem Gabelstapler sitzt, benutze ~O~, um Kisten aufzunehmen und abzustellen.
 
 [RY2_65:RYDER2]
 ~s~Stell die Kiste ab.
@@ -12590,7 +12590,7 @@ Kisten
 ~s~Fahr den Transporter zu dem ~y~Munitionszug~s~.
 
 [RYD3_I:RYDER3]
-~s~Du musst die Cops abhãngen! Fahr dazu in das nahe gelegene Pay 'n' Spray.
+~s~Du musst die Cops abhängen! Fahr dazu in das nahe gelegene Pay 'n' Spray.
 
 [RYD3_M:RYDER3]
 ~s~Knall die ~r~Vagos ~s~ab, die den Zug ausrauben wollen!
@@ -12611,7 +12611,7 @@ Kisten
 Zeit
 
 [RYD3_13:RYDER3]
-~s~Du musst die Cops abhãngen! Fahr in das nahe gelegene ~y~Pay 'n' Spray~s~, um die Bullen abzuhãngen.
+~s~Du musst die Cops abhängen! Fahr in das nahe gelegene ~y~Pay 'n' Spray~s~, um die Bullen abzuhängen.
 
 [RYD3_14:RYDER3]
 ~r~Ryders Truck wurde zerstört!
@@ -12628,7 +12628,7 @@ Steig wieder in ~b~Ryders Truck~s~!
 {=================================== MISSION TABLE SCRASH2 ===================================}
 
 [SCR2_21:SCRASH2]
-~s~Tenpenny hat ein ~g~Prãzisionsgewehr~s~ auf einer Baustelle in der Nãhe versteckt. Hol es ab.
+~s~Tenpenny hat ein ~g~Präzisionsgewehr~s~ auf einer Baustelle in der Nähe versteckt. Hol es ab.
 
 [SCR2_22:SCRASH2]
 ~s~Du kannst versuchen, dem ~r~Zug~s~ entlang der Gleise zu folgen. Oder du suchst dir mit der Karte eine Route zur Market Station.
@@ -12640,13 +12640,13 @@ Schreck
 ~s~Der Reporter ist in der ~y~Cranberry Station~s~. Folge ihm zu seinem Treffpunkt mit der Zielperson, dann schalte beide aus.
 
 [SCR2_01:SCRASH2]
-~s~Die Bahn kommt im ~y~Bahnhof~s~ an. Du hast nicht mehr viel Zeit, bevor sie mit dem Reporter abfãhrt.
+~s~Die Bahn kommt im ~y~Bahnhof~s~ an. Du hast nicht mehr viel Zeit, bevor sie mit dem Reporter abfährt.
 
 [SCR2_02:SCRASH2]
-~s~Der Reporter hat die Bahn bestiegen und fãhrt jetzt zur Market Station in Los Santos. Folge der ~r~Bahn~s~!
+~s~Der Reporter hat die Bahn bestiegen und fährt jetzt zur Market Station in Los Santos. Folge der ~r~Bahn~s~!
 
 [SCR2_03:SCRASH2]
-~s~Die ~r~Bahn~s~ nãhert sich der Market Station. Der Reporter wird sich bereitmachen, auszusteigen.
+~s~Die ~r~Bahn~s~ nähert sich der Market Station. Der Reporter wird sich bereitmachen, auszusteigen.
 
 [SCR2_04:SCRASH2]
 ~s~Der ~r~Reporter~s~ hat die Bahn verlassen. Nimm seine Spur auf und folge ihm zur Zielperson.
@@ -12661,10 +12661,10 @@ Schreck
 ~s~Der ~r~Reporter~s~ ist in ein Taxi gestiegen. Folge ihm zur Zielperson.
 
 [SCR2_08:SCRASH2]
-~s~Du bist zu nah dran! Du verschreckst den ~r~Reporter~s~. Halte Abstand, sonst blãst er das Interview ab.
+~s~Du bist zu nah dran! Du verschreckst den ~r~Reporter~s~. Halte Abstand, sonst bläst er das Interview ab.
 
 [SCR2_09:SCRASH2]
-~s~Ahnt der ~r~Reporter~s~, dass er verfolgt wird, blãst er das Interview ab. Halte also Abstand, um ihn nicht zu verschrecken.
+~s~Ahnt der ~r~Reporter~s~, dass er verfolgt wird, bläst er das Interview ab. Halte also Abstand, um ihn nicht zu verschrecken.
 
 [SCR2_10:SCRASH2]
 ~s~Du hast den Reporter erledigt. Schalte die ~r~Zielperson~s~ aus, um die Mission abzuschließen.
@@ -12691,22 +12691,22 @@ Schreck
 ~s~Vorsicht! Der ~r~Reporter~s~ könnte checken, ob er verfolgt wird, indem er plötzlich stoppt oder Vollgas gibt.
 
 [SCR2_18:SCRASH2]
-~s~Der ~r~Reporter~s~ nãhert sich seinem Ziel. Bleib auf Abstand, bis er die Zielperson trifft.
+~s~Der ~r~Reporter~s~ nähert sich seinem Ziel. Bleib auf Abstand, bis er die Zielperson trifft.
 
 [SCR2_19:SCRASH2]
-~s~Der ~r~Reporter~s~ ist bereit, die ~r~Zielperson~s~ zu treffen. Du hast ein Prãszisionsgewehr. Schalte beide aus.
+~s~Der ~r~Reporter~s~ ist bereit, die ~r~Zielperson~s~ zu treffen. Du hast ein Präszisionsgewehr. Schalte beide aus.
 
 [SCR2_20:SCRASH2]
 ~s~Der ~r~Reporter~s~ ist auf dem Gehsteig und sucht ein Taxi. Halte dich bereit, ihm zu folgen.
 
 [SCR2_23:SCRASH2]
-~s~Du verschreckst den ~r~Reporter~s~. Bleib hinter ihm, sonst lãsst er das Interview platzen.
+~s~Du verschreckst den ~r~Reporter~s~. Bleib hinter ihm, sonst lässt er das Interview platzen.
 
 [SCR2_50:SCRASH2]
 Fortschritt Bahn
 
 [SCR2_80:SCRASH2]
-~r~Du kommst zu spãt. Die Bahn ist weg.
+~r~Du kommst zu spät. Die Bahn ist weg.
 
 [SCR2_81:SCRASH2]
 ~r~Der Reporter ist tot.
@@ -12727,7 +12727,7 @@ Fortschritt Bahn
 ~r~Du hast den Reporter verschreckt.
 
 [SCR2_53:SCRASH2]
-Um auf das Zielfernrohr des Prãzisionsgewehrs zu wechseln, drücke ~J~. Benutze ~M~, um ranzuzoomen und ~V~, um wegzuzoomen.
+Um auf das Zielfernrohr des Präzisionsgewehrs zu wechseln, drücke ~J~. Benutze ~M~, um ranzuzoomen und ~V~, um wegzuzoomen.
 
 [SCR2_54:SCRASH2]
 Drücke ~o~ oder ~K~, um zu feuern.
@@ -12917,7 +12917,7 @@ Carl, wo gehst du hin?
 ~s~Bring OG Loc zum ~y~Burger Shot~s~.
 
 [SMK1_14:SMOKE1]
-~r~Das Motorrad, das du gebraucht hãttest, wurde zerstört!
+~r~Das Motorrad, das du gebraucht hättest, wurde zerstört!
 
 {=================================== MISSION TABLE SMOKE2 ===================================}
 
@@ -12996,7 +12996,7 @@ Du kannst nur kurze Zeit im Supersprint laufen, bevor du müde wirst.
 ~s~Halte dich auf Höhe des ersten Waggons, damit Big Smoke die ~r~Vagos-Gangmitglieder~s~ erledigen kann.
 
 [SMK3_13:SMOKE3]
-~r~Du hast sie verloren! Bleib das nãchste Mal an dem Zug dran!
+~r~Du hast sie verloren! Bleib das nächste Mal an dem Zug dran!
 
 [SMK3_14:SMOKE3]
 ~s~Fahre neben den ersten Waggon des Zugs, wo die ~r~Vagos Gangmitglieder~s~ stehen, und versuche, diese Position zu halten. Big Smoke feuert automatisch, sobald sie in Reichweite sind.
@@ -13007,10 +13007,10 @@ Du kannst nur kurze Zeit im Supersprint laufen, bevor du müde wirst.
 ~s~Bring ~b~Big Smoke ~s~nach ~y~Downtown~s~.
 
 [DGS1_2:SMOKE4]
-Wenn Gegner in Deckung gehen, ist es oft besser, mit dem ~h~rechten Analog-Stick ~w~prãzise zu zielen, wãhrend du schießt.
+Wenn Gegner in Deckung gehen, ist es oft besser, mit dem ~h~rechten Analog-Stick ~w~präzise zu zielen, während du schießt.
 
 [DGS1_3:SMOKE4]
-~r~Du hast Smoke allein gelassen, jetzt ist er tot. Bleib das nãchste Mal etwas dichter dran!
+~r~Du hast Smoke allein gelassen, jetzt ist er tot. Bleib das nächste Mal etwas dichter dran!
 
 [DGS1_56:SMOKE4]
 ~s~Geh rein und beschütze ~b~Big Smoke~s~!
@@ -13048,7 +13048,7 @@ Du kannst auch den ~h~rechten Analog-Stick~w~ verwenden, um dich auf dem Motorra
 ~s~Geh das ~r~Auto~s~ holen.
 
 [STL1_02:STEAL1]
-~s~Ramme ~r~es ~s~ leicht am Heck, damit ~r~es ~s~ ins Schleudern gerãt.
+~s~Ramme ~r~es ~s~ leicht am Heck, damit ~r~es ~s~ ins Schleudern gerät.
 
 [STL1_03:STEAL1]
 ~s~Lass die ~r~Spur ~s~nicht kalt werden.
@@ -13078,7 +13078,7 @@ Wende die Verfolgungsjagd-Technik, die du in der Fahrschule gelernt hast, an, um
 ~s~Steig wieder ins ~b~Auto~s~!
 
 [STL1_12:STEAL1]
-~s~Das Auto müsste in der Nãhe sein.
+~s~Das Auto müsste in der Nähe sein.
 
 [STL1_13:STEAL1]
 ~s~Fahr das Auto in die ~y~Werkstatt~s~.
@@ -13098,7 +13098,7 @@ Carl, wo gehst du hin?
 ~s~Holt euch die Autos aus dem ~y~Showroom~s~.
 
 [STE2_02:STEAL2]
-~s~Bleib auf deiner Rückkehr zum Unterschlupf in ~b~Cesars~s~ Nãhe.
+~s~Bleib auf deiner Rückkehr zum Unterschlupf in ~b~Cesars~s~ Nähe.
 
 [STE2_03:STEAL2]
 Drücke ~o~ oder ~K~, um den Nitro-Boost zu aktivieren.
@@ -13202,10 +13202,10 @@ Drücke den ~h~linken Analog-Stick~w~ nach rechts oder links, um den Kranarm zu 
 Mit dem ~h~linken Analog-Stick~w~ bewegst du den Kran in die gewünschte Richtung.
 
 [ST4_H07:STEAL4]
-Anhand des Magnetschattens kannst du abschãtzen, wo ein Objekt aufkommen wird.
+Anhand des Magnetschattens kannst du abschätzen, wo ein Objekt aufkommen wird.
 
 [ST4_H08:STEAL4]
-Mit der ~h~SELECT~w~-Taste kannst du den Blickwinkel ãndern.
+Mit der ~h~SELECT~w~-Taste kannst du den Blickwinkel ändern.
 
 [ST4_H09:STEAL4]
 Drücke ~t~, um aus dem Kran auszusteigen.
@@ -13299,7 +13299,7 @@ Korrekte Moves (%)
 ~s~Geh auf die Beachparty und sprich mit dem ~y~DJ.
 
 [MUS1_H1:STRAP1]
-Drücke wãhrend eines Gesprãchs ~>~, um positiv zu antworten, und ~<~, um negativ zu antworten.
+Drücke während eines Gesprächs ~>~, um positiv zu antworten, und ~<~, um negativ zu antworten.
 
 [MUS1_18:STRAP1]
 ~r~Der DJ ist tot!
@@ -13331,16 +13331,16 @@ Drücke wãhrend eines Gesprãchs ~>~, um positiv zu antworten, und ~<~, um nega
 ~s~Das ~g~Versbuch~s~ ist in Madd Doggs Aufnahmestudio.
 
 [STP2_4:STRAP2]
-~r~Madd Doggs Leibwãchter~s~ patrouillieren in der Villa. Du hast keine Schusswaffen. Versuche, unbemerkt zu bleiben.
+~r~Madd Doggs Leibwächter~s~ patrouillieren in der Villa. Du hast keine Schusswaffen. Versuche, unbemerkt zu bleiben.
 
 [STP2_5:STRAP2]
 ~s~Der erste ~r~Wachmann~s~ kann dich nicht sehen. Du kannst dich also mit einer Nahkampfwaffe heranschleichen und ihn ~h~unbemerkt ausschalten~s~.
 
 [STP2_7:STRAP2]
-~s~Die patrouillierenden ~r~Wachmãnner~s~ werden durch rote Markierungen auf dem Radar angezeigt. Sie weisen in die Richtung, in die die Leibwãchter schauen.
+~s~Die patrouillierenden ~r~Wachmänner~s~ werden durch rote Markierungen auf dem Radar angezeigt. Sie weisen in die Richtung, in die die Leibwächter schauen.
 
 [STP2_9:STRAP2]
-Wenn du dich geduckt bewegst, machst du weniger Gerãusche. Duck dich und bewege dich auf den ~r~Wachmann~s~ zu.
+Wenn du dich geduckt bewegst, machst du weniger Geräusche. Duck dich und bewege dich auf den ~r~Wachmann~s~ zu.
 
 [STP2_10:STRAP2]
 Beweg dich langsam auf den Wachmann zu. Wenn dein Arm sich hebt, kannst du ihn unbemerkt ausschalten, indem du ~o~ drückst.
@@ -13364,7 +13364,7 @@ Such dir ein geeignetes Versteck, bevor er dich bemerkt. Such nach einem Bereich
 ~s~Wenn du hier einfach an dem ~r~Wachmann~s~ vorbeigehst, sieht er dich. Duck dich und geh an der Bar vorbei, um unentdeckt zu bleiben.
 
 [STP2_29:STRAP2]
-~s~Setze die erlernten Fãhigkeiten ein, um an jedem der patrouillierenden ~r~Wachmãnner~s~ vorbeizukommen. ~y~Verlasse~s~ die Villa, damit du OG Loc das Versbuch bringen kannst.
+~s~Setze die erlernten Fähigkeiten ein, um an jedem der patrouillierenden ~r~Wachmänner~s~ vorbeizukommen. ~y~Verlasse~s~ die Villa, damit du OG Loc das Versbuch bringen kannst.
 
 [STP2_30:STRAP2]
 ~s~Du musst das Versbuch zu OG Loc bringen. Er ist im ~y~Burger Shot~s~.
@@ -13373,30 +13373,30 @@ Such dir ein geeignetes Versteck, bevor er dich bemerkt. Such nach einem Bereich
 Mit dem ~h~rechten Analog-Stick~w~ kannst du die Kamera drehen und so um Ecken sehen und Gegner ausmachen.
 
 [STP2_33:STRAP2]
-Die ~r~Wachmãnner~w~ benutzen schallgedãmpfte Waffen. Gelingt es dir, eine zu ergattern, kannst du damit feuern, ohne dass Wachmãnner in der Nãhe dich hören.
+Die ~r~Wachmänner~w~ benutzen schallgedämpfte Waffen. Gelingt es dir, eine zu ergattern, kannst du damit feuern, ohne dass Wachmänner in der Nähe dich hören.
 
 [STP2_34:STRAP2]
-~s~Um das Skateboard zu benutzen, heb es auf und wãhle es im Waffeninventar aus. Drücke ~K~, wãhrend du darüber stehst, falls dein Inventar voll ist.
+~s~Um das Skateboard zu benutzen, heb es auf und wähle es im Waffeninventar aus. Drücke ~K~, während du darüber stehst, falls dein Inventar voll ist.
 
 [STP2_36:STRAP2]
 Um unentdeckt zu bleiben, musst du geduckt an der Bar vorbei gehen.
 
 [STP2_38:STRAP2]
-Um das Skateboard zu benutzen, wãhle es im Waffeninventar aus. Benutze den ~h~linken Analog-Stick~w~, um das Skateboard zu steuern. Durch Tippen auf ~x~ wirst du schneller, mit ~q~ springst du.
+Um das Skateboard zu benutzen, wähle es im Waffeninventar aus. Benutze den ~h~linken Analog-Stick~w~, um das Skateboard zu steuern. Durch Tippen auf ~x~ wirst du schneller, mit ~q~ springst du.
 
 [STP2_39:STRAP2]
-~r~Leibwãchter~s~ patrouillieren in der Villa. Setze hier keine Schusswaffen ein, sonst alarmierst du sie. Schleich dich unbemerkt rein und klau das Buch.
+~r~Leibwächter~s~ patrouillieren in der Villa. Setze hier keine Schusswaffen ein, sonst alarmierst du sie. Schleich dich unbemerkt rein und klau das Buch.
 
 [STP2_40:STRAP2]
 ~y~Verlasse ~s~die Villa und bring das Versbuch zu OG Loc. Jetzt kannst du deine Waffen einsetzen, obwohl es wahrscheinlich weniger riskant ist, dich unbemerkt an den ~r~Wachen ~s~vorbei zu schleichen.
 
 [STP2_41:STRAP2]
-Wenn das weiße Symbol auf dem Radar, das deine Position anzeigt, sich blau fãrbt, bedeutet das, dass du im Schatten bist und die Wachen dich nicht sehen können.
+Wenn das weiße Symbol auf dem Radar, das deine Position anzeigt, sich blau färbt, bedeutet das, dass du im Schatten bist und die Wachen dich nicht sehen können.
 
 {=================================== MISSION TABLE STRAP3 ===================================}
 
 [STP3_33:STRAP3]
-~s~Triff dich vor 22 Uhr mit den anderen ~y~Fahrern~s~. Beschãdige dein Auto nicht!
+~s~Triff dich vor 22 Uhr mit den anderen ~y~Fahrern~s~. Beschädige dein Auto nicht!
 
 [STP3_01:STRAP3]
 ~s~Einer der ~r~Fahrer~s~ von Madd Doggs Manager isst im Burger Shot auf der anderen Seite der Stadt.
@@ -13453,7 +13453,7 @@ DIE MOOTV-PREISVERLEIHUNG
 ~r~Du hast Madd Doggs Manager entkommen lassen!
 
 [STP3_19:STRAP3]
-~s~Beschãdige das ~r~Auto~s~, um den Fahrer zum Aussteigen zu zwingen.
+~s~Beschädige das ~r~Auto~s~, um den Fahrer zum Aussteigen zu zwingen.
 
 [STP3_20:STRAP3]
 ~r~Du warst zu langsam! Die anderen Autos von Madd Dogg sind ohne dich losgefahren.
@@ -13462,7 +13462,7 @@ DIE MOOTV-PREISVERLEIHUNG
 ~r~Du warst zu langsam! Madd Doggs Autos sind weg!
 
 [STP3_22:STRAP3]
-~s~Das Auto ist beschãdigt. Sorg dafür, dass es repariert wird.
+~s~Das Auto ist beschädigt. Sorg dafür, dass es repariert wird.
 
 [STP3_23:STRAP3]
 ~r~Du hast mit deinen miesen Fahrkünsten die anderen Fahrer alarmiert.
@@ -13576,7 +13576,7 @@ Das sind Ballas-Gang-Mitglieder, gekleidet in lila. Sie sind eure Erzfeinde.
 Drücke ~J~, um Gegner anzuvisieren, dann drücke ~o~ um ihnen ins Gesicht zu sprühen.
 
 [SWE1_Z1:SWEET1]
-Feindliches Ganggebiet kann gefãhrlich sein. Wenn du dich dort zu lange aufhãltst, erregst du Aufmerksamkeit.
+Feindliches Ganggebiet kann gefährlich sein. Wenn du dich dort zu lange aufhältst, erregst du Aufmerksamkeit.
 
 [HOOD3_A:SWEET1]
 ~s~Fahr mit Sweet nach ~y~Idlewood~s~.
@@ -13615,7 +13615,7 @@ Halte ~o~ gedrückt, bis das Graffiti komplett übersprüht ist.
 ~s~Übersprühe die verbleibenden ~g~Graffitis~s~ in dieser Gegend.
 
 [SWE1_Z:SWEET1]
-~s~Begib dich zu der ~y~Radarmarkierung~s~, dort findest du das nãchste Graffiti.
+~s~Begib dich zu der ~y~Radarmarkierung~s~, dort findest du das nächste Graffiti.
 
 [JUMPH1:SWEET1]
 Stell dich vor den Zaun und drücke ~Q~, um drüber zu klettern.
@@ -13652,10 +13652,10 @@ Drücke ~Q~, um auf die Mauer zu klettern.
 ~s~Du musst zurück in ~y~Emmet's Hof~s~.
 
 [HOOD2E:SWEET2]
-Ein hoher ~h~Waffen-Skill~w~ verbessert deine Fãhigkeiten im Umgang mit Waffen. Drücke ~K~, wãhrend du zu Fuß bist, um deinen Waffen-Skill einzusehen.
+Ein hoher ~h~Waffen-Skill~w~ verbessert deine Fähigkeiten im Umgang mit Waffen. Drücke ~K~, während du zu Fuß bist, um deinen Waffen-Skill einzusehen.
 
 [S2HELP1:SWEET2]
-~s~Geh in das ~y~Binco-Bekleidungsgeschãft~s~.
+~s~Geh in das ~y~Binco-Bekleidungsgeschäft~s~.
 
 [S2HELP2:SWEET2]
 ~s~Stell dich in die Markierung, um neue Klamotten anzuprobieren.
@@ -13667,7 +13667,7 @@ Ein hoher ~h~Waffen-Skill~w~ verbessert deine Fãhigkeiten im Umgang mit Waffen.
 Drücke ~J~, um Ziele anzuvisieren und ~o~ oder ~K~, um zu feuern.
 
 [HOOD2B:SWEET2]
-Wãhrend du ein Ziel erfasst hast, kannst du mit ~M~ oder ~V~ zwischen Zielen hin und herschalten.
+Während du ein Ziel erfasst hast, kannst du mit ~M~ oder ~V~ zwischen Zielen hin und herschalten.
 
 [HOOD2C:SWEET2]
 Um manuell zu zielen, halte ~J~ gedrückt und benutze den ~h~rechten Analog-Stick~w~ zum Zielen.
@@ -13712,7 +13712,7 @@ Du kannst deine Treffgenauigkeit erhöhen, indem du dich duckst. Drücke ~A~, um
 ~s~Du musst dich zu Fuß fortbewegen!
 
 [RECOIL:SWEET2]
-Wenn du permanent feuerst, beeintrãchtigt der Rückstoß der Waffe deine Zielgenauigkeit. Um möglichst genau zu treffen, arbeite mit kurzen Feuerstößen.
+Wenn du permanent feuerst, beeinträchtigt der Rückstoß der Waffe deine Zielgenauigkeit. Um möglichst genau zu treffen, arbeite mit kurzen Feuerstößen.
 
 {=================================== MISSION TABLE SWEET3 ===================================}
 
@@ -13776,7 +13776,7 @@ Wenn du permanent feuerst, beeintrãchtigt der Rückstoß der Waffe deine Zielge
 ~r~Deine Homies haben es nicht geschafft.
 
 [SWE4_05:SWEET4]
-~r~Bist du dir sicher, dass du für dein Viertel kãmpfst?
+~r~Bist du dir sicher, dass du für dein Viertel kämpfst?
 
 [SWE4_06:SWEET4]
 Bring dein Fahrzeug in die Lackiererei, um deinen ~h~Fahndungslevel~w~ loszuwerden und das Fahrzeug zu ~h~reparieren ~w~und ~h~umzuspritzen.~w~ Kosten - ~h~$100.~w~ Diesmal ist's gratis.
@@ -13889,7 +13889,7 @@ Beschaff dir einen viertürigen Wagen.
 ~s~Du hast ~b~Sweets Freundin~s~ zurückgelassen! Du musst zurück und sie holen.
 
 [SW5_14:SWEET5]
-~s~Besorg dir einen Viertürer, um Sweet und sein Mãdchen ~y~abzuholen~s~.
+~s~Besorg dir einen Viertürer, um Sweet und sein Mädchen ~y~abzuholen~s~.
 
 [SW5_16:SWEET5]
 Sweet braucht ein Fluchtauto, nicht eins von diesen Dingern!
@@ -13939,13 +13939,13 @@ You need to move the hydraulics in time to the music
 If you want to go at it again there's a contact a the taco stand, he'll tell you where and when.
 
 [S6_36:SWEET6]
-Bewege den ~h~rechten Analog-Stick~w~, um die hydraulischen Stoßdãmpfer zu steuern. Mit ~C~ kannst du hüpfen!
+Bewege den ~h~rechten Analog-Stick~w~, um die hydraulischen Stoßdämpfer zu steuern. Mit ~C~ kannst du hüpfen!
 
 [S6_37:SWEET6]
 ~q~ Einsatz erhöhen~N~~o~ Einsatz verringern~N~~x~ Weiter
 
 [S6_38:SWEET6]
-~s~Fahre den Lowrider rückwãrts in die ~y~Tuning-Werkstatt~s~.
+~s~Fahre den Lowrider rückwärts in die ~y~Tuning-Werkstatt~s~.
 
 [S6_39:SWEET6]
 Drücke den ~h~rechten Analog-Stick~w~ im Rhythmus der Musik.
@@ -13960,7 +13960,7 @@ Drücke den ~h~rechten Analog-Stick~w~ im Rhythmus der Musik.
 ~r~Das Treffen löst sich auf, weil du ein Gruppenmitglied angegriffen hast.
 
 [S6_05:SWEET6]
-~s~Du brauchst ein Auto mit hydraulischen Stoßdãmpfern, um mitzumischen.
+~s~Du brauchst ein Auto mit hydraulischen Stoßdämpfern, um mitzumischen.
 
 [S6_15:SWEET6]
 Mit dem ~h~rechten Analog-Stick~w~ aktivierst du die Hydraulik des Autos.
@@ -14002,7 +14002,7 @@ Versuch den ~h~rechten Analog-Stick~w~ im Rhythmus der Musik zu bewegen.
 Du brauchst $50, um bei dem Lowrider-Wettbewerb antreten zu können.
 
 [S6_41:SWEET6]
-Drücke ~A~, um die Stoßdãmpfer des Wagens zu fixieren.
+Drücke ~A~, um die Stoßdämpfer des Wagens zu fixieren.
 
 [SWHUD1:SWEET6]
 Wetteinsatz
@@ -14011,7 +14011,7 @@ Wetteinsatz
 $~1~
 
 [SWHUD3:SWEET6]
-~<~ ~>~ - Wetteinsatz ãndern
+~<~ ~>~ - Wetteinsatz ändern
 
 [SWHUD4:SWEET6]
 ~x~ Wetteinsatz platzieren
@@ -14055,13 +14055,13 @@ Veranlasse deine Gang, dir zu folgen, indem du ~u~ drückst.
 Drücke ~d~, um deine Gang anzuweisen, in Position zu bleiben, oder ~u~, um sie anzuweisen, dir zu folgen.
 
 [TWAR662:SWEET7]
-Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hãltst oder wenn du dich zu weit entfernst, dann zerstreut sich dein Team.
+Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hältst oder wenn du dich zu weit entfernst, dann zerstreut sich dein Team.
 
 [TWAR610:SWEET7]
-~s~Steige zu Sweet ins ~b~Auto~s~. Du musst Verstãrkung für den Angriff mitnehmen.
+~s~Steige zu Sweet ins ~b~Auto~s~. Du musst Verstärkung für den Angriff mitnehmen.
 
 [TWAR611:SWEET7]
-~s~Du brauchst Verstãrkung für diesen Angriff. Bevor du jedoch Gang-Mitglieder rekrutieren kannst, müssen sie dich erst respektieren.
+~s~Du brauchst Verstärkung für diesen Angriff. Bevor du jedoch Gang-Mitglieder rekrutieren kannst, müssen sie dich erst respektieren.
 
 [TWAR612:SWEET7]
 ~s~Begib dich auf Ballas-Gebiet und schalte ein paar toughe ~r~Gang-Mitglieder~s~ aus, um dir Respekt zu erwerben.
@@ -14079,16 +14079,16 @@ Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hãltst oder wenn du dich zu
 ~r~Die Beerdigung wird vorbei sein! Kane wird einen weiteren Tag überleben!
 
 [TWAR625:SWEET7]
-~r~Du hast vorschnell Ãrger angezettelt! Jetzt wird Kane sich nicht blicken lassen!
+~r~Du hast vorschnell Ärger angezettelt! Jetzt wird Kane sich nicht blicken lassen!
 
 [TWAR626:SWEET7]
 ~r~Kane~s~ flüchtet zu diesem Fahrzeug! Schnapp ihn dir!
 
 [TWAR627:SWEET7]
-~r~Zu spãt! Kane ist jetzt in seinem eigenen Viertel! Es wãre zu gefãhrlich, ihn weiter zu verfolgen!
+~r~Zu spät! Kane ist jetzt in seinem eigenen Viertel! Es wäre zu gefährlich, ihn weiter zu verfolgen!
 
 [TWAR628:SWEET7]
-~s~Kane ist tot! Schalte jetzt den Rest seiner ~r~Mãnner~s~ aus!
+~s~Kane ist tot! Schalte jetzt den Rest seiner ~r~Männer~s~ aus!
 
 [TWAR629:SWEET7]
 ~s~Kane flüchtet! Folge ~b~Sweet~s~, er wird das Auto hijacken!
@@ -14097,7 +14097,7 @@ Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hãltst oder wenn du dich zu
 ~s~Steig in Sweets ~b~Auto~s~. Ihr müsst zu dem Friedhof, ehe die Beerdigung vorüber ist.
 
 [TWAR631:SWEET7]
-~s~Es sind alle an Bord. Fahrt zum rückwãrtigen Teil des ~y~Friedhofs~s~, bevor Kane eintrifft.
+~s~Es sind alle an Bord. Fahrt zum rückwärtigen Teil des ~y~Friedhofs~s~, bevor Kane eintrifft.
 
 [TWAR632:SWEET7]
 ~s~Du und die Gang-Mitglieder müssen so schnell wie möglich wieder ins ~b~Auto~s~.
@@ -14106,7 +14106,7 @@ Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hãltst oder wenn du dich zu
 ~r~Du hast Sweets Auto geschrottet und der Job ist unerledigt geblieben!
 
 [TWAR635:SWEET7]
-~s~Klettere über die Mauer und gehe zu ~b~Sweet~s~ und seinen Mãnnern.
+~s~Klettere über die Mauer und gehe zu ~b~Sweet~s~ und seinen Männern.
 
 [TWAR636:SWEET7]
 ~s~Erledige ~r~Kane~s~, lass ihn nicht entkommen!
@@ -14136,10 +14136,10 @@ Wenn du ~u~ oder ~d~ für einige Sekunden gedrückt hãltst oder wenn du dich zu
 ~s~Bring Sweet sofort wohlbehalten ~y~nach Hause~s~!
 
 [TWAR648:SWEET7]
-~r~Das Auto hãtte hãtte noch nützlich sein können! Es war völlig unnötig, ihn zu zerstören!
+~r~Das Auto hätte hätte noch nützlich sein können! Es war völlig unnötig, ihn zu zerstören!
 
 [TWAR649:SWEET7]
-~s~Fahr in die Nãhe von ~r~Kane~s~, damit Sweet freie Schussbahn hat!
+~s~Fahr in die Nähe von ~r~Kane~s~, damit Sweet freie Schussbahn hat!
 
 [TWAR652:SWEET7]
 ~s~Bring diese ~b~Gang-Mitglieder~s~ dazu, sich dir anzuschließen. Sie haben genug Respekt vor dir, um dir zu helfen.
@@ -14174,7 +14174,7 @@ Halte ~J~ gedrückt, um ein Gang-Mitglied anzuvisieren und drücke ~u~ oder ~d~,
 ~s~Schieß ein Foto von ~r~seinem~s~ Gesicht!
 
 [SYN1_11:SYN1]
-~s~Du hast ihn! Sieh dich nach der nãchsten Zielperson um!
+~s~Du hast ihn! Sieh dich nach der nächsten Zielperson um!
 
 [SYN1_12:SYN1]
 ~s~Fotografiere das Gesicht jeder Zielperson, aber mach schnell, und geh so nah wie möglich ran!
@@ -14207,7 +14207,7 @@ Halte ~J~ gedrückt, um ein Gang-Mitglied anzuvisieren und drücke ~u~ oder ~d~,
 ~s~Fotografiere ~r~sein~s~ Gesicht.
 
 [SYN1_05:SYN1]
-~s~Zoom nãher heran.
+~s~Zoom näher heran.
 
 [SYN1_06:SYN1]
 ~r~Cesar hat's nicht geschafft.
@@ -14254,16 +14254,16 @@ Schmeiss mich einfach in der Stadt raus.
 Du kommst jetzt mit, du Schlampe!
 
 [SYN_D07:SYN2]
-Du bist doch den Ãrger nicht wert, Schlampe!
+Du bist doch den Ärger nicht wert, Schlampe!
 
 [SYN2_60:SYN2]
 ~s~Fahr zu Jizzys Club.
 
 [SYN2_61:SYN2]
-~s~Ramme das ~r~Diplomatenauto~s~, damit er keine Verstãrkung rufen kann.
+~s~Ramme das ~r~Diplomatenauto~s~, damit er keine Verstärkung rufen kann.
 
 [SYN2_62:SYN2]
-~r~Der Diplomat hat dich abgehãngt.
+~r~Der Diplomat hat dich abgehängt.
 
 [SYN2_63:SYN2]
 Nutte
@@ -14272,10 +14272,10 @@ Nutte
 ~s~Setz die Prostituierte ~y~Downtown~s~ ab.
 
 [SYN2_06:SYN2]
-~s~Zieh den Zuhãlter in ~y~Hashbury~s~ aus dem Verkehr.
+~s~Zieh den Zuhälter in ~y~Hashbury~s~ aus dem Verkehr.
 
 [SYN2_14:SYN2]
-~s~Rette ~y~Jizzys Mãdchen~s~.
+~s~Rette ~y~Jizzys Mädchen~s~.
 
 [SYN2_15:SYN2]
 ~s~Erledige beide ~r~Kunden~s~.
@@ -14287,13 +14287,13 @@ Nutte
 ~s~Erledige den ~r~Diplomaten~s~.
 
 [SYN2_37:SYN2]
-~s~Steig in den ~b~Zuhãlterschlitten~s~.
+~s~Steig in den ~b~Zuhälterschlitten~s~.
 
 [SYN2_38:SYN2]
-~s~Schalte den ~r~Zuhãlter-Rivalen~s~ aus.
+~s~Schalte den ~r~Zuhälter-Rivalen~s~ aus.
 
 [SYN2_44:SYN2]
-~s~Gewãhlte Nummer - ~1~
+~s~Gewählte Nummer - ~1~
 
 [SYN2_47:SYN2]
 ~s~Der ~r~Diplomat~s~ flieht zu Fuß. Mach ihn fertig!
@@ -14317,13 +14317,13 @@ Hilferuf
 ~r~Du hast Jizzys Wagen zerstört.
 
 [SYN_F_5:SYN2]
-~r~Jizzys Mãdchen ist hinüber.
+~r~Jizzys Mädchen ist hinüber.
 
 [SYN_F_6:SYN2]
 ~r~Du warst zu langsam.
 
 [SYN_M_1:SYN2]
-~s~Steig wieder in den ~b~Zuhãlterschlitten~s~.
+~s~Steig wieder in den ~b~Zuhälterschlitten~s~.
 
 [SYN_M_2:SYN2]
 ~s~---- TELEFON KLINGELT----
@@ -14358,7 +14358,7 @@ Hilferuf
 ~r~T-Bone ist tot!
 
 [SYN3_9:SYN3]
-Der ~b~Van~s~ ist fast bei der gegenwãrtigen ~r~Straßensperre~s~!~N~Rãum die ~r~Straßensperre~s~ schnell aus dem Weg.
+Der ~b~Van~s~ ist fast bei der gegenwärtigen ~r~Straßensperre~s~!~N~Räum die ~r~Straßensperre~s~ schnell aus dem Weg.
 
 [SYN3_2:SYN3]
 ~s~Zerstöre die erste ~r~Straßensperre~s~, bevor der ~b~Van~s~ dort ankommt.
@@ -14370,10 +14370,10 @@ Der ~b~Van~s~ ist fast bei der gegenwãrtigen ~r~Straßensperre~s~!~N~Rãum die 
 ~s~Verwende den Raketenwerfer, um die ~r~Straßensperren~s~ in die Luft zu jagen.
 
 [SYN3_5:SYN3]
-~s~Rãum die nãchste ~r~Straßensperre~s~ aus dem Weg.
+~s~Räum die nächste ~r~Straßensperre~s~ aus dem Weg.
 
 [SYN3_6:SYN3]
-~s~Rãum die dritte ~r~Straßensperre~s~ aus dem Weg.
+~s~Räum die dritte ~r~Straßensperre~s~ aus dem Weg.
 
 [SYN3_7:SYN3]
 ~s~Zerstöre die letzte ~r~Straßensperre~s~.
@@ -14446,7 +14446,7 @@ Carl, wo gehst du hin?
 ~s~Geh nach oben und triff dich mit ~b~Cesar~s~.
 
 [SYN5_02:SYN5]
-~s~Sãubere das Dach, damit die Triaden vorrücken können.
+~s~Säubere das Dach, damit die Triaden vorrücken können.
 
 [SYN5_03:SYN5]
 ~s~Geh in den ~y~Durchgang~s~, um auf das Dach zu gelangen.
@@ -14484,10 +14484,10 @@ Carl, wo gehst du hin?
 ~s~Begib dich zum Freeway und schieße diesen ~r~Helikopter~s~ ab.
 
 [SYN6_01:SYN6]
-~s~Toreno steigt auf einem ~y~Heli-Landeplatz~s~ in der Nãhe in einen Helikopter. Du musst da hin und ihn aufhalten.
+~s~Toreno steigt auf einem ~y~Heli-Landeplatz~s~ in der Nähe in einen Helikopter. Du musst da hin und ihn aufhalten.
 
 [SYN6_02:SYN6]
-~s~Torenos Mãnner haben ~g~schwere Waffen~s~. Jag sie ihnen ab!
+~s~Torenos Männer haben ~g~schwere Waffen~s~. Jag sie ihnen ab!
 
 [SYN6_03:SYN6]
 ~s~Der Helikopter ist in der Luft! Schnapp dir den ~g~Raketenwerfer~s~ und hol das Ding runter!
@@ -14505,7 +14505,7 @@ Heli
 ~s~Das ist ein Hinterhalt! Lass den ~r~Helikopter~s~ nicht entkommen!
 
 [SYN6_08:SYN6]
-~r~Zu spãt! Torenos Helikopter ist inzwischen außer Reichweite!
+~r~Zu spät! Torenos Helikopter ist inzwischen außer Reichweite!
 
 [SYN6_09:SYN6]
 ~s~Ausgezeichnet. Diesen Feuerball kann Toreno unmöglich überlebt haben.
@@ -14564,7 +14564,7 @@ Bombe ~1~
 ~s~Zurück in das ~b~Auto~s~!
 
 [SYN7_34:SYN7]
-~s~Parke das Auto in der Nãhe der ~y~Chemikalienbehãlter~s~.
+~s~Parke das Auto in der Nähe der ~y~Chemikalienbehälter~s~.
 
 [SYN7_35:SYN7]
 ~s~Benutze die ~y~Rampe~s~, um in das Crack-Labor zu gelangen.
@@ -14585,7 +14585,7 @@ Bombe ~1~
 ~s~Erledige die ~r~Wachen~s~, das wird ihre Aufmerksamkeit erregen.
 
 [SYN7_53:SYN7]
-~s~Such dir ein anderes ~b~Auto~s~, um damit vom Gelãnde zu springen!
+~s~Such dir ein anderes ~b~Auto~s~, um damit vom Gelände zu springen!
 
 {=================================== MISSION TABLE TAXI1 ===================================}
 
@@ -14605,7 +14605,7 @@ Alle Taxis haben Nitro Boost.
 ~s~Such dir einen ~b~Fahrgast~s~.
 
 [TX_NONE:TAXI1]
-~s~Hier in der Nãhe sind keine Fahrgãste. Such weiter.
+~s~Hier in der Nähe sind keine Fahrgäste. Such weiter.
 
 [TX_OOPS:TAXI1]
 ~s~Ups! Du solltest dir lieber einen neuen ~b~Fahrgast~s~ suchen.
@@ -14665,7 +14665,7 @@ Taxi-Mission beendet
 Der Bonus-Balken sinkt mit zunehmender Fahrtdauer und zunehmendem Schaden am Fahrzeug.
 
 [TX_H1:TAXI1]
-Halte neben einem markierten Fußgãnger, um ihn einsteigen zu lassen, dann bringe ihn rechtzeitig an sein Fahrtziel.
+Halte neben einem markierten Fußgänger, um ihn einsteigen zu lassen, dann bringe ihn rechtzeitig an sein Fahrtziel.
 
 [TX_LS1:TAXI1]
 ~s~FAHRTZIEL ~y~Schnapsladen.
@@ -14758,7 +14758,7 @@ Halte neben einem markierten Fußgãnger, um ihn einsteigen zu lassen, dann brin
 ~s~FAHRTZIEL ~y~Santa Maria Beach.
 
 [TX_LS31:TAXI1]
-~s~FAHRTZIEL ~y~Pro Laps-Geschãft.
+~s~FAHRTZIEL ~y~Pro Laps-Geschäft.
 
 [TX_LS32:TAXI1]
 ~s~FAHRTZIEL ~y~Burger Shot.
@@ -14803,7 +14803,7 @@ Halte neben einem markierten Fußgãnger, um ihn einsteigen zu lassen, dann brin
 ~s~FAHRTZIEL ~y~Las Venturas Airport.
 
 [TX_VE12:TAXI1]
-~s~FAHRTZIEL ~y~Militãrtreibstoffdepot.
+~s~FAHRTZIEL ~y~Militärtreibstoffdepot.
 
 [TX_VE13:TAXI1]
 ~s~FAHRTZIEL ~y~Golf Clubhaus.
@@ -14824,7 +14824,7 @@ Halte neben einem markierten Fußgãnger, um ihn einsteigen zu lassen, dann brin
 ~s~FAHRTZIEL ~y~Hotel.
 
 [TX_VE19:TAXI1]
-~s~FAHRTZIEL ~y~Souvenirgeschãft.
+~s~FAHRTZIEL ~y~Souvenirgeschäft.
 
 [TX_VE20:TAXI1]
 ~s~FAHRTZIEL ~y~Kunstgalerie.
@@ -15084,16 +15084,16 @@ Halte ~K~ gedrückt, um mit Vierradsteuerung zu fahren.
 ~r~Die Zeit ist um!
 
 [DES1_32:TORENO1]
-~1~:0~1~, mal sehen, wie du dich gegen unsere Jungs schlãgst.
+~1~:0~1~, mal sehen, wie du dich gegen unsere Jungs schlägst.
 
 [DES1_33:TORENO1]
-~1~:~1~, mal sehen, wie du dich gegen unsere Jungs schlãgst.
+~1~:~1~, mal sehen, wie du dich gegen unsere Jungs schlägst.
 
 [DES1_43:TORENO1]
 ~r~Du hast den Truck geschrottet!
 
 [DES1_44:TORENO1]
-~s~Fahr zum nãchsten ~r~Checkpoint~s~.
+~s~Fahr zum nächsten ~r~Checkpoint~s~.
 
 [DES1_52:TORENO1]
 RANG
@@ -15128,7 +15128,7 @@ Carl, wo gehst du hin?
 ~r~Cesar wurde getötet.
 
 [TOR1_04:TORENO2]
-~s~Der ~r~Truck~s~ kommt aus Las Venturas und fãhrt entlang der Hauptbrücke nach Foster Valley.
+~s~Der ~r~Truck~s~ kommt aus Las Venturas und fährt entlang der Hauptbrücke nach Foster Valley.
 
 [TOR1_05:TORENO2]
 ~s~Hol den ~r~Truck~s~ ein.
@@ -15166,25 +15166,25 @@ Halte diese Position!
 {=================================== MISSION TABLE TRU1 ===================================}
 
 [TRU1_1:TRU1]
-Mach dich los zu der ~y~Farm~s~, wo der Mãhdrescher steht.
+Mach dich los zu der ~y~Farm~s~, wo der Mähdrescher steht.
 
 [TRU1_2:TRU1]
-~s~Der ~b~Mãhdrescher ~s~steht auf dem Feld Richtung Rückseite der Farm.
+~s~Der ~b~Mähdrescher ~s~steht auf dem Feld Richtung Rückseite der Farm.
 
 [TRU1_3:TRU1]
 ~s~Dort arbeiten einige Gruppen von Kriegsparanoikern. Die reagieren nicht freundlich auf Fremde.
 
 [TRU1_4:TRU1]
-~s~Begib dich auf die Farm und klaue den ~b~Mãhdrescher~s~.
+~s~Begib dich auf die Farm und klaue den ~b~Mähdrescher~s~.
 
 [TRU1_5:TRU1]
-~s~Bring den Mãhdrescher zu ~y~The Truths Farm~s~.
+~s~Bring den Mähdrescher zu ~y~The Truths Farm~s~.
 
 [TRU1_7:TRU1]
-~s~Steig wieder auf den ~b~Mãhdrescher~s~ und bring ihn zu The Truth!
+~s~Steig wieder auf den ~b~Mähdrescher~s~ und bring ihn zu The Truth!
 
 [TRU1_16:TRU1]
-~r~Der Mãhdrescher ist Schrott!
+~r~Der Mähdrescher ist Schrott!
 
 {=================================== MISSION TABLE TRU2 ===================================}
 
@@ -15260,10 +15260,10 @@ Verfolgung
 ~s~Transportiere Waren zu verschiedenen Zielen in ganz San Andreas.
 
 [TRK_H4:TRUCK]
-~s~Du hast ~1~ Sekunden, um den ~b~Anhãnger~s~ wieder an die Zugmaschine anzukoppeln.
+~s~Du hast ~1~ Sekunden, um den ~b~Anhänger~s~ wieder an die Zugmaschine anzukoppeln.
 
 [TRK_H4B:TRUCK]
-~s~Du hast ~1~ Sekunde, um den ~b~Anhãnger~s~ wieder an die Zugmaschine anzukoppeln.
+~s~Du hast ~1~ Sekunde, um den ~b~Anhänger~s~ wieder an die Zugmaschine anzukoppeln.
 
 [TRK_H5:TRUCK]
 ~s~Du hast ~1~ Sekunden, um wieder in die ~b~Zugmaschine~s~ zu steigen.
@@ -15272,10 +15272,10 @@ Verfolgung
 ~s~Du hast ~1~ Sekunde, um wieder in die ~b~Zugmaschine~s~ zu steigen.
 
 [TRK_H6:TRUCK]
-Das ist eine zerbrechliche Ladung. Liefere sie unbeschãdigt ab, sonst musst du den Schaden bezahlen.
+Das ist eine zerbrechliche Ladung. Liefere sie unbeschädigt ab, sonst musst du den Schaden bezahlen.
 
 [TRK_H7:TRUCK]
-Liefere die Ware so schnell wie möglich ab. Lieferst du zu spãt, verlierst du Geld.
+Liefere die Ware so schnell wie möglich ab. Lieferst du zu spät, verlierst du Geld.
 
 [TRK_H8:TRUCK]
 Das ist heiße Ware. Die Polizei wird sich dafür interessieren.
@@ -15293,19 +15293,19 @@ Du musst diese zerbrechliche Ware schnell und wohlbehalten abliefern.
 Diese Ware ist sehr zerbrechlich.
 
 [TRK_H14:TRUCK]
-Die Ware kommt zu spãt an. Dein Lohn wird um die Hãlfte gekürzt.
+Die Ware kommt zu spät an. Dein Lohn wird um die Hälfte gekürzt.
 
 [TRK_H15:TRUCK]
-Die Ware kommt viel zu spãt an. Dein Lohn wird noch mal um die Hãlfte gekürzt.
+Die Ware kommt viel zu spät an. Dein Lohn wird noch mal um die Hälfte gekürzt.
 
 [TRK_H16:TRUCK]
 Die Zeit wird knapp. Liefere die Ware termingerecht ab, um die Mission erfolgreich abzuschließen.
 
 [TRK_H17:TRUCK]
-Die nãchste Trucker-Mission steht zur Verfügung, wenn du Zugang zu Las Venturas hast.
+Die nächste Trucker-Mission steht zur Verfügung, wenn du Zugang zu Las Venturas hast.
 
 [TRK_H18:TRUCK]
-Die nãchste Trucker-Mission steht zur Verfügung, wenn du Zugang zu San Fierro hast.
+Die nächste Trucker-Mission steht zur Verfügung, wenn du Zugang zu San Fierro hast.
 
 [TRK_F1:TRUCK]
 ~r~Kein Geld mehr
@@ -15320,13 +15320,13 @@ Die nãchste Trucker-Mission steht zur Verfügung, wenn du Zugang zu San Fierro 
 ~r~Nicht im Führerhaus
 
 [TRK_F5:TRUCK]
-~r~Anhãnger nicht angekoppelt
+~r~Anhänger nicht angekoppelt
 
 [TRK_P1:TRUCK]
 ~s~Du hast deine erste Trucker-Mission erfüllt. Du kannst jederzeit zum Depot fahren, um weitere Missionen auszuführen.
 
 [TRK_P2:TRUCK]
-~s~Von Mission zu Mission werden Streckenlãnge, Schwierigkeit und Belohnung variieren.
+~s~Von Mission zu Mission werden Streckenlänge, Schwierigkeit und Belohnung variieren.
 
 [TRK_P3:TRUCK]
 ~s~~1~ Trucker-Missionen absolviert.
@@ -15347,7 +15347,7 @@ Termin
 Geld
 
 [TRK_MND:TRUCK]
-~s~Die Ware muss unbeschãdigt geliefert werden. Lieferadresse: ~a~
+~s~Die Ware muss unbeschädigt geliefert werden. Lieferadresse: ~a~
 
 [TRK_MNT:TRUCK]
 ~s~Die Ware muss schnell geliefert werden. Lieferadresse: ~a~
@@ -15362,7 +15362,7 @@ Geld
 ~s~Illegale Ware. Lieferadresse: ~a~
 
 [TRK_MTD:TRUCK]
-~s~Die Ware muss schnell und unbeschãdigt geliefert werden. Lieferadresse: ~a~
+~s~Die Ware muss schnell und unbeschädigt geliefert werden. Lieferadresse: ~a~
 
 [TRK_MHI:TRUCK]
 ~s~Hochgradig illegale Ware. Lieferadresse: ~a~
@@ -15589,16 +15589,16 @@ Schaden-Bonus
 ~s~Du hast einen Park-Boy umgebracht.~n~-20 Sekunden Strafe.
 
 [VAL_A22:VALET1]
-Der Park-Boy ist in der Parkgarage. Schalte ~r~ihn~s~ aus, bevor er sie verlãsst.
+Der Park-Boy ist in der Parkgarage. Schalte ~r~ihn~s~ aus, bevor er sie verlässt.
 
 [VAL_A23:VALET1]
-Der ~r~Park-Boy~s~ verlãsst die Parkgarage.
+Der ~r~Park-Boy~s~ verlässt die Parkgarage.
 
 [VAL_A24:VALET1]
 Erledige ~r~ihn~s~, wenn er mit einem weiteren Auto zurückkommt.
 
 [VAL_A25:VALET1]
-~s~Folge dem ~r~Park-Boy~s~ in die unterirdische Parkgarage und schalte ihn aus. Vergewissere dich, dass niemand in der Nãhe ist.
+~s~Folge dem ~r~Park-Boy~s~ in die unterirdische Parkgarage und schalte ihn aus. Vergewissere dich, dass niemand in der Nähe ist.
 
 [VAL_A27:VALET1]
 ~s~Identifiziere den Wagen des Staatsanwaltes, wenn er ankommt und steige ein.
@@ -15607,7 +15607,7 @@ Erledige ~r~ihn~s~, wenn er mit einem weiteren Auto zurückkommt.
 ~s~Ein Park-Boy hat den Wagen des Staatsanwalts genommen. Schnapp ihm den ~r~Wagen~s~ weg, bevor er ihn parkt.
 
 [VAL_A29:VALET1]
-~r~Du hãttest dir den Wagen des Staatsanwaltes schnappen sollen.
+~r~Du hättest dir den Wagen des Staatsanwaltes schnappen sollen.
 
 [VAL_A31:VALET1]
 ~s~Der Wagen darf nicht einen Kratzer haben, sonst bemerkt es der Staatsanwalt.
@@ -15637,7 +15637,7 @@ Erledige ~r~ihn~s~, wenn er mit einem weiteren Auto zurückkommt.
 ~s~Parkservice-Mission abgebrochen.
 
 [VAL_64:VALET1]
-~s~Du hast dieses Auto beschãdigt zurückgegeben. $~1~ Abzug.
+~s~Du hast dieses Auto beschädigt zurückgegeben. $~1~ Abzug.
 
 [VAL_65:VALET1]
 ~s~Du hast $~1~ Trinkgeld bekommen.
@@ -15679,13 +15679,13 @@ Erledige ~r~ihn~s~, wenn er mit einem weiteren Auto zurückkommt.
 ~s~Jedes Mal, wenn du ein Auto parkst, bekommst du einen Zeitbonus von ~1~ Sekunden.
 
 [VAL_78:VALET1]
-~s~Der Fahrer hatte keine Lust, noch lãnger zu warten.
+~s~Der Fahrer hatte keine Lust, noch länger zu warten.
 
 [VAL_79:VALET1]
 ~s~Ein anderer Park-Boy hat sich das wartende Auto geschnappt.
 
 [VAL_80:VALET1]
-~s~Du hast das Auto zu stark beschãdigt. Geh zurück und warte auf ein anderes.
+~s~Du hast das Auto zu stark beschädigt. Geh zurück und warte auf ein anderes.
 
 [VAL_81:VALET1]
 Schaden Auto
@@ -15706,7 +15706,7 @@ Schaden Auto
 ~s~Jedes Auto, das du parkst, bringt dir einen Zeitbonus.
 
 [VAL_87:VALET1]
-~s~Beschãdigst du ein Auto, verringert sich dein Zeitbonus.
+~s~Beschädigst du ein Auto, verringert sich dein Zeitbonus.
 
 [VAL_91:VALET1]
 ~S~Parkservice-Mission.
@@ -15724,7 +15724,7 @@ Parkservice-Mission
 Dieses Hotel hat einen Parkservice. Der Staatsanwalt wird seinen Wagen in Kürze dort abgeben.
 
 [VAL_7:VALET1]
-~s~Folge einem der ~r~Serviceleute~s~ in die Tiefgarage und schalte ihn aus. Achte darauf, dass niemand in der Nãhe ist.
+~s~Folge einem der ~r~Serviceleute~s~ in die Tiefgarage und schalte ihn aus. Achte darauf, dass niemand in der Nähe ist.
 
 [VAL_8:VALET1]
 ~s~Schnapp dir die ~g~Uniform des Park-Boys~s~.
@@ -15736,7 +15736,7 @@ Dieses Hotel hat einen Parkservice. Der Staatsanwalt wird seinen Wagen in Kürze
 ~s~Begib dich nach oben zum ~y~Carport~s~.
 
 [VAL_12:VALET1]
-~s~Der Staatsanwalt fãhrt einen blauen Merit. Merke ihn dir. Du musst ihn erkennen, wenn er ankommt.
+~s~Der Staatsanwalt fährt einen blauen Merit. Merke ihn dir. Du musst ihn erkennen, wenn er ankommt.
 
 [VAL_13:VALET1]
 ~s~Achte darauf, dass kein anderer Park-Boy seinen Wagen übernimmt.
@@ -15757,7 +15757,7 @@ Dieses Hotel hat einen Parkservice. Der Staatsanwalt wird seinen Wagen in Kürze
 Verdiene $10 Trinkgeld in 3 Minuten.
 
 [VAL_24:VALET1]
-Jedes Auto, das du parkst, bringt dir 20 Sekunden Bonus. Jedes Auto, das du zurückgibst, bringt $3 Trinkgeld. Beschãdigst du ein Auto, reduziert sich der Bonus.
+Jedes Auto, das du parkst, bringt dir 20 Sekunden Bonus. Jedes Auto, das du zurückgibst, bringt $3 Trinkgeld. Beschädigst du ein Auto, reduziert sich der Bonus.
 
 [VAL_25:VALET1]
 ~s~Fahr dieses Auto zum markierten Parkplatz.
@@ -15778,7 +15778,7 @@ Trinkgeld $
 ~s~Steig aus dem Auto, damit der Besitzer einsteigen kann.
 
 [VAL_31:VALET1]
-~s~Das Auto ist merklich beschãdigt. Fahre damit in die ~y~Garage~s~ zurück, um es reparieren zu lassen.
+~s~Das Auto ist merklich beschädigt. Fahre damit in die ~y~Garage~s~ zurück, um es reparieren zu lassen.
 
 [VAL_32:VALET1]
 ~s~Parke das Auto auf dem markierten ~y~Parkplatz~s~.
@@ -15805,7 +15805,7 @@ Trinkgeld-Bonus $
 ~r~Ein anderer Park-Boy hat den Wagen des Staatsanwalts übernommen!
 
 [VAL_49:VALET1]
-~s~Bleib in der Nãhe des ~y~Carports~s~.
+~s~Bleib in der Nähe des ~y~Carports~s~.
 
 [VAL_50:VALET1]
 ~s~Parke den Wagen in der Garage.
@@ -15817,10 +15817,10 @@ Trinkgeld-Bonus $
 ~r~Du hast die Parkservice-Uniform nicht mehr.
 
 [VAL_B2:VALET1]
-~r~Der Wagen ist sichtlich beschãdigt. Es ist zu spãt, ihn reparieren zu lassen.
+~r~Der Wagen ist sichtlich beschädigt. Es ist zu spät, ihn reparieren zu lassen.
 
 [VAL_B3:VALET1]
-~s~Die Bullen sind hinter dir her. Hãng sie ab, bevor du dem Park-Boy zu der Parkgarage folgst.
+~s~Die Bullen sind hinter dir her. Häng sie ab, bevor du dem Park-Boy zu der Parkgarage folgst.
 
 [VAL_B4:VALET1]
 ~r~Die Bullen haben gesehen, wie du die Parkgarage betreten hast.
@@ -15846,7 +15846,7 @@ Trinkgeld-Bonus $
 ~s~Erledige die ~r~Zielperson~s~ und schnapp dir das Beweis-Dossier.
 
 [VCR1__2:VCR1]
-~s~Du warst zu langsam. Einer der Wachmãnner hat sich das Zeug geschnappt.
+~s~Du warst zu langsam. Einer der Wachmänner hat sich das Zeug geschnappt.
 
 [VCR1__3:VCR1]
 ~s~Die Zielperson ist tot und hat das ~g~Beweis-Dossier~s~ fallen lassen. Schnapp es dir, bevor's ein anderer tut.
@@ -16006,7 +16006,7 @@ Woozie :
 ~s~Du hast Woozie zurückgelassen! Kehr um und hole ihn!
 
 [WZ1_B1:WUZI1]
-~s~Kãmpfe dich aus dem Hof raus und beschütze Woozie vor den Angreifern.
+~s~Kämpfe dich aus dem Hof raus und beschütze Woozie vor den Angreifern.
 
 [WZ1_B2:WUZI1]
 ~s~Bring Woozie ~y~zurück~s~.
@@ -16038,34 +16038,34 @@ Scheiße...Ich hab ihn verloren!
 ~s~Drücke ~t~, um die Wanze zu platzieren.
 
 [WZI2_31:WUZI2]
-~s~Sorg dafür, dass die ~r~Wachmãnner~s~ nicht mehr auf dich achten, bevor du die Wanze platzierst.
+~s~Sorg dafür, dass die ~r~Wachmänner~s~ nicht mehr auf dich achten, bevor du die Wanze platzierst.
 
 [WZI2_32:WUZI2]
 ~s~Du hast die Wanze platziert. Verlasse den Tanker und begib dich wieder zu den ~y~Docks~s~.
 
 [WZI2_35:WUZI2]
-~s~Schleich dich in den hinteren Teil des Tankers und platziere die ~y~Wanze~s~. Sei möglichst leise, um nicht die Aufmerksamkeit der ~r~Wachmãnner~s~ an Bord zu erregen.
+~s~Schleich dich in den hinteren Teil des Tankers und platziere die ~y~Wanze~s~. Sei möglichst leise, um nicht die Aufmerksamkeit der ~r~Wachmänner~s~ an Bord zu erregen.
 
 [WZI2_36:WUZI2]
-Einer der ~r~Wachmãnner~w~ hat dich bemerkt. Tauch unter, damit sie nicht mehr auf dich achten.
+Einer der ~r~Wachmänner~w~ hat dich bemerkt. Tauch unter, damit sie nicht mehr auf dich achten.
 
 [WZI2_37:WUZI2]
-Die ~r~Wachmãnner~w~ werden feuern, wenn sie sehen, dass du zu schnell schwimmst, oder wenn du nicht schnell genug untertauchst.
+Die ~r~Wachmänner~w~ werden feuern, wenn sie sehen, dass du zu schnell schwimmst, oder wenn du nicht schnell genug untertauchst.
 
 [WZI2_38:WUZI2]
-Sobald die ~r~Wachmãnner~w~ sich nicht mehr um dich kümmern, tauch wieder auf, um Luft zu holen.
+Sobald die ~r~Wachmänner~w~ sich nicht mehr um dich kümmern, tauch wieder auf, um Luft zu holen.
 
 [WZI2_39:WUZI2]
-Wenn du auftauchst, werden die ~r~Wachmãnner~w~ dich erst bemerken, wenn du dich bewegst.
+Wenn du auftauchst, werden die ~r~Wachmänner~w~ dich erst bemerken, wenn du dich bewegst.
 
 [WZI2_42:WUZI2]
-Wenn ein Kegel der Suchscheinwerfer dich auf der Wasseroberflãche trifft, werden die ~r~Wachmãnner~w~ auf dich schießen.
+Wenn ein Kegel der Suchscheinwerfer dich auf der Wasseroberfläche trifft, werden die ~r~Wachmänner~w~ auf dich schießen.
 
 [WZI2_40:WUZI2]
 Die Hauptroute über das Wasser wird von zwei Patrouillenbooten bewacht. Wenn sie dich bemerken, tauch unter, damit sie nicht mehr auf dich achten.
 
 [WZI2_41:WUZI2]
-Schwimm nicht an der Wasseroberflãche, sonst wird man dich bemerken.
+Schwimm nicht an der Wasseroberfläche, sonst wird man dich bemerken.
 
 [WZI2_C0:WUZI2]
 Drücke ~q~, um zu springen und aus dem Wasser zu steigen.
@@ -16106,7 +16106,7 @@ Du brauchst mehr Übung im Wasser, bevor du diese Mission beginnen kannst.
 ~s~Erledige die ~r~Zielperson~s~ leise.
 
 [WUZ4_05:WUZI4]
-~s~Schalte den ~r~Wãchter~s~ aus, der die Flüchtlinge bewacht.
+~s~Schalte den ~r~Wächter~s~ aus, der die Flüchtlinge bewacht.
 
 [WUZ4_06:WUZI4]
 ~s~Begib dich zu der Hütte und erledige den ~r~Menschenschieber~s~ und seine ~r~Bodyguards~s~.
@@ -16118,7 +16118,7 @@ Du brauchst mehr Übung im Wasser, bevor du diese Mission beginnen kannst.
 ~r~Der Helikopter wurde zerstört!
 
 [WUZ4_09:WUZI4]
-~s~Schieß auf das ~g~Vorhãngeschloss~s~ vorne am Flüchtlingscontainer.
+~s~Schieß auf das ~g~Vorhängeschloss~s~ vorne am Flüchtlingscontainer.
 
 [BRIDGE:WUZI4]
 ~s~Schalte alle Personen auf der Brücke aus!
@@ -16138,7 +16138,7 @@ Du hast Berkleys Streitmacht besiegt!
 FEIND IN SICHT AUF 9 UND 12 UHR!!
 
 [ZER1_14:ZERO1]
-~s~Du musst die 4 Sender vor angreifenden Flugzeugen beschützen. Beschãdigungen schwãchen das Funksignal.
+~s~Du musst die 4 Sender vor angreifenden Flugzeugen beschützen. Beschädigungen schwächen das Funksignal.
 
 [ZER1_15:ZERO1]
 ~s~Schalte die feindlichen Flugzeuge aus, bevor sie unsere Sender zerstören und wir kein Signal mehr haben
@@ -16153,7 +16153,7 @@ SIGNAL:
 ~s~Benutze die Minigun, um die feindliche Bedrohung zu eliminieren
 
 [ZER1_23:ZERO1]
-~s~Zero wird wãhrend des Angriffs versuchen, die Sender instand zu halten.
+~s~Zero wird während des Angriffs versuchen, die Sender instand zu halten.
 
 [ZER1_24:ZERO1]
 Drücke ~O~, um die Minigun abzufeuern
@@ -16282,7 +16282,7 @@ Timer
 Dein ~b~Goblin ~w~Helikopter verfügt über einen Magneten, der Objekte anheben kann.
 
 [Z4_H4:ZERO4]
-Berkleys ~r~Goblin~w~ wird stãndig versuchen, deinem ~b~Bandit~w~ den Weg zu versperren.
+Berkleys ~r~Goblin~w~ wird ständig versuchen, deinem ~b~Bandit~w~ den Weg zu versperren.
 
 [Z4_H5:ZERO4]
 Du musst alle Hindernisse beseitigen, bevor dein ~b~Bandit ~w~weiter kann.
@@ -16291,13 +16291,13 @@ Du musst alle Hindernisse beseitigen, bevor dein ~b~Bandit ~w~weiter kann.
 Wenn der ~b~Bandit ~w~an einen Fluss kommt, musst du mit dem ~b~Goblin ~w~eine Planke aus deiner Basis holen und quer über dem Fluss platzieren.
 
 [Z4_H9:ZERO4]
-Wird dein ~b~Bandit ~w~von Berkleys ~r~Tigers ~w~beschãdigt, setzt er soweit zurück, bis er in Sicherheit ist.
+Wird dein ~b~Bandit ~w~von Berkleys ~r~Tigers ~w~beschädigt, setzt er soweit zurück, bis er in Sicherheit ist.
 
 [Z4_H10:ZERO4]
 Hol eine ~b~Bombe ~w~aus deiner Basis und wirf sie über Berkleys ~r~Tigers ~w~ab, um sie zu zerstören.
 
 [Z4_H11:ZERO4]
-Es können auch andere Objekte auf die ~r~Tigers ~w~abgeworfen werden, um sie zu beschãdigen.
+Es können auch andere Objekte auf die ~r~Tigers ~w~abgeworfen werden, um sie zu beschädigen.
 
 [Z4_H12:ZERO4]
 Wird der ~b~Bandit ~w~zerstört, so startet ein weiterer aus deiner Basis. Doch Vorsicht, du hast nur 3 ~b~Bandits~w~.

@@ -2,7 +2,7 @@
 FLIEGEN MIT MAUSSTEUERUNG
 
 [FEH_JMP]
-MAUSTASTE L KLICKEN / EINGABE - NÃCHSTES MENÜ
+MAUSTASTE L KLICKEN / EINGABE - NÄCHSTES MENÜ
 
 [FEH_BPO]
 MAUSTASTE L KLICKEN / EINGABE - ZURÜCK
@@ -11,7 +11,7 @@ MAUSTASTE L KLICKEN / EINGABE - ZURÜCK
 MAUSTASTE L KLICKEN / EINGABE - USER TRACKS DURCHSUCHEN
 
 [FEC_SLC]
-Beschãdigter Spielstand
+Beschädigter Spielstand
 
 [NO_PAK]
 Laden gescheitert!~n~~n~Dieses Mission Pack ist nicht verfügbar. Bitte sicherstellen, dass dieses Mission Pack richtig installiert ist.~n~~n~EINGABE drücken, um ein neues Standardspiel zu beginnen.
@@ -146,7 +146,7 @@ Löschen fehlgeschlagen.
 Speichern fehlgeschlagen.
 
 [FEC_LUN]
-Laden fehlgeschlagen. Datei beschãdigt. Bitte löschen.
+Laden fehlgeschlagen. Datei beschädigt. Bitte löschen.
 
 [FEC_PAD]
 Gamepad
@@ -167,7 +167,7 @@ NUM_STERN
 LINKS / RECHTS / MAUSRAD - JUSTIEREN
 
 [FET_CIG]
-RÜCKTASTE - LÖSCHEN~n~MAUSTASTE L KLICKEN / EINGABE - ÃNDERN
+RÜCKTASTE - LÖSCHEN~n~MAUSTASTE L KLICKEN / EINGABE - ÄNDERN
 
 [FET_RSO]
 ORIGINAL-EINSTELLUNG WIEDERHERGESTELLT
@@ -359,7 +359,7 @@ USER TRACK PLAYER
 Bitte die GTA San Andreas CD einlegen oder ESC drücken, um abzubrechen
 
 [FEH_SSA]
-CURSOR-TASTEN - AUSWÃHLEN~n~S - IN DATEI SPEICHERN
+CURSOR-TASTEN - AUSWÄHLEN~n~S - IN DATEI SPEICHERN
 
 [FES_CMI]
 LETZTE ERFÜLLTE MISSION
@@ -383,7 +383,7 @@ Spezialkontrolle Auf
 Spezialkontrolle Ab
 
 [FET_RIG]
-EINE NEUE STEUERUNG FÜR DIESE AKTION AUSWÃHLEN~n~ESC ABBRECHEN
+EINE NEUE STEUERUNG FÜR DIESE AKTION AUSWÄHLEN~n~ESC ABBRECHEN
 
 [CVT_ERR]
 Zu wenig Speicherplatz. Bitte zuerst Platz auf der Festplatte schaffen. Zum Abbrechen ESC drücken.
@@ -404,7 +404,7 @@ Konversation - Nein
 ERWEITERTE OPTIONEN
 
 [FED_FXQ]
-QUALITÃT DER FX
+QUALITÄT DER FX
 
 [FED_FXH]
 HOCH
@@ -446,7 +446,7 @@ COMBO: Benutzt "NACH LINKS SEHEN" + "NACH RECHTS SEHEN" gleichzeitig
 MAUSTASTE L DRÜCKEN / EINGABE - NEUE EINSTELLUNG ÜBERNEHMEN
 
 [FEH_MPB]
-CURSOR-TASTEN - AUF/AB~n~EINGABE - OPTION AUSWÃHLEN
+CURSOR-TASTEN - AUF/AB~n~EINGABE - OPTION AUSWÄHLEN
 
 [FEA_MPM]
 ABSPIELMODUS
@@ -455,7 +455,7 @@ ABSPIELMODUS
 RADIO
 
 [FEA_PR2]
-ZUFÃLLIG
+ZUFÄLLIG
 
 [FEA_PR3]
 DER REIHE NACH
@@ -515,25 +515,25 @@ USER TRACKS ERFOLGREICH DURCHSUCHT
 SUCHE NACH USER TRACKS FEHLGESCHLAGEN
 
 [FEC_ER2]
-Fehler! Das Ãndern der Steuerung "zu Fuß" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "im Fahrzeug" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
+Fehler! Das Ändern der Steuerung "zu Fuß" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "im Fahrzeug" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
 
 [FEC_ER3]
-Fehler! Das Ãndern der Steuerung "im Fahrzeug" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "zu Fuß" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
+Fehler! Das Ändern der Steuerung "im Fahrzeug" hat dazu geführt, dass eine oder mehrere Steuerungs-Aktionen "zu Fuß" nicht mehr zugewiesen sind. Bitte sicherstellen, dass alle Steuerungs-Aktionen zugewiesen werden~n~ESC drücken, um fortzufahren
 
 [FEC_FIA]
-Sekundãr-Feuer
+Sekundär-Feuer
 
 [FEC_PLU]
-Vorwãrts/Sinkflug
+Vorwärts/Sinkflug
 
 [FEC_PLD]
-Rückwãrts/Steigflug
+Rückwärts/Steigflug
 
 [FEC_TAR]
 Mit Waffe zielen
 
 [FEC_BRA]
-Bremse/Rückwãrts
+Bremse/Rückwärts
 
 [FEC_VML]
 Mausblick

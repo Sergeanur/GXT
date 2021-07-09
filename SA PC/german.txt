@@ -2060,7 +2060,7 @@ Cheat deaktiviert
 Tauchen
 
 [FEC_SWF]
-Vorwãrts schwimmen
+Vorwärts schwimmen
 
 [FEC_HCD]
 Sinken (Helikopter)
@@ -2078,7 +2078,7 @@ Rechtsdrehung (im Flug)
 Schweben (Helikopter) ~k~~VEHICLE_HORN~
 
 [FEC_ALW]
-Sekundãrwaffe (Flugzeug)
+Sekundärwaffe (Flugzeug)
 
 [FEC_GER]
 Fahrgestell (Flugzeug) ~k~~TOGGLE_SUBMISSIONS~
@@ -2090,7 +2090,7 @@ Schub (Flugzeug)
 Sadler
 
 [SHESPT0]
-~h~Gesundheit~w~ - verbessert. Du hãltst jetzt mehr aus und stirbst nicht so schnell.
+~h~Gesundheit~w~ - verbessert. Du hältst jetzt mehr aus und stirbst nicht so schnell.
 
 [SHESPT1]
 ~h~Gesundheit~w~ - verbessert. Maximum erreicht.
@@ -2102,10 +2102,10 @@ Maximale Distanz zwischen den 2 Spielern erreicht. Bitte beweg dich auf den ande
 ~h~Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Pistolen gleichzeitig verwenden.
 
 [SWSP_T]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Gangster-Level.
+~h~Schalldämpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Gangster-Level.
 
 [SWSP_R]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
+~h~Schalldämpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWDE_R]
 ~h~Desert-Eagle-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
@@ -2114,7 +2114,7 @@ Maximale Distanz zwischen den 2 Spielern erreicht. Bitte beweg dich auf den ande
 ~h~Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWSS_R]
-~h~Abgesãgte Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Schrotflinten gleichzeitig verwenden.
+~h~Abgesägte Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Schrotflinten gleichzeitig verwenden.
 
 [SWSZ_R]
 ~h~Autom. Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
@@ -2153,7 +2153,7 @@ Steinbruch
 Diner
 
 [STAT336]
-Gang-Stãrke
+Gang-Stärke
 
 [FIRELA]
 Feuerwehrwagen
@@ -2273,7 +2273,7 @@ Diner
 Diner
 
 [DIRBIKE]
-Gelãndekurs
+Geländekurs
 
 [DRIVES]
 Fahrschule
@@ -2492,7 +2492,7 @@ Tattoo Shop
 Four Dragons
 
 [TSDINER]
-Truck-Raststãtte
+Truck-Raststätte
 
 [UFOBAR]
 Li'l Probe Inn
@@ -2615,7 +2615,7 @@ Radio EQ
 Auf Fitness-Bike zurückgelegte Strecke
 
 [STAT045]
-Lãngste Zeit auf Fitness-Bike
+Längste Zeit auf Fitness-Bike
 
 [LG_57]
 KFZ-Verwahrstelle
@@ -2636,13 +2636,13 @@ Beste Platzierung bei 8-Track
 Beste Rundenzeit bei 8-Track
 
 [STAT219]
-Beste Rundenzeit bei Gelãndemotorradrennen
+Beste Rundenzeit bei Geländemotorradrennen
 
 [STAT220]
-Beste Zeit bei Gelãndemotorradrennen
+Beste Zeit bei Geländemotorradrennen
 
 [STAT221]
-Beste Platzierung bei Gelãndemotorradrennen
+Beste Platzierung bei Geländemotorradrennen
 
 [STAT258]
 Beste Platzierung bei 'Lowrider Race'
@@ -2825,10 +2825,10 @@ Queens
 ~o~ Markieren
 
 [FE_HLPP]
-~K~ Vorwãrts springen
+~K~ Vorwärts springen
 
 [FE_HLPQ]
-~J~ Rückwãrts springen
+~J~ Rückwärts springen
 
 [FE_HLPD]
 ~<~~>~ Einstellen
@@ -2852,7 +2852,7 @@ Queens
 ~o~ FOTO KOPIEREN
 
 [FEC_RSC]
-Nãchster Radiosender
+Nächster Radiosender
 
 [FEC_RSP]
 Vorheriger Radiosender
@@ -2891,10 +2891,10 @@ Gang aktiv Modus
 Gang passiv Modus
 
 [FEC_TKP]
-Positives Gesprãch
+Positives Gespräch
 
 [FEC_TKN]
-Negatives Gesprãch
+Negatives Gespräch
 
 [FEC_JUM]
 Springen
@@ -2942,7 +2942,7 @@ In die Hocke gehen ~A~
 Ducken ~A~
 
 [FEC_STR]
-Ego-Ansicht-Seitwãrtsbewegung
+Ego-Ansicht-Seitwärtsbewegung
 
 [PROP_4]
 Du kannst diese Immobilie noch nicht kaufen.
@@ -3011,13 +3011,13 @@ Waffen-Skill-Levels
 Rang als Pilot
 
 [STAT331]
-Stãrkste Gang
+Stärkste Gang
 
 [STAT332]
-Zweitstãrkste Gang
+Zweitstärkste Gang
 
 [STAT333]
-Drittstãrkste Gang
+Drittstärkste Gang
 
 [STAT246]
 Bestzeit in 2-Spieler Spezialauftrag
@@ -3038,13 +3038,13 @@ Bestzeit in 2-Spieler Spezialauftrag mit Motorrad
 Bestzeit im Ball-Hochhalten
 
 [NOTEAT]
-Du wirst langsam hungrig und fãngst an, Energie zu verlieren. Du musst irgendetwas zu essen auftreiben.
+Du wirst langsam hungrig und fängst an, Energie zu verlieren. Du musst irgendetwas zu essen auftreiben.
 
 [LG_53]
 Fitnesscenter
 
 [STAT154]
-Abgelieferte Pãckchen
+Abgelieferte Päckchen
 
 [STAT190]
 Anzahl Besuche bei Prostituierten
@@ -3119,16 +3119,16 @@ OG Loc
 BMX-Bestzeit
 
 [STAT036]
-Durch Zuhãlterei verdientes Geld
+Durch Zuhälterei verdientes Geld
 
 [STAT170]
 Wie oft ertrunken
 
 [STAT171]
-Anzahl verkuppelter Mãdchen
+Anzahl verkuppelter Mädchen
 
 [STAT210]
-Zuhãlterlevel
+Zuhälterlevel
 
 [STAT211]
 Beste Punktzahl bei Kickstart
@@ -3182,7 +3182,7 @@ Auf dich ist Verlass.~n~Wenn du alle, die auf der Liste stehen, abgeliefert hast
 Du hast alle georderten Karren geliefert. Sehr gut.~n~Hier, für dich.
 
 [GA_15]
-Hoffentlich gefãllt dir die neue Farbe.
+Hoffentlich gefällt dir die neue Farbe.
 
 [GA_16]
 Das Umspritzen ist gratis
@@ -3191,7 +3191,7 @@ Das Umspritzen ist gratis
 ~r~An dem Modell haben wir kein Interesse
 
 [GA_20]
-~r~Von der Sorte haben wir schon mehr als genug.~n~Sorry, da kommen wir nicht ins Geschãft.
+~r~Von der Sorte haben wir schon mehr als genug.~n~Sorry, da kommen wir nicht ins Geschäft.
 
 [PU_MONY]
 Du hast nicht genug Geld
@@ -3611,7 +3611,7 @@ Gabelstapler
 Traktor
 
 [COMBINE]
-Mãhdrescher
+Mähdrescher
 
 [FELTZER]
 Feltzer
@@ -3992,7 +3992,7 @@ Yellow Bell Golfplatz
 Julius Thruway West
 
 [KACC]
-K.A.C.C. Militãr-Kraftstoffe
+K.A.C.C. Militär-Kraftstoffe
 
 [JTN]
 Julius Thruway North
@@ -4484,7 +4484,7 @@ High-Score beim Videospiel
 Beste Trefferquote beim Videospiel (in Prozent)
 
 [STHC_03]
-Anzahl getãtigter Drogendeals
+Anzahl getätigter Drogendeals
 
 [NEW_REC]
 ~g~Neuer Rekord!! ~w~~1~ Minuten ~g~und ~w~~1~ Sekunden.
@@ -4553,13 +4553,13 @@ MONSTER-STUNT-BONUS!
 ALLE MONSTER-STUNTS ABSOLVIERT!
 
 [STOCK]
-~r~nicht vorrãtig
+~r~nicht vorrätig
 
 [PROP_1]
 Du hast nicht genug Cash für dieses Objekt.
 
 [PROP_2]
-Wãhrend einer Mission kannst du keine Objekte kaufen.
+Während einer Mission kannst du keine Objekte kaufen.
 
 [GA_12]
 Bombe ist scharf.
@@ -4574,13 +4574,13 @@ Deine Freundin hat dein Fahrzeug repariert.
 Autobomben kosten $500 pro Stück.
 
 [SKIP]
-Spãter am gleichen Tag...
+Später am gleichen Tag...
 
 [FEN_NET]
 NETZWERKSPIEL
 
 [FEN_SCO]
-KONFIGURATION AUSWÃHLEN
+KONFIGURATION AUSWÄHLEN
 
 [FEN_HOS]
 SPIEL HOSTEN
@@ -4625,7 +4625,7 @@ Spezialmission
 Spezialmission ~C~
 
 [LOADCOL]
-Spiel lãdt...
+Spiel lädt...
 
 [FEM_SL1]
 Spielstand 1 nicht vorhanden
@@ -4745,10 +4745,10 @@ Tuning-Werkstatt
 Polizei
 
 [LG_28]
-Kãufliche Objekte
+Käufliche Objekte
 
 [LG_29]
-Unverkãufl. Objekte
+Unverkäufl. Objekte
 
 [LG_30]
 Rennen
@@ -4787,7 +4787,7 @@ Triaden
 Triaden-Casino
 
 [LG_42]
-Bekleidungsgeschãft
+Bekleidungsgeschäft
 
 [LG_43]
 Woozie
@@ -5033,7 +5033,7 @@ Beim Glücksspiel gewonnenes Geld
 Höchster Glücksspielgewinn
 
 [ST_RAN0]
-Anfãnger
+Anfänger
 
 [ST_RAN1]
 Navigator
@@ -5099,7 +5099,7 @@ Zurück
 von
 
 [FEC_RS3]
-Radiosender auswãhlen ~A~
+Radiosender auswählen ~A~
 
 [FEC_HO3]
 Hupe ~A~
@@ -5180,10 +5180,10 @@ Waffen-/Zielwechsel >
 Waffen-/Zielwechsel <
 
 [FEC_FOR]
-Vorwãrts
+Vorwärts
 
 [FEC_BAC]
-Rückwãrts
+Rückwärts
 
 [FEC_LEF]
 Links
@@ -5207,7 +5207,7 @@ Radio
 Spezialmission
 
 [FEC_CMR]
-Blickwinkel ãndern
+Blickwinkel ändern
 
 [FEC_JMP]
 Springen
@@ -5225,7 +5225,7 @@ Nach links sehen
 Nach rechts sehen
 
 [FEC_NTR]
-Nãchstes Ziel
+Nächstes Ziel
 
 [FEC_PTT]
 Vorheriges Ziel
@@ -5390,7 +5390,7 @@ WCTR
 Helligkeit
 
 [FED_TRA]
-Unschãrfe-FX
+Unschärfe-FX
 
 [FED_SUB]
 Untertitel
@@ -5429,7 +5429,7 @@ Spiel löschen
 Steuerung
 
 [FEC_RED]
-Steuerung ãndern
+Steuerung ändern
 
 [FEC_MOU]
 Maus-Einstellungen
@@ -5534,7 +5534,7 @@ Insgesamt zurückgel. Strecke
 Pistole
 
 [STWE002]
-Schalldãmpferpistole
+Schalldämpferpistole
 
 [STWE003]
 Desert Eagle
@@ -5543,7 +5543,7 @@ Desert Eagle
 Schrotflinte
 
 [STWE005]
-Abgesãgte Schrotflinte
+Abgesägte Schrotflinte
 
 [STWE006]
 Autom. Schrotflinte
@@ -5579,7 +5579,7 @@ Erreichter Fortschritt
 Fortschritt insgesamt
 
 [STAT002]
-Lãngster Korbwurf
+Längster Korbwurf
 
 [STAT003]
 Zu Fuss zurückgel. Strecke
@@ -5600,13 +5600,13 @@ Mit Golfwagen gefahrene Strecke
 Mit Flugzeug zurückgel. Strecke
 
 [STAT010]
-Lãngste 'Wheelie' Distanz
+Längste 'Wheelie' Distanz
 
 [STAT011]
-Lãngste 'Stoppie' Distanz
+Längste 'Stoppie' Distanz
 
 [STAT012]
-Lãngste Distanz auf zwei Rãdern
+Längste Distanz auf zwei Rädern
 
 [STAT013]
 Waffenbudget
@@ -5621,13 +5621,13 @@ Budget für Immobilien
 Budget für Autoreparaturen und Lackierung
 
 [STAT017]
-Lãngste 'Wheelie' Zeit
+Längste 'Wheelie' Zeit
 
 [STAT018]
-Lãngste 'Stoppie' Zeit
+Längste 'Stoppie' Zeit
 
 [STAT019]
-Lãngste Zeit auf zwei Rãdern
+Längste Zeit auf zwei Rädern
 
 [STAT020]
 Budget für Essen
@@ -5687,10 +5687,10 @@ Höchste Beute bei Einbruch
 Durch Einbrüche erbeutetes Geld
 
 [STAT042]
-Für Bau von Gebãuden ausgegebenes Geld
+Für Bau von Gebäuden ausgegebenes Geld
 
 [STAT044]
-Lãngste Zeit auf Laufband
+Längste Zeit auf Laufband
 
 [STAT046]
 Bestleistung beim Bankdrücken
@@ -5702,7 +5702,7 @@ Bestleistung mit Hanteln
 Geringstes Gewicht
 
 [STAT051]
-Lãngste Verfolgungsjagd mit 5 Sternen
+Längste Verfolgungsjagd mit 5 Sternen
 
 [STAT052]
 Dauer letzte Verfolgungsjagd mit 5 Sternen
@@ -5723,7 +5723,7 @@ Mit Shopping zugebrachte Zeit
 Mit Glücksspiel zugebrachte Zeit
 
 [STAT058]
-Dauer der bisher lãngsten Mission
+Dauer der bisher längsten Mission
 
 [STAT059]
 Dauer der bisher kürzesten Mission
@@ -5759,7 +5759,7 @@ Respekt
 Pistolen-Skill
 
 [STAT070]
-Schalldãmpfer-Pistolen-Skill
+Schalldämpfer-Pistolen-Skill
 
 [STAT071]
 Desert Eagle-Skill
@@ -5768,7 +5768,7 @@ Desert Eagle-Skill
 Schrotflinten-Skill
 
 [STAT073]
-Abgesãgte Schrotflinten-Skill
+Abgesägte Schrotflinten-Skill
 
 [STAT074]
 Autom. Schrotflinten-Skill
@@ -5825,7 +5825,7 @@ Kugeln, die trafen
 Entscheidende Treffer
 
 [STAT131]
-Anzahl angehãufter Fahndungssterne
+Anzahl angehäufter Fahndungssterne
 
 [STAT132]
 Anzahl losgewordener Fahndungssterne
@@ -5882,7 +5882,7 @@ Gesamtanzahl Missionen im Spiel
 Mit Taxi verdientes Geld
 
 [STAT150]
-Ans Ziel beförderte Fahrgãste
+Ans Ziel beförderte Fahrgäste
 
 [STAT151]
 Mit Krankenwagen gerettete Menschen
@@ -5924,10 +5924,10 @@ Energie
 Von dir gemachte Fotos
 
 [STAT167]
-Begonnene Spezialauftrãge
+Begonnene Spezialaufträge
 
 [STAT168]
-Erfüllte Spezialauftrãge
+Erfüllte Spezialaufträge
 
 [STAT169]
 Flugzeit
@@ -5957,7 +5957,7 @@ Gesamte Zeit im Chaos-Derby
 No more hurricanes Flag
 
 [STAT181]
-Stãdte freigeschaltet
+Städte freigeschaltet
 
 [STAT182]
 Anzahl Polizeischmiergelder
@@ -5978,7 +5978,7 @@ Wie oft Freundinnen flachgelegt
 Sitzen gelassene Freundinnen
 
 [STAT191]
-Ausgeraubte Hãuser
+Ausgeraubte Häuser
 
 [STAT192]
 Geknackte Safes
@@ -5987,7 +5987,7 @@ Geknackte Safes
 Einbrecher-Status
 
 [STAT194]
-Gestohlene Gegenstãnde verkauft
+Gestohlene Gegenstände verkauft
 
 [STAT195]
 Schwarze Acht versenkt bei Poolbillard
@@ -6014,7 +6014,7 @@ Im Steinbruch verdientes Geld
 Mit den Steinbruch-Missionen zugebrachte Zeit
 
 [STAT203]
-Gekaufte Einrichtungsgegenstãnde
+Gekaufte Einrichtungsgegenstände
 
 [STAT204]
 Bevorzugtes Konsolenspiel
@@ -6038,7 +6038,7 @@ Höchstzahl zerstörter Panzer bei Spezialauftrag
 Höchste Punktzahl beim Basketball-Spiel
 
 [STAT216]
-Gelegte Brãnde
+Gelegte Brände
 
 [STAT217]
 Verkaufte Drogen
@@ -6113,7 +6113,7 @@ Kalorien
 Spielzeit
 
 [STAT321]
-Gefundene Versteckte Pãckchen
+Gefundene Versteckte Päckchen
 
 [STAT323]
 Unbeliebteste Gang
@@ -6134,7 +6134,7 @@ Waffen-Skill
 ~t~ Zurück
 
 [FE_HLPH]
-~x~ Auswãhlen
+~x~ Auswählen
 
 [FE_HLPJ]
 ~u~
@@ -6263,13 +6263,13 @@ EXTRA COLOURS 2
 ~w~Das hat zu lange gedauert! Du hast an Einfluss verloren.
 
 [SSTSPT0]
-~h~Kondition~w~ verbessert. Du kannst jetzt lãnger sprinten, schwimmen und Rad fahren.
+~h~Kondition~w~ verbessert. Du kannst jetzt länger sprinten, schwimmen und Rad fahren.
 
 [SSTSPT1]
 ~h~Kondition~w~ verbessert. Maximum erreicht.
 
 [SBOFAT0]
-~h~Körperfett~w~ erhöht. Du nimmst zu. Wenn du zu fett wirst, kannst du keine hohen Wãnde erklettern und weder sprinten noch springen.
+~h~Körperfett~w~ erhöht. Du nimmst zu. Wenn du zu fett wirst, kannst du keine hohen Wände erklettern und weder sprinten noch springen.
 
 [SBOFAT1]
 ~h~Körperfett~w~ erhöht. Du wirst dick. Geh zum Workout ins Fitnesscenter oder geh joggen.
@@ -6284,16 +6284,16 @@ EXTRA COLOURS 2
 ~h~Körperfett~w~ erhöht. Dir droht ein Herzinfarkt - nimm ab.
 
 [SSTUND0]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND1]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND2]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND3]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND4]
 ~h~Lungenvolumen~w~ verbessert. Maximum erreicht.
@@ -6317,16 +6317,16 @@ EXTRA COLOURS 2
 ~h~Muskeln~w~ aufgebaut. Maximum erreicht.
 
 [SSKBIK0]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK1]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK2]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK3]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK4]
 ~h~Motorrad-Skill~w~ verbessert. Maximum erreicht.
@@ -6386,10 +6386,10 @@ EXTRA COLOURS 2
 ~h~Rad-Skill~w~ verbessert. Maximum erreicht.
 
 [SSTFLY0]
-~h~Flug-Skill~w~ verbessert. Trainiere weiter und du erhãltst den Pilotenschein.
+~h~Flug-Skill~w~ verbessert. Trainiere weiter und du erhältst den Pilotenschein.
 
 [SSTFLY1]
-~h~Flug-Skill~w~ verbessert. Pilotenschein erhalten. Du hast nun Zutritt zu allen Flughãfen.
+~h~Flug-Skill~w~ verbessert. Pilotenschein erhalten. Du hast nun Zutritt zu allen Flughäfen.
 
 [SWPIST]
 ~h~Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
@@ -6398,34 +6398,34 @@ EXTRA COLOURS 2
 ~h~Pistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 Pistolen gleichzeitig schießen und weiter entfernte Ziele anvisieren.
 
 [SWSPST]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schalldämpfer-Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSPPR]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schalldämpfer-Pistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWDEST]
-~h~Desert Eagle-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Desert Eagle-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWDEPR]
-~h~Desert Eagle-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Desert Eagle-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSGST]
-~h~Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSGPR]
-~h~Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSSST]
-~h~Abgesãgte Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Abgesägte Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSSPR]
-~h~Abgesãgte Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 abgesãgten Schrotflinten gleichzeitig schießen und weiter entfernte Ziele anvisieren.
+~h~Abgesägte Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 abgesägten Schrotflinten gleichzeitig schießen und weiter entfernte Ziele anvisieren.
 
 [SWSZST]
-~h~Autom. Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Feuerrate hat sich erhöht.
+~h~Autom. Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Feuerrate hat sich erhöht.
 
 [SWSZPR]
-~h~Autom. Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen.
+~h~Autom. Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen.
 
 [SWMUST]
 ~h~Maschinenpistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit hat sich erhöht.
@@ -6434,28 +6434,28 @@ EXTRA COLOURS 2
 ~h~Maschinenpistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 Maschinenpistolen gleichzeitig schießen und weiter entfernte Ziele anvisieren.
 
 [SWM5ST]
-~h~SMG-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~SMG-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM5PR]
-~h~SMG-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~SMG-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM4ST]
-~h~M4-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~M4-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM4PR]
-~h~M4-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~M4-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWAKST]
-~h~AK-47-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~AK-47-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWAKPR]
-~h~AK-47-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~AK-47-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWSRST]
-~h~Gewehr-Skill~w~ - Gangster-Level erreicht. Du kannst dich schneller seitwãrts bewegen und aus der Bewegung heraus feuern.
+~h~Gewehr-Skill~w~ - Gangster-Level erreicht. Du kannst dich schneller seitwärts bewegen und aus der Bewegung heraus feuern.
 
 [SWSRPR]
-~h~Gewehr-Skill~w~ - Hit-Man-Level erreicht. Du kannst dich schneller seitwãrts bewegen.
+~h~Gewehr-Skill~w~ - Hit-Man-Level erreicht. Du kannst dich schneller seitwärts bewegen.
 
 [SGPUNT]
 ~h~Spieler-Skill~w~ - Spieler-Level erreicht. Dein maximaler Einsatz hat sich auf $1.000 erhöht. Du hast jetzt bis zu $1.000 Kredit beim Casino.
@@ -6509,25 +6509,25 @@ Nov
 Dez
 
 [FES_SES]
-Datei auswãhlen, in die gespeichert werden soll:
+Datei auswählen, in die gespeichert werden soll:
 
 [FES_SEL]
-Datei auswãhlen, die geladen werden soll:
+Datei auswählen, die geladen werden soll:
 
 [FES_SED]
-Datei auswãhlen, die gelöscht werden soll:
+Datei auswählen, die gelöscht werden soll:
 
 [FESZ_QR]
-Wirklich ein neues Spiel starten? Alle momentanen Spielstãnde gehen verloren. Weiter?
+Wirklich ein neues Spiel starten? Alle momentanen Spielstände gehen verloren. Weiter?
 
 [FESZ_QM]
-Wirklich ein San Andreas Mission Pack laden? Alle momentanen Spielstãnde gehen verloren. Weiter?
+Wirklich ein San Andreas Mission Pack laden? Alle momentanen Spielstände gehen verloren. Weiter?
 
 [FESZ_LS]
 Laden erfolgreich.
 
 [FESZ_CS]
-Gespeicherte Datei beschãdigt
+Gespeicherte Datei beschädigt
 
 [FES_SCG]
 Momentanes Spiel speichern?
@@ -6542,7 +6542,7 @@ Speichern erfolgreich. Weiter mit OK.
 Löschen erfolgreich. Weiter mit OK.
 
 [FESZ_QC]
-Diese beschãdigte Datei wirklich überschreiben?
+Diese beschädigte Datei wirklich überschreiben?
 
 [FESZ_QZ]
 Spiel wirklich speichern?
@@ -6575,7 +6575,7 @@ Löschen gescheitert! Es gab einen Fehler beim Löschen dieses Spiels. Bitte üb
 Speichert Daten. Bitte warten...
 
 [FELD_WR]
-Lãdt Daten. Bitte warten...
+Lädt Daten. Bitte warten...
 
 [FEDL_WR]
 Löscht Daten. Bitte warten...
@@ -6584,7 +6584,7 @@ Löscht Daten. Bitte warten...
 Mission laden
 
 [FEN_NGS]
-Bitte wãhlen, welches neue Spiel gestartet werden soll:
+Bitte wählen, welches neue Spiel gestartet werden soll:
 
 [FEN_MPX]
 Mission Pack
@@ -6593,7 +6593,7 @@ Mission Pack
 Neues Spiel starten
 
 [FELM_WR]
-Lãdt Mission Pack Spiel. Bitte warten...
+Lädt Mission Pack Spiel. Bitte warten...
 
 [DUMMY1]
 THIS LABEL NEEDS TO BE HERE !!!

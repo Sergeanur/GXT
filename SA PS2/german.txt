@@ -1979,7 +1979,7 @@ Kopieren fehlgeschlagen! Bitte Memory Card (8MB) (für PlayStation#2) in MEMORY 
 Foto wird aus Galerie entfernt. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
 
 [FEG_PRS]
-Foto erfolgreich entfernt. Der für die Galerie reservierte Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) wird für zukünftige Fotos verwendet. Wãhle OK, um fortzufahren.
+Foto erfolgreich entfernt. Der für die Galerie reservierte Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) wird für zukünftige Fotos verwendet. Wähle OK, um fortzufahren.
 
 [STAT129]
 Zerschossene Reifen
@@ -1994,10 +1994,10 @@ Mit Helikopter zurückgel. Strecke
 Auf Fitness-Bike zurückgelegte Strecke
 
 [STAT045]
-Lãngste Zeit auf Fitness-Bike
+Längste Zeit auf Fitness-Bike
 
 [SLONDM]
-Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. Grand Theft Auto: San Andreas benötigt 199_KB freien Speicherplatz auf einer Memory Card (8MB) (für PlayStation#2), die das augenblickliche San Andreas Mission Pack enthãlt, um Spieldaten zu speichern.
+Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. Grand Theft Auto: San Andreas benötigt 199_KB freien Speicherplatz auf einer Memory Card (8MB) (für PlayStation#2), die das augenblickliche San Andreas Mission Pack enthält, um Spieldaten zu speichern.
 
 [SLONDP]
 Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. Grand Theft Auto: San Andreas benötigt 281_KB freien Speicherplatz, um ein erstes Foto zu speichern, sowie 80_KB freien Speicherplatz für alle weiteren Fotos.
@@ -2036,10 +2036,10 @@ Queens
 ~o~ Markieren
 
 [FE_HLPP]
-~K~ Vorwãrts springen
+~K~ Vorwärts springen
 
 [FE_HLPQ]
-~J~ Rückwãrts springen
+~J~ Rückwärts springen
 
 [FE_HLPD]
 ~<~~>~ Einstellen
@@ -2066,7 +2066,7 @@ Queens
 Die Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1 ist nicht formatiert.
 
 [FEC_RSC]
-Nãchster Radiosender
+Nächster Radiosender
 
 [FEC_RSP]
 Vorheriger Radiosender
@@ -2108,10 +2108,10 @@ Gang aktiv Modus
 Gang passiv Modus
 
 [FEC_TKP]
-Positives Gesprãch
+Positives Gespräch
 
 [FEC_TKN]
-Negatives Gesprãch
+Negatives Gespräch
 
 [FEC_JUM]
 Springen
@@ -2162,7 +2162,7 @@ In die Hocke gehen ~A~
 Ducken ~A~
 
 [FEC_STR]
-Ego-Ansicht-Seitwãrtsbewegung
+Ego-Ansicht-Seitwärtsbewegung
 
 [PROP_3]
 Drücke ~K~, um diese Immobilie zu kaufen
@@ -2273,16 +2273,16 @@ Waffen-Skill-Levels
 Rang als Pilot
 
 [STAT331]
-Stãrkste Gang
+Stärkste Gang
 
 [STAT332]
-Zweitstãrkste Gang
+Zweitstärkste Gang
 
 [STAT333]
-Drittstãrkste Gang
+Drittstärkste Gang
 
 [STAT336]
-Gang-Stãrke
+Gang-Stärke
 
 [STAT337]
 Kontrolliertes Gebiet
@@ -2309,7 +2309,7 @@ Bestzeit im Ball-hochhalten
 Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. Bitte legen Sie eine Memory Card (8MB) (für PlayStation#2) mit mindestens 199_KB freiem Speicherplatz in MEMORY CARD-Steckplatz 1 ein oder schaffen Sie mithilfe des internen Browsers der Konsole Platz. Jetzt starten?
 
 [NOTEAT]
-Du wirst langsam hungrig und fãngst an, Energie zu verlieren. Du musst irgendetwas zu essen auftreiben.
+Du wirst langsam hungrig und fängst an, Energie zu verlieren. Du musst irgendetwas zu essen auftreiben.
 
 [LG_52]
 Rennserie
@@ -2318,7 +2318,7 @@ Rennserie
 Fitnesscenter
 
 [STAT154]
-Abgelieferte Pãckchen
+Abgelieferte Päckchen
 
 [STAT190]
 Anzahl Besuche bei Prostituierten
@@ -2336,7 +2336,7 @@ Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMO
 Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. Grand Theft Auto: San Andreas benötigt 80_KB freien Speicherplatz, um ein erstes Foto und jedes weitere Foto auf dieser Memory Card (8MB) (für PlayStation#2) zu speichern.
 
 [INSMCP]
-Laden gescheitert!~n~~n~Keine Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthãlt, in MEMORY CARD-Steckplatz 1 eingelegt. Bitte legen Sie die Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthãlt, wieder ein oder starten Sie ein neues Spiel.
+Laden gescheitert!~n~~n~Keine Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthält, in MEMORY CARD-Steckplatz 1 eingelegt. Bitte legen Sie die Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthält, wieder ein oder starten Sie ein neues Spiel.
 
 [STAT322]
 Gesprühte Graffitis
@@ -2495,7 +2495,7 @@ Bestzeit bei 'Heli Hell'
 ~J~ Symbolauswahl
 
 [FES_NIM]
-Speichern gescheitert! Die Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthãlt, ist nicht in MEMORY CARD-Steckplatz 1 eingesteckt. Bitte versuchen Sie es noch einmal.
+Speichern gescheitert! Die Memory Card (8MB) (für PlayStation#2), die das augenblickliche Mission Pack enthält, ist nicht in MEMORY CARD-Steckplatz 1 eingesteckt. Bitte versuchen Sie es noch einmal.
 
 [FESZ_MR]
 Wirklich ein neues Standardspiel starten? Alle Fortschritte in diesem Mission Pack gehen verloren. Fortfahren?
@@ -2543,16 +2543,16 @@ Bestzeit bei 8-Track
 BMX-Bestzeit
 
 [STAT036]
-Durch Zuhãlterei verdientes Geld
+Durch Zuhälterei verdientes Geld
 
 [STAT170]
 Wie oft ertrunken
 
 [STAT171]
-Anzahl verkuppelter Mãdchen
+Anzahl verkuppelter Mädchen
 
 [STAT210]
-Zuhãlterlevel
+Zuhälterlevel
 
 [STAT211]
 Beste Punktzahl Kickstart
@@ -2612,7 +2612,7 @@ Auf dich ist Verlass.~n~Wenn du alle, die auf der Liste stehen, abgeliefert hast
 Du hast alle georderten Karren geliefert. Sehr gut.~n~Hier, für dich.
 
 [GA_15]
-Hoffentlich gefãllt dir die neue Farbe.
+Hoffentlich gefällt dir die neue Farbe.
 
 [GA_16]
 Das Umspritzen ist gratis
@@ -2621,7 +2621,7 @@ Das Umspritzen ist gratis
 ~r~An dem Modell haben wir kein Interesse
 
 [GA_20]
-~r~Von der Sorte haben wir schon mehr als genug.~n~Sorry, da kommen wir nicht ins Geschãft.
+~r~Von der Sorte haben wir schon mehr als genug.~n~Sorry, da kommen wir nicht ins Geschäft.
 
 [PU_MONY]
 Du hast nicht genug Geld
@@ -3056,7 +3056,7 @@ Gabelstapler
 Traktor
 
 [COMBINE]
-Mãhdrescher
+Mähdrescher
 
 [FELTZER]
 Feltzer
@@ -3437,7 +3437,7 @@ Yellow Bell Golfplatz
 Julius Thruway West
 
 [KACC]
-K.A.C.C. Militãr-Kraftstoffe
+K.A.C.C. Militär-Kraftstoffe
 
 [JTN]
 Julius Thruway North
@@ -4115,7 +4115,7 @@ Kleiderschrank
 Generatorenhalle
 
 [DIRBIKE]
-Gelãndekurs
+Geländekurs
 
 [JUMP1]
 Dach des Caligula
@@ -4259,7 +4259,7 @@ Planungsbehörde
 Four Dragons
 
 [TSDINER]
-Truck-Raststãtte
+Truck-Raststätte
 
 [UFOBAR]
 Li'l Probe Inn
@@ -4331,7 +4331,7 @@ High-Score beim Videospiel
 Beste Trefferquote beim Videospiel (in Prozent)
 
 [STHC_03]
-Anzahl getãtigter Drogendeals
+Anzahl getätigter Drogendeals
 
 [NEW_REC]
 ~g~Neuer Rekord!! ~w~~1~ Minuten ~g~und ~w~~1~ Sekunden.
@@ -4409,13 +4409,13 @@ Drücke ~t~, um die augenblickliche Waffe in diesem Slot auszutauschen.
 Drücke ~o~, um die augenblickliche Waffe in diesem Slot auszutauschen.
 
 [STOCK]
-~r~nicht vorrãtig
+~r~nicht vorrätig
 
 [PROP_1]
 Du hast nicht genug Cash für dieses Objekt.
 
 [PROP_2]
-Wãhrend einer Mission kannst du keine Objekte kaufen.
+Während einer Mission kannst du keine Objekte kaufen.
 
 [ANSWER]
 Drücke ~K~, um den Anruf auf deinem Handy entgegenzunehmen.
@@ -4460,13 +4460,13 @@ Park die Karre, mach sie durch Drücken von ~o~ oder ~K~ scharf und dann HAU AB!
 Park die Karre, mach sie durch Drücken von ~J~ scharf und dann HAU AB!
 
 [SKIP]
-Spãter am gleichen Tag...
+Später am gleichen Tag...
 
 [FEN_NET]
 NETZWERKSPIEL
 
 [FEN_SCO]
-KONFIGURATION AUSWÃHLEN
+KONFIGURATION AUSWÄHLEN
 
 [FEN_HOS]
 SPIEL HOSTEN
@@ -4511,7 +4511,7 @@ Spezialmission
 Spezialmission ~C~
 
 [LOADCOL]
-Spiel lãdt...
+Spiel lädt...
 
 [FEM_SL1]
 Spielstand 1 nicht vorhanden
@@ -4634,10 +4634,10 @@ Tuning-Werkstatt
 Polizei
 
 [LG_28]
-Kãufliche Objekte
+Käufliche Objekte
 
 [LG_29]
-Unverkãufl. Objekte
+Unverkäufl. Objekte
 
 [LG_30]
 Rennen
@@ -4676,7 +4676,7 @@ Triaden
 Triaden-Casino
 
 [LG_42]
-Bekleidungsgeschãft
+Bekleidungsgeschäft
 
 [LG_43]
 Woozie
@@ -4925,7 +4925,7 @@ Beim Glücksspiel gewonnenes Geld
 Höchster Glücksspielgewinn
 
 [ST_RAN0]
-Anfãnger
+Anfänger
 
 [ST_RAN1]
 Navigator
@@ -4991,7 +4991,7 @@ Zurück
 von
 
 [FEC_RS3]
-Radiosender auswãhlen ~A~
+Radiosender auswählen ~A~
 
 [FEC_HO3]
 Hupe ~A~
@@ -5072,16 +5072,16 @@ Warnung
 Feuern
 
 [FEC_NWE]
-Nãchste Waffe
+Nächste Waffe
 
 [FEC_PWE]
 Vorherige Waffe
 
 [FEC_FOR]
-Vorwãrts
+Vorwärts
 
 [FEC_BAC]
-Rückwãrts
+Rückwärts
 
 [FEC_LEF]
 Links
@@ -5105,7 +5105,7 @@ Radio
 Spezialmission
 
 [FEC_CMR]
-Blickwinkel ãndern
+Blickwinkel ändern
 
 [FEC_JMP]
 Springen
@@ -5123,7 +5123,7 @@ Nach links sehen
 Nach rechts sehen
 
 [FEC_NTR]
-Nãchstes Ziel
+Nächstes Ziel
 
 [FEC_PTT]
 Vorheriges Ziel
@@ -5315,7 +5315,7 @@ WCTR
 Helligkeit
 
 [FED_TRA]
-Unschãrfe-FX
+Unschärfe-FX
 
 [FED_SUB]
 Untertitel
@@ -5357,7 +5357,7 @@ Controller-Setup
 Tauchen
 
 [FEC_SWF]
-Vorwãrts schwimmen
+Vorwärts schwimmen
 
 [FEC_HCD]
 Sinken (Helikopter)
@@ -5375,7 +5375,7 @@ Rechtsdrehung (im Flug)
 Schweben (Helikopter) ~A~
 
 [FEC_ALW]
-Sekundãrwaffe (Flugzeug)
+Sekundärwaffe (Flugzeug)
 
 [FEC_GER]
 Fahrgestell (Flugzeug) ~C~
@@ -5387,7 +5387,7 @@ Schub (Flugzeug)
 Sadler
 
 [FEC_RED]
-Steuerung ãndern
+Steuerung ändern
 
 [FEC_MOU]
 Maus-Einstellg.
@@ -5492,7 +5492,7 @@ Insgesamt zurückgel. Strecke
 Pistole
 
 [STWE002]
-Schalldãmpferpistole
+Schalldämpferpistole
 
 [STWE003]
 Desert Eagle
@@ -5501,7 +5501,7 @@ Desert Eagle
 Schrotflinte
 
 [STWE005]
-Abgesãgte Schrotflinte
+Abgesägte Schrotflinte
 
 [STWE006]
 Autom. Schrotflinte
@@ -5537,7 +5537,7 @@ Erreichter Fortschritt
 Fortschritt insgesamt
 
 [STAT002]
-Lãngster Korbwurf
+Längster Korbwurf
 
 [STAT003]
 Zu Fuss zurückgel. Strecke
@@ -5558,13 +5558,13 @@ Mit Golfwagen gefahrene Strecke
 Mit Flugzeug zurückgel. Strecke
 
 [STAT010]
-Lãngste 'Wheelie' Distanz
+Längste 'Wheelie' Distanz
 
 [STAT011]
-Lãngste 'Stoppie' Distanz
+Längste 'Stoppie' Distanz
 
 [STAT012]
-Lãngste Distanz auf zwei Rãdern
+Längste Distanz auf zwei Rädern
 
 [STAT013]
 Waffenbudget
@@ -5579,13 +5579,13 @@ Budget für Immobilien
 Budget für Autoreparaturen und Lackierung
 
 [STAT017]
-Lãngste 'Wheelie' Zeit
+Längste 'Wheelie' Zeit
 
 [STAT018]
-Lãngste 'Stoppie' Zeit
+Längste 'Stoppie' Zeit
 
 [STAT019]
-Lãngste Zeit auf zwei Rãdern
+Längste Zeit auf zwei Rädern
 
 [STAT020]
 Budget für Essen
@@ -5645,13 +5645,13 @@ Höchste Beute bei Einbruch
 Durch Einbrüche erbeutetes Geld
 
 [STAT042]
-Für Bau von Gebãuden ausgegebenes Geld
+Für Bau von Gebäuden ausgegebenes Geld
 
 [STAT043]
-Für Ausstattung von Gebãuden ausgegebenes Geld
+Für Ausstattung von Gebäuden ausgegebenes Geld
 
 [STAT044]
-Lãngste Zeit auf Laufband
+Längste Zeit auf Laufband
 
 [STAT046]
 Bestleistung beim Bankdrücken
@@ -5663,7 +5663,7 @@ Bestleistung mit Hanteln
 Geringstes Gewicht
 
 [STAT051]
-Lãngste Verfolgungsjagd mit 5 Sternen
+Längste Verfolgungsjagd mit 5 Sternen
 
 [STAT052]
 Dauer letzte Verfolgungsjagd mit 5 Sternen
@@ -5684,7 +5684,7 @@ Mit Shopping zugebrachte Zeit
 Mit Glücksspiel zugebrachte Zeit
 
 [STAT058]
-Dauer der bisher lãngsten Mission
+Dauer der bisher längsten Mission
 
 [STAT059]
 Dauer der bisher kürzesten Mission
@@ -5720,7 +5720,7 @@ Respekt
 Pistolen-Skill
 
 [STAT070]
-Schalldãmpfer-Pistolen-Skill
+Schalldämpfer-Pistolen-Skill
 
 [STAT071]
 Desert Eagle-Skill
@@ -5729,7 +5729,7 @@ Desert Eagle-Skill
 Schrotflinten-Skill
 
 [STAT073]
-Abgesãgte Schrotflinten-Skill
+Abgesägte Schrotflinten-Skill
 
 [STAT074]
 Autom. Schrotflinten-Skill
@@ -5786,7 +5786,7 @@ Kugeln, die trafen
 Entscheidende Treffer
 
 [STAT131]
-Anzahl angehãufter Fahndungssterne
+Anzahl angehäufter Fahndungssterne
 
 [STAT132]
 Anzahl losgewordener Fahndungssterne
@@ -5843,7 +5843,7 @@ Gesamtanzahl Missionen im Spiel
 Mit Taxi verdientes Geld
 
 [STAT150]
-Ans Ziel beförderte Fahrgãste
+Ans Ziel beförderte Fahrgäste
 
 [STAT151]
 Mit Krankenwagen gerettete Menschen
@@ -5885,10 +5885,10 @@ Energie
 Von dir gemachte Fotos
 
 [STAT167]
-Begonnene Spezialauftrãge
+Begonnene Spezialaufträge
 
 [STAT168]
-Erfüllte Spezialauftrãge
+Erfüllte Spezialaufträge
 
 [STAT169]
 Flugzeit
@@ -5921,7 +5921,7 @@ Gesamte Zeit im Chaos-Derby
 No more hurricanes Flag
 
 [STAT181]
-Stãdte freigeschaltet
+Städte freigeschaltet
 
 [STAT182]
 Anzahl Polizeischmiergelder
@@ -5942,7 +5942,7 @@ Wie oft Freundinnen flachgelegt
 Sitzen gelassene Freundinnen
 
 [STAT191]
-Ausgeraubte Hãuser
+Ausgeraubte Häuser
 
 [STAT192]
 Geknackte Safes
@@ -5951,7 +5951,7 @@ Geknackte Safes
 Einbrecher-Status
 
 [STAT194]
-Gestohlene Gegenstãnde verkauft
+Gestohlene Gegenstände verkauft
 
 [STAT195]
 Schwarze Acht versenkt bei Poolbillard
@@ -5978,7 +5978,7 @@ Im Steinbruch verdientes Geld
 Mit den Steinbruch-Missionen zugebrachte Zeit
 
 [STAT203]
-Gekaufte Einrichtungsgegenstãnde
+Gekaufte Einrichtungsgegenstände
 
 [STAT204]
 Bevorzugtes Konsolenspiel
@@ -6011,7 +6011,7 @@ Anzahl importierter Fahrzeuge
 Höchste Punktzahl beim Basketball-Spiel
 
 [STAT216]
-Gelegte Brãnde
+Gelegte Brände
 
 [STAT217]
 Verkaufte Drogen
@@ -6020,13 +6020,13 @@ Verkaufte Drogen
 Gekaufte Drogen
 
 [STAT219]
-Beste Rundenzeit bei Gelãndemotorradrennen
+Beste Rundenzeit bei Geländemotorradrennen
 
 [STAT220]
-Beste Zeit bei Gelãndemotorradrennen
+Beste Zeit bei Geländemotorradrennen
 
 [STAT221]
-Beste Platzierung bei Gelãndemotorradrennen
+Beste Platzierung bei Geländemotorradrennen
 
 [STAT222]
 NRG-500 Bestzeit
@@ -6098,7 +6098,7 @@ Kalorien
 Spielzeit
 
 [STAT321]
-Gefundene Versteckte Pãckchen
+Gefundene Versteckte Päckchen
 
 [STAT323]
 Unbeliebteste Gang
@@ -6119,7 +6119,7 @@ Waffen-Skill
 ~t~ Zurück
 
 [FE_HLPH]
-~x~ Auswãhlen
+~x~ Auswählen
 
 [FE_HLPJ]
 ~u~
@@ -6248,19 +6248,19 @@ EXTRA COLOURS 2
 ~w~Das hat zu lange gedauert! Du hast an Einfluss verloren.
 
 [SSTSPT0]
-~h~Kondition~w~ verbessert. Du kannst jetzt lãnger sprinten, schwimmen und Rad fahren.
+~h~Kondition~w~ verbessert. Du kannst jetzt länger sprinten, schwimmen und Rad fahren.
 
 [SSTSPT1]
 ~h~Kondition~w~ verbessert. Maximum erreicht.
 
 [SHESPT0]
-~h~Gesundheit~w~ - verbessert. Du hãltst jetzt mehr aus und stirbst nicht so schnell.
+~h~Gesundheit~w~ - verbessert. Du hältst jetzt mehr aus und stirbst nicht so schnell.
 
 [SHESPT1]
 ~h~Gesundheit~w~ - verbessert. Maximum erreicht.
 
 [SBOFAT0]
-~h~Körperfett~w~ erhöht. Du nimmst zu. Wenn du zu fett wirst, kannst du keine hohen Wãnde erklettern und weder sprinten noch springen.
+~h~Körperfett~w~ erhöht. Du nimmst zu. Wenn du zu fett wirst, kannst du keine hohen Wände erklettern und weder sprinten noch springen.
 
 [SBOFAT1]
 ~h~Körperfett~w~ erhöht. Du wirst dick. Geh zum Workout ins Fitnesscenter oder geh joggen.
@@ -6275,16 +6275,16 @@ EXTRA COLOURS 2
 ~h~Körperfett~w~ erhöht. Dir droht ein Herzinfarkt - nimm ab.
 
 [SSTUND0]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND1]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND2]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND3]
-~h~Lungenvolumen~w~ verbessert. Du kannst den Atem lãnger anhalten.
+~h~Lungenvolumen~w~ verbessert. Du kannst den Atem länger anhalten.
 
 [SSTUND4]
 ~h~Lungenvolumen~w~ verbessert. Maximum erreicht.
@@ -6311,16 +6311,16 @@ EXTRA COLOURS 2
 ~h~Muskeln~w~ aufgebaut. Du kannst jetzt im Fitnessstudio neue Kampftechniken erlernen.
 
 [SSKBIK0]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK1]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK2]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK3]
-~h~Motorrad-Skill~w~ verbessert. Du lãufst weniger Gefahr, vom Motorrad zu fallen.
+~h~Motorrad-Skill~w~ verbessert. Du läufst weniger Gefahr, vom Motorrad zu fallen.
 
 [SSKBIK4]
 ~h~Motorrad-Skill~w~ verbessert. Maximum erreicht.
@@ -6380,10 +6380,10 @@ EXTRA COLOURS 2
 ~h~Rad-Skill~w~ verbessert. Maximum erreicht.
 
 [SSTFLY0]
-~h~Flug-Skill~w~ verbessert. Trainiere weiter und du erhãltst den Pilotenschein.
+~h~Flug-Skill~w~ verbessert. Trainiere weiter und du erhältst den Pilotenschein.
 
 [SSTFLY1]
-~h~Flug-Skill~w~ verbessert. Pilotenschein erhalten. Du hast nun Zutritt zu allen Flughãfen.
+~h~Flug-Skill~w~ verbessert. Pilotenschein erhalten. Du hast nun Zutritt zu allen Flughäfen.
 
 [SWPIST]
 ~h~Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
@@ -6395,49 +6395,49 @@ EXTRA COLOURS 2
 ~h~Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Pistolen gleichzeitig verwenden.
 
 [SWSPST]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schalldämpfer-Pistolen-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSPPR]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schalldämpfer-Pistolen-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSP_T]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Gangster-Level.
+~h~Schalldämpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Gangster-Level.
 
 [SWSP_R]
-~h~Schalldãmpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
+~h~Schalldämpfer-Pistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWDEST]
-~h~Desert Eagle-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Desert Eagle-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWDEPR]
-~h~Desert Eagle-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Desert Eagle-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWDE_R]
 ~h~Desert-Eagle-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWSGST]
-~h~Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSGPR]
-~h~Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSG_R]
 ~h~Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWSSST]
-~h~Abgesãgte Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
+~h~Abgesägte Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren. Deine Treffsicherheit und Feuerrate haben sich erhöht.
 
 [SWSSPR]
-~h~Abgesãgte Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 abgesãgten Schrotflinten gleichzeitig schießen und weiter entfernte Ziele anvisieren.
+~h~Abgesägte Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt mit 2 abgesägten Schrotflinten gleichzeitig schießen und weiter entfernte Ziele anvisieren.
 
 [SWSS_R]
-~h~Abgesãgte Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Schrotflinten gleichzeitig verwenden.
+~h~Abgesägte Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Schrotflinten gleichzeitig verwenden.
 
 [SWSZST]
-~h~Autom. Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Feuerrate hat sich erhöht.
+~h~Autom. Schrotflinten-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Feuerrate hat sich erhöht.
 
 [SWSZPR]
-~h~Autom. Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen.
+~h~Autom. Schrotflinten-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen.
 
 [SWSZ_R]
 ~h~Autom. Schrotflinten-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
@@ -6452,37 +6452,37 @@ EXTRA COLOURS 2
 ~h~Maschinenpistolen-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level und kannst zwei Maschinenpistolen gleichzeitig verwenden.
 
 [SWM5ST]
-~h~SMG-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~SMG-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM5PR]
-~h~SMG-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~SMG-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM5_R]
 ~h~SMG-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWM4ST]
-~h~M4-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~M4-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM4PR]
-~h~M4-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~M4-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWM4_R]
 ~h~M4-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWAKST]
-~h~AK-47-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich wãhrend des Zielens bewegen, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~AK-47-Skill~w~ - Gangster-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, dich während des Zielens bewegen, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWAKPR]
-~h~AK-47-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwãrts laufen. Deine Treffsicherheit hat sich erhöht.
+~h~AK-47-Skill~w~ - Hit-Man-Level erreicht. Du kannst jetzt weiter entfernte Ziele anvisieren, aus der Bewegung heraus feuern, und schneller seitwärts laufen. Deine Treffsicherheit hat sich erhöht.
 
 [SWAK_R]
 ~h~AK-47-Skill~w~ - verbessert. Übe weiter und du erreichst den Hit-Man-Level.
 
 [SWSRST]
-~h~Gewehr-Skill~w~ - Gangster-Level erreicht. Du kannst dich schneller seitwãrts bewegen und aus der Bewegung heraus feuern.
+~h~Gewehr-Skill~w~ - Gangster-Level erreicht. Du kannst dich schneller seitwärts bewegen und aus der Bewegung heraus feuern.
 
 [SWSRPR]
-~h~Gewehr-Skill~w~ - Hit-Man-Level erreicht. Du kannst dich schneller seitwãrts bewegen.
+~h~Gewehr-Skill~w~ - Hit-Man-Level erreicht. Du kannst dich schneller seitwärts bewegen.
 
 [SWSR_T]
 ~h~Gewehr-Skill~w~ - verbessert. Übe weiter und du erreichst den Gangster-Level.
@@ -6542,25 +6542,25 @@ Nov
 Dez
 
 [FES_SES]
-Datei auswãhlen, in die gespeichert werden soll:
+Datei auswählen, in die gespeichert werden soll:
 
 [FES_SEL]
-Datei auswãhlen, die geladen werden soll:
+Datei auswählen, die geladen werden soll:
 
 [FES_SED]
-Datei auswãhlen, die gelöscht werden soll:
+Datei auswählen, die gelöscht werden soll:
 
 [FESZ_QR]
-Wirklich ein neues Spiel starten? Alle momentanen Spielstãnde gehen verloren. Weiter?
+Wirklich ein neues Spiel starten? Alle momentanen Spielstände gehen verloren. Weiter?
 
 [FESZ_QM]
-Wirklich ein San Andreas Mission Pack laden? Alle momentanen Spielstãnde gehen verloren. Weiter?
+Wirklich ein San Andreas Mission Pack laden? Alle momentanen Spielstände gehen verloren. Weiter?
 
 [FESZ_LS]
 Laden erfolgreich.
 
 [FESZ_CS]
-Gespeicherte Datei beschãdigt
+Gespeicherte Datei beschädigt
 
 [FES_SCG]
 Momentanes Spiel speichern?
@@ -6575,7 +6575,7 @@ Speichern erfolgreich. Weiter mit OK.
 Löschen erfolgreich. Weiter mit OK.
 
 [FESZ_QC]
-Diese beschãdigte Datei wirklich überschreiben?
+Diese beschädigte Datei wirklich überschreiben?
 
 [FESZ_QZ]
 Spiel wirklich speichern?
@@ -6623,7 +6623,7 @@ Formatiert Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1. M
 Speichert Daten. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
 
 [FELD_WR]
-Lãdt Daten. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
+Lädt Daten. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
 
 [FEDL_WR]
 Löscht Daten. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
@@ -6635,7 +6635,7 @@ Memory Card (8MB) (für PlayStation#2) in MEMORY CARD-Steckplatz 1 ist bereits f
 Mission laden
 
 [FEN_NGS]
-Bitte wãhlen, welches neue Spiel gestartet werden soll:
+Bitte wählen, welches neue Spiel gestartet werden soll:
 
 [FEN_MPX]
 Mission Pack
@@ -6644,7 +6644,7 @@ Mission Pack
 Neues Spiel starten
 
 [FELM_WR]
-Lãdt Mission Pack Spiel. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
+Lädt Mission Pack Spiel. Memory Card (8MB) (für PlayStation#2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.
 
 [PU_2PL]
 Beliebige Taste auf dem Analog Controller (DUALSHOCK#) oder Analog Controller (DUALSHOCK#2) in Controller-Anschluss 2 drücken, um 2-Spieler-Modus zu aktivieren.
