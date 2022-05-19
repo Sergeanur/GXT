@@ -1,0 +1,102 @@
+﻿[GOAL0]
+Find the ~green~Hammer~colour~
+
+[GOAL1P1]
+Perform 1 ~yellow~Violent~colour~ execution with the Hammer
+
+[GOAL1P2]
+Perform 1 ~red~Gruesome~colour~ execution with the Hammer
+
+[GOAL1P3]
+Get the Bat from the hunter
+
+[GOAL2P1]
+Perform 1 ~yellow~Violent~colour~ execution with the Bat
+
+[GOAL2P2]
+Perform 1 ~red~Gruesome~colour~ execution with the Bat
+
+[GOAL2]
+Make your way to the end of the Cellblock
+
+[GOAL3]
+Go along the top of the Cellblock and get to the shower block
+
+[GOAL4]
+Kill all the hunters
+
+[GOAL5]
+Go to the shower block
+
+[GETHAM]
+Find the Hammer somewhere in the Cellblock.
+
+[GODHAM]
+Perform a ~yellow~Violent~colour~ and a ~red~Gruesome~colour~ execution with the Hammer.
+
+[GETBAT]
+Kill this hunter and get his Bat.
+
+[GODBAT]
+Perform a ~yellow~Violent~colour~ and a ~red~Gruesome~colour~ execution with the Bat.
+
+[USEBAT]
+Use the Bat to perform the executions.
+
+[FUGIN1]
+Look like it up to Fug, Fuuuuuug!!!
+
+[FUGIN2]
+Fug gonna finish this!
+
+[FUGIN3]
+Fug gonna make you sorreeeee!
+
+[JAL1A1]
+Monkey see, monkey kill! That's your motivation for the next scenes!
+
+[JAL1A2]
+You're killing to entertain, so take your time and play to the camera!
+
+[JAL2A1]
+Jesus, Cash, you're chewing through these guys like you were popping bubble wrap.
+
+[JAL2A2]
+Head over to the end of the cell block - I've got a surprise for you.
+
+[JAL3A1]
+Get your funky ass along the walkway and head into the shower block.
+
+[JAL4A1]
+Kill 'em all, Cash, kill 'em all! Ha ha ha!
+
+[JAL5A1]
+Here's your reward for being such a good head collector!
+
+[JAL6A1]
+Ok, Cash. You've performed brilliantly.
+
+[JAL6A2]
+Don't worry, I've got plenty more Wonderland fun lined up for you
+
+[JAL6A3]
+(laughter)
+
+[CEL1A1]
+Ah welcome, the idea of this little game is for you to execute all the hunters looking for you, thats if they dont find you first
+
+[CEL2A1]
+Well done, you do still have some surprises left in you, make your way to the end of the cellblock I have a few more surprises for you.
+
+[CEL3A1]
+If you wanna get out of here your gonna have to lose that guy and then make your way along the top of the cells to the shower block
+
+[CEL4A1]
+If you wanna get in here your gonna have to lose the attencion of those hunters
+
+[BONUS]
+Here is your reward for being such a good head collector
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

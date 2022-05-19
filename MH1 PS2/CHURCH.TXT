@@ -1,0 +1,282 @@
+﻿[USE]
+To make the Tramp follow you, press the ~triangle~ button when you are facing him and he is waiting.
+
+[USE2]
+To make the Tramp stop and wait for you, press the ~triangle~ button when you are facing him and he is following you.
+
+[WALK]
+Hunters will attack the tramp, so make sure hunters don't find him. He can hide in the shadows if you guide him there.
+
+[STOP]
+The tramp's health bar and arrow on the radar will go blue when he is hidden in a safe zone.
+
+[GOAL1]
+Rescue the tramp from his cell
+
+[GOAL2]
+Take the tramp past the streets to the graveyard
+
+[GOAL3]
+Find a shotgun then take the tramp to the old tomb
+
+[MOAN1]
+How did we end up on this shit post?
+
+[MOAN2]
+Should be getting high with the guys guarding the derelict house.
+
+[MOAN3]
+Stop whining, this is what we do.
+
+[MOAN4]
+Fuck this guarding shit! Why only the others have to get all the fun?
+
+[MOAN5]
+This sucks. Kinda like your sister.
+
+[QUIET1]
+Shut up in there!
+
+[QUIET2]
+Stop it! You're making me mad!
+
+[TCHAT1]
+Apparently a bum is gonna show up 'round here and we've got to do him. Poor bastard.
+
+[TCHAT2]
+It's one thing to wax some psycho... but I aint into killing no bum.
+
+[TCHAT3]
+I saw that tramp before. Trust me - if he gets close, we'll smell him.
+
+[TCHAT4]
+I killed a bum once in ... It was no big deal.
+
+[TCHAT5]
+Oh que pasa, you don't have the stomach for this?
+
+[TCHAT6]
+Ohhhhhh I think I can smell him already!
+
+[TFOLL1]
+Ok, buddy, anything you say!
+
+[TFOLL2]
+Whatever.
+
+[TFOLL3]
+Hey, you're boss!
+
+[TFOLL4]
+Anything for my new bestest buddy!
+
+[TFOLL5]
+We going to get some liquor?
+
+[TFOLL6]
+Where we going, me ol'pal?
+
+[TSTAY1]
+What the hell, this looks comfortable enough!
+
+[TSTAY2]
+Bring back something to drink, would ya!
+
+[TSTAY3]
+No need to be so bossy - I was thinking of hanging around here anyway!
+
+[TSTAY4]
+Make your mind up, buddy!
+
+[TSTAY5]
+Ok, you two be careful now!
+
+[TSTAY6]
+Hey, you better come back for me, buddy...
+
+[TRMP1]
+Uh -oh.. Hello.
+
+[TRMP2]
+You got a couple of dollars, huh? Huh?
+
+[TRMP3]
+You better have something to drink, pal.
+
+[CMON1]
+Follow me.
+
+[CMON2]
+Move it!
+
+[CMON3]
+Come 'ere.
+
+[CMON4]
+Stay close - make a sound an' I'll kill you myself.
+
+[CMON5]
+Shift your ass.
+
+[CMON6]
+You're with me.
+
+[HOLD1]
+Park it here.
+
+[HOLD2]
+Stay here an' don't move a fuckin' muscle.
+
+[HOLD3]
+Stay put and shut up.
+
+[HOLD4]
+Don't move.
+
+[HOLD5]
+Stay here, out of trouble.
+
+[HOLD6]
+Stop following me!
+
+[DRK1A1]
+I've got a little surprise for you. You looked lonely, so I got you some company.
+
+[DRK1A2]
+Unfortunately the Innocentz thought better of it and locked him up.
+
+[DRK1A3]
+You're gonna have to bust him out!
+
+[DRK2A1]
+Well what do you think of your new friend? You look good together, Cash, really you do.
+
+[DRK2A2]
+I'll only open any gates if he's with you, alive and well.
+
+[DRK2A3]
+Now get going. Entertain me.
+
+[DRK3A1]
+You're going to have to think of a way of separating these guys and picking them off one by one…
+
+[DRK4A1]
+I told you. Get that hobo safely to the gate and I'll buzz you through.
+
+[DRK5A1]
+I thought this graveyard would make a great location for a shoot-out - what do you think, Cash?
+
+[DRK6A1]
+Aw, Cash, I'm disappointed, really I am,
+
+[DRK6A2]
+is that any way to care for your bestest buddy?!
+
+[DRK6B1]
+Cash! You let that poor man down in the biggest possible way.
+
+[DRK6B2]
+I only hope you can live with yourself.
+
+[DRK6C1]
+You blew it Cash! All you had to do was look out for someone for ten minutes and you blew it...
+
+[DRK6D1]
+Cash, baby, you let them kill your friend
+
+[DRK6D2]
+and you made such a lovely couple!
+
+[DRK7A1]
+See that old house? That's where you're headed.
+
+[DRK8A1]
+You're doing good Cash, you'll need to go through the pedestrian tunnel - find it.
+
+[DRK9A1]
+Aren't you forgetting someone, Cash?
+
+[DRK9B1]
+Hey, what about your new buddy - you're not going to abandon him are you?
+
+[DRK9C1]
+You've left your new chum behind - friends are supposed to look out for each other!
+
+[DRK9D1]
+Is that how you treat your pals? Leave 'em to rot?
+
+[DRK10A1]
+Cash! Your buddy's getting the crap kicked out of him!
+
+[DRK10B1]
+You've got to learn how to care for others, Cash - Your new friend's in trouble!
+
+[DRK10C1]
+Heads up, Cash, you better go rescue your new friend!
+
+[DRK10D1]
+Oh dear, looks like your new bunk buddy's run into a few Hunters!
+
+[DRK11A1]
+You know the deal, Cash. I open the door when I see your friend.
+
+[DRK11B1]
+When I see your smelly friend I'll open the door.
+
+[DRK11C1]
+I'm not blind Cash, where's your hobo buddy?
+
+[DRK11D1]
+The tramp! Where's the fucking tramp, Cash?
+
+[DRK12A1]
+The Exit is behind this old tomb. You'll need a shotgun
+
+[DRK12A2]
+so make sure to pick one up along the way.
+
+[RESCUE]
+Director : Nice work Cash!, Alright take him out through the alley, only he can open the doors, so if he dies so do you. You need to get him to the graveyard.
+
+[GATE]
+Director : See this, That's a tramp gate, you gotta have the man if you wanna pass through.
+
+[START]
+Director : The tramps locked up behind that door, take out the guard.
+
+[BARREL]
+Hunter : How did we end up on this shit post, should be getting high with the guys at the derelict house.
+
+[FAILED]
+Director : The tramp got killed, do it again.
+
+[PICK]
+Tramp : Uhh, That's better.
+
+[WAIT]
+Tramp : Don't leave me man
+
+[UNDER]
+Director : The tramp is under attack, if he dies you'll have to start again.
+
+[GATE1]
+Director : Aren't you missing someone, go back and get the tramp.
+
+[GATE2]
+Director : The door won't be opened til I see that tramp.
+
+[GATE3]
+Director : I'm not stupid Cash, Go back and get the tramp, then I'll open the gate.
+
+[GATE4]
+Director : I'm not blind Cash, wheres the tramp?.
+
+[GATE5]
+Director : When I see the tramp, I'll open the door.
+
+[GUARD]
+(TRAMP SINGING) Guard : Shut up in there
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

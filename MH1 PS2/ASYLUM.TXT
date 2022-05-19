@@ -1,0 +1,213 @@
+﻿[GOAL1]
+Kill the hunter and escape from the ward
+
+[GOAL2]
+Gain access to the Greenhouse section
+
+[GOAL3]
+Destroy the bricked up doorway to gain access to the tower
+
+[GOAL4]
+Bring proof of the dress-wearing hunter's death to the Guard Room
+
+[GOAL4B]
+Kill the monkey and bring his body to the Guard Room
+
+[CDOOR1]
+He's gonna get away with my damned shoes! Close the door!
+
+[CDOOR2]
+Stay boy, stay boy. Close that gate!
+
+[CDOOR3]
+Close the gate and stop that wriggly witchetty man!
+
+[CDOOR4]
+Wuuurrgghh!! Close door! Close door!
+
+[CDOOR5]
+Fug see liddle man! Close door! Close door!
+
+[CDOOR6]
+Da door - shud id! Shud id!
+
+[CDOOR7]
+Don't let that philandering scumball out of here! Close the gate!
+
+[CDOOR8]
+Oh no, you're not leaving this house to see her! Girls, lock that door!
+
+[CDOOR9]
+Oh you worthless, stupid, drunk! Lock that door!
+
+[POWER1]
+Time to play? Time to play! Fug coming!
+
+[POWER2]
+Oohh. Time for Fug to play doctor!
+
+[LEVER1]
+Doctor Fug make it all better, aaalll better...
+
+[LEVER2]
+Don't worry, Fug stob da pain. Fug stob da paaiin.
+
+[NOWAY1]
+Who dat? Fug not playing this game...
+
+[NOWAY2]
+Huh? Fug not stoopid!
+
+[ODOOR1]
+Big bonez! Open the door! Bonez!
+
+[ODOOR2]
+I can't see Mr. Witchetty! Open the door!
+
+[ODOOR3]
+Where's nasty wriggly Mr. Witchetty? Open the door!
+
+[ODOOR4]
+He hide from Fug! Open door!
+
+[ODOOR5]
+Open door so Fug can go and see!
+
+[ODOOR6]
+Fug can't see funny man - Open door! Open door!
+
+[ODOOR7]
+He's sloped off to see that whore again! Open the door, kids!
+
+[ODOOR8]
+Barry? Barry! Where is that shit? Open the door!
+
+[ODOOR9]
+Barry? Barry! Where is that shit? Open the door!
+
+[QUIET1]
+Shut Up!
+
+[QUIET2]
+Argh! Shut up!
+
+[MTH1A1]
+The lunatics have taken over the asylum, Cash!
+
+[MTH1A2]
+The only way to reason with these gibbering idiots is with a stick and a gun!
+
+[MTH1A3]
+I want you to kill the hunter patrolling the tower walkway and bring his body to the Guard Room.
+
+[MTH2A1]
+There's a good boy. Now drop all your weapons and move on.
+
+[MTH3A1]
+For bringing his head, I'll leave a gift for you in the next location.
+
+[MTH4A1]
+There are some more of these paranoid crazies guarding the door to the greenhouses.
+
+[MTH4A2]
+They see you and I guarantee they'll lock that door!
+
+[MTH4A3]
+When they feel safe they'll probably unlock the door again. They like their routine.
+
+[MTH5A1]
+There's a hunter in the next room, through the mesh door.
+
+[MTH5A2]
+Hack him up and I'll buzz open the next set of doors for you!
+
+[MTH6A1]
+That's the ticket! I've opened the doors, run along, now!
+
+[MTH7A1]
+Some of these nut jobs have bricked themselves into the tower!
+
+[MTH7A2]
+You'll have to find a way to blast your way in!
+
+[MTH8A1]
+Another switch! Go on, throw it and see what happens, go on you can trust me...
+
+[MTH9A1]
+There, that wasn't anything to worry about, was it?
+
+[MPG1]
+...the Senator also visited the Darkwoods Penitentiary
+
+[MPG2]
+which hosts more than a thousand inmates from all over the country...
+
+[MPG3]
+The prison's modern facilities include spacious cells for the inmates
+
+[MPG4]
+...the exceptionally well staffed hospital is equipped for emergencies as well as routine health checks...
+
+[MPG5]
+...adjacent to ROW 1, the electric chair room is where death sentences are carried out...
+
+[MPG6]
+Right here...Drop him!
+
+[DIR_1]
+DIRECTOR: Eliminate this hunter and I will open the door for you, make it nice and messy.
+
+[DIR_2]
+DIRECTOR: Excellent, I have now unlocked the doors at the far end of the ward.
+
+[DIR_3]
+DIRECTOR: Cash I want you to kill this hunter in the dress and bring evidence of his death to the Guard Room.
+
+[DIR_4]
+DIRECTOR: Cash, you will need to find a way of destroying the bricked up door to get inside the tower.
+
+[DIR_5]
+DIRECTOR: Well done Cash,now on to the next area.
+
+[DIR_6]
+DIRECTOR: Cash for bringing his head here I will leave a gift in the next level.
+
+[DIR_7]
+DIRECTOR: Cash you will need to past these guards to enter the Greenhouses, if you are spotted they will lock the door.
+
+[DIR_8]
+DIRECTOR: When spotted use the shadows to hide. When they can't find you, they will unlock the door.
+
+[DIR_9]
+DIRECTOR: Cash, kill the monkey and bring his body to the guard room.
+
+[DIR_10]
+DIRECTOR: Cash for bringing his head here I will leave a gift in the next level, but I need you to bring his body.
+
+[DIR_11]
+DIRECTOR: Cash, I want you to drop all your weapons and put on the monkey outfit.
+
+[DRCL1]
+HUNTER: I see him, I see him, Close the door!
+
+[DROP1]
+HUNTER: Shit I can't see him, open the door.
+
+[HUT_1]
+WARDHUNTER: Shut the fuck up!, don't make me come through there!
+
+[HUT_2]
+WARDHUNTER: Shut the fuck up!
+
+[HUT_3]
+WARDHUNTER: Damn machine! why do I have to turn it off, I should get a remote or something.
+
+[PAIN]
+GUY IN CHAIR: ARRGGG THE PAIN!!!!
+
+[HUT_4]
+WARDHUNTER: Shut up I am not playing this game...
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

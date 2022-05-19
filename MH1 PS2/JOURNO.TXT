@@ -1,0 +1,345 @@
+﻿[GOD1]
+Take the Journalist to her apartment. When you are close, press the ~triangle~ button to make her wait or follow.
+
+[GOD2]
+Do not leave her too far behind, or she will get scared and will run to you!
+
+[GOD3]
+The doors of this police van can be opened with a crowbar. If you have one, face them and press the ~triangle~ button.
+
+[GOD4]
+The journalist is freaking out! You have 20 seconds to go back to her or she will come looking for you!
+
+[GOD5]
+You need the journalist to open this door.
+
+[GOD6]
+Be careful to hide dead bodies. Cops will shoot on sight if they see a dead police officer.
+
+[GOD7]
+You have left the Journalist behind again!
+
+[GOAL1]
+Take the Journalist to her apartment and recover the dossier
+
+[GOAL2]
+Break out of the perimeter created by the Police and reach the SUBWAY
+
+[BITCH1]
+There's that reporter bitch! Hey you, don't move another inch!
+
+[BITCH2]
+Hey, lady! Stay where you are!
+
+[BITCH3]
+Hey you! You're wanted for questioning!
+
+[GEN1]
+Stay here, I'll check that!
+
+[GEN2]
+Wait here.
+
+[GEN3]
+Aww, what now? I'll check it out.
+
+[GEN4]
+What the hell is going on here??
+
+[GEN5]
+Someone is playing games with us. Let's check it out..
+
+[GEN6]
+What is up with that thing?
+
+[MANDN1]
+Dispatch, we have a man down! Fugitive is armed !
+
+[MANDN2]
+Dispatch, subject located, he is armed and dangerous!
+
+[BITCH4]
+There she is, that's her!
+
+[BITCH5]
+Hey, that's that reporter lady!
+
+[BITCH6]
+Hey, reporter lady, we want to talk to you!
+
+[MANDN3]
+Man down! Man down! Fugitive is to be considered highly dangerous!
+
+[MANDN4]
+Dispatch, I've located the fugitive! He's A&D!
+
+[GEN7]
+Hey, you ok down there? ...hey!
+
+[GEN8]
+You're sure taking your time...
+
+[GEN9]
+Hey, what's up? Talk to me, buddy, you're making me nervous!
+
+[GEN10]
+Come on, lets flush that bastard out!
+
+[GEN11]
+We better go see what's going on.
+
+[GEN12]
+Let's not get left out of all the fun.
+
+[COV1]
+Shit. Shit. Shit. We got plenty big trouble!
+
+[COV2]
+Covering fire!
+
+[DISP1]
+This is dispatch. Seal the perimeter. Snipers have been ordered to move in.
+
+[CASIN1]
+Officer down! Target has entered the casino!
+
+[CASIN2]
+Target sighted! Repeat, target sighted!
+
+[CASIN3]
+Man down! Man down! Target is approaching the casino!
+
+[DISP2]
+Sniper one please report your position...
+
+[ALONE1]
+Hey don't leave me alone!
+
+[ALONE2]
+Don't you desert me!
+
+[ALONE3]
+Hey, I thought we were sticking together!
+
+[DOSS1]
+Hey where are you going! Don't you want the dossier?!?
+
+[DOSS2]
+Take the dossier, for christ's sake!
+
+[DOSS3]
+You gonna leave the dossier? Take it!
+
+[JFLAT1]
+My place is upstairs. Here, I got the keys.
+
+[JFLAT2]
+My place is up a floor. Hold on, I'll just unlock the door...
+
+[JFLAT3]
+I'll get the door. My place's just up some stairs.
+
+[JGUN1]
+Great, a gun… looks straight forward enough.
+
+[JGUN2]
+Ok, I've used a pistol before. Now where's the safety?
+
+[JGUN3]
+Alright, a gun! None of those freaks are gonna fuck with me now!
+
+[JHLTH1]
+These babies should numb the pain.
+
+[JHLTH2]
+I'm not usually a 'pill popper' but given the circumstances...
+
+[JHLTH3]
+Aahh, sweet pharmaceutical relief...
+
+[JFLLW1]
+Whatever you say...
+
+[JFLLW2]
+Ok, if you think it's safe…
+
+[JFLLW3]
+Ok, but you gotta watch out for me!
+
+[JFLLW4]
+You got it - I'll stay close!
+
+[JFLLW5]
+You're the boss!
+
+[JFLLW6]
+I'm with you - lead the way.
+
+[JSTAY1]
+Ok, just dont leave me behind!
+
+[JSTAY2]
+You come back for me, ok!
+
+[JSTAY3]
+Alright, but don't be long!
+
+[JSTAY4]
+If you hear me scream, you better come back for me, ok?
+
+[JSTAY5]
+Ok, but you better not bug out on me!
+
+[JSTAY6]
+Ok, I'm counting on you!
+
+[FREAK1]
+I told you not to leave me alone!
+
+[FREAK2]
+Were you ever going to come back for me?
+
+[FREAK3]
+Don't leave me alone for that long again!
+
+[PHEW1]
+Thank God - I thought you'd just dumped me here!
+
+[PHEW2]
+I thought you were never coming back!
+
+[PHEW3]
+At last! Where have you been?
+
+[CMON7]
+You coming or what?
+
+[CMON8]
+Move your butt!
+
+[CMON9]
+C'mon, lady.
+
+[CMON10]
+Stick close and keep it quiet.
+
+[CMON11]
+I'll lead the way…
+
+[CMON12]
+Move when I move.
+
+[HOLD7]
+I'll be back soon
+
+[HOLD8]
+Lay low here for a while.
+
+[HOLD9]
+Stay here, out of trouble.
+
+[HOLD10]
+Hold tight, I'll be right back.
+
+[HOLD11]
+Hold up.
+
+[HOLD12]
+I'll check ahead.
+
+[JCUT1]
+Everything I need is in that box under the table.
+
+[JCUT2]
+Good, take it and get out of town.
+
+[JCUT3]
+But... You're not coming with me!
+
+[JCUT4]
+I'm going to deal with Starkweather personally,
+
+[JCUT5]
+thank him for my 'second chance'.
+
+[JCUT6]
+You're my backup if I don't make it. Have a nice life.
+
+[MPG1]
+I've lost him.
+
+[MPG2]
+What? Are you fucking kiddin...
+
+[MPG3]
+Oh shut up! Get some of your boys to take care of it.
+
+[MPG4]
+Don't file the arrest report. Don't kill him either. Send both to me.
+
+[MPG5]
+Hey, remember who you're talking to, you son of a...
+
+[MPG6]
+Listen you fuck. It's your job to clean up this city's mess.
+
+[MPG7]
+That's what you get paid for.
+
+[MPG8]
+Shit.
+
+[MPG9]
+Ok, pull over here.
+
+[MPG10]
+But it's another block or two to my apartment!
+
+[MPG11]
+Just shut up and stick with me if you want to stay alive.
+
+[JOUR2]
+Come on, let's get that dossier.
+
+[JOUR3]
+Hey wait! We still have to get the dossier!
+
+[JOUR4]
+That is the stuff you wanted. Now leave.
+
+[JOUR5]
+My apartment is upstairs. I have to open this door first.
+
+[AID]
+These painkillers will make me fell a bit better.
+
+[DIA1_1]
+SHIT. SHIT. SHIT. THIS MEANS TROUBLE, MAN!
+
+[DIA1_2]
+THIS IS DISPATCH. SEAL THE PERIMETER. SNIPERS HAVE BEEN ORDERED TO MOVE IN.
+
+[DIA1_3]
+Come on, let's flush him out.
+
+[DIA2_1]
+MAN DOWN! MAN DOWN! TARGET IS INSIDE THE CASINO!
+
+[DIA2_2]
+TARGET SIGHTED! REPEAT, TARGET SIGHTED!
+
+[DIA2_3]
+COVERING FIRE!!!
+
+[DIA2_4]
+COVERING FIRE!!!
+
+[DIA2_5]
+MAN DOWN! MAN DOWN! TARGET IS APPROACHING THE CASINO!
+
+[DIA2_6]
+SNIPER1 PLEASE REPORT YOUR POSITION...
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

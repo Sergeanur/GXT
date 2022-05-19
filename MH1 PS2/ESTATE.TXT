@@ -1,0 +1,150 @@
+﻿[NOISE1]
+VOICES SCREAMING: Man down, I need backup here! ARGH!!!!!
+
+[CERB1]
+CERBERUS: What the hell was THAT?
+
+[CERB2]
+CERBERUS: Holy SHIT!
+
+[HTLK1]
+CERBERUS: He's gone in there.
+
+[HTLK2]
+CERBERUS2: Who's got the fucking remote control?!?
+
+[CERB3]
+RADIO: A kill team is en route to your position.
+
+[CERB4]
+CERBERUS: Shoot targets on sight!, Starkweather want's them both dead.
+
+[CERB5]
+CERBERUS: No sign of either target, they won't get through this way!
+
+[DEAD1]
+CERBERUS : Ah these guys have been slaughtered, What the fuck did this?
+
+[CERB6]
+CERBERUS: Who shut this door?
+
+[GOAL1]
+You must find the side entrance to the mansion cellar
+
+[PIGSY1]
+What the-? Back up! I need immediate backupaarrgghh!
+
+[PIGSY2]
+Holy fuck! Gimme some help here-aarrgghh!
+
+[PIGSY3]
+Eerr, control, I'm gonna need some backup here! Control? Aarrgghh!
+
+[REMOT1]
+Who's got the fucking remote for the door?!?
+
+[REMOT2]
+Somebody get this damned door open!
+
+[REMOT3]
+Ok, who's got the remote - we gotta open this door!
+
+[WHAT]
+What the hell was that?!?
+
+[SHIT]
+Holy shit!
+
+[INGAR1]
+He's gone in there!
+
+[INGAR2]
+He's locked himself in the garage!
+
+[INGAR3]
+He's holed up in there!
+
+[ENRTE1]
+A team is en route to your position, over.
+
+[ENRTE2]
+We're sending a backup team, over.
+
+[ENRTE3]
+Hang in there, backup is on its way.
+
+[KILL1]
+Bring 'em down! Starkweather wants 'em both dead.
+
+[KILL2]
+Shoot to kill, repeat, shoot to kill - Both targets!
+
+[KILL3]
+Starkweather wants 'em both taken out!
+
+[SNIPE1]
+No sign of either target, they won't get through this way!
+
+[SNIPE2]
+I got my sector covered - nobody's coming through this way!
+
+[SNIPE3]
+The angel of death is home and awaiting visitors!
+
+[SHUT1]
+Who shut this door?
+
+[SHUT2]
+Hold on - this door was open a moment ago!
+
+[SHUT3]
+Hey wait a minute, wasn't this open?
+
+[MPG1]
+...but Mr. Starkweather refuses to comment on these allegations.
+
+[MPG2]
+At this point it is unclear as to whether or not he will ever be allowed to direct again.
+
+[MPG3]
+This is Rob...
+
+[MPG4]
+You know what?
+
+[MPG5]
+You know what? I don't give a fuck what Starkweather wants.
+
+[MPG6]
+Maybe today I kill you, maybe not.
+
+[MPG7]
+Kill the camera.
+
+[MPG8]
+What was that? Go check it out.
+
+[MPG9]
+Maybe it is your day.
+
+[MPG10]
+Shit, what the fuck is THAT?
+
+[MPG11]
+Support, repeat, send in...
+
+[MPG12]
+oh shit...
+
+[MPG13]
+AAHHHH! Fuck! Fuck! Fuck!
+
+[MPG14]
+Keep an eye on him for a minute.
+
+[MPG15]
+Pigsy Angry!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

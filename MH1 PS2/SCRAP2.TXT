@@ -1,0 +1,144 @@
+﻿[LETTER1]
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"$,.'-?!!SDBF
+
+[NUMBER1]
+0123456789
+
+[GAS]
+Pick up the gas can with the ~triangle~ button and take it back to the crane.
+
+[CRANE]
+You can move the crane with the left analog stick. To activate the magnet press the ~cross~ button.
+
+[CRANE1]
+You can leave the crane by pressing the ~triangle~ button.
+
+[CRANE2]
+Be careful as hunters can still shoot you whilst inside the crane.
+
+[ENTER]
+To enter the crane stand on the ground beside it and press the ~triangle~ button.
+
+[SQUASH]
+You can squash hunters by dropping the fridge on the hunter with the ~cross~ button.
+
+[FUEL]
+Take the gas can up the steps and press the ~triangle~ button to refuel the crane
+
+[OUT]
+Find some gas to get the crane working
+
+[ON]
+You need some gas to activate this crane.
+
+[GREEN]
+Your next objective is shown on the radar as a green dot.
+
+[GOAL1]
+Clear the area of hunters to open the ~blue~gate
+
+[GOAL2]
+Find a way to lure out the hunter
+
+[GOAL3]
+Find the gasoline to fill the crane
+
+[GOAL4]
+Head back with the gasoline to refuel the crane
+
+[GOAL5]
+Use the crane to unblock the path
+
+[GOAL5A]
+Find the crusher machine
+
+[GOAL6]
+Hunt down the five hunters to open the ~blue~gate
+
+[GOAL7]
+Use the crane to unblock the path
+
+[GOAL8]
+Find the double doors to get to the exit
+
+[GOAL9]
+Find a way to the hut
+
+[BLOCK1]
+Cover the fuckin exits! Now!
+
+[BLOCK2]
+Don't let him outta here! Move it, move it!
+
+[FUSE1]
+What the - ? How many god damned times can a fuse blow?!
+
+[FUSE2]
+Aw that's just frickin' great - the fuse has fried again!
+
+[SKN1A1]
+These Skinz are boring me - dumb-assed supremacist bastards.
+
+[SKN1A2]
+Always blaming others for their inadequacies.
+
+[SKN1A3]
+Butcher them, Cash. Cut'em up, beat 'em down and choke the fucking life out of them!
+
+[SKN2A1]
+Oh, man, that one was good! The gate's open.
+
+[SKN2A2]
+Go on, get out of here!
+
+[SKN3A1]
+This shit seems content to watch porn and avoid all the action! If he won't switch it off himself,
+
+[SKN3A2]
+we'll have to do it for him!
+
+[SKN4A1]
+A crane. Well what d'ya reckon, Cash?
+
+[SKN5A1]
+Alright Cash, Grab the blade you're gonna need it to get out of here.
+
+[SKN6A1]
+You'll need to find a way through the next gate.
+
+[SKN7A1]
+Find a way to get that fat bastard out into the open!
+
+[SKN8A1]
+Excellent - Death by heavy domestic appliance!
+
+[START]
+Director : Clean the area of hunters, then make your way to the gate.
+
+[OPEN]
+Director : Nice going Cash!, The door is open.
+
+[GASO]
+Director : A busted up crane, could have some use, if you could get it working.
+
+[DONE]
+Director : Nice going Cash, scout out the area, the gates open.
+
+[DELAY]
+Hunter : That fucking fuse again, do I look like an electrician.
+
+[HUT]
+Director : You need to find a way past this gate, Cash.
+
+[HUT1]
+Director : If you could lure this fat fucker out somehow...
+
+[ENTRY]
+Hunter : Block all the exits, the only way outta here is in a body bag.
+
+[GETTH]
+Hunter : Hey you! Get the fuck outta that crane.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

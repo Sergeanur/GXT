@@ -1,0 +1,132 @@
+﻿[GOAL1]
+Find a way into the factory complex
+
+[GOAL2]
+Use the lever in the guard hut to open the ~blue~loading bay~colour~ gates
+
+[GOAL3]
+Try to make your way to the factory's front reception area
+
+[GOAL4]
+The lift is out of action. Deactivate the failsafe to power it up again
+
+[GOAL5]
+Get to the reception area and exit the factory anyway you can
+
+[GOAL6]
+The main doors are locked via the control room console
+
+[GOAL7]
+Exit the factory complex and head for the ~blue~loading bay~colour~
+
+[GRV1A1]
+Time for a little overtime! Make your way through the factory!
+
+[GRV1A2]
+The loading bay's your only way in.
+
+[GRV13A1]
+For a job well done make your way to the foyer.
+
+[GRV2A1]
+Well that's put a spanner in the works. Why don't you try the guard hut.
+
+[GRV3A1]
+Way to go, Cash! Now make your way through the factory.
+
+[GRV4A1]
+Aw dammit, the lift's screwed again!
+
+[GRV4A2]
+You're going to have to go down to the basement.
+
+[GRV5A1]
+There's a circuit breaker down there that will get the lift working.
+
+[GRV6A1]
+You need to reset the circuit breaker in the basement for the lift to work!
+
+[GRV7A1]
+You need to reset the circuit breaker for the lift to work!
+
+[GRV8A1]
+Nice one, Cash. The lift should be working now.
+
+[GRV9A1]
+Ok, I admit it - some of the doors are locked via a
+
+[GRV9A2]
+panel in the control room - sorry.
+
+[GRV10A1]
+That's my leading man! Attaboy! See you with some beers outside!
+
+[GRV11A1]
+I told you. You're gonna have to use the panel in the control room to open the door!
+
+[GRV12A1]
+I don't think we've made too many friends - Hell, I like you, but these guys...
+
+[MPG1]
+What the fuck...
+
+[MPG2]
+Get in the van now!
+
+[MPG3]
+Move it!
+
+[MPG4]
+You heard the man!
+
+[HINT2]
+Director: Not that way! That would be too easy!
+
+[DOORSS]
+Director: Use the control room console to open these doors!
+
+[FSAFE2]
+Director: You need to get down to that basement and deactivate the failsafe...
+
+[FSAFE3]
+DIrector: It's preventing the gantry lift from working!
+
+[FAILON]
+Director: You need the failsafe off for the lift to work!
+
+[FAILOFF]
+Director: Good! That lift should be working now!
+
+[FOLLOW3]
+Director: That's it! Those main entrance doors are unlocked! Meet you outside!
+
+[SEWAGEL]
+Director: Some doors are locked via the main control room of the works!
+
+[END]
+Director: Well done for now! You haven't seen the last of that rabbit though!
+
+[GOTHRU1]
+Director: Time for a little overtime! Make your way through this factory!
+
+[GOTHRU2]
+Director: Use the loading bay as your entry point... If you can!
+
+[LOADLOK]
+Director: You'll need to reopen the loading bay gates! Check out the guard hut!
+
+[LOADOPN]
+Director: Excellent! Try and work your way through the factory complex...
+
+[FOYER]
+Director: Get to the foyer and pick up your wages when the job's done!
+
+[HNTCTRL]
+Director: That control room might be important!
+
+[COMMIT]
+Director: Seems your work isn't up to scratch! This reception committee looks pissed off!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,120 @@
+﻿[GOAL1]
+Restore power to the rails so that the last train can leave the station
+
+[GOAL2]
+Get onto the last train before the police order its departure
+
+[GOAL3]
+Find a way out of this subway station
+
+[LOCK]
+Old rusty locks like this can be broken with a well placed bullet.
+
+[OHFK1]
+Oh shit, it's him!
+
+[OHFK2]
+Fuck, there he is!
+
+[OHFK3]
+It's him!
+
+[LOC1]
+We are under fire! Secure the station - repeat - secure the station !!
+
+[LOC2]
+Roger - we are at the station.
+
+[LOC3]
+This is Adam11 - we've located the suspect! Send in reinforcements, now!
+
+[CHAT4]
+Do you reckon he is gonna show up?
+
+[CHAT5]
+If he's got any sense he'll be long gone by now.
+
+[CHAT6]
+He could be watching us right now, for all we know...
+
+[DISP3]
+This is dispatch to Adam11 - we have a code1 - suspect is presumed to be heading your way.
+
+[SEAL1]
+Officers down! We need to seal this place right now!
+
+[CHAT1]
+Seems a pretty big operation - this guy must be real dangerous!
+
+[CHAT2]
+I don't like this, they only pull out all the stops for real nut jobs!
+
+[CHAT3]
+He must be a terrorist or something - they ain't leaving nothing to chance!
+
+[SWAT1]
+This is Bravo leader, regroup at the tracks!
+
+[SWAT2]
+Roger Alpha team, Charlie is en route from the precinct as we speak.
+
+[SWAT3]
+This is Charlie leader. Power has been shut off. Repeat - power is off!
+
+[MID1A1]
+<radio static> sure you will never get out of that subway alive <radio static>
+
+[DIR1]
+Director: <static>...sure you'll never get out of that subway alive, Cash...<static>
+
+[START1]
+Roger Dispatch - we are in.
+
+[DIA1_3]
+Shit! It's him!
+
+[2_1RGT]
+This is Bravo Leader - regroup at the tracks!
+
+[2_1ZI]
+THIS IS BRAVO LEADER, TARGET SIGHTED! ZERO IN MY POSITION!
+
+[2_2ZI]
+THIS IS BRAVO 2, TARGET SIGHTED! REPEAT - TARGET SIGHTED!
+
+[2_3ZI]
+THIS IS BRAVO 3, I HAVE SIGHT OF THE TARGET
+
+[COPS1]
+Do you reckon he is gonna show up here?
+
+[COPS2]
+Dont know, but they are sending cops at all terminals...hope we dont meet the guy.
+
+[RADIO1]
+We are under fire! Secure the station - repeat - secure the station!
+
+[RADIO2]
+Officer down! Bravo 1 please respond - seal the perimeter right now!
+
+[RADIO3]
+Roger TEAM1, Bravo team is moving in to your position
+
+[RADIO4]
+This is Charlie Leader. Power to the rails has been disconnected. Repeat - POWER IS OFF
+
+[RADIO5]
+This is Adam 11 - We have the fugitive! Send in reinforcements!!
+
+[RADIO6]
+This is dispatch - we have a code 11 - Fugitive is presumed to be heading your way
+
+[RADIO7]
+We have a situation - Fugitive has reconnected power to the rails - repeat POWER IS ON.
+
+[RADIO8]
+Move that fucking train out of there!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

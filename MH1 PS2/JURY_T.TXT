@@ -1,0 +1,345 @@
+﻿[GOAL2A]
+To execute, sneak behind the hunter and press the ~cross~ button
+
+[GOAL8]
+Kill all the hunters to open the chute door
+
+[GOAL2B]
+~green~Green ~colour~items can be used to execute
+
+[GOAL2C]
+~green~Green ~colour~items are disposable
+
+[GOAL7]
+Find a way into the mall
+
+[GOAL7A]
+Run away when facing multiple hunters
+
+[GOAL1]
+Follow the street
+
+[GOAL1A]
+The left analog stick controls the player
+
+[GOAL1C]
+Press the R1 button to sprint
+
+[GOAL2]
+Execute the hunter with the plastic bag
+
+[GOAL3]
+Hide in the shadows next to the gate
+
+[GOAL4]
+Wait until the hunter is facing away, then execute him
+
+[GOAL4A]
+Hide in the shadows to lose hunters
+
+[GOAL5]
+Beat up the hunter using your fists
+
+[GOAL5A]
+Press the ~cross~ button for a quick attack
+
+[GOAL5B]
+Press the ~square~ button for a hard attack
+
+[GOAL6]
+Find a way to the car park
+
+[GOAL8A]
+You can attract hunters by hitting a wall
+
+[GOAL6A]
+You can peek with the right and left directional buttons
+
+[MOVE1]
+Use the left analog stick to control the player. The further you push the left analog stick, the faster you move.
+
+[H_RUN]
+Press the R1 button to sprint. You have limited Stamina, as shown on the flashing ~yellow~yellow ~colour~bar so use it sparingly.
+
+[H_RUN2]
+Watch your noise. Sneaking is totally silent, but hunters can hear you running. The ~red~red ~colour~pulse on the radar indicates your noise level.
+
+[H_RUN3]
+Watch your noise. Sneaking is totally silent, but hunters can hear you running.
+
+[H_WEAP1]
+Walk over items to pick them up.
+
+[H_SHARD]
+Items are color-coded according to their type. Small improvised weapons, like the Glass Shard are ~green~Green~colour~.
+
+[H_BAG]
+Items are color-coded according to their type. The bag can be used to suffocate hunters.
+
+[H_SHAR1]
+Only ~green~Green ~colour~weapons, like the Glass Shard, allow you to execute in complete silence.
+
+[H_RADR1]
+The radar shows you the location of the hunters. Hunters are displayed whenever they are visible or making noise. The arrow shows the direction they are facing.
+
+[H_RADR2]
+The color of the arrow indicates the level of the hunter's awareness, ~red~red ~colour~is aware, ~orange~orange ~colour~is suspicious, ~yellow~yellow ~colour~is idle.
+
+[H_EXE1]
+To execute the hunter, sneak up behind him and press either the ~cross~ or the ~square~ button. When you are ready to execute, the player's stance will change.
+
+[H_NO]
+To execute the hunter, go back and collect the plastic bag, then sneak up behind the hunter and press either the ~cross~ or the ~square~ button. When you are ready to execute, the player stance will change.
+
+[H_EXE2]
+The longer you hold down either the ~cross~ or the ~square~ button, the more vicious the execution.
+
+[H_WEAP2]
+~green~Green ~colour~weapons like the Plastic Bag can only execute one hunter and are lost after use.
+
+[H_SAFE]
+Hide in the shadows over there. Hunters will not see you in the dark unless they are actively searching for you.
+
+[H_HERE]
+Here comes a hunter. Wait until he is facing away from you, then attack.
+
+[H_WAIT]
+Your Status Icon goes ~blue~blue ~colour~when you are safely hidden in the shadows.
+
+[H_WAIT1]
+If you are seen entering the shadows you won't be able to hide there.
+
+[H_WAIT2]
+The icon will flash ~red~red ~colour~when you are in danger or have been spotted.
+
+[H_HEAL]
+These are pain killers. Each bottle replenishes 50% of your health, shown on the flashing ~green~green ~colour~bar.
+
+[H_FIGHT]
+When facing a hunter, press the ~cross~ button to perform a quick attack and the ~square~ button to perform a hard attack.
+
+[H_FIGH2]
+To block an attack do not press any button. Pull back on the left analog stick to back off from combat.
+
+[H_FIGH3]
+Hold the L1 button to Lock-On your nearest threat. With Lock-On it is easier to move around a hunter and target your attacks.
+
+[H_SAVE]
+This is a SAVE POINT. Walk over it to activate it. If you die you will start from here.
+
+[H_SAVE1]
+If you have a Memory Card (8MB) (for PlayStation®2) inserted into MEMORY CARD slot 1 you can save your progress by selecting save in the pause menu.
+
+[PAUSE]
+You can review the director's objectives on the pause screen by pressing the START button.
+
+[H_PATR1]
+Watch out for patrolling hunters around corners. You can peek out by pressing the right and left directional buttons.
+
+[H_RUN1]
+Sprinting creates noise which will attract hunters, this is represented on the radar by the ~red~red ~colur~circle.
+
+[CPARK]
+Be quick to finish off a hunter before his friends are alerted. Run away when facing multiple hunters, or they will overpower you.
+
+[H_UPPE]
+You can lure a hunter by hitting any wall. See that he heard the sound by checking his arrow on the radar. Use this to split up large groups.
+
+[H_UPP1]
+You can lure a hunter by hitting any wall. Use this to split up large groups.
+
+[LOCK]
+You can also use Lock-On to help you perform executions on unaware hunters.
+
+[EXE]
+You must have a weapon to execute a hunter.
+
+[ABOVE]
+Hunters on different floors from yours are displayed as small triangles on the radar.
+
+[CHECK]
+Kill that hunter to open this door.
+
+[H_NOIS]
+When hunters are executed they will make a noise which may attract other hunters in the area.
+
+[SEEN]
+You have been spotted! Fight or run.
+
+[HEAR]
+Be careful when you execute enemies, other hunters can hear the noise if they are too close.
+
+[OPEN]
+The Chute door is now open.
+
+[GATE]
+Kill those two hunters to open this gate.
+
+[GATE1]
+Kill the remaining hunter to open this gate.
+
+[EXIT]
+Getting close, my friend, we are getting close. Just pull another little stunt to get rid of the guy over there and we should be done with this location. See that door? It'll take you out of this dump.
+
+[START]
+Alright Cash, let's work together on this and we will both get through to the happy ending. Remember, I am on your side, I'll try to help you out as much as I can. (short pause) Ok, ready? Camera... Action!
+
+[COURT]
+Excellent! that bit with the glass shard was hot stuff, no wonder you were given the chair. Well. here's where your fighting skills get into the picture. Just give me the best you've got and you'll get out in one piece! the gate will open once we are done filming here.
+
+[CARPARK]
+Be vigilant Cash, I see a few Hoods around these vans. Try reaching the abandoned shops upstairs, the way out is right there. Oh, and I want more cut-throat action. I need a few close-up shots.
+
+[BRN1A1]
+These streets are being patrolled by gangs. They're scum, just like you
+
+[BRN1A2]
+and they're here to hunt you down and cut you up.
+
+[BRN1A3]
+I'll try to direct you as best I can but other than that you're on your own - It's up to you!
+
+[BRN1A4]
+Ok, you ready? Camera... Action!
+
+[BRN2A1]
+We're filming something very special here tonight and if we work together on this
+
+[BRN2A2]
+we both get the big rewards, so get your shit together!
+
+[BRN2A3]
+Remember: as far as the world's concerned you're dead already
+
+[BRN2A4]
+so don't hold back - it's them or you
+
+[NIL]
+Hot damn, that's the spirit! Hot stuff, Cash, no wonder the state wanted shot of you!
+
+[BRN3A1]
+I'll be frank with you, we set that chump up to see if you had what it takes to be our leading man!
+
+[BRN3A2]
+A little audition, if you will. Heh heh.
+
+[BRN4A1]
+From here on in we're gonna need some fighting skills to get through the action. We're talking toe-to-toe.
+
+[BRN4A2]
+I know you've got the balls, so just give me the best you've got and you'll deal with this pussy
+
+[BRN4A3]
+no problem. The gate will open once I'm done filming here.
+
+[BRN5A1]
+Now take your time, Cash, I see a few Hoods around these vans. Sorry, I should explain.
+
+[BRN5A2]
+Each gang has their... Let's just call it their thing.
+
+[BRN5A3]
+These guys call themselves 'The Hoods', but none of that should bother you.
+
+[BRN5A4]
+As far as you're concerned, they're meat. Ok, on you go...
+
+[BRN6A1]
+Try reaching the abandoned shops up on the next floor, the stair is right over there.
+
+[BRN6A2]
+Oh, and give me some more of that cut-throat psycho action you illustrated so beautifully earlier.
+
+[BRN6A3]
+We're talking the 'money shot', you with me?
+
+[BRN7A1]
+Ok, there are some more of these shitheads hanging around the exit.
+
+[BRN7A2]
+Give me some grade-A honest-to-god gore and you'll be buzzed through the door.
+
+[BRN9A1]
+One of the little freaks is still running around. I told you, you get buzzed through the door when the action's in the can.
+
+[BRN8A1]
+It's a WRAP!! Attaboy Cash, you're a natural, I swear to god you are!
+
+[BRN8A2]
+No time to hang around – time is money! Let’s see how you handle the next scene…
+
+[MPG1]
+It looks like this goes all the way to the top.
+
+[MPG2]
+I can't trust anyone, least of all the police, and time's running out.
+
+[MPG3]
+I've got to get the one piece of evidence that will expose Starkweather without a shadow of a doubt.
+
+[MPG4]
+footage and testimony of a man who was executed by the state five hours ago...
+
+[MPG5]
+I hope you rot IN HELL!!
+
+[MPG6]
+James Earl Cash...
+
+[MPG7]
+...found guilty and sentenced to death...
+
+[MPG8]
+...has been on deathrow for the past three years and was executed last night.
+
+[MPG9]
+Hey, tough guy, wake up. You're not dead.
+
+[MPG10]
+Well, not yet anyway. You're getting a second chance another throw of the dice.
+
+[MPG11]
+As far as the world is concerned, you died back in the chamber.
+
+[MPG12]
+Justice was served - James Earl Cash is rotting in Hell.
+
+[MPG13]
+Hey, hey, get a grip and calm down.
+
+[MPG14]
+You're probably suffering from shock but I'm here to help.
+
+[MPG15]
+Pick up the earpiece. Put it on. Go on.
+
+[MPG16]
+That's better.
+
+[MPG17]
+Now only you can hear me and that's the way you're going to want it because I'm your only way out of here.
+
+[MPG18]
+Hey, hey, easy, easy! Look.
+
+[MPG19]
+You've had an unexpected reprieve, do exactly as I say and I promise this will be over before the night is out.
+
+[OLD1]
+Get the video from that camera.
+
+[OLD2]
+not by a long fucking way. You gotta trust me
+
+[2GOALC]
+BUg Fix
+
+[1GOALC]
+BUg Fix
+
+[GOALC]
+BUg Fix
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,144 @@
+﻿[COVER]
+Certain objects can be used to wall-strafe against. Press the ~triangle~ button when near a wall or object to wall-strafe.
+
+[SHOOT]
+While in wall-strafe mode press the L1 button to aim over the object or to the side.
+
+[LOCK]
+This door wont budge, try shooting off the lock.
+
+[BAR]
+Go to the basement in the bar.
+
+[GOAL1]
+Get your hands on a gun
+
+[GOAL2]
+Find the video tape
+
+[GOAL3]
+Find the video camera
+
+[GOAL4]
+Go watch the video on the bar TV
+
+[GOAL5]
+Go to the bar basement and turn on the power
+
+[FAL1A1]
+So, how are we doing, Cash? Enjoying it so far?
+
+[FAL1A2]
+I thought you could do with a little R&R, so I've arranged a special
+
+[FAL1A3]
+screening... just for you...
+
+[FAL1A4]
+It's work in progress, but I think you'll appreciate it.
+
+[FAL13A1]
+I've hidden the tape and a video camera in the Mall. Find them.
+
+[FAL2A1]
+By the way, these guys are packing heat, so you might want to find a gun for yourself.
+
+[FAL3A1]
+Ok, we're cooking with gas now! Go find that tape!
+
+[FAL4A1]
+Now all you need is the camera.
+
+[FAL5A1]
+Aw hell, that's the camera with the broken screen! I told those guys...
+
+[FAL5A2]
+No problem, there's a TV in a bar somewhere around here.
+
+[FAL6A1]
+Does nothing fucking work round here?
+
+[FAL7A1]
+You're gonna have to see if you can turn on the power in the basement.
+
+[FAL8A1]
+Beautifully done, Cash, now just toddle back up to the bar and enjoy the show.
+
+[FAL9A1]
+You must understand, Cash, I could never have let them go.
+
+[FAL10A1]
+You must understand, Cash, I could never have let him go.
+
+[FAL11A1]
+You must understand, Cash, I could never have let her go.
+
+[FAL12A1]
+Where were your family when you were facing your final moments in the chamber anyway?
+
+[FAL12A2]
+And what gratitude did they show you when you saved them from those gung-ho assholes, eh?
+
+[FAL12A3]
+You've left your old life, your old self, behind.
+
+[FAL12A4]
+I'm all the family you need now.
+
+[MPG1]
+You! Get out to the graveyard!
+
+[MPG2]
+You and you! I want you up there!
+
+[MPG3]
+And I want you to follow him over to the Mall...
+
+[MPG4]
+NOW FUCKING MOVE!!
+
+[ENT1]
+So, how are we doing, Cash? enjoying it so far?
+
+[ENT2]
+I thought you could do with a little R & R, so I've arranged a special screening just for you.
+
+[ENT3]
+It's a work in progress, but I think you'll appreciate it.
+
+[ENT4]
+I've hidden the tape and a video camera in the mall, find them
+
+[GUN]
+By the way, these guys are packing heat, so you might want to find a gun yourself, before you venture too far...
+
+[CAMVHS]
+Ok, we're cooking with gas now! go and find that tape!
+
+[GTAPE]
+Now all you need is the camera...
+
+[GBOTH]
+Aw hell, that's the camera with the broken screen! I told those guys...
+
+[GBOTH2]
+Not a problem, there's a TV in a bar around here someplace
+
+[INBAR]
+Does nothing fucking work around here?
+
+[CELLAR]
+You're gonna have to see if you can turn the power on in the basement.
+
+[ENDTHEM]
+You must understand, Cash, I could never have let them go.
+
+[ENDHIM]
+You must understand, Cash, I could never have let him go.
+
+[ENDHER]
+You must understand, Cash, I could never have let her go.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

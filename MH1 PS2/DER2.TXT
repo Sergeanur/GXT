@@ -1,0 +1,66 @@
+﻿[GOAL1]
+Make your way to the abandoned library
+
+[GOAL2]
+Find a way into the library cellar
+
+[GOAL3]
+Get through the cellar to the exit out the back
+
+[GOAL4]
+Win the fight in the cellar
+
+[GOAL5]
+Head through the buildings to get to the library
+
+[GOAL6]
+Go through the cellar to the exit
+
+[JUMP]
+When you fall from a height you will make noise that attracts hunters.
+
+[TRASH]
+Press the ~triangle~ button to kick this trashcan and use it as a lure for hunters.
+
+[WALL]
+To strafe against a wall, position the character against it and press the ~triangle~ button.
+
+[WALL1]
+Then press LEFT or RIGHT on the left analog stick to move left and right. Reach a corner and continue to press the left analog stick in the same direction to lean out and peek.
+
+[WALL2]
+You can hit the wall to lure hunters by pressing the ~cross~ button. To detach from the wall, press the ~triangle~ button or DOWN on the left analog stick.
+
+[BRICK]
+Bricks and all other lures are ~yellow~YELLOW ~colour~items and can be thrown to make noise and attract hunters.
+
+[BRICK1]
+To throw the brick, hold down the ~cross~ button. The longer you hold, the further away the object will be thrown. When you release the ~cross~ button, you will throw the object.
+
+[BRICK2]
+~yellow~Lures ~colour~cannot be used to execute hunters.
+
+[WBAT]
+Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.
+
+[DOR6A1]
+You're doing great, kid. Grade A stuff.
+
+[DOR6A2]
+Now find your way to the cellar door.
+
+[MPG1]
+Get ready, boys, he's coming...
+
+[MPG2]
+Alright, get him out of here.
+
+[MPG3]
+Oh shit!
+
+[EXIT]
+Director : Your doing real good Cash!, It's almost over. This is the entrance to the cellar find it.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

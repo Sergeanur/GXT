@@ -1,0 +1,12 @@
+﻿[INTRO1]
+The banana shortage has given the Zoo monkeys an appetite for death!
+
+[INTRO2]
+Start feeding them lead to stop being on the menu too!
+
+[GOAL]
+Get out of the Zoo alive
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

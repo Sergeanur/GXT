@@ -1,0 +1,135 @@
+﻿[PGKEY]
+You have picked up the PRISON GATE KEY.
+
+[GOAL1]
+Follow the rabbit by exiting the cellblock
+
+[GOAL2]
+Kill the patrolling hunter and get up to the control room
+
+[GOAL3]
+Kill all the death row hunters
+
+[GOAL4]
+Get to the workshop anyway you can
+
+[GOAL5]
+Activate the sensor lock and chase that rabbit
+
+[GOAL6]
+Kill the ~green~White Rabbit~colour~ to acquire the KEY to the prison's gates
+
+[GOAL7]
+Get to the gates and exit the prison
+
+[SCREW1]
+Darling, I'm coming to get you!
+
+[COVER1]
+Take cover, you idiots!
+
+[COVER2]
+Take cover! Take cover!
+
+[COVER3]
+He's packing! Take cover!
+
+[DIE1]
+You did well! Very well. But every film has its ending and this here is yours!
+
+[DIE2]
+You made it! Oh dear, you see, you didn't make it after all! Ha-ha-heee-hooo!
+
+[DIE3]
+Close your eyes, bad boy! Time for bye-byes!
+
+[OUT1]
+Hey, you ain't dead! He ain't dead! Oh shit, I've got the keys outta here!
+
+[OUT2]
+You're supposed to be dead! Aw fuck, he's after my frikkin' key!
+
+[OUT3]
+Holy frogger! I've got the key - if he gets me he's outta here!
+
+[POL1A1]
+You're my big ugly Alice, so go on, follow the White Rabbit!
+
+[POL2A1]
+They're messing with you, Cash, trying to fuck with your head! I wouldn't stand for that!
+
+[POL3A1]
+You might want to clean the filth out of the showers...
+
+[POL4A1]
+Get rid of the pink dressed freak and get up to the watch room. Mr. Rabbit has left you a gift!
+
+[POL5A1]
+A new meaning for death row! Get yourself up to that watch room!
+
+[POL6A1]
+You're a threshing machine, Cash! Now head for the door below the control room!
+
+[POL7A1]
+Watch those cells closely. Kill 'em all!
+
+[POL8A1]
+Almost there, baby! Chew your way through these chumps!
+
+[POL9A1]
+What can I say? You were a good leading man, the audience will love you.
+
+[POL9A2]
+Don't expect any royalty cheques where you're going though!
+
+[POL10A1]
+Hey, Cash, what are you doing? Are you insane?
+
+[POL11A1]
+Where are you gonna go? The state wants you dead, Cash, dead!
+
+[POL12A1]
+Cash? Come back here!
+
+[MPG1]
+Ramirez!
+
+[MPG2]
+You let Cash slip his leash - bring him to heel!
+
+[MPG3]
+Failure isn't an option. NOW GO!
+
+[PRI1A1]
+Director: Follow the White Rabbit! You're one ugly fuckin' Alice though!
+
+[PRI2A1]
+Director: Get rid of that screw and get up to that room. The rabbit has left you a gift!
+
+[PRI3A1]
+Director: A new meaning for death row! Get yourself up to that control room!
+
+[PRI4A1]
+Director: Fine shooting! Head for the door below the control room!
+
+[PRI5A1]
+Director: Watch those cells closely! Pick them all off!
+
+[PRI6A1]
+Director: Almost there, get through this last section anyway you can!
+
+[PRI_08]
+Rabbit: You did well! Very well. Every film has an ending and this is yours.
+
+[PRI7A1]
+Director: What can I say? You were a good leading man, the audience will love you... don't expect any royalty cheques where you're going though!
+
+[PRI_10]
+White Rabbit: Shit! The punk has survived the final cut! He gets me, he gets out! Get me some backup!
+
+[PRI_15]
+Director: The rabbit is dead! Storm that tower!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

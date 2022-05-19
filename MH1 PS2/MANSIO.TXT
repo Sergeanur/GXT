@@ -1,0 +1,168 @@
+﻿[KEY]
+You have collected the ELEVATOR KEY.
+
+[KEY2]
+The Cerberus Leader has dropped the ~green~ELEVATOR KEY~colour~, go and get it!
+
+[CAMERA]
+You have been spotted by a SECURITY CAMERA - The guards will know your position now.
+
+[CAMERA2]
+Watch out for SECURITY CAMERAS. The Cerberus guards use them to know where you are.
+
+[LIFT]
+The ELEVATOR is now operational again.
+
+[GOD1]
+You cannot use the elevator yet. You don't have the KEY and the POWER is still off.
+
+[GOD2]
+You cannot use the elevator yet. You don't have the KEY.
+
+[GOD3]
+You cannot use the elevator yet. The POWER is still off.
+
+[GOAL1]
+Find the ~green~LEADER~colour~ of the Cerberus team and acquire the ELEVATOR KEY
+
+[GOAL2]
+Reach the ~blue~basement~colour~ in the west wing and turn Starkweather's ELEVATOR back on
+
+[GOAL3]
+Use the ELEVATOR to reach Starkweather
+
+[SUPRT1]
+Copy that request for support! Hang in there guys, help is coming!
+
+[SUPRT2]
+Roger that! Reinforcements are on their way!
+
+[SUPRT3]
+Wilco, should be with you guys ASAP!
+
+[CNV1_1]
+Sir, one of the men is not responding. We have to move you somewhere more secure.
+
+[CNV1_2]
+I want that asshole's head on a spike, sergeant!
+
+[CNV1_3]
+It will be a pleasure, sir! Escort him upstairs.
+
+[CNV2_1]
+How did that psycho bastard get past the perimeter guards?
+
+[CNV2_2]
+Cash has already neutralised two of our snipers, sir. We should assume he is armed.
+
+[CNV2_3]
+Leave two of your best men in the basement, I don't want any more surprises.
+
+[CNV2_4]
+Already taken care of, sir. All the men are ready.
+
+[CNV2_5]
+I have instructed them to equip themselves from the armoury.
+
+[CNV2_6]
+Very well. Any sign of him on the security cameras?
+
+[CNV2_7]
+No sir, but if he gets anywhere near that elevator we will be right on him.
+
+[LIFT1]
+Shut the lift down, Starkweather said no unexpected visitors.
+
+[LIFT2]
+Roger.
+
+[GUN1]
+Target is armed! Keep him confined!
+
+[NOGUN1]
+Target is not armed! Flush him so we can take him out!
+
+[HEAVY1]
+What the? -oh shit!!!
+
+[HEAVY2]
+Holy fuck! He's packing heavy!
+
+[HEAVY3]
+Take cover, he means business!
+
+[STORM1]
+Fuck this, I'm going in!!!!
+
+[STORM2]
+I'm coming in there to fuck you up!!!
+
+[STORM3]
+Who dares, wins - rraagghh!!!
+
+[MPG1]
+Have you locked the elevator?
+
+[MPG2]
+Nobody gets anywhere near Starkweather. Give me the key.
+
+[MPG3]
+Yes sir.
+
+[MPG4]
+I want you to go down to the basement and turn off the motor.
+
+[MPG5]
+We can't be safe with these two bastards running around.
+
+[MPG6]
+We're on it, sir.
+
+[GEN]
+RADIO VOICE: We have reported casualties! Hang tough guys, reinforcements on their way!
+
+[CERB1]
+GUARD: Shut the lift down, Strarkweather said no unexpected visitors.
+
+[CERB2]
+GUARD: Roger. (Pulls lever).
+
+[CERB3]
+GUARD: Sir, One of the men is not responding. We have to take you somewhere more secure.
+
+[CHF1]
+CHIEF: Order the men to shoot at anything that moves.
+
+[CERB4]
+GUARD: Consider it done, sir. Escort him upstairs.
+
+[CHF2]
+CHIEF: How did that bastard get past the perimeter guards?
+
+[CERB5]
+GUARD: He has killed two of our snipers, sir. We should assume he is armed.
+
+[CHF3]
+CHIEF: I want his head on a silver plate, seargent!
+
+[CERB6]
+GUARD: All men are ready, I have instructed them to equip themselves from the armoury.
+
+[CHF4]
+CHIEF: Very well. Any sign of him in the security cameras?
+
+[CERB7]
+GUARD: No sir, but if he gets anywhere near that elevator we will be right on him
+
+[CHF5]
+CHIEF: Leave two of your best men in the basement, I don't want more surprise.
+
+[CERB8]
+GUARD: This has been already taken care of, sir.
+
+[BAS1]
+GUARD: OH SHIT!!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,96 @@
+﻿[GOAL1]
+Kill Piggsy and find a way to reach Starkweather
+
+[GOAL2]
+Take care of the Cerberus guards to enter Starkweather's room
+
+[GOAL3]
+Kill Starkweather
+
+[GOD]
+The chainsaw makes noise when its engine is running. Turn it OFF with the ~square~ button.
+
+[SICK1]
+Hurt…huuurrrrttt!
+
+[SICK2]
+No more. Noo moooorre!!
+
+[SICK3]
+Going home, hoooooome!
+
+[AWAY1]
+Go! Away! Go!
+
+[AWAY2]
+Not playing! Not funny!
+
+[AWAY3]
+Stop! Not fair! Stop!
+
+[ANGRY1]
+Piggsy angry! Aarrgghhnngry!
+
+[ANGRY2]
+Rraarggh! Piggsy gonna suck your guts!
+
+[ANGRY3]
+This Piggsy's home! Raaarrghh!!!
+
+[HOME1]
+Piggsy forget why here...
+
+[HOME2]
+Piggsy bored. Go home to bed and sleep...
+
+[HOME3]
+Piggsy not play no more. Piggsy go hoome...
+
+[LIFT1]
+Starkweather said no unexpected visitors.
+
+[STORM1]
+Fuck this, I'm going in!!!!
+
+[STORM2]
+I'm coming in there to fuck you up!!!
+
+[STORM3]
+Who dares, wins - rraagghh!!!
+
+[DIR]
+Send him to hell! Go on!
+
+[MPG9]
+Pigsy ANGRY! Unh! Pigsy Angry!
+
+[MPG10]
+Ahhh! Yeah! Pigsy Angry!
+
+[MPG1]
+Acclaimed movie maker Lionel Starkweather has been found dead today
+
+[MPG2]
+along with several of his bodyguards, at his estate at the Wapona Hills residential district.
+
+[MPG3]
+In what investigators are calling a bloody vendetta,
+
+[MPG4]
+An unknown assailant infiltrated the compound, killing Starkweather,
+
+[MPG5]
+but more interestingly, leading police to the site of a snuff film ring being run from the estate's confines.
+
+[MPG6]
+Linked to this ring is Carcer City's own police chief Gary Schaffer,
+
+[MPG7]
+whose lawyer stated that he intends to plead not guilty.
+
+[MPG8]
+Hello Kiddies...
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,135 @@
+﻿[NAIL]
+When using guns, hold the L1 button to target your most threatening enemy.
+
+[NAIL0]
+While holding down the L1 button, you can free aim by pressing the R3 button then moving the right analog stick.
+
+[NAIL1]
+If you are close enough, quickly pull down on the right analog stick to Lock-On a hunter's head.
+
+[NAIL2]
+Press the ~cross~ button to fire and the ~square~ button to reload.
+
+[NAIL3]
+When wall-strafing you can lock onto targets around corners by holding the L1 button.
+
+[NAIL4]
+If you are close enough, quickly pull up on the right analog stick to Lock-On a hunter's head.
+
+[PADLOCK]
+You need something sharp to cut this rope.
+
+[OPEN]
+Kill that hunter to open this gate.
+
+[DRUM]
+To shoot these Gas Canisters, aim the L1 button then aim by moving the right analog stick.
+
+[AMMOPK]
+This is an ammo pick-up, you must have the desired weapon in your inventory to collect this.
+
+[GOAL1]
+Kill the hunter guarding the gate
+
+[GOAL2]
+Find something to cut the ~blue~rope ~colour~on the gate
+
+[GOAL3]
+Find a way into the trailer to get the nailgun
+
+[GOAL4]
+Find and activate the switch to open the ~blue~gate
+
+[GOAL5]
+Go back to the gate to get to the exit
+
+[CRAP1]
+I can smell it's putrid corruption
+
+[CRAP2]
+Hallelujah! Praise The Lord!
+
+[WHO1]
+Hallelujah! There he is!
+
+[WHO2]
+Hallelujah! There he is!
+
+[FILL1]
+There he is! Sick deviant...
+
+[FILL2]
+The Lord hath delivered! Amen!
+
+[SEEN1]
+G-guys! I... I see him! He's here! Guys!
+
+[SEEN2]
+Holy fuck - th - there he is! Hey he's over here!
+
+[WHT1A1]
+Ok, so I lied. We haven't quite wrapped this gig up, but hey
+
+[WHT1A2]
+you're having fun, right?!
+
+[WHT1A3]
+There's a double gate that leads on through to our next location - find it.
+
+[WHT2A1]
+Careful, there's a bigot guarding the gate. If he sees you he'll call his cheery buddies...
+
+[WHT3A1]
+That's a pretty thick rope - you're gonna need a blade...
+
+[WHT4A1]
+You didn't think I'd let you out that easily did you? It's an electric lock
+
+[WHT4A2]
+Find the release switch.
+
+[WHT5A1]
+Beautiful! That's his hunting days over!
+
+[WHT6A1]
+There's a nailgun in that trailer - if you can stand the smell!
+
+[WHT7A1]
+He's got his hands full at the moment - go grab his nailgun...
+
+[MPG1]
+Ok, you limp-dicked faggots!
+
+[MPG2]
+Let's give Mr. Starkweather a show to remember.
+
+[MPG3]
+MOVE IT!!
+
+[INTRO]
+Director : Find this gate, and get past it.
+
+[WATCH]
+Director : Watch out for this guy though, he'll call in back-up if he sees you.
+
+[START]
+Director : Your on the Skinz turf now Cash, these racist pricks hate everything, grab a weapon and find a way into the scrapyard.
+
+[GLASS]
+Hunter : Bastard, You made me shit my pants.
+
+[GATE]
+Spotter : I see him, I see him, calling in back-up.
+
+[EXIT]
+Director : Through that door is the way out, I've hidden a power switch to open it, find that switch.
+
+[DOPE]
+Director : If you could just find a way into the trailer and steal that nailgun....
+
+[HEAR]
+Hunter : Is that you guys out there?, comon I'm taking a crap in here.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

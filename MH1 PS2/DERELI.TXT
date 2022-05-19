@@ -1,0 +1,111 @@
+﻿[GOAL1]
+Get to the street
+
+[GOAL2]
+Find something to break the ~blue~PADLOCK~colour~
+
+[GOAL3]
+Use the CROWBAR to break the ~blue~PADLOCK~colour~
+
+[GOAL4]
+Win the fight in the cellar
+
+[GOAL5]
+Head through the buildings to get to the library
+
+[GOAL6]
+Go through the cellar to the exit
+
+[START0]
+While standing or moving, press the L2 button to strafe left and the R2 button to strafe right.
+
+[START2]
+You can quick turn by pressing the L2 button and the R2 button together.
+
+[START1]
+You can look behind you by pressing down the R3 button.
+
+[BLUE]
+One handed weapons like the Bat are ~blue~Blue ~colour~Objects. They are not lost after use but make noise during executions.
+
+[SWAP]
+To swap through available weapons press the ~circle~ button.
+
+[LOOK]
+Use the right analog stick to view your surroundings. You can use this to spot hunters at a distance.
+
+[SMASH]
+Select the crowbar then press the ~triangle~ button to break the padlock.
+
+[GRAB]
+Press the ~cross~ button and ~square~ button together to grapple. Time the attack right and you can chain 3 hits together.
+
+[GRAB2]
+To break free from a hunter's grapple press the ~cross~ button repeatedly.
+
+[BAT]
+The bigger weapons are stronger but not as fast as the lighter weapons like the crowbar.
+
+[TRIAN]
+The Crowbar can be used to break padlocks and other locked objects.
+
+[GRAVE]
+Moving on gravel will make noise that attracts the hunters.
+
+[WBAT]
+Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.
+
+[BREAK]
+Special Windows like this one can be smashed. They will create a glass shard for you to collect.
+
+[RADAR]
+Objectives are shown as a dot on the radar.
+
+[PISS]
+Hunter : I'm taking a leak, I'll be out in the alley.
+
+[PISS1]
+I need a leak. I'll be outside.
+
+[PISS2]
+Man, I gotta take a piss.
+
+[DOR1A1]
+You're doing fine, Cash, just fine. We're getting some great material here! Keep going!
+
+[DOR2A1]
+There's a Hood upstairs. Make some noise - hit something - that should get his attention!
+
+[DOR3A1]
+You're going to have to find something to bust that padlock!
+
+[DOR4A1]
+A crowbar! That would be ideal for...
+
+[DOR4A2]
+smashing a padlock, say!
+
+[DOR5A1]
+Okay, this is what I like to call a 'set up'.
+
+[DOR5A2]
+This guy will fight dirty, but once you're through with him, I'll open the next door.
+
+[DER1A1]
+Director : Go through that building up ahead to get to the street.
+
+[DER2A1]
+Director : That hunter is watching the stairs, lure him downstairs by hitting a wall, then wait in a safe zone.
+
+[DER3A1]
+Director : This door is padlocked. You ever want to get outta here alive, you better find a way to bust that padlock!
+
+[DER4A1]
+Director : Okay Cash, nice going. Now Grab the crowbar and head back to smash that padlock.
+
+[DER5A1]
+Director : Okayyy, Put on a good show against this hooded fuck for me and it might help you outta here. Watch tho' this guy fights dirty.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

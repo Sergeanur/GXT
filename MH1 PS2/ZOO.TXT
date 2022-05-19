@@ -1,0 +1,96 @@
+﻿[SHOT]
+You've been tranquilized, while in this state you won't be able to use the crowbar, wait until the effects have worn off.
+
+[RIFLE]
+Hold down the L1 button to use the scope, you can zoom in and out by moving the right analog stick.
+
+[GOAL1]
+Find a weapon and get past the ~blue~rope-tied ~colour~door
+
+[GOAL2]
+Get past the ~blue~padlocked ~colour~gate
+
+[GOAL3]
+Find a way into the ~blue~restaurant ~colour~at the top of the zoo
+
+[GOAL4]
+Go out the back of the restaurant to the ~blue~exit
+
+[GOAL5]
+Make your way to the zoo pens
+
+[SOU1A1]
+These pricks call themselves the Wardogs - real dickless gung-ho losers
+
+[SOU1A2]
+You're gonna have to tool up if you're gonna make it - take it slow and see what you can take from these guys.
+
+[SOU2A1]
+There are some doors over the otherside of this location that will get your sorry hide out of here.
+
+[SOU3A1]
+Where did I hide that crowbar? Think, think, think!
+
+[SOU3A2]
+Sorry Cash, this is a grizzly situation...
+
+[SOU4A1]
+Oh hell, that wasn't in the script! Honest Cash, they're making it up as they're going along, I swear!
+
+[MPG1]
+Give him the fucking food, enough bullshitting.
+
+[MPG2]
+Give him the fucking food!
+
+[MPG3]
+Ah fuck! This guy fucking stinks!
+
+[MPG4]
+Just give him the fucking food and let's get the hell out of here.
+
+[MPG5]
+Fall in and listen up!
+
+[MPG6]
+At ease. It's time to get out there and nail that bastard!
+
+[MPG7]
+WARDOGS - YEEAH!
+
+[MPG8]
+Ha Ha!
+
+[OLD1]
+Jesus Christ! Come on, give this stinking guy his food.
+
+[OLD2]
+This ain't time for games.
+
+[OLD3]
+Alright!
+
+[OLD4]
+Just give it to him.
+
+[INTRO]
+Director : These pricks will kill you in a second if you're unarmed. Find an Executor and steal his weapon.
+
+[PAD1]
+Director : Where could that crowbar be, maybe the bear took it.
+
+[TOP]
+Director : Lets see if you can figure this one out. Be careful Cash, some of these wardogs have tranquilizer rifles.
+
+[PAD]
+Director : Find these doors and get past them, you'll need to find a crowbar first!!
+
+[CHECK1]
+Kill the two hunters to open this door.
+
+[CHECK2]
+Kill the last hunter to open this door.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

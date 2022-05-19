@@ -1,0 +1,69 @@
+﻿[GAMEGOD]
+To jump from roof to roof and over big gaps, run as fast as you can towards the edge and the player will jump automatically.
+
+[HAMMER]
+To open this door you need to find something to rip off its lock.
+
+[HIDE]
+Watch out for hunters hiding in the shadows. They will not appear on the radar until you spot them.
+
+[GOAL1]
+Kill all the Hoods before the time runs out
+
+[GOAL2]
+Make your way to the exit gates
+
+[W_CLEAN]
+You have cleared the WAREHOUSE of all the Hoods
+
+[RS_FULL]
+There are still hunters hiding away in the ROOFTOPS and in the ALLEYS
+
+[W_FULL]
+Remember to finish the Hoods hiding in the WAREHOUSE
+
+[R_CLEAN]
+You have cleared the ROOFTOPS of all the Hoods
+
+[R_FULL]
+Remember to finish the Hoods hiding on the ROOFTOPS
+
+[WS_FULL]
+There are still hunters hiding away in the WAREHOUSE and in the ALLEYS
+
+[S_CLEAN]
+You have cleared the ALLEYS of all the Hoods
+
+[S_FULL]
+Remember to finish the Hoods hiding in the ALLEYS
+
+[RW_FULL]
+There are still hunters hiding away on the ROOFTOPS and in the WAREHOUSE
+
+[MUR1A1]
+Cash, baby, you're scaring the shit out of these Hoods. They're trying to bug out!
+
+[MUR1A2]
+I can see their van coming, should be here in ten minutes or so.
+
+[MUR1A3]
+Fucking low-life cowards... Do me a favour, kill every last one of them!
+
+[MUR2A1]
+Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…
+
+[MUR3A1]
+Oh, for christ's sake, Cash, you blew it! It's the cutting room floor for you!
+
+[START01]
+Cash, my man, you scared the shit out of the HOODS. They dont want to play with us anymore.
+
+[START02]
+It will take 10 minutes for their VAN to arrive. Do me a favour and kill EVERYONE, Ok?
+
+[END]
+Well done Cash, the Hoods have been wiped out and the gates are open. Make your way towards them and Ill let you go.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

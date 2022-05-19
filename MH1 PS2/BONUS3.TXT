@@ -1,0 +1,9 @@
+﻿[HELP1]
+You must survive for as long as you can against the three gangs. The gangs will fight each other as well as you. Good Luck!
+
+[GOAL1]
+Survive for as long as you can
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

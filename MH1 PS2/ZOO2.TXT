@@ -1,0 +1,159 @@
+﻿[LETTER1]
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"$,.'-?!!SDBF
+
+[NUMBER1]
+0123456789
+
+[BACK]
+There are still hostages alive to rescue, go back and find them.
+
+[GOAL1]
+Save at least one of the four family members
+
+[GOAL2]
+Find your sister to open the door
+
+[GOAL3]
+Go to the Sharks mouth
+
+[GOAL4]
+Find the switch to open the exit door
+
+[FREED_1]
+Get out of here - Run!
+
+[FREED_2]
+Ok, you're ok. Go!
+
+[FREED_3]
+Run as far away as you can!
+
+[FREED_4]
+Trust no one, now go!
+
+[FREED_5]
+Don't stop until you're out of here!
+
+[FREED_6]
+Go on, run, you idiot!
+
+[BOD1A1]
+Hold up Cash. You and your family weren't exactly close, am I right?
+
+[BOD1A2]
+It's just that I thought it would be nice to have a surprise reunion!
+
+[BOD1A3]
+But, these Wardogs didn't see it my way and they've taken matters into their own hands.
+
+[BOD2A1]
+They're using them as bait, Cash, bait. I know,
+
+[BOD2A2]
+I know, I can hardly believe it myself.
+
+[BOD2A3]
+Each time they spot you, these Wardogs are gonna execute one of your beloved family.
+
+[BOD3A1]
+I like my leading men to have a soul, Cash, and that means 'giving a shit'.
+
+[BOD3A2]
+So I'm not letting you out of here unless you free at least ONE of them.
+
+[BOD4A1]
+Guess what you have to do to open the shark's mouth? Go rescue your family!
+
+[BOD5A1]
+Now Cash; you've killed a few people in your time
+
+[BOD5A2]
+don't be responsible for your whole family as well!
+
+[BOD6A1]
+Oh man, he's toast!
+
+[BOD6B1]
+Too slow, Cash, they've nailed him!
+
+[BOD6C1]
+Saw you, killed him! Life's a bitch.
+
+[BOD7A1]
+Lady killer!
+
+[BOD7B1]
+Shit, you blew it! And now she pays the price.
+
+[BOD7C1]
+You as good as killed her yourself!
+
+[BOD8A1]
+Well, one out of four ain't too bad I suppose.
+
+[BOD9A1]
+Two dead, two alive. Fifty, fifty.
+
+[BOD9A2]
+Half a family. Good enough for me, though!
+
+[BOD10A1]
+What a bummer, you turn up alive and one o'them kicks it.
+
+[BOD11A1]
+You rescued them all! I knew I'd bring the hero out in you!
+
+[BOD12A1]
+Ok, you can go through the shark's mouth now.
+
+[MPG1]
+You just won't fucking die will you?
+
+[MPG2]
+Get him out of here.
+
+[INTRO]
+Director : We captured your family. If your seen by one of the hunters guarding a hostage, he'll execute the hostage.
+
+[INTRO1]
+Director : Rescue your family before the wardogs get too excited.
+
+[SNIPE]
+Director : Ok Cash, there's still one of your sisters hostage in the monkey dome.
+
+[SNIPE1]
+Director : Find her, and I'll open this door.
+
+[FAIL]
+Director : You failed to rescue a hostage Cash, now it's over for you.
+
+[DBRO]
+Director : Say a prayer for your brother Cash.
+
+[DSIS]
+Director : Be more careful Cash, try not to get spotted.
+
+[DMOM]
+Director : Another body bag, alright Cash the door is open now.
+
+[DMOM1]
+Director : Nice going, alright Cash the door is open now.
+
+[DDAD]
+Director : Get with it Cash, Your running out of family members.
+
+[OPEN1]
+Director : Well, one out of four ain't too bad I suppose. I've opened the gate...
+
+[OPEN2]
+Director : Two dead, two alive. Fifty, fifty. Half a family. Good enough for me, though!
+
+[OPEN3]
+Director : What a bummer, you turn up alive and one o'them kicks it. The gate's open.
+
+[OPEN4]
+Director : I knew I'd bring the hero out in you! The gate's unlocked, go for it!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

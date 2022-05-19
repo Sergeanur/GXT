@@ -1,0 +1,159 @@
+﻿[GOD1]
+Kill ~green~Ramirez~colour~ before he calls in back up!
+
+[GOD2]
+Make your way to the ~blue~gate~colour~!
+
+[GOAL1]
+Dispose of the three stalking hunters
+
+[GOAL2]
+Get into the old apartment block and track down ~green~Ramirez~colour~
+
+[GOAL3]
+Kill ~green~Ramirez~colour~ before he calls in back up
+
+[GOAL4]
+Make your way to the ~blue~gate~colour~
+
+[GOAL5]
+Kill ~green~Ramirez~colour~
+
+[KILL1]
+Get out there and bring me his fucking head!
+
+[KILL2]
+He's making fools of us - get out there and find him!
+
+[KILL3]
+First man brings me his severed dick gets ten thousand dollars!
+
+[SRCH1]
+Move it, you assholes, he's down there somewhere!
+
+[SRCH2]
+You inept motherfuckers! He's down there - Find him!
+
+[SRCH3]
+He's making fools of you all! Check the shadows!
+
+[SRCH4]
+Put some fucking effort into it!
+
+[SRCH5]
+Look harder, you spineless gimps!
+
+[SRCH6]
+He's laughing at you! Assholes!
+
+[SRCH7]
+This isn't a game! Find him!
+
+[SRCH8]
+If you don't find him soon I'll shoot you myself!
+
+[SRCH9]
+I swear I'll kill you all myself if you don't find that motherfucker soon!
+
+[SRCH10]
+He's here somewhere! Just flush him out so I can nail the bastard!
+
+[MPG0]
+Where do you think you're going, little man? Huh? Huh!
+
+[MPG1]
+You think you're tough?
+
+[MPG2]
+Think you're tough?
+
+[MPG3]
+I'll rip your fucking head off!
+
+[MPG4]
+You like hide and seek? You like hide and fucking seek?
+
+[MPG5]
+Well we're coming for you, asshole.
+
+[MPG24]
+What the fuck?
+
+[MPG25]
+Don't you want to play any more?
+
+[MPG26]
+What's the matter, little boy?
+
+[MPG27]
+It's our turn now! Run, RUN!
+
+[MPG28]
+Ready or not – HA HA!
+
+[MPG6]
+Get in, you idiot, GET IN!
+
+[MPG7]
+THERE HE IS!!
+
+[MPG8]
+Pull over - PULL OVER!
+
+[MPG9]
+Who are you - I've seen your face before!
+
+[MPG10]
+Get offa me! I'm a reporter - I was at your execution!
+
+[MPG11]
+Keep talking.
+
+[MPG12]
+I've been following Starkweather's little operation for months.
+
+[MPG13]
+Who's Starkweather?
+
+[MPG14]
+The guy that's been talking you through this whole circus of death!
+
+[MPG15]
+Look, I've got all I need to expose that sick bastard
+
+[MPG16]
+But he's definitely onto me now, so I have to get back to my apartment
+
+[MPG17]
+Collect my material and get out of town before I become another of Starkweather's 'extras'.
+
+[MPG19]
+You can bring him down, this Starkweather?
+
+[MPG20]
+Absolutely - this is gonna make my career.
+
+[MPG21]
+Ok, let's go.
+
+[MPG22]
+Huh?
+
+[MPG23]
+To your apartment – DRIVE!
+
+[RAMINTR]
+Ramirez: Flush that bitch-ass punk out! I'm da black Lee Harvey Oswald!
+
+[RAMKILL]
+Ramirez: He gives you any trouble, slice that punk into food for my bitch!
+
+[RAMGUN]
+Ramirez: Bitch! Unlock that bottom door! He gets to me, he really is a bad ass!
+
+[RAMHERE]
+Ramirez: How'd he get this far? I gotta do tha job myself!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!
