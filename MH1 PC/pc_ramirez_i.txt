@@ -119,7 +119,7 @@ Qualche problema, piccolino?
 Adesso tocca a te... Corri, CORRI!
 
 [MPG28]
-{Ready or not  HA HA!}
+{Ready or not – HA HA!}
 Pezzo di merda, ah ah!
 
 [MPG6]
@@ -187,7 +187,7 @@ Ok, andiamo.
 Eh?
 
 [MPG23]
-{To your apartment  DRIVE!}
+{To your apartment – DRIVE!}
 Al tuo appartamento! VIA!
 
 [RAMINTR]

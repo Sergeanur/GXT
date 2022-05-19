@@ -96,15 +96,15 @@ Ah, génial... Ces putains de fusibles sont encore à la ramasse !
 
 [SKN1A1]
 {These Skinz are boring me - dumb-assed supremacist bastards.}
-Ces Skinz me gonflent sévère  des crétins azimutés par leur pensée unique
+Ces Skinz me gonflent sévère – des crétins azimutés par leur pensée unique…
 
 [SKN1A2]
 {Always blaming others for their inadequacies.}
-Cest simple, avec eux, cest jamais de leur faute!
+C’est simple, avec eux, c’est jamais de leur faute!
 
 [SKN1A3]
 {Butcher them, Cash. Cut'em up, beat 'em down and choke the fucking life out of them!}
-Cash ! Que dirais  tu de faire un peu de marmelade rouge  brun ?
+Cash ! Que dirais – tu de faire un peu de marmelade rouge – brun ?
 
 [SKN2A1]
 {Oh, man, that one was good! The gate's open.}
@@ -116,7 +116,7 @@ Allez, tire-toi de là !
 
 [SKN3A1]
 {This shit seems content to watch porn and avoid all the action! If he won't switch it off himself,}
-Cette raclure fait que mater des pornos et rate toute l'action ! S'il ne léteint pas lui-même,
+Cette raclure fait que mater des pornos et rate toute l'action ! S'il ne l’éteint pas lui-même,
 
 [SKN3A2]
 {we'll have to do it for him!}

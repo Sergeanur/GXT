@@ -211,7 +211,7 @@ Je t'ouvrirai les portes que s'il est avec toi, sain et sauf.
 Allez, fais-moi ton numéro !
 
 [DRK3A1]
-{You're going to have to think of a way of separating these guys and picking them off one by one}
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
 Va falloir que tu te démerdes pour séparer ces gars et te les faire un par un...
 
 [DRK4A1]

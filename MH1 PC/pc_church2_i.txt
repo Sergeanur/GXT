@@ -211,7 +211,7 @@ Aprirò qualsiasi cancello, solo se sarà con te, sano e salvo.
 E ora muoviti, FAMMI DIVERTIRE!
 
 [DRK3A1]
-{You're going to have to think of a way of separating these guys and picking them off one by one}
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
 Dovrai trovare un modo per dividere questi uomini e spennarli uno a uno...
 
 [DRK4A1]

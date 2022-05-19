@@ -32,7 +32,7 @@ Bewegt euch, ihr Arschlöcher, er ist irgendwo da unten!
 
 [SRCH2]
 {You inept motherfuckers! He's down there - Find him!}
-Ihr nutzlosen Hurensöhne! Er ist da unten  findet ihn!
+Ihr nutzlosen Hurensöhne! Er ist da unten – findet ihn!
 
 [SRCH3]
 {He's making fools of you all! Check the shadows!}
@@ -167,7 +167,7 @@ O. K., dann los.
 Häh?
 
 [MPG23]
-{To your apartment  DRIVE!}
+{To your apartment – DRIVE!}
 Zu Ihrer Wohnung - FAHREN SIE!
 
 [MPG24]
@@ -187,7 +187,7 @@ Was ist los, kleiner Junge?
 Wir sind jetzt dran! Lauf, LAUF!
 
 [MPG28]
-{Ready or not  HA HA!}
+{Ready or not – HA HA!}
 Ob du willst oder nicht - ha ha!
 
 [RAMINTR]

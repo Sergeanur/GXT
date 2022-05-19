@@ -211,7 +211,7 @@ Solo abriré las puertas si está contigo, sano y salvo
 Y ahora vamos, ¡DIVIÉRTEME!
 
 [DRK3A1]
-{You're going to have to think of a way of separating these guys and picking them off one by one}
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
 Vas a tener que pensar en una forma de separar a estos tíos para pillarles de uno en uno...
 
 [DRK4A1]

@@ -114,7 +114,7 @@ forzar un candado, ¡claro!
 
 [DOR5A1]
 {Okay, this is what I like to call a 'set up'.}
-Vale, eso es lo que yo llamo una emboscada.
+Vale, eso es lo que yo llamo una “emboscada”.
 
 [DOR5A2]
 {This guy will fight dirty, but once you're through with him, I'll open the next door.}

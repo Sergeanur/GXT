@@ -15,7 +15,7 @@ Mata a Starkweather
 Cuando está en marcha, la motosierra hace ruido. Apágala con el botón Acción2.
 
 [SICK1]
-{Hurthuuurrrrttt!}
+{Hurt…huuurrrrttt!}
 Duele ... ¡duele !
 
 [SICK2]

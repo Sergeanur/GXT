@@ -67,7 +67,7 @@ Vedo il loro furgone avvicinarsi, dovrebbe essere qui tra circa dieci minuti.
 Maledetti codardi... Fammi un favore, uccidili tutti.
 
 [MUR2A1]
-{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out}
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
 Bene, ci siamo! Non è andata male, vero? Supera quel cancello e ti lascerò uscire...
 
 [MUR3A1]

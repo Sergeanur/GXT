@@ -204,14 +204,14 @@ Ich werde mich persönlich mit Starkweather beschäftigen,
 
 [JCUT5]
 {thank him for my 'second chance'.}
-mich für meine zweite Chance bedanken.
+mich für meine “zweite Chance” bedanken.
 
 [JCUT6]
 {You're my backup if I don't make it. Have a nice life.}
 Du bist meine Versicherung, falls ich es nicht schaffe. Lebe wohl.
 
 [JGUN1]
-{Great, a gun looks straight forward enough.}
+{Great, a gun… looks straight forward enough.}
 Super, eine Waffe - sieht nicht allzu kompliziert aus.
 
 [JGUN2]
@@ -239,7 +239,7 @@ Ah, welch süße chemische Erlösung ...
 Was auch immer ...
 
 [JFLLW2]
-{Ok, if you think it's safe}
+{Ok, if you think it's safe…}
 O. K., wenn Sie glauben, dass es sicher ist.
 
 [JFLLW3]
@@ -323,7 +323,7 @@ Kommen Sie schon, Lady.
 Bleiben Sie dicht hinter mir und seien Sie still.
 
 [CMON11]
-{I'll lead the way}
+{I'll lead the way…}
 Ich gehe voran!
 
 [CMON12]

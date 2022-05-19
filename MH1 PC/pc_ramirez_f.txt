@@ -170,7 +170,7 @@ OK, on y va.
 Où ça ?
 
 [MPG23]
-{To your apartment  DRIVE!}
+{To your apartment – DRIVE!}
 A ton appart' ! CONDUIS !
 
 [MPG24]
@@ -190,7 +190,7 @@ C'est quoi le problème, gamin ?
 C'est à nous maintenant ! Allez ! Allez !
 
 [MPG28]
-{Ready or not  HA HA!}
+{Ready or not – HA HA!}
 Que tu sois prêt ou pas ! Ah ah !
 
 [RAMINTR]

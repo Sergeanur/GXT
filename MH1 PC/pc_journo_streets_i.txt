@@ -211,7 +211,7 @@ e ringraziarlo per la sua 'seconda chance'.
 Nel caso non ti vedessi più, ti auguro un'esistenza felice.
 
 [JGUN1]
-{Great, a gun looks straight forward enough.}
+{Great, a gun… looks straight forward enough.}
 Grandioso, una pistola... potrebbe tornarmi utile.
 
 [JGUN2]
@@ -239,7 +239,7 @@ Aahh, i miracoli della medicina...
 Come vuoi...
 
 [JFLLW2]
-{Ok, if you think it's safe}
+{Ok, if you think it's safe…}
 Ok, se pensi che sia sicuro...
 
 [JFLLW3]
@@ -323,7 +323,7 @@ Avanti, bellezza.
 Stammi vicino e non fare rumore.
 
 [CMON11]
-{I'll lead the way}
+{I'll lead the way…}
 Faccio strada...
 
 [CMON12]

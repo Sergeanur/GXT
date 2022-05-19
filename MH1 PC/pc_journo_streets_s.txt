@@ -211,7 +211,7 @@ quiero agradecerle mi "segunda oportunidad".
 Eres mi seguro por si no lo consigo. Espero que seas feliz.
 
 [JGUN1]
-{Great, a gun looks straight forward enough.}
+{Great, a gun… looks straight forward enough.}
 Genial, un arma... parece suficientemente fácil.
 
 [JGUN2]
@@ -239,7 +239,7 @@ Aaah, el dulce alivio de los fármacos...
 Lo que tú digas...
 
 [JFLLW2]
-{Ok, if you think it's safe}
+{Ok, if you think it's safe…}
 Bueno, si crees que es seguro...
 
 [JFLLW3]
@@ -323,7 +323,7 @@ Vamos, señora.
 Quédate cerca y estate callada.
 
 [CMON11]
-{I'll lead the way}
+{I'll lead the way…}
 Te enseñaré el camino...
 
 [CMON12]

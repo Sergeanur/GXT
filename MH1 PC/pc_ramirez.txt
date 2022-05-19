@@ -89,7 +89,7 @@ What's the matter, little boy?
 It's our turn now! Run, RUN!
 
 [MPG28]
-Ready or not  HA HA!
+Ready or not – HA HA!
 
 [MPG6]
 Get in, you idiot, GET IN!
@@ -140,7 +140,7 @@ Ok, let's go.
 Huh?
 
 [MPG23]
-To your apartment  DRIVE!
+To your apartment – DRIVE!
 
 [RAMINTR]
 Ramirez: Flush that bitch-ass punk out! I'm da black Lee Harvey Oswald!

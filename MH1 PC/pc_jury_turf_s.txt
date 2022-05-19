@@ -322,7 +322,7 @@ Cada banda tiene, bueno, llamémosle su cosa.
 
 [BRN5A3]
 {These guys call themselves 'The Hoods', but none of that should bother you.}
-Estos tíos se llaman a sí mismo los Hoods, pero no deberían preocuparte.
+Estos tíos se llaman a sí mismo “los Hoods”, pero no deberían preocuparte.
 
 [BRN5A4]
 {As far as you're concerned, they're meat. Ok, on you go...}
@@ -357,7 +357,7 @@ Aún queda uno de esos monstruitos. Te lo dije, podrás cruzar la puerta cuando 
 ¡Hemos terminado! Madre mía, Cash, tienes talento, ¡te juro que lo tienes!
 
 [BRN8A2]
-{No time to hang around  time is money! Lets see how you handle the next scene}
+{No time to hang around – time is money! Let’s see how you handle the next scene…}
 No hay tiempo que perder, ¡el tiempo es dinero! Veamos cómo te las apañas en la siguiente escena...
 
 [MPG1]

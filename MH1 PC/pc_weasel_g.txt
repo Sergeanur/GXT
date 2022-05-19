@@ -67,7 +67,7 @@ Ich sehe ihren Bus. Er müsste in etwa zehn Minuten hier sein.
 Diese miesen, kleinen Feiglinge ... Tu mir einen Gefallen und bring sie um, und zwar jeden einzelnen!
 
 [MUR2A1]
-{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out}
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
 Tja, das war's! Gar nicht übel, oder? Geh jetzt zum Tor, dann lasse ich dich raus.
 
 [MUR3A1]

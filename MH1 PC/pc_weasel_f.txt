@@ -67,7 +67,7 @@ Je vois leur van qui arrive, il devrait être là d'ici dix minutes.
 Les petites lopettes... Rends-moi service, bute-les tous jusqu'au dernier !
 
 [MUR2A1]
-{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out}
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
 Voilà ! C'était pas si dur que ça, hein ? Va jusqu'à la porte et je te laisserai sortir...
 
 [MUR3A1]

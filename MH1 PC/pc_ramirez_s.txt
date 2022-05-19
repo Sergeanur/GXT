@@ -167,7 +167,7 @@ Vale, vamos.
 ¿Eh?
 
 [MPG23]
-{To your apartment  DRIVE!}
+{To your apartment – DRIVE!}
 A tu apartamento, ¡CONDUCE!
 
 [MPG24]
@@ -187,7 +187,7 @@ A tu apartamento, ¡CONDUCE!
 ¡Es nuestro turno! ¡Corre! ¡CORRE!
 
 [MPG28]
-{Ready or not  HA HA!}
+{Ready or not – HA HA!}
 Estés listo o no. ¡JA, JA!
 
 [RAMINTR]

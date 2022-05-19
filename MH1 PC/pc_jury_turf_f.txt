@@ -353,7 +353,7 @@ Un de ces petits cons est encore dans le coin. Je te l'ai dit, je t'ouvre la por
 Coupez ! Bon sang, Cash, t'es un acteur-né ! Je te jure !
 
 [BRN8A2]
-{No time to hang around  time is money! Lets see how you handle the next scene}
+{No time to hang around – time is money! Let’s see how you handle the next scene…}
 Pas le temps de glander ! Le temps, c'est de l'argent ! Allez, on passe à la scène suivante.
 
 [MPG1]
@@ -422,7 +422,7 @@ Là, c'est mieux.
 
 [MPG17]
 {Now only you can hear me and that's the way you're going to want it because I'm your only way out of here.}
-Maintenant tu es le seul à mentendre, et ça tombe bien, parce que je suis ta seule chance de survie.
+Maintenant tu es le seul à m’entendre, et ça tombe bien, parce que je suis ta seule chance de survie.
 
 [MPG18]
 {Hey, hey, easy, easy! Look.}

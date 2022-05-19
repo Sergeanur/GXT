@@ -15,7 +15,7 @@ Uccidi Starkweather.
 La sega elettrica fa rumore, se accesa. Per spegnerla, premi il tasto Azione2.
 
 [SICK1]
-{Hurthuuurrrrttt!}
+{Hurt…huuurrrrttt!}
 Fa male... fa maaaaaaaale!
 
 [SICK2]

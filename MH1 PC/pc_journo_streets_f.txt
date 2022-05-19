@@ -187,7 +187,7 @@ Je suis à l'étage. Attends, je vais ouvrir la porte...
 Je vais ouvrir la porte, mon appart est à l'étage.
 
 [JGUN1]
-{Great, a gun looks straight forward enough.}
+{Great, a gun… looks straight forward enough.}
 Cool, un flingue... Ca veut tout dire.
 
 [JGUN2]
@@ -215,7 +215,7 @@ Aahh, sweet pharmaceutical relief... Aaahh, les miracles de la chimie.
 C'est toi qui sais...
 
 [JFLLW2]
-{Ok, if you think it's safe}
+{Ok, if you think it's safe…}
 Bon, si tu crois que c'est bon.
 
 [JFLLW3]
@@ -299,7 +299,7 @@ Allez, miss.
 Suis-moi et ferme-la.
 
 [CMON11]
-{I'll lead the way}
+{I'll lead the way…}
 J'ouvre la marche.
 
 [CMON12]

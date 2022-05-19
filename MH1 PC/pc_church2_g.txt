@@ -211,7 +211,7 @@ Ich mach das Tor nur auf, wenn er bei dir ist, lebendig und wohlauf.
 Jetzt mach schon, Unterhalte mich!
 
 [DRK3A1]
-{You're going to have to think of a way of separating these guys and picking them off one by one}
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
 Lass dir was einfallen, wie du diese Typen trennen und einzeln ausschalten kannst!
 
 [DRK4A1]

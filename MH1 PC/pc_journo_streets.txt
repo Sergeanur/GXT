@@ -140,7 +140,7 @@ My place is up a floor. Hold on, I'll just unlock the door...
 I'll get the door. My place's just up some stairs.
 
 [JGUN1]
-Great, a gun looks straight forward enough.
+Great, a gun… looks straight forward enough.
 
 [JGUN2]
 Ok, I've used a pistol before. Now where's the safety?
@@ -161,7 +161,7 @@ Aahh, sweet pharmaceutical relief...
 Whatever you say...
 
 [JFLLW2]
-Ok, if you think it's safe
+Ok, if you think it's safe…
 
 [JFLLW3]
 Ok, but you gotta watch out for me!
@@ -224,7 +224,7 @@ C'mon, lady.
 Stick close and keep it quiet.
 
 [CMON11]
-I'll lead the way
+I'll lead the way…
 
 [CMON12]
 Move when I move.

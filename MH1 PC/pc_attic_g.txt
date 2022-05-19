@@ -15,7 +15,7 @@ Töte Starkweather.
 Die Kettensäge macht Lärm, wenn ihr Motor läuft. Mit der Aktionstaste2 machst du ihn AUS.
 
 [SICK1]
-{Hurthuuurrrrttt!}
+{Hurt…huuurrrrttt!}
 Verletzt ... veeerrrleeetzt!
 
 [SICK2]

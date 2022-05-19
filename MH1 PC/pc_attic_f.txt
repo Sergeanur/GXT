@@ -15,7 +15,7 @@ Bute Starkweather.
 La tronçonneuse fait du bruit quand elle est en marche. Arrête-la en appuyant sur la touche Action 2.
 
 [SICK1]
-{Hurthuuurrrrttt!}
+{Hurt…huuurrrrttt!}
 Maaal ! J'ai maaaal !
 
 [SICK2]

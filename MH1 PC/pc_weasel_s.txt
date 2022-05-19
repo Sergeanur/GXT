@@ -67,7 +67,7 @@ Veo que viene su furgoneta, debería llegar dentro de diez minutos o así.
 Jodidos cobardes de medio pelo... Hazme un favor, ¡mata hasta el último de ellos!
 
 [MUR2A1]
-{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out}
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
 Bueno, ¡eso es! Eso no ha sido tan malo, ¿verdad? Dirígete a esa puerta y te dejaré ir...
 
 [MUR3A1]

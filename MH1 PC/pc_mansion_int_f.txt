@@ -160,7 +160,7 @@ On s'en occupe, monsieur.
 
 [GEN]
 {RADIO VOICE: We have reported casualties! Hang tough guys, reinforcements on their way!}
-RADIO VOICE: Nous avons demandé de laide ! Accrochez-vous les gars, les renforts arrivent !
+RADIO VOICE: Nous avons demandé de l’aide ! Accrochez-vous les gars, les renforts arrivent !
 
 [CERB1]
 GUARD: Shut the lift down, Strarkweather said no unexpected visitors.
