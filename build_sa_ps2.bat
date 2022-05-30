@@ -1,5 +1,5 @@
-gxt -g SA -i "SA PS2/american.txt" "SA PS2/americanDialogue.txt" "SA PS2/americanMission.txt" -o "SA PS2/american.gxt"
-gxt -g SA -i "SA PS2/french.txt" "SA PS2/frenchDialogue.txt" "SA PS2/frenchMission.txt" -o "SA PS2/french.gxt"
-gxt -g SA -i "SA PS2/german.txt" "SA PS2/germanDialogue.txt" "SA PS2/germanMission.txt" -o "SA PS2/german.gxt"
-gxt -g SA -i "SA PS2/italian.txt" "SA PS2/italianDialogue.txt" "SA PS2/italianMission.txt" -o "SA PS2/italian.gxt"
-gxt -g SA -i "SA PS2/spanish.txt" "SA PS2/spanishDialogue.txt" "SA PS2/spanishMission.txt" -o "SA PS2/spanish.gxt"
+gxt -i "SA PS2/american.txt" "SA PS2/americanDialogue.txt" "SA PS2/americanMission.txt" -o "gxt_new/SA PS2/american.gxt" -t "tables/vc_sa_table.txt" -k CRC32 -w0 -h1
+gxt -i "SA PS2/french.txt" "SA PS2/frenchDialogue.txt" "SA PS2/frenchMission.txt" -o "gxt_new/SA PS2/french.gxt" -t "tables/vc_sa_table.txt" -k CRC32 -w0 -h1
+gxt -i "SA PS2/german.txt" "SA PS2/germanDialogue.txt" "SA PS2/germanMission.txt" -o "gxt_new/SA PS2/german.gxt" -t "tables/vc_sa_table.txt" -k CRC32 -w0 -h1
+gxt -i "SA PS2/italian.txt" "SA PS2/italianDialogue.txt" "SA PS2/italianMission.txt" -o "gxt_new/SA PS2/italian.gxt" -t "tables/vc_sa_table.txt" -k CRC32 -w0 -h1
+gxt -i "SA PS2/spanish.txt" "SA PS2/spanishDialogue.txt" "SA PS2/spanishMission.txt" -o "gxt_new/SA PS2/spanish.gxt" -t "tables/vc_sa_table.txt" -k CRC32 -w0 -h1
